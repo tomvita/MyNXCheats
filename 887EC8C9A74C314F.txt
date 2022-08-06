@@ -1,0 +1,11 @@
+[Breeze beta41 Koumajou Remilia: Scarlet Symphony 1.0.1 TID: 0100532015746000 BID: 887EC8C9A74C314F]
+
+[A Add lots of souls]
+04000000 01398CC4 11404129 
+
+[ full HP ]
+04000000 01395440 52800C80 
+
+[ full HP off]
+04000000 01395440 4B150380 
+
