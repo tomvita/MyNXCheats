@@ -1,0 +1,14 @@
+[Breeze beta42 Monster destroyer 1.0.0 TID: 01004CC018D22000 BID: D84505496AA9A670]
+
+[Level don't inc, allows you to level up with less]
+04000000 028AA8CC D503201F 
+
+[Level don't inc off]
+04000000 028AA8CC 11000508 
+
+[coins x1024, change lsl for other multiplier]
+04000000 028AACF8 0B092908 
+
+[coins x1024 off]
+04000000 028AACF8 0B090108 
+
