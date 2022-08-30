@@ -1,6 +1,6 @@
 [Breeze beta46 Islets 1.0.0 TID: 010084501672E000 BID: AF820E231E92DEAC]
 
-[inf arw]
+[inf Arrow]
 04000000 00A8A8C4 D503201F 
 
 [off]
