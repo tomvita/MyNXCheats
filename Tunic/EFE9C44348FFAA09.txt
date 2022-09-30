@@ -8,7 +8,7 @@
 04000000 0190E8E0 51000401 
 04000000 01C77944 4B150001 
 
-[Player won't die from abad1dea this code is used in One hit kill]
+[Player won't die from abadidea, this code is used in One hit kill]
 040E0000 01768C24 2A1303E1 
 
 [One hit kill]
