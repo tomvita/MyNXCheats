@@ -38,16 +38,20 @@ hpfillcheck:	ldr x26,[x25,8]
 			ldr w28, low
 			cmp w27, w28
 			b.lo return
-			ldr w27, high
+			ldr w27, heroHP
 			str w27,[x26,0xC]
 return:		ret
 enemyhack:	cmp w8, #0xE
 			b.ne continue
 			ldr w27,[x26,0xC]
+			ldr w28, high
+			cmp w27, w28
+			b.hi continue
 			ldr w28, low
 			cmp w27, w28
 			b.lo continue
 			str w28,[x26,0xC]
 			b continue
 low: nop
-high: nop		
+high: nop
+heroHP: nop		
