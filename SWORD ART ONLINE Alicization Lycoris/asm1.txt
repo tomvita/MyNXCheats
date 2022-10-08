@@ -1,0 +1,42 @@
+hack1:		STP X25, X26, [SP,#-0x90]	
+			STP X27, X28, [SP,#-0x80]	
+			STP X29, X30, [SP,#-0x70]
+			and x25, x30, #0xFFF
+			ldr w26, hp			
+			cmp x25, #0xEB0 // this caller looks to be hero exclusive
+			b.ne continue
+			ldr w25, [x0,0x10]
+			cmp w25, w26
+			b.ne store // save evidence that it is not exclusive to hero
+			b mod
+			ldr w25,[{target}]
+			cmp w25, #1
+			b.lt continue 
+			mov w25,#1
+			str w25,[{target}]
+			b continue
+mod:			str w26,[{target}]
+			b continue
+store:		add x26, 	{target}
+			mov x25, x30
+			//ldr w26,[x25]	
+			mov x29, (data_end - data_start)/16
+			adrp x27, (data_start & 0xFFFFFFFF000) 
+			add x27,x27, (data_start & 0xFFF)
+			bl	findslot
+continue:		LDP X25, X26, [SP,#-0x90]	
+			LDP X27, X28, [SP,#-0x80]	
+			LDP X29, X30, [SP,#-0x70]	
+original:	{original}	
+Return:		b code1+4
+findslot:		ldr x28,  [X27]
+			CBZ X28, Saveptr
+			cmp x28,x25
+			B.EQ Saveptr
+			ADD X27,X27,#0x10
+			SUB x29,x29,#1
+			CBNZ X29, findslot
+			b Done
+Saveptr:		STP X25,X26, [X27]
+Done:			ret
+hp: .word 9519
