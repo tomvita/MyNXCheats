@@ -1,0 +1,6 @@
+	LDR W8, [X0,#0x20]
+	cmp w8,#1
+	b.hi Return
+	mov w8,#2
+	STR W8, [X0,#0x20]
+Return:		b code1+4
