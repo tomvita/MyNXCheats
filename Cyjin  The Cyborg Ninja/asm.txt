@@ -1,0 +1,5 @@
+hack1:		
+		ldr s0, full
+{original}
+Return:		b code1+4
+full: .float 200
