@@ -1,0 +1,4 @@
+[hp=16]
+false
+[read]
+false
