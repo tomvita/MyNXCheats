@@ -1,0 +1,5 @@
+hack1:		
+ldr w0, gold		
+original:	str w0, [x8, #0x78]	
+Return:		b code1+4
+gold: .word 1000000
