@@ -36,7 +36,7 @@ Test it by putting a conditinal key to this cheat "B" is the jump key so it make
 Test the code and verify you are able to do moon jump.
 The address you just found is only going to be valid for a short duration. 
 We need to make use of it before it changes or the effort until now needs to be repeated. 
-### finding game code to hook a cheat
+### finding game code to hook a cheat - get a list of codes that access the target
 Disable the freeze game code. (don't want to use it to freeze the game anymore)
 ![2022102720404800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198287006-76ad17d6-960e-40ca-a706-d176404188aa.jpg)
 Press Rstick to go from bookmark to memory explorer
@@ -52,6 +52,7 @@ Go back to game and play a bit. While the game code access this memory address i
 Now go back to Breeze to see the results.
 ![2022102720561800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198290479-9e63057c-658f-43c8-9d8c-043cc786c0c6.jpg)
 This screen shows that 18 addresses of code that access the memory address has been captured. Next press - to detach.
+### finding game code to hook a cheat - check that the code only access the target
 ![2022102720581000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198290892-3d175d31-39e1-43d7-85d9-d2fc1c56cb91.jpg)
 Now you can see the code that is accessing the memory. Press x to go to the disassumbly of the code.
 ![2022102721000100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198291710-840b3329-a848-42d3-9ab8-42ece0133a82.jpg)
