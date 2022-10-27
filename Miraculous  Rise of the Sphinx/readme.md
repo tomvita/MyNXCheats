@@ -2,7 +2,7 @@ Cheat creation tutorial using Breeze
 ![2022102720033000-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198279475-d8be2281-f3de-44e6-bb8e-9ffcb6dd7f51.jpg)
 There are three cheats in this collection:
 
-1. Moon Jump.
+#1. Moon Jump.
 Start by adding freeze game code. At cheat menu press ZR, then Rstick
 Now go back to game and jump, press R to freeze while she in mid way in the air.
 ![2022102720073600-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198280233-291c65cd-1502-45fd-a760-c64d52ad8e0b.jpg)
@@ -103,7 +103,7 @@ Now repeat the step we do earlier on the first entry and jackpot. We have the mo
 ![2022102722130500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309692-5748ddf0-6749-42ae-b101-81da41becd19.jpg)
 This is the working Moon Jump code
 
-2. The orb
+#2. The orb
 This is very easy compared to moon jump 
 ![2022102722190000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198312536-cff09d1b-23c2-4563-83d0-b134e665fe5c.jpg)
 search again
