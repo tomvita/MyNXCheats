@@ -2,7 +2,7 @@ Cheat creation tutorial using Breeze
 ![2022102720033000-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198279475-d8be2281-f3de-44e6-bb8e-9ffcb6dd7f51.jpg)
 There are three cheats in this collection:
 
-#1. Moon Jump.
+1. Moon Jump.
 Start by adding freeze game code. At cheat menu press ZR, then Rstick
 Now go back to game and jump, press R to freeze while she in mid way in the air.
 ![2022102720073600-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198280233-291c65cd-1502-45fd-a760-c64d52ad8e0b.jpg)
@@ -58,7 +58,6 @@ Next we check if this code only access the address that we want. Press L to watc
 Play the game a bit and come back to Breeze to check the result.
 Nice! There is only one address that the code access and comparing it with what we found earlier it is the correct address.
 So now we know where we can hook a ASM hack to do moon jump. It is not always that the first one we get is going to work, if it don't work then go down the list until you find one that can work. This one access the correct memory address and only that memory but does the code run at the right time? Only the next step is going to tell.![2022102722361800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198318328-0e7e766c-a084-40c7-9ee3-4583a13c91d4.jpg)
-
 ![2022102721163600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198295140-3d65bc8d-e68d-432a-b86c-5232aeb4d13c.jpg)
 Choose the instruction and add it to cheat. You will be prompted for a name. In this case I name it "asm mj"
 A template will be created in the game directory with the name "asm mj.txt". (/switch/breeze/cheats/Miraculous  Rise of the Sphinx/asm mj.txt or /switch/breeze/cheats/0100D06015B58000/asm mj.txt depending on the option you choose in Breeze settings)
@@ -103,7 +102,7 @@ Now repeat the step we do earlier on the first entry and jackpot. We have the mo
 ![2022102722130500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309692-5748ddf0-6749-42ae-b101-81da41becd19.jpg)
 This is the working Moon Jump code
 
-#2. The orb
+2. The orb
 This is very easy compared to moon jump 
 ![2022102722190000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198312536-cff09d1b-23c2-4563-83d0-b134e665fe5c.jpg)
 search again
@@ -121,7 +120,7 @@ Scroll up and look what we have here! A add instruction which is very convenient
 Add this to cheat.
 ![2022102722361800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198318492-b3be7b8c-e097-4c2f-b653-58066c861ef8.jpg)
 Duplicate the line for hacking and keep the original for off code
-![2022102722354500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198318537-808d3375-5ca8-4658-8a7b-6bce3ca35d5a.jpg)
+![2022102722364100-50E2A11CE4BDDC72EF99DF78315D4938](https://user-images.githubusercontent.com/68505331/198320691-fdbdb017-6863-41a6-a2f8-b64739efc851.jpg)
 Add a lsl#8 to get x256
 
 
