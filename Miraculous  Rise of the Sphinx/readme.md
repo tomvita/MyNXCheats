@@ -99,16 +99,7 @@ Next we capture only when she is in the air. Make the jump. Quickly press home. 
 Now repeat the step we do earlier on the first entry and jackpot. We have the moon jump.
 ![2022102722075000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198308000-862dc914-e3ce-485c-b757-20ff2b27c33c.jpg)
 This is the working Moon Jump code
-04000000 017FAFAC BD414A60 
-80000002 
-04000000 017FAFAC BD414A60 
-04000000 017FAFAC 14386573 
-04000000 02614578 18000088 
-04000000 0261457C B9014E68 
-04000000 02614580 F940A668 
-04000000 02614584 17C79A8B 
-04000000 02614588 41700000 
-20000000 
+
 
 
 
