@@ -127,13 +127,9 @@ This is another easy one. Only effort is finding the memory location. Normally i
 Search for it. Get hit. Search for flt--. Get hit. Search for flt--. Soon you will find it. Then same drill. Watch the memory. Watch the code. Confirm that the code is good. Next create the assembly instruction. 
 "
 ldr s8, life
-
 original: str s8, [x21, #0xc0]
-
 return: b code1+4
-
 life: .float 100
-
 "
 The life is 4 at the starting point of the game. I hack it to 100 just in case later the game let you have more hearts. 
 
