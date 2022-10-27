@@ -1,0 +1,4 @@
+ldr w8,gold	
+original:	str w8, [x8, #0x38]	
+Return:		b code1+4
+gold: .word 9999

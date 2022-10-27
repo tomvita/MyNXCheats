@@ -1,0 +1,4 @@
+ldr s0, damage
+original:	fsub s0, s8, s0	
+Return:		b code1+4
+damage: .float 500

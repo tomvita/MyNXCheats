@@ -1,0 +1,3 @@
+fmov s0,#1
+original:	str s0, [x8, #0x1ec]	
+Return:		b code1+4
