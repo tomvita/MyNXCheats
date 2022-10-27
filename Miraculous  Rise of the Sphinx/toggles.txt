@@ -1,4 +1,0 @@
-[ asm mj]
-true
-[asm hp2]
-false
