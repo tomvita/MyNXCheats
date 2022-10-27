@@ -55,5 +55,47 @@ Now you can see the code that is accessing the memory. Press x to go to the disa
 Next we check if this code only access the address that we want. Press L to watch this code.
 ![2022102721001300-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198291968-5beb7078-6442-41db-a6c1-b09f028af15e.jpg)
 ![2022102721010400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198292007-9d1b9dbb-1042-4ec8-b20f-20b580e13627.jpg)
+Play the game a bit and come back to Breeze to check the result.
 Nice! There is only one address that the code access and comparing it with what we found earlier it is the correct address.
+So now we know where we can hook a ASM hack to do moon jump. It is not always that the first one we get is going to work, if it don't work then go down the list until you find one that can work. This one access the correct memory address and only that memory but does the code run at the right time? Only the next step is going to tell.
+![2022102721163600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198295140-3d65bc8d-e68d-432a-b86c-5232aeb4d13c.jpg)
+Choose the instruction and add it to cheat. You will be prompted for a name. In this case I name it "asm mj"
+A template will be created in the game directory with the name "asm mj.txt". (/switch/breeze/cheats/Miraculous  Rise of the Sphinx/asm mj.txt or /switch/breeze/cheats/0100D06015B58000/asm mj.txt depending on the option you choose in Breeze settings)
+Edit this file for the ASM code to use on this address. 
+This is how the file looks at the start
+
+original: ldr x8, [x19, #0x148]
+return: b code1+4
+
+We know the address at [x19, #0x14C] is where we want to put float 15 for her to rise.
+Here is the code to do that
+
+ldr w8, mj
+str w8, [x19, #0x14C]
+original: ldr x8, [x19, #0x148]
+return: b code1+4
+mj: .float 15
+
+
+ldr w8, mj ; we can use w8 as it will be shortly overwritten by the original code, we load it with float 15
+str w8, [x19, #0x14C] ; we store the value to the target
+original: ldr x8, [x19, #0x148] ; we have to repeat the original so the game will run normal
+return: b code1+4 ; return to the game code
+mj: .float 15 ; we define the value to load here
+
+After the file is edited go back to Breeze, goto edit cheat and press ZL+DpadUp to assemble what was written in the txt file.
+![2022102721313900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198298460-d2579b0f-0f2e-45ed-817e-27a17f2599ba.jpg)
+The first line is the original code which can be use as a off code
+![2022102721314500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198298483-69b08b89-7c1a-40d3-8231-077241ccbd08.jpg)
+Save it. 
+Add a conditional key to the cheat. 
+Edit the cheat so the original code is above the condition key
+![2022102721335900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198299089-b8246eab-b602-4086-b6c7-18a4bb03e5c7.jpg)
+![2022102721341200-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198299239-d48d0be0-c480-4726-b851-0942d980838f.jpg)
+![2022102721355700-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198299398-391c3989-d535-4269-858c-50f166308a70.jpg)
+Moon Jump code is ready for testing.
+
+
+
+
 
