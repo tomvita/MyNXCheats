@@ -1,0 +1,8 @@
+code1 = 0x015871C0
+cave_start = 0x02614530
+data_start = 0x03CF5FD0
+data_end = 0x03CF7000
+ldr s8, life
+original: str s8, [x21, #0xc0]
+return: b code1+4
+life: .float 100
