@@ -3,7 +3,7 @@
 There are three cheats in this collection:
 
 ## 1. Moon Jump.
-### search for the address of the up value
+### search for the address of the up value - get a short list
 Start by adding freeze game code. At cheat menu press ZR, then Rstick
 Now go back to game and jump, press R to freeze while she in mid way in the air.
 ![2022102720073600-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198280233-291c65cd-1502-45fd-a760-c64d52ad8e0b.jpg)
@@ -20,6 +20,7 @@ Repeat freezing while up, freezing while down and on the floor.
 ![2022102720211400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198282977-d01fd320-cf73-4eab-a829-e7b3c1592656.jpg)
 ![2022102720222600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198283097-04884cf3-081b-44c3-b134-4e2a8ecb6cfb.jpg)
 Now you are left with 72 candidates. Time for next step.
+### search for the address of the up value - finding the target
 Make jump and freeze while up and do the search.
 ![2022102720260900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198283954-3a47bc07-1bcb-4c44-9c1e-ddeb59675754.jpg)
 Now is time to test which one is going to keep her moving up.
