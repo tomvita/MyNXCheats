@@ -92,6 +92,26 @@ Edit the cheat so the original code is above the condition key
 ![2022102721341200-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198299239-d48d0be0-c480-4726-b851-0942d980838f.jpg)
 ![2022102721355700-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198299398-391c3989-d535-4269-858c-50f166308a70.jpg)
 Moon Jump code is ready for testing.
+And it does not work! 
+Why it don't work is likely due to the game code is being execute at the wrong time. i.e. not while she was in the air. 
+Next we capture only when she is in the air. Make the jump. Quickly press home. Start the capture (R). Go back to the game. Now it starts capturing while she is in the air.
+![2022102722004900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198306243-468c4e47-6100-4eaf-8d67-5d3ba2615cec.jpg)
+Now repeat the step we do earlier on the first entry and jackpot. We have the moon jump.
+![2022102722075000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198308000-862dc914-e3ce-485c-b757-20ff2b27c33c.jpg)
+This is the working Moon Jump code
+04000000 017FAFAC BD414A60 
+80000002 
+04000000 017FAFAC BD414A60 
+04000000 017FAFAC 14386573 
+04000000 02614578 18000088 
+04000000 0261457C B9014E68 
+04000000 02614580 F940A668 
+04000000 02614584 17C79A8B 
+04000000 02614588 41700000 
+20000000 
+
+
+
 
 
 
