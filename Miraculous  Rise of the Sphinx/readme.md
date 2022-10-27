@@ -82,11 +82,11 @@ return: b code1+4
 mj: .float 15
 ```
 ```
-ldr w8, mj ; we can use w8 as it will be shortly overwritten by the original code, we load it with float 15
-str w8, [x19, #0x14C] ; we store the value to the target
+ldr w8, mj                      ; we can use w8 as it will be shortly overwritten by the original code, we load it with float 15
+str w8, [x19, #0x14C]           ; we store the value to the target
 original: ldr x8, [x19, #0x148] ; we have to repeat the original so the game will run normal
-return: b code1+4 ; return to the game code
-mj: .float 15 ; we define the value to load here
+return: b code1+4               ; return to the game code
+mj: .float 15                   ; we define the value to load here
 ```
 After the file is edited go back to Breeze, goto edit cheat and press ZL+DpadUp to assemble what was written in the txt file.
 ![2022102721313900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198298460-d2579b0f-0f2e-45ed-817e-27a17f2599ba.jpg)
