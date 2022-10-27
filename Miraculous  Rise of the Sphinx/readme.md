@@ -97,7 +97,8 @@ Why it don't work is likely due to the game code is being execute at the wrong t
 Next we capture only when she is in the air. Make the jump. Quickly press home. Start the capture (R). Go back to the game. Now it starts capturing while she is in the air.
 ![2022102722004900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198306243-468c4e47-6100-4eaf-8d67-5d3ba2615cec.jpg)
 Now repeat the step we do earlier on the first entry and jackpot. We have the moon jump.
-![2022102722075000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198308000-862dc914-e3ce-485c-b757-20ff2b27c33c.jpg)
+![2022102722130600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309663-00754799-fdeb-4c6b-8f66-21d03d89645b.jpg)
+![2022102722130500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309692-5748ddf0-6749-42ae-b101-81da41becd19.jpg)
 This is the working Moon Jump code
 
 
