@@ -67,7 +67,6 @@ This is how the file looks at the start
 original: ldr x8, [x19, #0x148]
 return: b code1+4
 "![2022102722283000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198314434-f37543e4-1b8d-4caa-9ac9-67ec8d6dd6f1.jpg)
-
 We know the address at [x19, #0x14C] is where we want to put float 15 for her to rise.
 Here is the code to do that
 "
