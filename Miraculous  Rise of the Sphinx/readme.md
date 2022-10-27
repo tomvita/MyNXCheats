@@ -1,8 +1,8 @@
-Cheat creation tutorial using Breeze
+# Cheat creation tutorial using Breeze
 ![2022102720033000-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198279475-d8be2281-f3de-44e6-bb8e-9ffcb6dd7f51.jpg)
 There are three cheats in this collection:
 
-1. Moon Jump.
+## 1. Moon Jump.
 Start by adding freeze game code. At cheat menu press ZR, then Rstick
 Now go back to game and jump, press R to freeze while she in mid way in the air.
 ![2022102720073600-974EA1D517BE2D8A7DF45665873FB575](https://user-images.githubusercontent.com/68505331/198280233-291c65cd-1502-45fd-a760-c64d52ad8e0b.jpg)
@@ -113,7 +113,7 @@ Now repeat the step we do earlier on the first entry and jackpot. We have the mo
 ![2022102722130500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309692-5748ddf0-6749-42ae-b101-81da41becd19.jpg)
 This is the working Moon Jump code
 
-2. The orb
+## 2. The orb
 This is very easy compared to moon jump 
 ![2022102722190000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198312536-cff09d1b-23c2-4563-83d0-b134e665fe5c.jpg)
 search again
@@ -134,7 +134,7 @@ Duplicate the line for hacking and keep the original for off code
 ![2022102722364100-50E2A11CE4BDDC72EF99DF78315D4938](https://user-images.githubusercontent.com/68505331/198320691-fdbdb017-6863-41a6-a2f8-b64739efc851.jpg)
 Add a lsl#8 to get x256
 
-3. HP
+## 3. HP
 This is another easy one. Only effort is finding the memory location. Normally it is either u32 or f32. We start with f32 first. We see it has four hearts so we do a range search [A..B] 4 200. It's at least 4 and not likely to be a very big number. 
 Search for it. Get hit. Search for flt--. Get hit. Search for flt--. Soon you will find it. Then same drill. Watch the memory. Watch the code. Confirm that the code is good. Next create the assembly instruction. 
 The life is 4 at the starting point of the game. I hack it to 100 just in case later the game let you have more hearts.
