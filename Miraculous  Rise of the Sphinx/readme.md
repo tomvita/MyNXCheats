@@ -57,7 +57,8 @@ Next we check if this code only access the address that we want. Press L to watc
 ![2022102721010400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198292007-9d1b9dbb-1042-4ec8-b20f-20b580e13627.jpg)
 Play the game a bit and come back to Breeze to check the result.
 Nice! There is only one address that the code access and comparing it with what we found earlier it is the correct address.
-So now we know where we can hook a ASM hack to do moon jump. It is not always that the first one we get is going to work, if it don't work then go down the list until you find one that can work. This one access the correct memory address and only that memory but does the code run at the right time? Only the next step is going to tell.
+So now we know where we can hook a ASM hack to do moon jump. It is not always that the first one we get is going to work, if it don't work then go down the list until you find one that can work. This one access the correct memory address and only that memory but does the code run at the right time? Only the next step is going to tell.![2022102722361800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198318328-0e7e766c-a084-40c7-9ee3-4583a13c91d4.jpg)
+
 ![2022102721163600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198295140-3d65bc8d-e68d-432a-b86c-5232aeb4d13c.jpg)
 Choose the instruction and add it to cheat. You will be prompted for a name. In this case I name it "asm mj"
 A template will be created in the game directory with the name "asm mj.txt". (/switch/breeze/cheats/Miraculous  Rise of the Sphinx/asm mj.txt or /switch/breeze/cheats/0100D06015B58000/asm mj.txt depending on the option you choose in Breeze settings)
@@ -66,7 +67,8 @@ This is how the file looks at the start
 "
 original: ldr x8, [x19, #0x148]
 return: b code1+4
-"
+"![2022102722283000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198314434-f37543e4-1b8d-4caa-9ac9-67ec8d6dd6f1.jpg)
+
 We know the address at [x19, #0x14C] is where we want to put float 15 for her to rise.
 Here is the code to do that
 "
@@ -100,6 +102,27 @@ Now repeat the step we do earlier on the first entry and jackpot. We have the mo
 ![2022102722130600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309663-00754799-fdeb-4c6b-8f66-21d03d89645b.jpg)
 ![2022102722130500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198309692-5748ddf0-6749-42ae-b101-81da41becd19.jpg)
 This is the working Moon Jump code
+
+2. The orb
+This is very easy compared to moon jump 
+![2022102722190000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198312536-cff09d1b-23c2-4563-83d0-b134e665fe5c.jpg)
+search again
+![2022102722192500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198312553-fc9c718a-998a-4b08-8f81-f852c93b7d2d.jpg)
+hack the candidate
+![2022102722205000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198313145-34e6e4ca-b499-4ecf-bba9-5f3d0e7d44fb.jpg)
+found the one
+Search for the code by doing the watch on the memory, then watch the code to see that it is only writing to the correct target
+![2022102722283000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198314642-27c0bc88-e2cc-4a04-a553-d900fe4fe800.jpg)
+Now it is time to hack the code.
+![2022102722321900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198315757-8919e737-4025-4dc4-929a-089bec106ac2.jpg)
+Select the code line and press x
+![2022102722333100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198316127-defc5514-bcb4-4ca2-9071-28e0aa0582d4.jpg)
+Scroll up and look what we have here! A add instruction which is very conveniently right above. Maybe we have an easy one here.
+Add this to cheat.
+![2022102722361800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198318492-b3be7b8c-e097-4c2f-b653-58066c861ef8.jpg)
+Duplicate the line for hacking and keep the original for off code
+![2022102722354500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198318537-808d3375-5ca8-4658-8a7b-6bce3ca35d5a.jpg)
+Add a lsl#8 to get x256
 
 
 
