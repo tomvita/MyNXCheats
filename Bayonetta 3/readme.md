@@ -52,6 +52,45 @@ You can save this result for use later with ZL+RstickRight
 Move the cursor and select the code to see the code segment in detail.
 We first look at the one that writes to the address.
 ![add on hp](https://user-images.githubusercontent.com/68505331/198772762-71f263fa-d5a9-47d7-a7d4-d14a1147b6cf.jpg)
+### Make a in place hack
+Add the instruction 
+![add to cheat](https://user-images.githubusercontent.com/68505331/198778189-3ec62f48-2101-499b-b6c1-8450d086588e.jpg)
+Give it a name
+![give it a name](https://user-images.githubusercontent.com/68505331/198778330-b46e8a3e-28fb-4951-b880-8f06c88ee583.jpg)
+Goto cheat menu and edit it. Copy the line. Edit the second line. In this case I make it add instead of subtract.
+![add hp](https://user-images.githubusercontent.com/68505331/198780491-92cb862d-4a3a-4fcf-baa8-8fbdc83663f0.jpg)
+Turn on the code and see what happens.
+You have made a HP hack. 
+### test that the hack works as intended
+Some times code work on both hero and enemy. In this case it didn't otherwise it is back to the drawingboard.
+### Explore further to see what other potential hook does
+Do what every you like, should be fairly safe to hack HP. The most is crashing the game but you may want to do this a bit later as we still have another bar to hack
+### Search for magic power bar
+Same drill, we continue the search from the point were we diverge.
+Reduce the magic by using it the do a u32-- search
+![continue for magic bar](https://user-images.githubusercontent.com/68505331/198783410-b9e93dd2-4472-446c-88ed-d690b4685bf0.jpg)
+Name it magic
+![2022102910420700-50E2A11CE4BDDC72EF99DF78315D4938](https://user-images.githubusercontent.com/68505331/198784269-433ef2dd-b5cf-4b20-96c0-395037e233dd.jpg)
+Continue the same drill with this file. Reduce the bar u32--. Reduce the bar u32 --.
+![2022102910450600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198785530-7760bef6-3080-41ed-b76f-9f1f01a5c5d9.jpg)
+### Narrow down the candidate until there is only one
+Do the freeze to check if one of the candidate is the one
+Narrow down to only one
+### Use gen2 to find the code that access this memory
+![2022102910572200-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198791367-55db8466-d0bb-4cb5-b82c-5ab198cb651f.jpg)
+### Look for good spot to hack
+This one will fill up the magic bar
+![e fill](https://user-images.githubusercontent.com/68505331/198792327-333da307-a5c4-4cfa-85a5-3f350d9fe792.jpg)
+This one will stop the magic bar from decreasing
+![e nop](https://user-images.githubusercontent.com/68505331/198792385-9a80759c-d060-4c77-abc3-7c469386bb47.jpg)
+
+
+
+
+
+
+
+
 
 
 
