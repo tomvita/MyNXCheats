@@ -40,7 +40,7 @@ With the last one check that you actually won't die when it is frozen. Sometimes
 ### Look for code that access the HP address
 Rstickclick to goto memory explorer
 ![memory explorer on HP](https://user-images.githubusercontent.com/68505331/198767629-c3981464-8d1b-4c79-b570-1ecd1b460919.jpg)
-ZL+Dpadup to goto gen2 menu "+" to attach, R to start the watch
+ZL+Dpadup to goto gen2 menu, "+" to attach, R to start the watch
 ![gen2 on HP target](https://user-images.githubusercontent.com/68505331/198767669-c2695ce2-5003-4d01-be60-ee9a96519e95.jpg)
 ![gen2running](https://user-images.githubusercontent.com/68505331/198769338-ca5819e7-23af-4928-9d29-604800b13290.jpg)
 Go back to game and play a bit then go back to Breeze.
@@ -50,7 +50,7 @@ You can save this result for use later with ZL+RstickRight
 ![code on hp](https://user-images.githubusercontent.com/68505331/198770040-080c9e70-a6ac-40ae-90d0-2874d6c4505c.jpg)
 ### Examin the codes
 Move the cursor and select the code to see the code segment in detail.
-We first look at the one that writes to the address.
+We first look at the one that writes to the address. That sub instruction looks very interesting ..
 ![add on hp](https://user-images.githubusercontent.com/68505331/198772762-71f263fa-d5a9-47d7-a7d4-d14a1147b6cf.jpg)
 ### Make a in place hack
 Add the instruction 
