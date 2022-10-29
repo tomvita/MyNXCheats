@@ -108,6 +108,28 @@ str s2, [x19,#0x1890]
 b code1+4
 time: .float 30000
 ~~~
+![2022102917093400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198823431-4d9ef055-4568-4765-85db-34945e6f8320.jpg)
+![2022102917094700-50E2A11CE4BDDC72EF99DF78315D4938](https://user-images.githubusercontent.com/68505331/198823436-3d489bce-664e-492d-be3b-08b238923b51.jpg)
+Edit the generated "asm time.txt"
+~~~
+original: ldr s2, [x19, #0x1890]
+return: b code1+4
+~~~
+Original, Breeze made this to save you a little bit of typing
+
+~~~
+ldr s2, time
+original: str s2, [x19, #0x1890]
+return: b code1+4
+time: .float 30000
+~~~
+Final one to be use to assemble the cheat
+
+Goback to Breeze and assemble the cheat
+![2022102917161100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198823754-99b83f25-2413-414c-ad4c-163e5f687b94.jpg)
+![2022102917170400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198823759-6f6c051c-b4ec-4023-8937-a48d10081f54.jpg)
+Cheat is ready for testing
+
 
 
 
