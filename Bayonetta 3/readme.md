@@ -84,6 +84,20 @@ This one will fill up the magic bar
 This one will stop the magic bar from decreasing
 ![e nop](https://user-images.githubusercontent.com/68505331/198792385-9a80759c-d060-4c77-abc3-7c469386bb47.jpg)
 
+## Clock
+### Unknow search 
+Do first dump.
+As the clock count down search for u32--
+Will take a while but you will get there
+### Bet that it is float representing the time
+Search for Rang flt [A..B] (the clock number on display without the decimals) (a larger number)
+### Narrow down and hack the value to see an impact to the game
+### Make a code
+In this case the memory is in main. So may be static. ZL+Y to add to cheat and you are done if it is static.
+Just in case capture code loation and save it should you need to come back to the drawing board.
+
+
+
 
 
 
