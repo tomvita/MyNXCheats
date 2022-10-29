@@ -96,6 +96,18 @@ Search for Rang flt [A..B] (the clock number on display without the decimals) (a
 In this case the memory is in main. So may be static. ZL+Y to add to cheat and you are done if it is static.
 Just in case capture code loation and save it should you need to come back to the drawing board.
 
+## Making a code with code cave
+This is from the example of the count down clock from above.
+![2022102916551800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198823027-5fbf77d8-1499-44d0-97b1-c35495fb2125.jpg)
+What we want to do is to put the value we want into the address pointed by [x19,#0x1890]
+So first we hack the existing code to make it jump to another location where there is space to put in our own code.
+What we want is simply load the register s2, store it to [x19,#0x1890] and return.
+~~~
+ldr s2, time
+str s2, [x19,#0x1890]
+b code1+4
+time: .float 30000
+~~~
 
 
 
