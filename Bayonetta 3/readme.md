@@ -64,7 +64,7 @@ You have made a HP hack.
 ### test that the hack works as intended
 Some times code work on both hero and enemy. In this case it didn't otherwise it is back to the drawingboard.
 ### Explore further to see what other potential hook does
-Do what every you like, should be fairly safe to hack HP. The most is crashing the game but you may want to do this a bit later as we still have another bar to hack
+Do whatevery you like, should be fairly safe to hack HP. The most is crashing the game but you may want to do this a bit later as we still have another bar to hack
 ### Search for magic power bar
 Same drill, we continue the search from the point were we diverge.
 Reduce the magic by using it the do a u32-- search
