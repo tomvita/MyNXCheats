@@ -156,7 +156,8 @@ Copy the original code above the conditional cond and you are done writing a one
 
 ## Jump
 For this game and for a few others, never jump = 0, jump once = 1, jump twice = 2
-Search for it then use what you have learn in this tutorial and make the code
+Search for it then use what you have learn in this tutorial and make the code.
+The cost of doing this search is so low that it just make sense to give it a try everytime.
 
 
 
