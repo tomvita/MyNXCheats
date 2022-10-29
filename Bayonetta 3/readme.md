@@ -89,8 +89,8 @@ This one will stop the magic bar from decreasing
 Do first dump.
 As the clock count down search for u32--
 Will take a while but you will get there
-### Bet that it is float representing the time
-Search for Rang flt [A..B] (the clock number on display without the decimals) (a larger number)
+### Alternatively bet that it is float representing the time
+Search for Rang flt [A..B] (the clock number on display without the decimals) (a larger number). 
 ### Narrow down and hack the value to see an impact to the game
 ### Make a code
 In this case the memory is in main. So may be static. ZL+Y to add to cheat and you are done if it is static.
