@@ -1,0 +1,6 @@
+original: ldr w9, [x19, #0x16b0]
+cmp w9,#100
+b.lt return
+mov w9,#100
+str w9, [x19, #0x16b0]
+return: b code1+4

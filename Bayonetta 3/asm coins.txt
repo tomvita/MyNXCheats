@@ -1,0 +1,10 @@
+STP X25, X26, [SP,#-0x90]
+ldr w25,coin1
+str w25,[x0,0x4]
+ldr w25,coin2
+str w25,[x0,0x8]
+LDP X25, X26, [SP,#-0x90]
+original: ldr w0, [x0, w1, uxtw #2]
+return: b code1+4
+coin1: .word 1000000
+coin2: .word 100000
