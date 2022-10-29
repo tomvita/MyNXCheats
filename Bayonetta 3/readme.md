@@ -130,6 +130,29 @@ Goback to Breeze and assemble the cheat
 ![2022102917170400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198823759-6f6c051c-b4ec-4023-8937-a48d10081f54.jpg)
 Cheat is ready for testing
 
+## One hit kill
+Search for one enemy's HP. Look for one with sufficient HP for you to complete the search. Not much of a problem for this game most most have HP in the thousands.
+By now you know your HP is integer and in the thousands so start a search of [A..B] 100 20000 (very conservative number)
+Same drill, hit it see that the bar drop u32-- etc etc
+Once you found the HP watch it.
+Now you have a list of code. Look around for one that apply to the enemy and not your hero.
+With that in hand make a code that make the HP small so it becomes one hit kill. This game looks like enemy won't just die when the hit point is zero. Instead it will only die if you hit it but it will become impobile when HP is zero which means you are in trouble to complete any stage that needs them to be all dead.
+Set the HP to a small number.
+QED.
+```
+original: ldr w9, [x19, #0x16b0]
+cmp w9,#100
+b.lt return
+mov w9,#100
+str w9, [x19, #0x16b0]
+return: b code1+4
+```
+You can adjust the number 100 to anything that suits your play.
+![2022102921511100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198835364-776eb27c-a651-4dd5-bf08-43587ae44f79.jpg)
+I also would put some conditional key around the code
+![2022102921515100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198835366-9b125031-ad71-49be-802d-5558cbf620a1.jpg)
+Copy the original code above the conditional cond and you are done writing a one hit kill code. Now go test it. 
+![2022102921515900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198835372-5230f7b0-d058-4b87-9d3e-d616b9e6f533.jpg)
 
 
 
