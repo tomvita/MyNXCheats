@@ -154,6 +154,10 @@ I also would put some conditional key around the code
 Copy the original code above the conditional cond and you are done writing a one hit kill code. Now go test it. 
 ![2022102921515900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198835372-5230f7b0-d058-4b87-9d3e-d616b9e6f533.jpg)
 
+## Jump
+For this game and for a few others, never jump = 0, jump once = 1, jump twice = 2
+Search for it then use what you have learn in this tutorial and make the code
+
 
 
 
