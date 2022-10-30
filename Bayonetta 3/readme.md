@@ -136,7 +136,7 @@ By now you know your HP is integer and in the thousands so start a search of [A.
 Same drill, hit it see that the bar drop u32-- etc etc
 Once you found the HP watch it.
 Now you have a list of code. Look around for one that apply to the enemy and not your hero.
-With that in hand make a code that make the HP small so it becomes one hit kill. This game looks like enemy won't just die when the hit point is zero. Instead it will only die if you hit it but it will become immobile when HP is zero which means it may be hidden somewhere and you are in trouble to complete any stage that needs them to be all dead when you can't find and kill them.
+With that in hand make a code that make the HP small so it becomes one hit kill. For some games enemy won't just die when the hit point is zero. Instead it will only die if you hit it but it will become immobile when HP is zero which means it may be hidden somewhere and you are in trouble to complete any stage that needs them to be all dead when you can't find and kill them. Also for some games you slimply can't kill an enemy that is already "dead"
 Set the HP to a small number.
 QED.
 ```
@@ -154,6 +154,13 @@ I also would put some conditional key around the code
 Copy the original code above the conditional cond and you are done writing a one hit kill code. Now go test it. 
 ![2022102921515900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/198835372-5230f7b0-d058-4b87-9d3e-d616b9e6f533.jpg)
 
+## Kill all enemy in range
+Do the one hit kill process just change the code to make HP=0. Be aware that this code is risky, the game may become confused and unplayable. 
+```
+mov w9, #0
+str w9, [x19, #0x16b0]
+return: b code1+4
+```
 ## Jump
 For this game and for a few others, never jump = 0, jump once = 1, jump twice = 2
 Search for it then use what you have learn in this tutorial and make the code.
