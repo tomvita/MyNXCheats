@@ -1,0 +1,4 @@
+mov w8, #0x100000
+str w8, [x0, #0xd4]
+str w8, [x0, #0xd8]
+return: b code1+4
