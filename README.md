@@ -4,7 +4,7 @@ cheat codes for switch that I made
 ## Chained Echoes 1.1.1 TID: 0100C510166F0000 BID: 143439C462629F4D
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/ChainedEchoes">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ChainedEchoes/total">
-
+Gold 1M, Hp 1000, Tp 1000, Damage x8
 ![2022120911163300-23C48E62D47C4F8A8830A2C752587D3F](https://user-images.githubusercontent.com/68505331/206622474-e2bc0012-753b-4e68-ae5e-8e1cde8e24a0.jpg)
 
   
