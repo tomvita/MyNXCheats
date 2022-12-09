@@ -11,6 +11,8 @@ Gold 1M, Hp 1000, Tp 1000, Damage x8
 
   
 ## Bot Gaiden 1.0.0 TID: 01003EA0181B2000 BID: 88BCC80AC717E03B
+Life, HP, Time
+  
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/BotGaiden">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/BotGaiden/total">
 
