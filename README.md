@@ -1,6 +1,7 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Bot Gaiden 1.0.0 TID: 01003EA0181B2000 BID: 88BCC80AC717E03B
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/BotGaiden">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/BotGaiden/total">
 
