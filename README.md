@@ -2,6 +2,7 @@
 cheat codes for switch that I made
 
 ## The Rumble Fish 2 1.0.2 TID: 0100EB6018686000 BID: 6DB781A57AB0DCF6
+HP 1 full, HP 2 quarter
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/RumbleFish">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/RumbleFish/total">
