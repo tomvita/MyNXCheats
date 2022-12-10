@@ -13,7 +13,7 @@ HP 1 full, HP 2 quarter
 
 
 ## Chained Echoes 1.1.1 TID: 0100C510166F0000 BID: 143439C462629F4D
-Gold 1M, Hp 1000, Tp 1000, Damage x8, Overdrive, View sell screen to have 98 ( buy screen will say you have 98 but if you don't have the item you don't have the item unless you buy at least one )
+Gold 1M, Hp 1000, Tp 1000, Damage x8, Overdrive, Star no dec, View sell screen to have 98 ( buy screen will say you have 98 but if you don't have the item you don't have the item unless you buy at least one )
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/ChainedEchoes.v1">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ChainedEchoes.v1/total">
