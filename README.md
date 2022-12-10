@@ -18,9 +18,7 @@ Gold 1M, Hp 1000, Tp 1000, Damage x8, Overdrive, View sell screen to have 98 ( b
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/ChainedEchoes.v1">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ChainedEchoes.v1/total">
 
-  
-Gold 1M, Hp 1000, Tp 1000, Damage x8
-  
+   
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/ChainedEchoes">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ChainedEchoes/total">
   
