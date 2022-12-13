@@ -4,7 +4,7 @@ cheat codes for switch that I made
 ## CRISIS CORE –FINAL FANTASY VII– REUNION 1.0.0 & 1.0.1 TID: 01004BC0166CC000
 ![2022121223173200-6ED5E421D300F087208CD131AE410033](https://user-images.githubusercontent.com/68505331/207083593-ae845b14-bfe2-42d7-923b-576e40aa5b55.jpg)
 
-hp mp ap fill & ohk, no ohk, lots of gil, View item to have 99
+hp mp ap fill & ohk, no ohk, lots of gil, View item to have 99, give you every items in the game
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/CRISISCORE">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/CRISISCORE/total">
