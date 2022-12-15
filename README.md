@@ -1,6 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Astronite 1.0.3 TID: 0100FD6018690000 BID: C00BC721EEAC5AC2
+
+![2022121510113800-06BFEAEA73F53F83F4B51DF2040F3D39](https://user-images.githubusercontent.com/68505331/207756641-2f4f84b1-7426-46f7-b62f-3f305d816a14.jpg)
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Astronite">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Astronite/total">
+
 ## CRISIS CORE –FINAL FANTASY VII– REUNION 1.0.0 & 1.0.1 TID: 01004BC0166CC000
 ![2022121223173200-6ED5E421D300F087208CD131AE410033](https://user-images.githubusercontent.com/68505331/207083593-ae845b14-bfe2-42d7-923b-576e40aa5b55.jpg)
 
