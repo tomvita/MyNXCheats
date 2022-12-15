@@ -18,4 +18,8 @@ Go back to game and spend some jet fuel
 ## Less cycle until you see --
 ![2022121510435600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/207760312-faef0c6d-decf-47b8-8861-914715ba73d5.jpg)
 ## Continue the search
-Repeat until you have just a few result. Normally it just takes 
+![2022121510523900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/207761323-8ba6f7de-9b1a-4b43-9ed3-f6a4e3fa0d2f.jpg)
+## Repeat until you have just a few result candidates
+In this case once is enough. Generally you may have to repeat Play the game and Continue the search a few times
+## View candidate
+## Freeze the value
