@@ -1,0 +1,14 @@
+[ mj]
+false
+[ mjk]
+false
+[ mjk]
+true
+[coin x256]
+false
+[hp add]
+false
+[exp]
+false
+[aa]
+false
