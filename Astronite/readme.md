@@ -22,4 +22,6 @@ Go back to game and spend some jet fuel
 ## Repeat until you have just a few result candidates
 In this case once is enough. Generally you may have to repeat Play the game and Continue the search a few times
 ## View candidate
+![2022121511001300-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/207762389-095a6051-e0ab-4cf3-952c-d99f93bdd601.jpg)
 ## Freeze the value
+![2022121511002800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/207762399-47b195e9-2831-4c8b-b210-7d4ef236a367.jpg)
