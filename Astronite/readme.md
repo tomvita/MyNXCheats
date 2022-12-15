@@ -1,6 +1,6 @@
 # Searching for Jet pack fuel
 It's double 30 (before upgrade) or double 35 (after upgrade)
-## start Breeze  
+## Start Breeze  
 ## Select SearchManager
 ![2022121510304000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/207758946-417e75a3-faa9-49a1-a4f8-5a9f112b0976.jpg)
 ## ExpandMenu
