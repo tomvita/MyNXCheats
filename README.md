@@ -6,7 +6,7 @@ cheat codes for switch that I made
 ![2022121510113800-06BFEAEA73F53F83F4B51DF2040F3D39](https://user-images.githubusercontent.com/68505331/207756641-2f4f84b1-7426-46f7-b62f-3f305d816a14.jpg)
 HP, Air, Gold
 
-Jet fuel is double 30 (before upgrade) and 35 (after upgrade) do DIY to cheat on that
+Jet fuel is double 30 (before upgrade) and 35 (after upgrade) do DIY to cheat on that<a href="https://github.com/tomvita/MyNXCheats/blob/main/Astronite/readme.md">
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Astronite">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Astronite/total">
