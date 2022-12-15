@@ -6,6 +6,9 @@ cheat codes for switch that I made
 ![2022121516334500-3D2EB5002B73164CA6F9718379EFD351](https://user-images.githubusercontent.com/68505331/207811690-7d5c022c-f79f-478f-99c4-c6bc98f2f315.jpg)
 Hover, Moon Jump, HP fill, spk coins x 10
 
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Wavetale">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Wavetale/total">
+
 ## Astronite 1.0.3 TID: 0100FD6018690000 BID: C00BC721EEAC5AC2
 
 ![2022121510113800-06BFEAEA73F53F83F4B51DF2040F3D39](https://user-images.githubusercontent.com/68505331/207756641-2f4f84b1-7426-46f7-b62f-3f305d816a14.jpg)
