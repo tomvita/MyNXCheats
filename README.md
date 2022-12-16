@@ -16,6 +16,8 @@ HP, Air, Gold
 
 <a href="https://github.com/tomvita/MyNXCheats/blob/main/Astronite/readme.md">Jet fuel is double 30 (before upgrade) and 35 (after upgrade) do DIY to cheat on that
 
+Added a brute force cheat for Jet fuel
+   
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Astronite">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Astronite/total">
 
