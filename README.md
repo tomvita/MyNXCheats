@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Akai Katana Shin 1.0.1 TID: 0100BE6017C7A000 BID: D9C7864AB8C45C61
+
+![2022121708581600-FB46FE5FDB56E3BAFF059001F2733FED](https://user-images.githubusercontent.com/68505331/208215118-e4e061ae-75cf-466a-b9b8-7bbcfc7d9562.jpg)
+Bomb no dec, Start with 15 Bomb, ZL Bomb 15, ZL Bomb 3, No game over
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/AkaiKatanaShin">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/AkaiKatanaShin/total">
+
+
 ## Wavetale 1.0.2.0 TID: 01001FB017B36000 BID: B2AA768E3A7B894D
 
 ![2022121516334500-3D2EB5002B73164CA6F9718379EFD351](https://user-images.githubusercontent.com/68505331/207811690-7d5c022c-f79f-478f-99c4-c6bc98f2f315.jpg)
