@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Arkanoid - Eternal Battle 1.1.14 TID: 010091D01597C000 BID: 0023AAEA7F1446F9
+![2022121816043900-55F3AA1C567725E7BD59C4676BD45CF5](https://user-images.githubusercontent.com/68505331/208287841-cf86189e-c31d-4d1a-a6b8-2c645c9fa9a0.jpg)
+Life no decrease (Retro and Neo)
+
+
 ## Akai Katana Shin 1.0.1 TID: 0100BE6017C7A000 BID: D9C7864AB8C45C61
 
 ![2022121708581600-FB46FE5FDB56E3BAFF059001F2733FED](https://user-images.githubusercontent.com/68505331/208215118-e4e061ae-75cf-466a-b9b8-7bbcfc7d9562.jpg)
