@@ -2,11 +2,12 @@
 cheat codes for switch that I made
 
 ## Arkanoid - Eternal Battle 1.1.14 TID: 010091D01597C000 BID: 0023AAEA7F1446F9
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/ArkanoidEternalBattle">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ArkanoidEternalBattle/total">
 ![2022121816043900-55F3AA1C567725E7BD59C4676BD45CF5](https://user-images.githubusercontent.com/68505331/208287841-cf86189e-c31d-4d1a-a6b8-2c645c9fa9a0.jpg)
 Life no decrease (Retro and Neo)
 
-<a href="https://github.com/tomvita/MyNXCheats/releases/tag/ArkanoidEternalBattle">
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ArkanoidEternalBattle/total">
+
 
 ## Akai Katana Shin 1.0.1 TID: 0100BE6017C7A000 BID: D9C7864AB8C45C61
 
