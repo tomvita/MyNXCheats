@@ -1,6 +1,12 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Simonas Requiem 1.0.0 TID: 0100E8C019B36000 BID: E4EF84202DB9AB94
+HP, EXP
+
+![2022122122153800-7BBDBA3F9D23F0B7E398004BED0E6049](https://user-images.githubusercontent.com/68505331/208926825-2bb36a77-6edb-4fe5-9302-b236ee1814db.jpg)
+
+
 ## Arkanoid - Eternal Battle 1.1.14 TID: 010091D01597C000 BID: 0023AAEA7F1446F9
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/ArkanoidEternalBattle">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ArkanoidEternalBattle/total">
