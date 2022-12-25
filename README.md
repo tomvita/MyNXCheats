@@ -1,6 +1,10 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## 地球防衛軍4.1 for Nintendo Switch 1.0.0 TID: 0100C7B013D18000 BID: 558DE7475453A1C9
+
+
+
 ## Simonas Requiem 1.0.0 TID: 0100E8C019B36000 BID: E4EF84202DB9AB94
 HP, EXP
 
