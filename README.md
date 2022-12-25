@@ -2,7 +2,13 @@
 cheat codes for switch that I made
 
 ## 地球防衛軍4.1 for Nintendo Switch 1.0.0 TID: 0100C7B013D18000 BID: 558DE7475453A1C9
+Ammo no dec, HP full
 
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/地球防衛軍">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/地球防衛軍/total">
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/SimonasRequiem">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/SimonasRequiem/total">
 
 
 ## Simonas Requiem 1.0.0 TID: 0100E8C019B36000 BID: E4EF84202DB9AB94
