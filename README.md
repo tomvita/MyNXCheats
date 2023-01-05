@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Floppy Knights 1.2.1 TID: 01006A30171A0000 BID: 54DC897A78AA4375
+
+![2023010514125600-4CE89CDF6E44DE623CCF30B1696A87AB](https://user-images.githubusercontent.com/68505331/210725645-8bf76c2a-941b-4f12-ad7d-8832a6263982.jpg)
+
+
 ## 地球防衛軍4.1 for Nintendo Switch 1.0.0 TID: 0100C7B013D18000 BID: 558DE7475453A1C9
 Ammo no dec, HP full
 
