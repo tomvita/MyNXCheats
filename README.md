@@ -1,6 +1,9 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/FloppyKnights">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/FloppyKnights/total">
+
 ## Floppy Knights 1.2.1 TID: 01006A30171A0000 BID: 54DC897A78AA4375
 
 ![2023010514125600-4CE89CDF6E44DE623CCF30B1696A87AB](https://user-images.githubusercontent.com/68505331/210725645-8bf76c2a-941b-4f12-ad7d-8832a6263982.jpg)
