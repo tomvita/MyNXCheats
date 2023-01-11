@@ -1,6 +1,12 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Stern Pinball Arcade 1.3 TID: 0100AE0006474000 BID: AB95DDDA1868D7A7
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/SternPinball">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/SternPinball/total">
+   
+
 ## Floppy Knights 1.2.1 TID: 01006A30171A0000 BID: 54DC897A78AA4375
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/FloppyKnights">
