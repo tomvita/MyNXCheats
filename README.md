@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Soccer Story 1.0.2 TID: 010089D017A0A000 BID: CC2CBFACF38B006D
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/SoccerStory">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/SoccerStory/total">
+   
+![2023011210473600-A1CFB5EF19F07096B2B47A32CCC3137C](https://user-images.githubusercontent.com/68505331/211964117-813264e3-23f0-4d7d-878f-7a343e1ea590.jpg)
+
+
 ## Stern Pinball Arcade 1.3 TID: 0100AE0006474000 BID: AB95DDDA1868D7A7
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/SternPinball">
