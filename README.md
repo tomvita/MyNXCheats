@@ -1,13 +1,26 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+## Sports Story 1.0.2 TID: 010025B0100D0000 BID: 54274C14E7A05FAE
+[Money no decrease when buying]
+
+[Shots don't decrease]
+
+[items qty 99]
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/SportsStory">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/SportsStory/total">
+   
+![2023011312001400-A031713F5812C990504C8AD74D528128](https://user-images.githubusercontent.com/68505331/212236325-f7883442-3419-42d6-baac-4cd6d4f7ce88.jpg)
+
+
+
 ## Soccer Story 1.0.2 TID: 010089D017A0A000 BID: CC2CBFACF38B006D
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/SoccerStory">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/SoccerStory/total">
    
 ![2023011210473600-A1CFB5EF19F07096B2B47A32CCC3137C](https://user-images.githubusercontent.com/68505331/211964117-813264e3-23f0-4d7d-878f-7a343e1ea590.jpg)
-
 
 ## Stern Pinball Arcade 1.3 TID: 0100AE0006474000 BID: AB95DDDA1868D7A7
 
