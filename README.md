@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made
 
+
+## Aragami 2 1.0.30195.0 TID: 0100787018198000 BID: 3FFD52E56DD8ADB3
+A port of Jap version code from patjenova 
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Aragami2">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Aragami2/total">
+   
+![2023011415274300-844FA7EACCF093A917D23448BB99AA03](https://user-images.githubusercontent.com/68505331/212461342-95894f1e-9c04-48b1-875d-cd2d91b38c86.jpg)
+
+
 ## Sports Story 1.0.2 TID: 010025B0100D0000 BID: 54274C14E7A05FAE
 [Money no decrease when buying]
 
