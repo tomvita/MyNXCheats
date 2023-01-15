@@ -1,5 +1,5 @@
 # MyNXCheats
-cheat codes for switch that I made
+cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose using these codes vs having the game update.
 
 
 ## Aragami 2 1.0.30195.0 TID: 0100787018198000 BID: 3FFD52E56DD8ADB3
