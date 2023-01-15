@@ -14,6 +14,10 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 
 
+https://user-images.githubusercontent.com/68505331/212532435-7a211a7d-31e1-486d-a2e3-9591d8cff9f7.mp4
+
+
+
 ## Aragami 2 1.0.30195.0 TID: 0100787018198000 BID: 3FFD52E56DD8ADB3
 A port of Jap version code from patjenova 
 
