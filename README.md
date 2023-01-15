@@ -2,6 +2,18 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 
+## Shieldmaiden: Remix Edition 1.0 TID: 01005C0016188000 BID: 81BC80747439C04C
+
+[One hit kill]
+[Moon Jump]
+[ZL hover]
+[God mode]
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Shieldmaiden">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Shieldmaiden/total">
+
+
+
 ## Aragami 2 1.0.30195.0 TID: 0100787018198000 BID: 3FFD52E56DD8ADB3
 A port of Jap version code from patjenova 
 
