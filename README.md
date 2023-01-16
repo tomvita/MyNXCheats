@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Maximus2 4,1 TID: 01000FE0164AA000 BID: 9D8382D802511043
+
+Team God Mod, X3 damage to everyone, Unlimited continue
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Maximus2">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Maximus2/total">
+
+![2023011609402800-BE8639D03362C51F24FFC395B9A26AE5](https://user-images.githubusercontent.com/68505331/212581076-33d38e24-760c-4d7d-948f-1ffc730b1145.jpg)
 
 ## Shieldmaiden: Remix Edition 1.0 TID: 01005C0016188000 BID: 81BC80747439C04C
 
