@@ -1,0 +1,10 @@
+[hp mp ap fill & ohk]
+false
+[lots of gil]
+false
+[View item to have 98]
+false
+[off]
+false
+[no ohk]
+false

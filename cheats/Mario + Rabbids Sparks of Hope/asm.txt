@@ -1,0 +1,3 @@
+LDR w10,[X27,#0x88]	
+STR             W10, [X27,#0x8C]
+return:		b code1+4

@@ -1,8 +1,0 @@
-code1 = 0x025B5700
-cave_start = 0x0804FC20
-data_start = 0x083AAED8
-data_end = 0x083AB000
-ldr s9,hp
-original: str s9, [x0, #0x10]
-return: b code1+4
-hp: .float 1000

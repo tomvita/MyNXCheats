@@ -1,0 +1,2 @@
+original: ldrb w8, [x19, #0x145]
+return: b code1+4

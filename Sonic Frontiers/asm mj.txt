@@ -1,6 +1,0 @@
-original: stp x9, x8, [x19, #0xd0]
-ldr w8,mj
-str w8,[x19, #0xd4]
-return: b code1+4
-
-mj: .float 14

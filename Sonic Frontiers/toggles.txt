@@ -1,4 +1,0 @@
-[ asm mj]
-true
-[asm r1]
-false

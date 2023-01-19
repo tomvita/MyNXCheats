@@ -1,0 +1,13 @@
+ldr w21,  [x22, #0x204]
+cbz w21, hero
+str wzr,[x22, #0x1ec]
+original: ldr w21, [x22, #0x1ec]
+return: b code1+4
+hero:
+ldr w21, [x22, #0x1f4]
+str w21, [x22, #0x1f0]
+ldr w21, [x22, #0x1fc]
+str w21, [x22, #0x1f8]
+ldr w21, [x22, #0x1ec]
+str w21, [x22, #0x1e8]
+b code1+4

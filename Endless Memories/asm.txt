@@ -1,9 +1,0 @@
-hack1:	
-ldr d0, [X0,#0x250]
-ldr d31, maxcoin
-fcmp d0,d31
-b.eq Return
-STR             D0, [X0,#0x238]
-Return:		{original}
-b code1+4
-maxcoin: .double 999999999

@@ -1,0 +1,14 @@
+[Activate alt hp read]
+false
+[Clear buffer alt hp read]
+false
+[Pointer to buffer alt hp read]
+false
+[hp read]
+false
+[hp fill]
+false
+[str sh]
+false
+[load sh]
+false

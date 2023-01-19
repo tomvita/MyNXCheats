@@ -1,0 +1,2 @@
+original: ldr w0, [x0, #0x20]
+return: b code1+4

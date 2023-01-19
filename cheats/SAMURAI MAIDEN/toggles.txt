@@ -1,0 +1,8 @@
+[add]
+false
+[hp]
+false
+[off]
+false
+[ asm hp]
+true

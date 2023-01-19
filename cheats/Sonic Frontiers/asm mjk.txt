@@ -1,0 +1,8 @@
+original: str q1, [x20, #0xd0]
+
+ldr w22,mj
+str w22,[x20, #0xd4]
+
+return: b code1+4
+
+mj: .float 14

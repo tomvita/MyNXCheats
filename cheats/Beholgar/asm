@@ -1,0 +1,10 @@
+code1 = 0x00D4F3A8
+cave_start = 0x02E437A8
+data_start = 0x05112040
+data_end = 0x05113000
+hack1:		STP X27, X26, [SP,#-0x90]	
+			adrp x27, (data_start & 0xFFFFFFFF000) 
+			str x9,[x27, (data_start & 0xFFF)]
+			LDP X27, X26, [SP,#-0x90]	
+original:	ldr w9, [x9]	
+Return:		b code1+4

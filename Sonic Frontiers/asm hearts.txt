@@ -1,4 +1,0 @@
-mov w1,#100
-original: str w1, [x8, #0x1960]
-
-return: b code1+4

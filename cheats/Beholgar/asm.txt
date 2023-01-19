@@ -1,0 +1,10 @@
+STP X25, X26, [SP,#-0x90]
+LDR W25,[X20,#0x50]
+and W25,W25,#0xFFF
+cmp W25,#0x380
+b.ne cont
+mov w8,#99
+cont:
+LDP X25, X26, [SP,#-0x90]
+STR             W8, [X20,#0x38]
+Return:		b code1+4

@@ -1,0 +1,24 @@
+[asm mov]
+true
+[sub c]
+true
+[asm hp]
+false
+[asm hp2]
+false
+[asm hp3]
+false
+[Activate  asm hp3]
+true
+[Clear buffer  asm hp3]
+true
+[Pointer to buffer  asm hp3]
+false
+[h]
+true
+[atk]
+true
+[spd]
+true
+[rang]
+true

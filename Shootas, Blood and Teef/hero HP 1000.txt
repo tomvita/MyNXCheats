@@ -1,4 +1,0 @@
-ldr s0, health	
-original:	str s0, [x8, #0x1ec]	
-Return:		b code1+4
-health: .float 1000

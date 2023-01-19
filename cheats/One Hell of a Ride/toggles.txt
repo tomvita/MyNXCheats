@@ -1,0 +1,12 @@
+[ Nitro1]
+false
+[ Weapon1]
+false
+[ Weapon]
+false
+[ Nitro]
+false
+[ weapon]
+false
+[ nitro]
+false

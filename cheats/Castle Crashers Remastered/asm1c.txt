@@ -1,0 +1,35 @@
+hack2:		STP X25, X26, [SP,#-0x90]
+			STP X27, X28, [SP,#-0x80]	
+			STP X29, X30, [SP,#-0x70]
+			add x26,{target}
+			ldr x25,[x26]
+			cmp x8, #0x10
+			b.eq stage1
+continue:		mov x8, x25	
+			LDP X25, X26, [SP,#-0x90]	
+			LDP X27, X28, [SP,#-0x80]	
+			LDP X29, X30, [SP,#-0x70]
+Return:		b code1+4	
+stage1:		ldr w8,[x25,0x8]
+			cmp w8,#4
+			b.ne continue
+			ldr w8,[x25,0xc]
+			cbz w8, continue 
+			ldr x25,[x26,8]
+			add x25,x25,0xc
+			mov x26, x9
+			mov x29, (data_end - data_start)/16
+			adrp x27, (data_start & 0xFFFFFFFF000) 
+			add x27,x27, (data_start & 0xFFF)
+			bl findslot
+			b continue
+findslot:		ldr x28,  [X27]
+			CBZ X28, Saveptr
+			cmp x28,x25
+			B.EQ Saveptr
+			ADD X27,X27,#0x10
+			SUB x29,x29,#1
+			CBNZ X29, findslot
+			b Done
+Saveptr:		STP X25,X26, [X27]
+Done:			ret

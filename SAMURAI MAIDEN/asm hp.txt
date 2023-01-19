@@ -1,4 +1,0 @@
-ldr s9,hp
-original: str s9, [x0, #0x10]
-return: b code1+4
-hp: .float 1000

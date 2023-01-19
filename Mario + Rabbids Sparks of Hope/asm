@@ -1,7 +1,0 @@
-code1 = 0x01509D30
-cave_start = 0x039534B0
-data_start = 0x081105D8
-data_end = 0x08111000
-LDR w10,[X27,#0x88]	
-STR             W10, [X27,#0x8C]
-return:		b code1+4

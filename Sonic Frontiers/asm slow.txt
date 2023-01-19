@@ -1,5 +1,0 @@
-fmov s1,10
-fdiv s0, s0, s1
-original: ldr s1, [x0, #0x28]
-
-return: b code1+4

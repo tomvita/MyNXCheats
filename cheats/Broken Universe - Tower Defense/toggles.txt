@@ -1,0 +1,20 @@
+[resource rate ultra]
+false
+[rate normal]
+false
+[res]
+false
+[asm]
+false
+[GroupAlt asm]
+false
+[Activate alt asm]
+false
+[Clear buffer alt asm]
+false
+[Pointer to buffer alt asm]
+false
+[Group End asm]
+false
+[asm]
+false

@@ -1,6 +1,0 @@
-[999999 coins]
-false
-[off]
-false
-[Hero HP load]
-false

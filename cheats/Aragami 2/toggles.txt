@@ -1,0 +1,48 @@
+[Master]
+false
+[Godmode (off)]
+false
+[Inf Stamina (off)]
+false
+[Inf Double Jumps]
+false
+[Inf Double Jumps (off)]
+false
+[Stealth]
+false
+[Stealth (off)]
+false
+[Inf Ability Points]
+false
+[Inf Ability Points (off)]
+false
+[Money Multiplier]
+false
+[Money Multiplier (off)]
+false
+[Exp Multiplier]
+false
+[Exp Multiplier (off)]
+false
+[Instant Cooldown Abilities (off)]
+false
+[Cpu No Stamina (off)]
+false
+[Inf Items]
+false
+[Inf Items (off)]
+false
+[asm ncd]
+false
+[asm fof]
+true
+[asm stm]
+true
+[off]
+false
+[Stm mode off]
+true
+[God mode off]
+true
+[asm cpu stm]
+false

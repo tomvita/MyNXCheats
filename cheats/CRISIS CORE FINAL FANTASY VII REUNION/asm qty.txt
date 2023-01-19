@@ -1,0 +1,4 @@
+mov w13, #98
+strb w13, [x9, #2]
+original: ldrh w13, [x9, #2]
+return: b code1+4

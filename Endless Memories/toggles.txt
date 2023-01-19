@@ -1,6 +1,0 @@
-[off]
-false
-[ammo]
-false
-[HP and SP full]
-false

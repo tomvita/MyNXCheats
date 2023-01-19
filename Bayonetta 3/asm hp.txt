@@ -1,2 +1,0 @@
-original: mov w23, w1
-return: b code1+4

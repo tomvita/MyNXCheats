@@ -1,4 +1,0 @@
-original:	ldp s0, s1, [x8, #0x78]	
-		str s0,[x8, #0x7C]
-		fmov s1, s0
-Return:		b code1+4

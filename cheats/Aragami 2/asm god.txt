@@ -1,0 +1,12 @@
+STP X2, X7, [SP,#-0x90]
+adrp x19, (data_start & 0xFFFFFFFF000) 
+ldr w2,[x19, (data_start & 0xFFF)]
+original: mov x19, x0
+ldr w7, [x19, #0x18]
+cmp w7, w2
+b.ne return
+movz w8, #0x1
+strb w8, [x19, #0xc2]
+return: 
+LDP X2, X7, [SP,#-0x90]
+b code1+4

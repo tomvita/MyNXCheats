@@ -1,6 +1,0 @@
-code1 = 0x00445448
-cave_start = 0x0131F1B0
-data_start = 0x059DD588
-data_end = 0x059DE000
-original: mov w23, w1
-return: b code1+4

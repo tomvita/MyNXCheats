@@ -1,7 +1,0 @@
-[Breeze beta39 Steve Jackson's Sorcery! 1.0.1 TID: 01006680164CE000 BID: 671109E515072648]
-
-[off]
-04000000	0156EBF8	2A0103F3
-
-[Set stamina to 20 when hit]
-04000000	0156EBF8	52800293

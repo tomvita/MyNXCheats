@@ -1,0 +1,6 @@
+[Off]
+false
+[Ammo no dec]
+false
+[Easy xp and coins]
+false

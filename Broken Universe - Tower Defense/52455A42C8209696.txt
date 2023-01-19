@@ -1,9 +1,0 @@
-[Breeze beta54 Broken Universe - Tower Defense 1.0.0 TID: 0100BA8019546000 BID: 52455A42C8209696]
-
-[resource rate ultra]
-04000000 02074324 1E27F000 
-
-[rate normal]
-04000000 02074324 1E280800 
-
-

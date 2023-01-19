@@ -1,4 +1,0 @@
-fmov s30,3
-fmul s1,s1,s30
-original:	fsub s0, s0, s1	
-Return:		b code1+4

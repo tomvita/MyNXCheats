@@ -1,2 +1,0 @@
-original: add w9, w9, w19
-return: b code1+4

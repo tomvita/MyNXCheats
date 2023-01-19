@@ -1,0 +1,15 @@
+STP X2, X7, [SP,#-0x90]
+adrp x8, (data_start & 0xFFFFFFFF000) 
+ldr w2,[x8, (data_start & 0xFFF)]
+ldr w7, [x19, #0x18]
+cmp w7, w2
+b.ne foe
+movz w8, #0x1
+strb w8, [x19, #0xc1]
+strb w8, [x19, #0xc2]
+b original
+foe:
+original: {original}
+return: 
+LDP X2, X7, [SP,#-0x90]
+b code1+4

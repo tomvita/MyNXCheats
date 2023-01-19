@@ -1,8 +1,0 @@
-[Off]
-false
-[coin 1000000 in hub]
-false
-[hero health full]
-false
-[  xdec]
-false

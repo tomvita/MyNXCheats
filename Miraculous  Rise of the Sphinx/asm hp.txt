@@ -1,4 +1,0 @@
-ldr s8, life
-original: str s8, [x21, #0xc0]
-return: b code1+4
-life: .float 100

@@ -1,0 +1,12 @@
+[master code]
+true
+[off]
+false
+[HP full]
+true
+[ mj]
+true
+[ 1000]
+false
+[ add ammo]
+false
