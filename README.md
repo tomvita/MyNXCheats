@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Vengeful Guardian: Moonrider 1.0.1 TID: 01003A8018E60000 BID: 8091B025BE103491
+
+HP, MP, LIVE
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Moonrider">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Moonrider/total">
+
+
+
 ## Maximus2 4,1 TID: 01000FE0164AA000 BID: 9D8382D802511043
 
 Team God Mod, X3 damage to everyone, Unlimited continue
