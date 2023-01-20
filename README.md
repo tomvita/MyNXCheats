@@ -1,6 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Lone Ruin 1.0 TID: 0100B6D016EE6000 BID: 5166D09C4FD1825D
+
+at least max coins, HP full
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/LoneRuin">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/LoneRuin/total">
+![2023012013521000-594EB7E82E6968B238CA49F343A1B536](https://user-images.githubusercontent.com/68505331/213626988-5368814b-99d5-434e-8f48-1ca51ed28e83.jpg)
+
 ## Vengeful Guardian: Moonrider 1.0.1 TID: 01003A8018E60000 BID: 8091B025BE103491
 
 HP, MP, LIVE
