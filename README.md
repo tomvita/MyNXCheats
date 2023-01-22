@@ -1,6 +1,18 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Fight of Steel: Infinity Warrior 1.0.1 TID: 010021901966C000 BID: 91ED99D669A4A24C
+[ZL P1 Full, Full, Full][ZR P2 10%, 0, 0]
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/InfinityWarrior">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/InfinityWarrior/total">
+
+
+![2023012216025400-4BFB40222E43247E93298780CE903A64](https://user-images.githubusercontent.com/68505331/213906513-86c58b32-71af-46ca-bee7-7294d4b637c8.jpg)
+
+
+
+
 ## Lone Ruin 1.0 TID: 0100B6D016EE6000 BID: 5166D09C4FD1825D
 
 at least max coins, HP full
