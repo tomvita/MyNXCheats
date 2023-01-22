@@ -1,6 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Graze Counter GM 1.0.2 TID: 0100D700189C0000 BID: B3A628500D65416C
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/GrazeCounter">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/GrazeCounter/total">
+
+![2023012217484300-776F4A7631855DC5F9A206D62E75D477](https://user-images.githubusercontent.com/68505331/213909701-fcaf5e7e-ee32-4f16-8264-927f5d339d66.jpg)
+
 ## Fight of Steel: Infinity Warrior 1.0.1 TID: 010021901966C000 BID: 91ED99D669A4A24C
 [ZL P1 Full, Full, Full][ZR P2 10%, 0, 0]
 
