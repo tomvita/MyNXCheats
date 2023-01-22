@@ -2,6 +2,9 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 ## Graze Counter GM 1.0.2 TID: 0100D700189C0000 BID: B3A628500D65416C
+[Life]
+[ZL Graze counter]
+[ZR Break]
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/GrazeCounter">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/GrazeCounter/total">
