@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Haunted Zombie Slaughter 1.0.0 TID: 010097B01A0DE000 BID: A63DB09DC3C1B945
+HP, Ammo
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/HauntedZombieSlaughter">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/HauntedZombieSlaughter/total">
+
+![2023012619040200-55F67F50BF674E604D3A7F01AC7EA7BD](https://user-images.githubusercontent.com/68505331/214821329-82df4760-2409-4639-acf6-07c4ff4aa7bb.jpg)
+
+
 ## Graze Counter GM 1.0.2 TID: 0100D700189C0000 BID: B3A628500D65416C
 [Life]
 [ZL Graze counter]
