@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Xposed Switched 1.0.0 TID: 01001D5019BFA000 BID: B3D9968A24489C72
+
+Life full, Time full
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/XposedSwitched">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/XposedSwitched/total">
+
+![2023012819414000-C29469087301AFF80832C3DC0198008E](https://user-images.githubusercontent.com/68505331/215264710-35cf9dd1-96aa-4cb0-9246-b9ef0cdd2014.jpg)
+
 ## Haunted Zombie Slaughter 1.0.0 TID: 010097B01A0DE000 BID: A63DB09DC3C1B945
 HP, Ammo
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/HauntedZombieSlaughter">
