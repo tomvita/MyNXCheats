@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Trek to Yomi 0.2 TID: 0100D77019324000 BID: F93FE010A1FC10BD
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/TrektoYomi">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/TrektoYomi/total">
+
 ## Xposed Switched 1.0.0 TID: 01001D5019BFA000 BID: B3D9968A24489C72
 
 Life full, Time full
