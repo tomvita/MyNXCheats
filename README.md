@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## The Pathless 1.0 TID: 0100D5501522C000 BID: 54E89AF3414E549A
+Moon Jump,
+Full Bar
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/ThePathless">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/ThePathless/total">
+
+![2023020323550400-0AAEADBAE13F54655FB78D29C1832AFD](https://user-images.githubusercontent.com/68505331/216649560-660c0caf-b210-4ec3-910c-246af57bc522.jpg)
+
+
 ## Trek to Yomi 0.2 TID: 0100D77019324000 BID: F93FE010A1FC10BD
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/TrektoYomi">
