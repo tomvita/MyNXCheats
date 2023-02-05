@@ -1,6 +1,19 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## SpongeBob SquarePants: The Cosmic Shake 1.0.3 TID: 01009FB0172F4000 BID: F61911B562195493
+Flying, Life full, Jelly x8
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/TheCosmicShake">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/TheCosmicShake/total">
+
+![2023020509523700-F07AFCBE7985190919700F5A85BBBE99](https://user-images.githubusercontent.com/68505331/216798855-a0d26257-f3fb-49be-b98c-1ee4b84b472f.jpg)
+
+
+
+https://user-images.githubusercontent.com/68505331/216798931-f090ca86-c45c-4297-8ee6-6b5c73d0138e.mp4
+
+
 ## The Pathless 1.0 TID: 0100D5501522C000 BID: 54E89AF3414E549A
 Moon Jump,
 Full Bar
