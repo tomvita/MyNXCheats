@@ -1,6 +1,18 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## DRAINUS 1.1.4 TID: 01004F701966E000 BID: D0E15EC304C98B76
+[life no dec]
+
+[Battery 99]
+
+[S-Bomb Full]
+
+[Guard Full]
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/DRAINUS">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/DRAINUS/total">
+
 ## SpongeBob SquarePants: The Cosmic Shake 1.0.3 TID: 01009FB0172F4000 BID: F61911B562195493
 Flying, Life full, Jelly x8
 
