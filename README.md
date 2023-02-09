@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Risen 1.0.1 TID: 0100B140178B6000 BID: 94EA2A7C7EE32EEF
+HP, Mana, Gold
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Risen">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/DRAINUS/Risen">
+   
+![2023020912174200-F7EE304E026AAE111AF032D76D5F5E20](https://user-images.githubusercontent.com/68505331/217717586-23a7bcb6-1c67-4245-921b-39d510b5686e.jpg)
+
+
+
 ## DRAINUS 1.1.4 TID: 01004F701966E000 BID: D0E15EC304C98B76
 [life no dec]
 
