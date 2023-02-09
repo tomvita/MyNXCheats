@@ -5,6 +5,8 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Frido">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Frido/total">
+ 
+ 
  ![2023020922275500-DDF39A05EA58A018B7E525A53146ED51](https://user-images.githubusercontent.com/68505331/217841851-6fa5f005-1d9f-4a94-b321-9d8602a8e166.jpg)
  
 ## Helvetii 1.0.0 TID: 010089701934C000 BID: 5AEA32C501E4C03B
