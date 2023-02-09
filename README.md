@@ -1,6 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Frido 1.0 TID: 01003FA0196D8000 BID: F19667C729442D42
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Frido">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Frido/total">
+![2023020922275500-DDF39A05EA58A018B7E525A53146ED51](https://user-images.githubusercontent.com/68505331/217840950-5cde00f9-7d84-4415-a2e5-e3ab4b6f44c3.jpg)
+
+  
 ## Helvetii 1.0.0 TID: 010089701934C000 BID: 5AEA32C501E4C03B
 
 Hover, Moon Jump, Inf Mana, Inf HP, Two hit kill, Coin add instead of subtract
