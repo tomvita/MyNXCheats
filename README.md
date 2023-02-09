@@ -1,6 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Helvetii 1.0.0 TID: 010089701934C000 BID: 5AEA32C501E4C03B
+
+Hover, Moon Jump, Inf Mana, Inf HP, Two hit kill, Coin add instead of subtract
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Helvetii">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Helvetii/total">
+![2023020921120800-B142305BADE632882A207414A5AF7515](https://user-images.githubusercontent.com/68505331/217822382-d8fc370d-8821-469c-b387-e51077279ccc.jpg)
+
 ## Risen 1.0.1 TID: 0100B140178B6000 BID: 94EA2A7C7EE32EEF
 HP, Mana, Gold
 
