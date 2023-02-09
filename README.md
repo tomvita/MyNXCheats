@@ -78,7 +78,6 @@ Life full, Time full
 HP, Ammo
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/HauntedZombieSlaughter">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/HauntedZombieSlaughter/total">
-
 ![2023012619040200-55F67F50BF674E604D3A7F01AC7EA7BD](https://user-images.githubusercontent.com/68505331/214821329-82df4760-2409-4639-acf6-07c4ff4aa7bb.jpg)
 
 
