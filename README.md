@@ -2,7 +2,7 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 ## Frido 1.0 TID: 01003FA0196D8000 BID: F19667C729442D42
-
+Inf Life, Hover, Moon Jump
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Frido">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Frido/total">
  
