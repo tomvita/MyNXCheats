@@ -5,7 +5,7 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 HP, Mana, Gold
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Risen">
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/DRAINUS/Risen">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Risen/total">
    
 ![2023020912174200-F7EE304E026AAE111AF032D76D5F5E20](https://user-images.githubusercontent.com/68505331/217717586-23a7bcb6-1c67-4245-921b-39d510b5686e.jpg)
 
