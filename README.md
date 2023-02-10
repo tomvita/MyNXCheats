@@ -1,6 +1,17 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Metroid Prime Remastered 1.0.0 TID: 010012101468C000 BID: 67C9CA1428222752
+HP, Ammo, Fly
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/MetroidPrimeRemastered">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/MetroidPrimeRemastered/total">
+
+
+![2023021009130500-0B3EAA668777B67B76600A7290A94AFC](https://user-images.githubusercontent.com/68505331/217975895-a9ca7272-4a3d-4c04-94f3-e8585c40e9fc.jpg)
+
+
+
 ## Frido 1.0 TID: 01003FA0196D8000 BID: F19667C729442D42
 Inf Life, Hover, Moon Jump
 
