@@ -2,7 +2,7 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 ## Metroid Prime Remastered 1.0.0 TID: 010012101468C000 BID: 67C9CA1428222752
-HP, Ammo, Fly
+HP, Ammo, Fly, Freeze Time
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/MetroidPrimeRemastered">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/MetroidPrimeRemastered/total">
