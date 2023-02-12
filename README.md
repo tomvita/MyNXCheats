@@ -2,10 +2,10 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 ## OCTOPATH TRAVELER II Prologue Demo 1.0.0 TID: 0100D16019902000 BID: FDFA9A52DFA8D915
-HP, SP, Boost fill, Level 99
+HP, SP, Boost fill, Level 99, Freeze time, Item qty 100
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/OCTOPATH2Demo">
-
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/OCTOPATH2Demo/total">
 
 ![2023021218580200-181309F0DA70424AA66A0573B3944AB2](https://user-images.githubusercontent.com/68505331/218313035-7ea34429-1c31-45b7-a8d0-da6d2d16fc05.jpg)
 
