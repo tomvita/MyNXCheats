@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Tales of Symphonia Remastered 1.1 TID: 01002B8014440000 BID: BCFDC7A6A7181E9F
+[HP & TP full & very high ATK and INT]
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/SymphoniaRemastered">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/SymphoniaRemastered/total">
+
+
+
+
 ## OCTOPATH TRAVELER II Prologue Demo 1.0.0 TID: 0100D16019902000 BID: FDFA9A52DFA8D915
 HP, SP, Boost fill, Level 99, Freeze time, Item qty 100
 
