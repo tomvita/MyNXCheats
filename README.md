@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## OCTOPATH TRAVELER II 1.0.0 TID: 0100A3501946E000 BID: 65619A04B8A04B10
+HP restore, atk x 4, skl max, Enemy HP = 1, Item qty 99, Gold 1M
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/OCTOPATH_TRAVELER_II">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/OCTOPATH_TRAVELER_II/total">
+ 
+ ![2023022120033900-33692B692D41C063F42E1D2CDFBFA43E](https://user-images.githubusercontent.com/68505331/220340745-13176c1e-4c87-49ef-a031-d07f6a3d71a6.jpg)
+
+
 ## Tales of Symphonia Remastered 1.1 TID: 01002B8014440000 BID: BCFDC7A6A7181E9F
 [HP & TP full & very high ATK and INT]
 
