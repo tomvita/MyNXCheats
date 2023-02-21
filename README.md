@@ -2,7 +2,7 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 ## OCTOPATH TRAVELER II 1.0.0 TID: 0100A3501946E000 BID: 65619A04B8A04B10
-HP restore, atk x 4, skl max, Enemy HP = 1, Item qty 99, Gold 1M
+HP restore, atk x 4, skl max, Enemy HP = 1, Item qty 99, Gold 1M, , Level = 99 JP = 10000
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/OCTOPATH_TRAVELER_II">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/OCTOPATH_TRAVELER_II/total">
