@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Labyrinth of Galleria: The Moon Society 1.0.1 TID: 0100001017216000 BID: 5B8A84D880998114
+HP, Qty, OHK, mana, support
+
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/MoonSociety">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/MoonSociety/total">
+ 
+![2023022121250300-ABC233CA629D62EBB8B8A747C979C759](https://user-images.githubusercontent.com/68505331/220533595-79d8ee74-971e-41f4-b45b-4770e8316f94.jpg)
+
+ 
 ## OCTOPATH TRAVELER II 1.0.0 TID: 0100A3501946E000 BID: 65619A04B8A04B10
 HP restore, atk x 4, skl max, Enemy HP = 1, Item qty 99, Gold 1M, , Level = 99 JP = 10000
 
@@ -26,6 +36,8 @@ HP, SP, Boost fill, Level 99, Freeze time, Item qty 100
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/OCTOPATH2Demo">
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/OCTOPATH2Demo/total">
 
+ 
+ 
 ![2023021218580200-181309F0DA70424AA66A0573B3944AB2](https://user-images.githubusercontent.com/68505331/218313035-7ea34429-1c31-45b7-a8d0-da6d2d16fc05.jpg)
 
 ## Metroid Prime Remastered 1.0.0 TID: 010012101468C000 BID: 67C9CA1428222752
