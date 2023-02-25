@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Raiden III x MIKADO MANIAX 1.0.1 TID: 010089F015FC4000 BID: 30BA6F1A40C48257
+Life, Bomb
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Raiden3XM">
+![2023022516024200-077FE3FE6D195B727B2F6DD5E4F0A161](https://user-images.githubusercontent.com/68505331/221346651-a77aca6a-2e1b-4d29-9201-6e0c73bfe358.jpg)
+
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Raiden3XM/total">
+
+
 ## Kirby’s Return to Dream Land Deluxe 1.0.0 TID: 01006B601380E000 BID: FA24EA3C3A512C07
 [add star x 4] [hp full] [challenge stage add coin x 10]
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/KirbyDreamLand">
