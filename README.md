@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Kirby’s Return to Dream Land Deluxe 1.0.0 TID: 01006B601380E000 BID: FA24EA3C3A512C07
+[add star x 4] [hp full] [challenge stage add coin x 10]
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/KirbyDreamLand">
+![2023022508080300-130BADDB3C2A1143C1AD942289F3D62D](https://user-images.githubusercontent.com/68505331/221324323-447f836f-3d3a-4645-8608-a558bfcf1d81.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/KirbyDreamLand/total">
+
 ## Labyrinth of Galleria: The Moon Society 1.0.1 TID: 0100001017216000 BID: 5B8A84D880998114
 HP, Qty, OHK, mana, support
 
