@@ -1,6 +1,17 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Clive 'N' Wrench 1.285.397 TID: 0100C6C010AE4000 BID: 598DB82B41744B4C
+Moon Jump, Full Health
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/CliveNWrench">
+
+
+![2023022701351900-1CA523959A99D19687FA8231F6641030](https://user-images.githubusercontent.com/68505331/221426784-ca9beeeb-e9ed-46eb-9fd2-9eb5192e182c.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/CliveNWrench/total">
+
 ## Raiden III x MIKADO MANIAX 1.0.1 TID: 010089F015FC4000 BID: 30BA6F1A40C48257
 Life, Bomb
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Raiden3XM">
