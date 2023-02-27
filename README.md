@@ -23,7 +23,7 @@ Life, Bomb
 
 
 ## Kirby’s Return to Dream Land Deluxe 1.0.0 TID: 01006B601380E000 BID: FA24EA3C3A512C07
-[add star x 4] [hp full] [challenge stage add coin x 10]
+[add star x 4] [hp full] [challenge stage add coin x 10] [Fix next transform to whatever you like (default Ultra Sword)]
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/KirbyDreamLand">
 ![2023022508080300-130BADDB3C2A1143C1AD942289F3D62D](https://user-images.githubusercontent.com/68505331/221324323-447f836f-3d3a-4645-8608-a558bfcf1d81.jpg)
 
