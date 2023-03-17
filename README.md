@@ -2,7 +2,9 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 ## Vernal Edge 1.0.0 TID: 0100D10018340000 BID: 4DE55C9786289279
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/VernalEdge">
+ 
 ![image](https://user-images.githubusercontent.com/68505331/225955935-2df88958-8663-4af3-b0bf-a5fe10adf727.png)
+ 
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/VernalEdge/total">
 
 ## Clive 'N' Wrench 1.285.397 TID: 0100C6C010AE4000 BID: 598DB82B41744B4C
