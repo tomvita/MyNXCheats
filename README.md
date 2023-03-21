@@ -3,11 +3,11 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## DC's Justice League: Cosmic Chaos 1.0.1 TID: 0100157015DD8000 BID: 2BFC784E7E10DD89
 
-<a href="https://github.com/tomvita/MyNXCheats/releases/tag/LastSpell">
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/CosmicChaos">
  
 ![2023032122164400-83D0FEF8AF7C13333BB598A782F6EF83](https://user-images.githubusercontent.com/68505331/226639291-fb4d38cd-cd17-4aae-8a30-a8f7e8b2bf0a.jpg)
  
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/LastSpell/total">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/CosmicChaos/total">
 
 ## The Last Spell 1.0.0.6o TID: 0100F7101906A000 BID: 4A7564F18B6824B5
 
