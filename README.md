@@ -3,11 +3,12 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## The Last Spell 1.0.0.6o TID: 0100F7101906A000 BID: 4A7564F18B6824B5
 
-<a href="https://github.com/tomvita/MyNXCheats/releases/tag/VernalEdge">
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/LastSpell">
  
-![image](https://user-images.githubusercontent.com/68505331/225955935-2df88958-8663-4af3-b0bf-a5fe10adf727.png)
+![2023032110021400-01A2E943545ABD4916A6D494E8D2D1A9](https://user-images.githubusercontent.com/68505331/226503156-e949dd23-bbf4-4675-aa32-a6923368e7b2.jpg)
+
  
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/VernalEdge/total">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/LastSpell/total">
 
 
 ## Vernal Edge 1.0.0 TID: 0100D10018340000 BID: 4DE55C9786289279
