@@ -3,7 +3,11 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## METAL DOGS 1.0.4 TID: 0100A6E01681C000 BID: C4E99A309F64124E
 
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/METALDOGS">
+
 ![2023032300250100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/226973207-35f9dacb-3097-4b0d-80c5-c0f0b315161c.jpg)
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/METALDOGS/total">
 
 ## DC's Justice League: Cosmic Chaos 1.0.1 TID: 0100157015DD8000 BID: 2BFC784E7E10DD89
 
