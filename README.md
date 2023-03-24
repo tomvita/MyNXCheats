@@ -3,8 +3,11 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## Remnant: From the Ashes 1.0.1 TID: 010010F01418E000 BID: 49CF6B0B0A62F9E2
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/FromtheAshes">
+ 
 ![2023032422395200-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/227556864-02a0d469-79c3-4a2b-8665-9240671feb4b.jpg)
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/FromtheAshes/total">
+
+ <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/FromtheAshes/total">
+ 
 ## METAL DOGS 1.0.4 TID: 0100A6E01681C000 BID: C4E99A309F64124E
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/METALDOGS">
