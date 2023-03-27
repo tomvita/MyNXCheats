@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## 
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/FromtheAshes">
+ 
+ ![2023032719054500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/227926286-c947aa1e-8fa2-4357-a35a-5214976f7f54.jpg)
+
+
+ <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/FromtheAshes/total">
+
+
 ## Remnant: From the Ashes 1.0.1 TID: 010010F01418E000 BID: 49CF6B0B0A62F9E2
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/FromtheAshes">
  
