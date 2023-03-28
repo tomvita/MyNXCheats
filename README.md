@@ -1,6 +1,19 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+
+## Redemption Reapers 1.0.1 TID: 010073F0197DA000 BID: ABB7BFBFD88E76CD
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Redemption_Reapers">
+ 
+ 
+![2023032823292500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/228289972-4652a2aa-da58-40a6-96d8-b83fc14b8767.jpg)
+
+
+
+ <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Redemption_Reapers/total">
+
+
 ## Omen of Sorrow 1.14.2.0 TID: 0100409016490000 BID: 7A209CDC777FA2A5
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Omen_of_Sorrow">
