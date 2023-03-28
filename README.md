@@ -1,6 +1,17 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Omen of Sorrow 1.14.2.0 TID: 0100409016490000 BID: 7A209CDC777FA2A5
+
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/Omen_of_Sorrow">
+ 
+ 
+![2023032809084000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/228100975-ea1ef92c-d751-4eb8-83b4-24f2bcbe209c.jpg)
+
+
+ <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Omen_of_Sorrow/total">
+
+
 ## Have a Nice Death 1.01 TID: 0100125019A14000 BID: 0F265D4E6059C1EA
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/NiceDeath">
