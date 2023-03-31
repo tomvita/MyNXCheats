@@ -8,7 +8,7 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
  
  
 ![2023032823292500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/228289972-4652a2aa-da58-40a6-96d8-b83fc14b8767.jpg)
-
+![2023033116224200-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229067109-6e49a7ba-0ef5-4df5-8f65-79df68a77964.jpg)
 
 
  <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Redemption_Reapers/total">
