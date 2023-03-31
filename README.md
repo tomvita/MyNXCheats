@@ -2,7 +2,7 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 
-## Redemption Reapers 1.0.1 TID: 010073F0197DA000 BID: ABB7BFBFD88E76CD
+## Redemption Reapers TID: 010073F0197DA000 
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Redemption_Reapers">
  
