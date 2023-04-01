@@ -1,6 +1,10 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## The Legend of Heroes: Trails to Azure 1.1.3 TID: 0100FBE015910000 BID: F054AB2A083C1AA4
+
+![2023040115551500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229273820-e1b7aa9d-5fb4-4006-9507-d8bf2d737c60.jpg)
+
 
 ## Redemption Reapers TID: 010073F0197DA000 
 
