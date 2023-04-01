@@ -3,9 +3,12 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## The Legend of Heroes: Trails to Azure 1.1.3 TID: 0100FBE015910000 BID: F054AB2A083C1AA4
 
+<a href="https://github.com/tomvita/MyNXCheats/releases/tag/TrailsAzure">
+
 ![2023040115551500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229273820-e1b7aa9d-5fb4-4006-9507-d8bf2d737c60.jpg)
 
-
+ <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/TrailsAzure/total">
+ 
 ## Redemption Reapers TID: 010073F0197DA000 
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/Redemption_Reapers">
