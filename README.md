@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Anyaroth: The Queen's Tyranny 1.0 TID: 010057C018A62000 BID: B72E50654484B5C1
+
+https://github.com/tomvita/MyNXCheats/releases/tag/Anyaroth
+
+![2023040215234600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229338929-55468e8c-c744-4701-82bc-15fe858909fe.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Anyaroth/total">
+
 ## The Legend of Heroes: Trails to Azure 1.1.3 TID: 0100FBE015910000 BID: F054AB2A083C1AA4
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/TrailsAzure">
