@@ -5,7 +5,8 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 <a href="https://github.com/tomvita/MyNXCheats/releases/tag/TrailsAzure">
 
-![2023040115551500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229273820-e1b7aa9d-5fb4-4006-9507-d8bf2d737c60.jpg)
+![2023040210485200-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229328471-c1afedf4-f514-4abc-afa5-f7d9df48553c.jpg)
+
 
  <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/TrailsAzure/total">
  
