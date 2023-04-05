@@ -3,12 +3,12 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## Curse of the Sea Rats 1.0.14 TID: 0100B970138FA000 BID: 1E5A8ACF2BC55652
 
-https://github.com/tomvita/MyNXCheats/releases/tag/FlameKeeper
+https://github.com/tomvita/MyNXCheats/releases/tag/CurseSeaRats
 
 ![2023040511524600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/229978138-c182b132-3de4-4161-8254-3447cbf49ef0.jpg)
 
 
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/FlameKeeper/total">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/CurseSeaRats/total">
 
 ## Flame Keeper 1.0.1 TID: 0100034019A9A000 BID: 4B4A72D51461E41A
 
