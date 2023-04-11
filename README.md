@@ -1,6 +1,17 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Atelier Ryza 3: Alchemist of the End & the Secret Key 1.0.0 TID: 010095E018944000 BID: D68D6C485C8D8170
+
+https://github.com/tomvita/MyNXCheats/releases/tag/CurseSeaRats
+
+![2023041111530700-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/231052434-5d0125a3-b797-4b74-b368-70db3e3c1c94.jpg)
+
+![2023041111540500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/231052508-fa38720a-6baa-4de9-8d4a-8c4a1a7fecc5.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/CurseSeaRats/total">
+
 ## Curse of the Sea Rats 1.0.14 TID: 0100B970138FA000 BID: 1E5A8ACF2BC55652
 
 https://github.com/tomvita/MyNXCheats/releases/tag/CurseSeaRats
