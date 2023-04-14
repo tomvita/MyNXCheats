@@ -1,6 +1,17 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## DREDGE 1.0.2 TID: 01008CD0172D6000 BID: 51B25EE8CF43CA53
+
+https://github.com/tomvita/MyNXCheats/releases/tag/DREDGE
+
+
+![2023041415504600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/231980440-3a4b41d9-a69f-4a05-aa0d-48211af396e2.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/DREDGE/total">
+
+
 ## Atelier Ryza 3: Alchemist of the End & the Secret Key 1.0.0 TID: 010095E018944000 BID: D68D6C485C8D8170
 
 https://github.com/tomvita/MyNXCheats/releases/tag/SecretKey
