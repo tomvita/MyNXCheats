@@ -4,7 +4,7 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 ## Little Witch Nobeta 1.0.5 TID: 01005FA019DC8000 BID: AA429D4DC7181C96
 https://github.com/tomvita/MyNXCheats/releases/tag/Nobeta
 
-![2023041522292500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232230968-f9037c0f-e0dc-4f2e-81df-dbceca80ddad.jpg)
+![2023041522413100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232231161-0075195c-565f-48be-9d94-bf45ef08aec8.jpg)
 
 
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Nobeta/total">
