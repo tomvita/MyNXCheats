@@ -2,9 +2,9 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
 ## Batora: Lost Haven 1.0.0 TID: 0100A93016BF4000 BID: 1F36B8B8F6CD8DFC
-https://github.com/tomvita/MyNXCheats/releases/tag/DREDGE
+https://github.com/tomvita/MyNXCheats/releases/tag/Batora
 ![2023041511153500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232180542-3f0059b2-7b91-4199-9706-d9dcbf2587ec.jpg)
-<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/DREDGE/total">
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Batora/total">
 ## DREDGE 1.0.2 TID: 01008CD0172D6000 BID: 51B25EE8CF43CA53
 
 https://github.com/tomvita/MyNXCheats/releases/tag/DREDGE
