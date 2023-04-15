@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Little Witch Nobeta 1.0.5 TID: 01005FA019DC8000 BID: AA429D4DC7181C96
+https://github.com/tomvita/MyNXCheats/releases/tag/Nobeta
+
+![2023041522292500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232230968-f9037c0f-e0dc-4f2e-81df-dbceca80ddad.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/Nobeta/total">
+
 ## Batora: Lost Haven 1.0.0 TID: 0100A93016BF4000 BID: 1F36B8B8F6CD8DFC
 https://github.com/tomvita/MyNXCheats/releases/tag/Batora
 ![2023041511153500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232180542-3f0059b2-7b91-4199-9706-d9dcbf2587ec.jpg)
