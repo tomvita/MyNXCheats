@@ -1,6 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Arcane Vale 1.0.0 TID: 0100256019A88000 BID: 3B3B5BDB05211183
+https://github.com/tomvita/MyNXCheats/releases/tag/0100256019A88000
+
+![2023041700402500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232327409-5cbbe6fa-51d8-43ca-a456-c47d93ea0131.jpg)
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100256019A88000/total">
+
 ## Little Witch Nobeta 1.0.5 TID: 01005FA019DC8000 BID: AA429D4DC7181C96
 https://github.com/tomvita/MyNXCheats/releases/tag/Nobeta
 
