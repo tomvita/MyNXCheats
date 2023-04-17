@@ -4,9 +4,7 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 ## MEGAMAN BATTLE NETWORK LEGACY COLLECTION Vol.2 1.0.2 TID: 0100734016266000 BID: DA93E82DBB8374FE
 
 https://github.com/tomvita/MyNXCheats/releases/tag/0100734016266000
-
-![2023041708394900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232353796-ba5db746-aafc-4b4c-a122-eee639d29b73.jpg)
-
+![2023041709043400-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232355662-16feb44d-62c9-4a7b-a655-0383204ac89b.jpg)
 
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100734016266000/total">
 
