@@ -1,6 +1,16 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## MEGAMAN BATTLE NETWORK LEGACY COLLECTION Vol.2 1.0.2 TID: 0100734016266000 BID: DA93E82DBB8374FE
+
+https://github.com/tomvita/MyNXCheats/releases/tag/0100734016266000
+
+![2023041708394900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232353796-ba5db746-aafc-4b4c-a122-eee639d29b73.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100734016266000/total">
+
+
 ## Arcane Vale 1.0.0 TID: 0100256019A88000 BID: 3B3B5BDB05211183
 https://github.com/tomvita/MyNXCheats/releases/tag/0100256019A88000
 
