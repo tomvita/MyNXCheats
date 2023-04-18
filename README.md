@@ -1,6 +1,10 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## The Library of Babel 1.0.3 TID: 010047F018D5C000 BID: B68217924B314714
+https://github.com/tomvita/MyNXCheats/releases/tag/010047F018D5C000
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010047F018D5C000/total">
+
 ## TRON: Identity 1.0.1 TID: 010007501A588000 BID: 0DA3F0F5C3C04A6C
 
 https://github.com/tomvita/MyNXCheats/releases/tag/010007501A588000
