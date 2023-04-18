@@ -1,6 +1,12 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## TRON: Identity 1.0.1 TID: 010007501A588000 BID: 0DA3F0F5C3C04A6C
+
+https://github.com/tomvita/MyNXCheats/releases/tag/010007501A588000
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010007501A588000/total">
+
 ## MEGAMAN BATTLE NETWORK LEGACY COLLECTION Vol.2 1.0.2 TID: 0100734016266000 BID: DA93E82DBB8374FE
 
 https://github.com/tomvita/MyNXCheats/releases/tag/0100734016266000
