@@ -9,7 +9,7 @@ https://github.com/tomvita/MyNXCheats/releases/tag/010047F018D5C000
 ## TRON: Identity 1.0.1 TID: 010007501A588000 BID: 0DA3F0F5C3C04A6C
 
 https://github.com/tomvita/MyNXCheats/releases/tag/010007501A588000
-
+![2023041716131000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232425802-a812157f-892c-4ddd-90ea-a17e8f54de24.jpg)
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010007501A588000/total">
 
 ## MEGAMAN BATTLE NETWORK LEGACY COLLECTION Vol.2 1.0.2 TID: 0100734016266000 BID: DA93E82DBB8374FE
