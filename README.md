@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## The Mageseeker: A League of Legends Story™ 1.0.2 TID: 0100375019B2E000 BID: 6BFE3AB84EE53B5E
+https://github.com/tomvita/MyNXCheats/releases/tag/0100375019B2E000
+![2023042119021900-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233623299-33c387bb-f443-4d2e-b39c-25111b0ccd20.jpg)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100375019B2E000/total">
+
 ## The Library of Babel 1.0.3 TID: 010047F018D5C000 BID: B68217924B314714
 https://github.com/tomvita/MyNXCheats/releases/tag/010047F018D5C000
 ![2023041807510000-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/232641471-b1bded83-f06f-44a3-b5cf-486aa2fcb1ec.jpg)
