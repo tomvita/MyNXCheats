@@ -1,7 +1,6 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
-
 ## Advance Wars 1+2: Re-Boot Camp 1.0.0 TID: 0100300012F2A000 BID: 320A17744AEFD67F
 https://github.com/tomvita/MyNXCheats/releases/tag/0100300012F2A000
 ![2023042222001500-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233789568-16c407b3-5563-4edc-a431-a95b2baf1a90.jpg)
