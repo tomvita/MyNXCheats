@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Teslagrad 2 1.1 TID: 010078801815C000 BID: 4006212D5E19477D
+https://github.com/tomvita/MyNXCheats/releases/tag/010078801815C000
+![2023042415361800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233929969-88a3c505-e2cb-462d-b8fa-8c0866928270.jpg)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010078801815C000/total">
+
 ## BraveDungeon -The Meaning of Justice- 1.0.1 TID: 010068A00DAFC000 BID: 34352D53E217BF88
 https://github.com/tomvita/MyNXCheats/releases/tag/010068A00DAFC000
 ![2023042409342100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233880653-eaecf7f7-8d46-4012-a133-aee13b955d55.jpg)
