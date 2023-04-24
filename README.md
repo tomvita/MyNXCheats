@@ -3,7 +3,8 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 
 ## Teslagrad 2 1.1 TID: 010078801815C000 BID: 4006212D5E19477D
 https://github.com/tomvita/MyNXCheats/releases/tag/010078801815C000
-![2023042415361800-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233929969-88a3c505-e2cb-462d-b8fa-8c0866928270.jpg)
+![2023042421202600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/234009205-5b61b232-2849-4dd8-a7d4-b5c7aaf05d66.jpg)
+
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010078801815C000/total">
 
 ## BraveDungeon -The Meaning of Justice- 1.0.1 TID: 010068A00DAFC000 BID: 34352D53E217BF88
