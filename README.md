@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## BraveDungeon -The Meaning of Justice- 1.0.1 TID: 010068A00DAFC000 BID: 34352D53E217BF88
+https://github.com/tomvita/MyNXCheats/releases/tag/010068A00DAFC000
+![2023042409342100-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233880653-eaecf7f7-8d46-4012-a133-aee13b955d55.jpg)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010068A00DAFC000/total">
+
 ## LOST EPIC 1.00 TID: 010098F019A64000 BID: 9B8920A9247AD29C
 https://github.com/tomvita/MyNXCheats/releases/tag/010098F019A64000
 ![2023042323081600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/233848030-58756e83-17dc-4204-a674-b97adc21519b.jpg)
