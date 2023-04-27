@@ -1,0 +1,8 @@
+and x4, x20, 0x450
+cmp x4,0x450
+b.ne original
+ldr s0, b
+str s0, [x20, #0x28]
+original: {original}	
+return: b code1+4
+b:.float 100

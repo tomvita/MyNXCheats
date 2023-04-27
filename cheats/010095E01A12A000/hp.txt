@@ -1,0 +1,10 @@
+ldr w8, e
+and x4, x20, x8
+cmp x4,x8
+b.ne original
+ldr s1, b
+str s1, [x20, #0x28]
+original: {original}	
+return: b code1+4
+e:.word 0x6450
+b:.float 100

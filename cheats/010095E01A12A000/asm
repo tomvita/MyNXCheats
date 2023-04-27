@@ -1,0 +1,14 @@
+code1 = 0x0030071C
+cave_start = 0x03DFDAF8
+data_start = 0x0759C260
+data_end = 0x0759D000
+ldr w8, e
+and w4, w20,0xfff
+cmp w4,w8
+b.ne original
+ldr s0, b
+str s0, [x20, #0x28]
+original: str s0, [x20, #0x28]	
+return: b code1+4
+e:.word 0x450
+b:.float 100
