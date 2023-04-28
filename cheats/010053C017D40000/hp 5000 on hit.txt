@@ -1,0 +1,4 @@
+ldr w3, a
+str w3, [x8, #0x64]
+return: b code1+4
+a:.word 5000
