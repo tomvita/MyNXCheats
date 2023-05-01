@@ -1,0 +1,6 @@
+ldr w8, [x19, #0x1c]
+cmp w8, 100
+b.eq return
+str wzr, [x19, #0x1c]
+ldr w8, [x19, #0x1c]
+return: b code1+4
