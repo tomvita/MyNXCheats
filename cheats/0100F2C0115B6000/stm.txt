@@ -1,0 +1,4 @@
+ldr s0, b
+str s0, [x19, #0x74]
+return: b code1+4
+b:.float 6000
