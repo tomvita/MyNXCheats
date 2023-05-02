@@ -1,0 +1,3 @@
+mov w10, 999
+str w10, [x9, w8, sxtw #2]
+return: b code1+4
