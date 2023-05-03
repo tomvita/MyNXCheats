@@ -1,0 +1,5 @@
+ldr x19, [x21]
+ldr w8, b
+str w8, [x19, #0xfc]
+return: b code1+4
+b:.float 10
