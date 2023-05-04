@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+
+## The Legend of Zelda: Tears of the Kingdom 1.0.0 TID: 0100F2C0115B6000 BID: 082CE09B06E33A12
+https://github.com/tomvita/MyNXCheats/releases/tag/0100F2C0115B6000
+
+![2023050410381700-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/236100142-d3bd9090-0986-4340-ac53-0d3c1b490a56.jpg)
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100F2C0115B6000/total">
+
 ## Teslagrad 2 1.1 TID: 010078801815C000 BID: 4006212D5E19477D
 https://github.com/tomvita/MyNXCheats/releases/tag/010078801815C000
 ![2023042421202600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/234009205-5b61b232-2849-4dd8-a7d4-b5c7aaf05d66.jpg)
