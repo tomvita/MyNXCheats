@@ -1,0 +1,11 @@
+ldrh w12, [x11]
+cmp w12,0xda0 
+b.ne k
+ldr w12, [x11, #8]
+str w12, [x11, #-8]
+b original
+k:
+mov w12, 2
+str w12, [x11, #-8]
+original: {original}	
+return: b code1+4
