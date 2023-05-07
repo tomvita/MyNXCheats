@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Skinny and Franko: Fists of Violence 1.0 TID: 0100D9A01A278000 BID: 79CE9F4B439B70A9
+https://github.com/tomvita/MyNXCheats/releases/tag/0100D9A01A278000
+
+
+![2023050807333600-CCFA659F4857F96DDA29AFEDB2E166E6](https://user-images.githubusercontent.com/68505331/236708401-22c74f20-48e5-4a99-84a6-6295e763af87.jpg)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100D9A01A278000/total">
+
 
 ## The Legend of Zelda: Tears of the Kingdom 1.0.0 TID: 0100F2C0115B6000 BID: 082CE09B06E33A12
 https://github.com/tomvita/MyNXCheats/releases/tag/0100F2C0115B6000
