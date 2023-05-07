@@ -1,0 +1,6 @@
+[Special full]
+false
+[Get Extra life with every hit]
+false
+[Extra life x8]
+false
