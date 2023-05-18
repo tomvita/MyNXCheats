@@ -3,9 +3,7 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 ## Fuga: Melodies of Steel 2 1.0.0 TID: 01003F501907A000 BID: A5B52D6D2AACF9FA
 https://github.com/tomvita/MyNXCheats/releases/tag/01003F501907A000
 
-
-
-
+![2023051815325900-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/d0772bf9-f380-4708-8f6d-9b04d8dc7c79)
 
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01003F501907A000/total">
 
