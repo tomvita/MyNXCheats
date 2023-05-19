@@ -1,0 +1,3 @@
+ldr s1, [x8, #0x1c]
+original: str s1, [x8, #0x18]
+return: b code1+4

@@ -1,0 +1,6 @@
+[c max]
+false
+[asm hp]
+false
+[off]
+false

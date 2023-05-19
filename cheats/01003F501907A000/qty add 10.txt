@@ -1,0 +1,4 @@
+ldr w0, [x8, #8]
+add w0, w0,10
+str w0, [x8, #8]!
+return: b code1+4
