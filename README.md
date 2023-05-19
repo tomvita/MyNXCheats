@@ -1,5 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## Fuga: Melodies of Steel 2 1.0.0 & 1.0.2 TID: 01003F501907A000 BID: A5B52D6D2AACF9FA & 143F688EECF20045
+https://github.com/tomvita/MyNXCheats/releases/tag/01003F501907A000
+
+![2023051815325900-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/d0772bf9-f380-4708-8f6d-9b04d8dc7c79)
+![2023051823165300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/f5fdd575-b8d0-4d3d-99bc-83f357f42679)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01003F501907A000/total">
 
 ## Skinny and Franko: Fists of Violence 1.0 TID: 0100D9A01A278000 BID: 79CE9F4B439B70A9
 https://github.com/tomvita/MyNXCheats/releases/tag/0100D9A01A278000
