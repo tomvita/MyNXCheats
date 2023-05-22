@@ -11,3 +11,10 @@
 04000000 04153874 43FA0000 
 20000000 
 
+[Use above code when human are idle make HP=500]
+20000001
+[Buy food token=500-cost, food=500+what you bought]
+20000001
+[Do not use code any other time]
+20000001
+
