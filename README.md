@@ -1,6 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Despot's Game 1.3 TID: 01002C4017166000 BID: F579F31660CF0897
+https://github.com/tomvita/MyNXCheats/releases/tag/01002C4017166000
+
+![2023052122275700-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/ef16726b-66f2-420c-82f4-c2ec3345c41d)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01002C4017166000/total">
+
 ## LEGO® 2K Drive 1.3 TID: 0100739018020000 BID: 4FB934CF53CA8697
 https://github.com/tomvita/MyNXCheats/releases/tag/0100739018020000
 
