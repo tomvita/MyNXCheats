@@ -1,0 +1,4 @@
+ldr x21, b
+str x21, [x19, #0x278]
+return: b code1+4
+b:.float 10000

@@ -1,0 +1,14 @@
+[  ohk]
+true
+[ attacker hp fill]
+true
+[shard 10000]
+false
+[stamina full]
+false
+[hp full during dungeon explore]
+false
+[condition 100%]
+false
+[Off enable]
+false

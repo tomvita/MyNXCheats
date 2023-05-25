@@ -1,0 +1,5 @@
+mov w10, 1000
+str w10, [x8, #0x570]
+str w10, [x8, #0x580]
+str w10, [x8, #0x590]
+return: b code1+4

@@ -1,0 +1,5 @@
+ldr x2, a
+str w2, [x8, #0x3798]
+return: b code1+4
+a:.word 10000
+.word 0000
