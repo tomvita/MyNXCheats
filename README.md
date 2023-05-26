@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Monster Menu The Scavenger's Cookbook 1.0.0 TID: 010045A0193CE000 BID: F6DDDBD1D51F4B78
+
+https://github.com/tomvita/MyNXCheats/releases/tag/010045A0193CE000
+
+![2023052609534300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/fdc71696-812b-47e0-9de5-a86e6219a0aa)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010045A0193CE000/total">
+
 ## Warhammer 40,000: Boltgun 1.0.0.1 TID: 01005FD017E60000 BID: 097127CA5C4F37EC
 
 https://github.com/tomvita/MyNXCheats/releases/tag/01005FD017E60000
