@@ -1,0 +1,12 @@
+[enable]
+false
+[ HP full]
+false
+[ AP full]
+false
+[ Combo 10]
+false
+[ Enemy no move]
+false
+[Off enable]
+false

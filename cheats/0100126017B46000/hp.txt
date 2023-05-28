@@ -1,0 +1,11 @@
+ldr w8, [x0, #0x80]
+cbz w8, return
+str w8, [x0, #0x7c]
+mov w8, 10
+str w8, [x0, #0xb0]
+ldr w8, [x0, #0x54]
+str w8, [x0, #0x50]
+return: ldr w8, [x0, #0x50]
+b code1+4
+b.ne return
+cmp w8, 3
