@@ -1,6 +1,15 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Fights in Tight Spaces 1.2.9196 TID: 0100126017B46000 BID: 022403A800E4434B
+https://github.com/tomvita/MyNXCheats/releases/tag/0100126017B46000
+
+![2023052900311200-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/84bea4f8-a950-4f48-81df-ea9e8051626a)
+
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100126017B46000/total">
+
 ## Monster Menu The Scavenger's Cookbook 1.0.0 TID: 010045A0193CE000 BID: F6DDDBD1D51F4B78
 
 https://github.com/tomvita/MyNXCheats/releases/tag/010045A0193CE000
