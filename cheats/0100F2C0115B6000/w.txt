@@ -1,0 +1,4 @@
+ldr d24, c
+str d24, [x19, #8]
+return: b code1+4
+c:.double -2100
