@@ -1,0 +1,12 @@
+[coin x16]
+false
+[coin 10000]
+false
+[ammo no dec]
+false
+[no reload]
+false
+[hp no dec]
+false
+[Off enable]
+false

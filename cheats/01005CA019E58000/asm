@@ -1,0 +1,7 @@
+code1 = 0x0052A444
+cave_start = 0x03C60A70
+data_start = 0x074412E8
+data_end = 0x07442000
+mov w1, 10000
+str w1, [x8, #0x6d4]
+return: b code1+4

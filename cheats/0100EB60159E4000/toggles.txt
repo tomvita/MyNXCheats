@@ -1,0 +1,10 @@
+[coin x4]
+false
+[exp x4]
+false
+[skill pts no dec]
+false
+[ hp no dec all]
+false
+[hp fill]
+false
