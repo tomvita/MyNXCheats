@@ -1,6 +1,10 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Aeterna Noctis v1.1.000 TID: 0100EB60159E4000 BID: 9B5D77C2AA0D90D3
+https://github.com/tomvita/MyNXCheats/releases/tag/0100EB60159E4000
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100EB60159E4000/total">
 ## Fights in Tight Spaces 1.2.9196 TID: 0100126017B46000 BID: 022403A800E4434B
 https://github.com/tomvita/MyNXCheats/releases/tag/0100126017B46000
 
