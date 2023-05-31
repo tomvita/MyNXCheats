@@ -1,9 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 
+## Chronicles of 2 Heroes: Amaterasu's Wrath 1.0.1 TID: 0100EB901AE40000 BID: F34B5D7275D81E47
+https://github.com/tomvita/MyNXCheats/releases/tag/0100EB901AE40000
+![2023053122104800-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/374f53a9-7c27-45e8-aea8-9aa6b433b7a3)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100EB901AE40000/total">
 ## Aeterna Noctis v1.1.000 TID: 0100EB60159E4000 BID: 9B5D77C2AA0D90D3
 https://github.com/tomvita/MyNXCheats/releases/tag/0100EB60159E4000
-
+![2023053021395400-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/f9a0e948-f414-4d17-8b39-9713304db174)
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100EB60159E4000/total">
 ## Fights in Tight Spaces 1.2.9196 TID: 0100126017B46000 BID: 022403A800E4434B
 https://github.com/tomvita/MyNXCheats/releases/tag/0100126017B46000
