@@ -1,0 +1,8 @@
+[ammo]
+true
+[coin 10k]
+false
+[heart]
+true
+[  moon jump]
+true
