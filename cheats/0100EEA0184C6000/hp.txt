@@ -1,0 +1,3 @@
+mov w21, 1000
+stp w8, w21, [x19, #0x3c]
+return: b code1+4

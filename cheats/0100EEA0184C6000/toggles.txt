@@ -1,0 +1,4 @@
+[Freeze Time]
+false
+[ hit fill HP (fill enemy too)]
+false

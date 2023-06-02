@@ -1,0 +1,7 @@
+code1 = 0x02D04810
+cave_start = 0x02DA1F20
+data_start = 0x05F1AEB8
+data_end = 0x05F1C000
+mov w21, 1000
+stp w8, w21, [x19, #0x3c]
+return: b code1+4
