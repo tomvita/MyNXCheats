@@ -1,5 +1,9 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## Etrian Odyssey HD 1.0.2a TID: 01007FC017FE2000 BID: 36EC4F5191787C51
+https://github.com/tomvita/MyNXCheats/releases/tag/01007FC017FE2000
+![2023060217571600-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/b55f18f2-7c51-4a76-aae8-23dfaa63986b)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01007FC017FE2000/total">
 
 ## Chronicles of 2 Heroes: Amaterasu's Wrath 1.0.1 TID: 0100EB901AE40000 BID: F34B5D7275D81E47
 https://github.com/tomvita/MyNXCheats/releases/tag/0100EB901AE40000
