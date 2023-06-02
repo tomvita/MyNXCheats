@@ -1,0 +1,12 @@
+ldr w22, [x8, #0x18]
+cbz w22, return
+mov w22, 1
+str w22, [x8, #0x10]
+str w22, [x8, #0x18]
+ldr w22, [x8, #0x14]
+b code1+4
+return: 
+ldr w22, [x8, #0x14]
+str w22, [x8, #0x10]
+b code1+4
+

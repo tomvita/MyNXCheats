@@ -1,0 +1,4 @@
+mov w22, 1
+str w22, [x8, #0x10]
+ldr w22, [x8, #0x14]
+return: b code1+4

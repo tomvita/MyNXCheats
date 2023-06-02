@@ -1,0 +1,5 @@
+ldr x23, [x9, 0x140]
+fmov s23, 2
+str s23, [x23, 0xb8]
+ldr x23, [x9, x8]
+return: b code1+4

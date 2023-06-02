@@ -1,0 +1,14 @@
+[money 10k]
+false
+[use skill pts to have 99]
+false
+[tp no dec in menu]
+true
+[ ehp0 use when desperate no exp gain]
+false
+[ ehp1 for ohk]
+true
+[ hp 40 tp 20 in menu]
+true
+[Off enable]
+false

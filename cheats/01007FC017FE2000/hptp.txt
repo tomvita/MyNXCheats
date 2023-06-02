@@ -1,0 +1,4 @@
+mov w8, 20
+mov w3, 20
+stp w8, w3, [x1, #0x38]
+return: b code1+4
