@@ -2,7 +2,8 @@
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
 ## Alice Gear Aegis CS 1.0.0 TID: 0100EEA0184C6000 BID: D9F3E7F3E9F4E328
 https://github.com/tomvita/MyNXCheats/releases/tag/0100EEA0184C6000
-![2023060223340300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/043f0e4b-1a12-4b28-9959-f5d301b46b1d)
+
+![2023060311472600-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/e91333e1-2498-41d6-a882-316f88d3129e)
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100EEA0184C6000/total">
 
 ## Etrian Odyssey HD 1.0.2a TID: 01007FC017FE2000 BID: 36EC4F5191787C51
