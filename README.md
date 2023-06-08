@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## CONV/RGENCE: A League of Legends Story™ 1.0.1 TID: 010020B016EF4000 BID: 7E25622D50D562BF
+https://github.com/tomvita/MyNXCheats/releases/tag/010020B016EF4000
 
+![2023060900003400-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/9fc210d4-e664-403c-aa21-32a106c247ea)
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010020B016EF4000/total">
 ## Protodroid DeLTA 1.0.0 TID: 010099701A462000 BID: 869EE787F171754D
 https://github.com/tomvita/MyNXCheats/releases/tag/010099701A462000
 ![2023060810360700-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/62361e66-5657-4b2d-83ea-695a930e2ff2)
