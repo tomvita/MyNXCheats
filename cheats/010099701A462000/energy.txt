@@ -1,0 +1,9 @@
+ldr w26, [x8,-8]
+ldr w25, b
+cmp w26, w25
+b.ne return
+str w26, [x8,-4]
+return: 
+ldr w8, [x8]
+b code1+4
+b:.float 60

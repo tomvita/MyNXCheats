@@ -1,0 +1,8 @@
+[coin 9999]
+false
+[energy]
+false
+[hp full]
+false
+[Off enable]
+false
