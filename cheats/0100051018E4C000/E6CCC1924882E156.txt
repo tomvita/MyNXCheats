@@ -1,0 +1,17 @@
+[Breeze beta79a Loop8: Summer of Gods 1.02 TID: 0100051018E4C000 BID: E6CCC1924882E156]
+
+[stm]
+04000000 01879B80 B9404C00 
+
+[en]
+04000000 01879BA0 B9405000 
+
+[stats]
+04000000 01E5A208 B9402129 
+
+[enhancement to stats]
+04000000 01879318 B87069B1 
+
+[feeling love (hate love friendship)]
+04000000 018857B8 B9401E69 
+
