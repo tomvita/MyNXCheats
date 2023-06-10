@@ -1,5 +1,12 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## Bleak Sword DX 1.01 TID: 01004DD01A2C4000 BID: 56CA7A237771DDB6
+https://github.com/tomvita/MyNXCheats/releases/tag/01004DD01A2C4000
+
+![2023061017583200-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/ab5e267d-0368-4520-a4d6-0e7b77932ec4)
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01004DD01A2C4000/total">
+
 ## CONV/RGENCE: A League of Legends Story™ 1.0.1 TID: 010020B016EF4000 BID: 7E25622D50D562BF
 https://github.com/tomvita/MyNXCheats/releases/tag/010020B016EF4000
 
