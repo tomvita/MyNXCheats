@@ -1,0 +1,8 @@
+[master code]
+true
+[ hp no dec]
+true
+[  fill hp]
+true
+[ stm no dec]
+true
