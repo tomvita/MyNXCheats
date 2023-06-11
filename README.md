@@ -3,8 +3,7 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 ## Eastern Exorcist 1.09.1 TID: 01006C4017F40000 BID: 2A82F213D5BCCC4B
 https://github.com/tomvita/MyNXCheats/releases/tag/01006C4017F40000
 
-![2023061118033300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/e41e659a-fd99-41e0-93bc-e136fbf1ee3c)
-
+![2023061200133700-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/cea14567-123e-482c-a758-092a30360b6d)
 
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01006C4017F40000/total">
 
