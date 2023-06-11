@@ -1,5 +1,13 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## Eastern Exorcist 1.09.1 TID: 01006C4017F40000 BID: 2A82F213D5BCCC4B
+https://github.com/tomvita/MyNXCheats/releases/tag/01006C4017F40000
+
+![2023061118033300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/e41e659a-fd99-41e0-93bc-e136fbf1ee3c)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01006C4017F40000/total">
+
 ## Bleak Sword DX 1.01 TID: 01004DD01A2C4000 BID: 56CA7A237771DDB6
 https://github.com/tomvita/MyNXCheats/releases/tag/01004DD01A2C4000
 
