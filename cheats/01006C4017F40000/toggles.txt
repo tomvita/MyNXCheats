@@ -1,0 +1,6 @@
+[med 10]
+false
+[spirit x16]
+false
+[qty 99]
+false
