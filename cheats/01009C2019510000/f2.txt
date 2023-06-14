@@ -1,0 +1,9 @@
+ldr s0, [x0, #0x4c]
+ldr s30, b
+fcmp s0,s30
+b.ne r
+fmov s0, 20
+str s0, [x0, #0x3c]
+r:ldr s0, [x0, #0x3c]
+return: b code1+4
+b:.float 10

@@ -1,0 +1,8 @@
+[coins 10k]
+false
+[ fill hp (eveyone)]
+false
+[flame bar full]
+false
+[Off enable]
+false

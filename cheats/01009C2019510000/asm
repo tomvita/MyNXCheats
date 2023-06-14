@@ -1,0 +1,13 @@
+code1 = 0x0377D7B0
+cave_start = 0x0433D1D0
+data_start = 0x063AC080
+data_end = 0x063AD000
+ldr s0, [x0, #0x4c]
+ldr s30, b
+fcmp s0,s30
+b.ne r
+fmov s0, 20
+str s0, [x0, #0x3c]
+r:ldr s0, [x0, #0x3c]
+return: b code1+4
+b:.float 10
