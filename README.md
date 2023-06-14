@@ -1,5 +1,14 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+
+## Nocturnal 1.0.0 TID: 01009C2019510000 BID: F3BAE4020122FD08
+https://github.com/tomvita/MyNXCheats/releases/tag/01009C2019510000
+
+![2023061418551600-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/f4d5663a-cf30-415f-a076-78064f9eef6a)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01009C2019510000/total">
+
 ## Eastern Exorcist 1.09.1 TID: 01006C4017F40000 BID: 2A82F213D5BCCC4B
 https://github.com/tomvita/MyNXCheats/releases/tag/01006C4017F40000
 
