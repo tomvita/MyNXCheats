@@ -1,0 +1,8 @@
+ldr x8, [x20, #38]
+cmp w8,92
+b.ne r
+ldr w8, b
+ldr x8, [x20, #8]
+r:ldr x8, [x20, #8]
+return: b code1+4
+b:.float 17

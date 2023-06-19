@@ -1,0 +1,6 @@
+[wip 0.01 use at own risk]
+false
+[ qty 999]
+true
+[moon jump (- redo pointer search)]
+true
