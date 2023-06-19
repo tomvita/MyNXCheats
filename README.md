@@ -1,6 +1,12 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## Cassette Beasts 1.2.0 TID: 010066F01A0E0000 BID: C6F994E9A8F1E560
+https://github.com/tomvita/MyNXCheats/releases/tag/010066F01A0E0000
 
+![2023061912153000-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/bd7932e2-b8a8-46a7-8576-cccfba756d88)
+
+
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010066F01A0E0000/total">
 ## Nocturnal 1.0.0 TID: 01009C2019510000 BID: F3BAE4020122FD08
 https://github.com/tomvita/MyNXCheats/releases/tag/01009C2019510000
 
