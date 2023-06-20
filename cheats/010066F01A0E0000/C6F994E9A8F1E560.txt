@@ -1,6 +1,6 @@
 [Breeze beta79a Cassette Beasts 1.2.0 TID: 010066F01A0E0000 BID: C6F994E9A8F1E560]
 
-[wip 0.01 use at own risk]
+[wip 0.02 use at own risk]
 04000000 00000000 00000000 
 
 [ qty 99]
