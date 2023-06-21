@@ -1,5 +1,9 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## Pulling no Punches 1.0.0 TID: 0100A50018D38000 BID: D2138FAC3769A5FA
+https://github.com/tomvita/MyNXCheats/releases/tag/0100A50018D38000
+![2023062115211400-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/1a357fd2-02fc-4f18-8665-f1a8093a13be)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/0100A50018D38000/total">
 ## Cassette Beasts 1.2.0 TID: 010066F01A0E0000 BID: C6F994E9A8F1E560
 https://github.com/tomvita/MyNXCheats/releases/tag/010066F01A0E0000
 
