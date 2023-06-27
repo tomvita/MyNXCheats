@@ -1,0 +1,4 @@
+[ fill hp & ohk]
+true
+[no ohk]
+false

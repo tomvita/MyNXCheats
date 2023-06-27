@@ -1,0 +1,4 @@
+mov w9,100
+strh w9,[x8] 
+ldp w9, w10, [x8]
+return: b code1+4
