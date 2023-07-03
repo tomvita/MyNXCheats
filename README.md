@@ -3,8 +3,6 @@ cheat codes for switch that I made. I don't normally port cheats to new game upd
 ## The Lara Croft Collection
 https://github.com/tomvita/MyNXCheats/releases/tag/010079C017F5E002
 ![2023070309505100-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/edee75f0-8801-4851-8639-410d45ff9fb4)
-
-
 <img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010079C017F5E002/total">
 
 ## Pulling no Punches 1.0.0 TID: 0100A50018D38000 BID: D2138FAC3769A5FA
