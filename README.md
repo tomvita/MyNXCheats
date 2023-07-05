@@ -1,5 +1,10 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## DYSMANTLE 1.2.1.2 TID: 010008900BC5A000 BID: E4EDD119A02D5B79
+https://github.com/tomvita/MyNXCheats/releases/tag/010008900BC5A000
+![2023070520273100-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/2eb25f9d-2997-4359-a710-4f1bf7ace642)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010008900BC5A000/total">
+
 ## The Lara Croft Collection
 https://github.com/tomvita/MyNXCheats/releases/tag/010079C017F5E002
 ![2023070309505100-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/edee75f0-8801-4851-8639-410d45ff9fb4)
