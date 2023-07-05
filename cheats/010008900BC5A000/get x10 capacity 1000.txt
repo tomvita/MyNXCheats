@@ -1,0 +1,8 @@
+stp x19, x8, [x20]
+ldr w8, a
+stp w8, w8, [x20,8]
+ldr w8, b
+stp w8, w8, [x20,16]
+return: b code1+4
+a:.word 10
+b:.word 1000

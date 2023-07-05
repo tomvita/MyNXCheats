@@ -1,0 +1,6 @@
+ldr w21, a
+str w21, [x0]
+movz w0, #999
+return: b code1+4
+a:.word 0x393939
+
