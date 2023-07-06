@@ -1,0 +1,12 @@
+[stats]
+false
+[w]
+false
+[hp]
+false
+[ hp2]
+true
+[Off enable]
+false
+[ ohk]
+true
