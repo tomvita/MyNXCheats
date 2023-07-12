@@ -1,0 +1,8 @@
+stp x25, x26, [sp,#-0x90]
+and x25, x8, 0xFFF
+cmp x25, 0xDF8
+b.ne original
+strb wzr, [x8, #0x120]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
