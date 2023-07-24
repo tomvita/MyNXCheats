@@ -1,0 +1,3 @@
+ldr w9, [x21, #0x4c]
+str w9, [x21, #0x48]
+return: b code1+4
