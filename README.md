@@ -1,5 +1,20 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+## The Legend of Heroes: Trails into Reverie 1.0.2 TID: 01008CB0156BC000 BID: A3E80F5FE073639D
+https://github.com/tomvita/MyNXCheats/releases/tag/01008CB0156BC000
+![2023070619083300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/c07104ed-be82-445a-a16b-8c050a4782b2)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/01008CB0156BC000/total">
+
+## DYSMANTLE 1.2.1.2 TID: 010008900BC5A000 BID: E4EDD119A02D5B79
+https://github.com/tomvita/MyNXCheats/releases/tag/010008900BC5A000
+![2023070521211600-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/0240ead6-4e4d-4540-a8dd-ea10ffdc8ab6)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010008900BC5A000/total">
+
+## The Lara Croft Collection
+https://github.com/tomvita/MyNXCheats/releases/tag/010079C017F5E002
+![2023070309505100-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/edee75f0-8801-4851-8639-410d45ff9fb4)
+<img src="https://img.shields.io/github/downloads/tomvita/MyNXCheats/010079C017F5E002/total">
+
 ## Pulling no Punches 1.0.0 TID: 0100A50018D38000 BID: D2138FAC3769A5FA
 https://github.com/tomvita/MyNXCheats/releases/tag/0100A50018D38000
 ![2023062115211400-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/1a357fd2-02fc-4f18-8665-f1a8093a13be)

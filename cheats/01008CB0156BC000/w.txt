@@ -1,0 +1,4 @@
+ldr w21, [x19, #0x3a8]
+str w21, [x19, #0x38c]
+str w21, [x19, #0x390]
+return: b code1+4

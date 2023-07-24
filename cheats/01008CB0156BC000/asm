@@ -1,0 +1,12 @@
+code1 = 0x00171E94
+cave_start = 0x00D67780
+data_start = 0x07A51470
+data_end = 0x07A52000
+ldr w8, [x9, #0x410]
+cmp w8, 2048
+b.eq r
+mov w8, 1
+str w8, [x9, #0x414]
+r:
+ldr w8, [x9, #0x414]
+return: b code1+4

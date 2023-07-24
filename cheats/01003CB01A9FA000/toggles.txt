@@ -1,0 +1,4 @@
+[oxygen full]
+false
+[rubber ducky 99]
+false

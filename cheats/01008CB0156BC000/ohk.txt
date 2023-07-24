@@ -1,0 +1,8 @@
+ldr w8, [x9, #0x410]
+cmp w8, 2048
+b.eq r
+mov w8, 1
+str w8, [x9, #0x414]
+r:
+ldr w8, [x9, #0x414]
+return: b code1+4

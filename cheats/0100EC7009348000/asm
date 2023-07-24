@@ -1,0 +1,9 @@
+code1 = 0x00076444
+cave_start = 0x000E0680
+data_start = 0x253C4070
+data_end = 0x253C5000
+mov w9, 4
+str w9, [x21, #0x84]
+mov w9, 2
+str w9, [x21, #0x88]
+return: b code1+4

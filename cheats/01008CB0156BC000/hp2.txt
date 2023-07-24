@@ -1,0 +1,3 @@
+ldr w8, [x23,4]
+str w8, [x23]
+return: b code1+4

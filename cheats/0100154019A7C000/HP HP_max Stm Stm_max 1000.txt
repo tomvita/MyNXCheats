@@ -1,0 +1,25 @@
+stp x25, x26, [sp,#-0x90]	
+and w26,w8, 0xfff
+cmp w26,0x668
+b.eq hp
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne original
+and w26,w8, 0xfff
+cmp w26,0x804
+b.ne original
+ldr w25, b
+str w25, [x8,-4]
+str w25, [x8]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0x70540000
+b:.float 1000
+hp:
+ldr w25, b
+str w25, [x8]
+mov w25, 1000
+str w25, [x8,4]
+b original
