@@ -1,0 +1,7 @@
+hack1:		STP X25, X26, [SP,#-0x90]	
+add x26, x8, #0x14
+		adrp x27, (data_start & 0xFFFFFFFF000) 
+		str x26,[x27, (data_start & 0xFFF)]
+		LDP X25, X26, [SP,#-0x90]
+original:	{original}	
+Return:		b code1+4

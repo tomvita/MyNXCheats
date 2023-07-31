@@ -1,0 +1,4 @@
+mov w0, 3
+ldr w0, [x0, #0x50]
+return: b code1+4
+a:.word 100

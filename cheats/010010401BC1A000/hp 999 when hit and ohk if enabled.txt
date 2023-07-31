@@ -1,0 +1,12 @@
+stp x25, x26, [sp,#-0x90]	
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne original
+mov w8, 999
+cmp w8, 0
+original: {original}	
+cmp w8, 0
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0x17f00000

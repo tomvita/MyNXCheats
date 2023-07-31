@@ -1,0 +1,3 @@
+mov w10, 3
+str w10, [x19, #0x20]
+return: b code1+4

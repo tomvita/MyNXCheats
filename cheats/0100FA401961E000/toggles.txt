@@ -1,0 +1,6 @@
+[hearts]
+false
+[keys]
+false
+[Off enable]
+false

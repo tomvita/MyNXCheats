@@ -1,0 +1,12 @@
+[coins x16]
+false
+[hp 999 when hit and ohk if enabled]
+false
+[enable ohk above]
+false
+[disable hp 999 above]
+false
+[sp full]
+true
+[Off enable]
+false

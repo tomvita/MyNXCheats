@@ -1,0 +1,4 @@
+ldr s3, b
+str s3, [x19, #0x9c]
+return: b code1+4
+b:.float 50
