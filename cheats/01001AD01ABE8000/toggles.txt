@@ -1,0 +1,18 @@
+[exp 10k]
+false
+[ego 1k]
+false
+[Activate  hp]
+false
+[  Clear buffer  hp]
+true
+[hp1]
+true
+[ hp2]
+true
+[hp3]
+true
+[hp4]
+true
+[hp5]
+true
