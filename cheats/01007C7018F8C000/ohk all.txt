@@ -1,0 +1,14 @@
+stp x25, x26, [sp,#-0x90]	
+ldr w26, [x0, #0x10]
+ldr w25,a
+cmp w25, w26
+b.eq original
+ldr w25,e
+cmp w25, w26
+b.gt original
+str w25, [x0, #0x10]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+a:.float 300
+e:.float 1
