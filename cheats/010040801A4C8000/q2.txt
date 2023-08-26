@@ -1,0 +1,8 @@
+str w8, [x19, #0x98]
+ldr w8, [x19, #0x10]
+cbz w8,h
+ldr w8, [x19, #0x64]
+str w8, [x19, #0x98]
+return: b code1+4
+h:ldr w8, [x19, #0x98]
+b code1+4
