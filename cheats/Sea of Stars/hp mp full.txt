@@ -1,0 +1,5 @@
+ldr w20, a
+str w20, [x0, #0x78]
+str w20, [x0, #0x7c]
+return: b code1+4
+a:.word 256
