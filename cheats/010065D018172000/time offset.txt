@@ -1,0 +1,6 @@
+stp x25, x26, [sp,#-0x90]
+adrp x25, (data_start & 0xFFFFFFFF000)
+ldr s1, [x25, (data_start & 0xFFF)]
+ldp x25, x26, [sp,#-0x90]
+str s1, [x8, #8]
+return: b code1+4
