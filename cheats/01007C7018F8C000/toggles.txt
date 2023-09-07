@@ -1,0 +1,8 @@
+[ammo no dec]
+false
+[hp, shield, energy]
+false
+[ohk all]
+false
+[Off enable]
+false

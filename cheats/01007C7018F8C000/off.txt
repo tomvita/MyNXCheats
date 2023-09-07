@@ -1,0 +1,6 @@
+ldr s0, [x0, #0x10]
+ldr s1, a
+fsub s0, s0, s1
+str s0, [x0, #0x10]
+return: b code1+4
+a:.float 200

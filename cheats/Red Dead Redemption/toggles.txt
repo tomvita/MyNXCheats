@@ -1,0 +1,24 @@
+[master code]
+true
+[God]
+false
+[Inf.Ammo2]
+false
+[Inf.Ammo]
+false
+[No Reload]
+false
+[Horse Speed 2X]
+false
+[Horse Speed 3X]
+false
+[Horse Speed 4X]
+false
+[Horse Speed 5X]
+false
+[Horse Inf.Stamina]
+false
+[Inf. Dead Eye]
+false
+[ammo]
+false
