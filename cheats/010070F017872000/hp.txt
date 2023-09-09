@@ -1,0 +1,5 @@
+ldr w8, [x20, #0x34]
+cbz w8, original
+ldr s0, [x20, #0x34]
+original: {original}	
+return: b code1+4
