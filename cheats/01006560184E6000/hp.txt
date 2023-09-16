@@ -1,0 +1,15 @@
+stp x25, x26, [sp,#-0x90]	
+ldr x25, [sp,#0x90]
+cbnz x25, p2
+p1:
+fmov s0, 1
+str s0, [x8, #0x28]
+str s0, [x8, #0x2c]
+b original
+p2:
+cmp x25,0x178
+b.ne original
+str wzr, [x8, #0x2c]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4

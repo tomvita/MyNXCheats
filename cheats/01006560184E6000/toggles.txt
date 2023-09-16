@@ -1,0 +1,6 @@
+[hp]
+true
+[kill p2]
+true
+[p1 hp full]
+true
