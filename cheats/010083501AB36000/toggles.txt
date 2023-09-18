@@ -1,0 +1,8 @@
+[coin x16]
+false
+[record momentum]
+true
+[keep momentum]
+true
+[Off enable]
+false

@@ -1,0 +1,11 @@
+ldp q2, q3, [x21, #0x20]
+stp x25, x26, [sp,#-0x90]
+adrp x25, (data_start & 0xFFFFFFFF000) 
+add x25,x25, (data_start & 0xFFF)
+str x21,[x25,-8]
+stp q2,q3,[x25]
+ldp q2,q3,[x25]
+stp q2,q3,[x21, #0x20]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
