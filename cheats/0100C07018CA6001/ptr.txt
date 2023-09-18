@@ -1,0 +1,4 @@
+adrp x9, (data_start & 0xFFFFFFFF000) 
+str x20,[x9, (data_start & 0xFFF)]
+ldr w9, [x20, #0x20]
+return: b code1+4

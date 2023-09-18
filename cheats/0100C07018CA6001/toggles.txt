@@ -1,0 +1,18 @@
+[pointer prep]
+true
+[hp full]
+false
+[exp x16]
+false
+[Off enable]
+false
+[exp 1000]
+false
+[atk 999]
+false
+[def 999]
+false
+[agl 999]
+false
+[vit 999]
+false
