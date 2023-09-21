@@ -1,0 +1,12 @@
+ldr s0, b
+str s0, [x0, #0x18]
+str s0, [x0, #0x1c]
+str s0, [x0, #0x98]
+str s0, [x0, #0x9c]
+ldr s0, a
+str s0, [x0, #8]
+str s0, [x0, #0x88]
+return:
+b code1+4
+a:.float 5000
+b:.float 500
