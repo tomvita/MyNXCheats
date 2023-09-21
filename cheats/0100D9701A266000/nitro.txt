@@ -1,0 +1,20 @@
+STP X25, X26, [SP,#-0x90]
+ADRP X25, (data_start & 0xFFFFFFFF000)
+ldr x26, [X25, (data_start & 0xFFF)]
+cbz x26,p1_init
+cmp x26,x0
+b.ne p2
+p1:
+ldr s0, [x0, #0xcc]
+str s0, [x0, #0xc8]
+b return
+p2:
+str wzr, [x0, #0xc8]
+b return
+p1_init:
+STR x0, [X25, (data_start & 0xFFF)]
+return:
+ldr s0, [x0, #0xc8]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.word 100
