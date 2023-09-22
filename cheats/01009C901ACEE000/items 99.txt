@@ -1,0 +1,8 @@
+STP X25, X26, [SP,#-0x90]
+ldr  w25, a
+strh w25, [x8, x26]
+return:
+ldrh w8, [x8, x26]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.word 99
