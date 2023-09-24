@@ -1,20 +1,20 @@
-STP X25, X26, [SP,#-0x90]
-ADRP X25, (data_start & 0xFFFFFFFF000)
-ldr x26, [X25, (data_start & 0xFFF)]
-cbz x26,p1_init
-cmp x26,x0
-b.ne p2
+STP X25, X26, [SP,#-0x90] /* save to stack so we can use the register */
+ADRP X25, (data_start & 0xFFFFFFFF000) /* get relative address to memory available for use */
+ldr x26, [X25, (data_start & 0xFFF)] /* load from this memory we save something */
+cbz x26,p1_init /* nothing was written as it is 0 */
+cmp x26,x0 /* compared with stored value */
+b.ne p2 /* don't match means p2*/
 p1:
-ldr s0, [x0, #0xcc]
-str s0, [x0, #0xc8]
+ldr s0, [x0, #0xcc] /* load max */
+str s0, [x0, #0xc8] /* store current */
 b return
 p2:
-str wzr, [x0, #0xc8]
+str wzr, [x0, #0xc8] /* sabo opponent */
 b return
 p1_init:
-STR x0, [X25, (data_start & 0xFFF)]
+STR x0, [X25, (data_start & 0xFFF)] /* save that value */
 return:
-ldr s0, [x0, #0xc8]
-LDP X25, X26, [SP,#-0x90]
-b code1+4
-a:.word 100
+ldr s0, [x0, #0xc8] /* perform original code */
+LDP X25, X26, [SP,#-0x90] /* uncorrupt these register by loadking it */
+b code1+4 /* return to game code */
+a:.word 100 /* example of defining a value */
