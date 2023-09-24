@@ -1,0 +1,8 @@
+[gold x10]
+false
+[hp en full]
+false
+[ohk]
+false
+[Off enable]
+false

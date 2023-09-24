@@ -1,0 +1,6 @@
+ldr s0, [x0, #0x50]
+str s0, [x0, #0x30]
+ldr s0, [x0, #0x48]
+str s0, [x0, #0x28]
+return:
+b code1+4

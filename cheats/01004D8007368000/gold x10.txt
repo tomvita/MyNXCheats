@@ -1,0 +1,6 @@
+ldr d0, a
+fmul d8, d8, d0
+ldr d0, [x8, #8]
+return:
+b code1+4
+a:.double 10
