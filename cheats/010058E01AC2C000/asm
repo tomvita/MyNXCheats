@@ -1,0 +1,7 @@
+code1 = 0x0351A044
+cave_start = 0x05852708
+data_start = 0x0A4DA9B0
+data_end = 0x0A4DB000
+STP W0, WZR, [X8,#0x10]
+RET
+

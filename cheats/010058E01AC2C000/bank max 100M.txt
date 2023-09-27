@@ -1,0 +1,6 @@
+ldp w1, w10, [x19, #0x94]
+ldr w1, a
+stp w1, w10, [x19, #0x94]
+return:
+b code1+4
+a:.word 100000000

@@ -1,0 +1,20 @@
+[ mj]
+true
+[shop max 1000]
+false
+[bank max 100M]
+false
+[skill pt 100]
+false
+[int]
+false
+[uint]
+false
+[long]
+false
+[ulong]
+false
+[bool]
+false
+[Off enable]
+false

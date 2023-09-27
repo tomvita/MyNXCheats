@@ -1,0 +1,5 @@
+mov w24, 100
+str w24, [x0, #0x94]
+ldr w24, [x0, #0x98]
+return:
+b code1+4

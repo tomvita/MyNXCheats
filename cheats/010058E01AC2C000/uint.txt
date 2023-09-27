@@ -1,0 +1,5 @@
+EOR W9, W9, W8
+STP W9, WZR, [X0,#0x10]
+MOV W0, W9
+RET
+

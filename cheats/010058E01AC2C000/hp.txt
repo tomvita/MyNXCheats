@@ -1,0 +1,5 @@
+stp w1, w2, [x0, #0x20]
+stp w1, w2, [x0, #0x20]
+return:
+b code1+4
+a:.word 100
