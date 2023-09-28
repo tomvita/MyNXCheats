@@ -1,0 +1,10 @@
+[  moon jump]
+true
+[hp]
+false
+[sp]
+false
+[hp ohk]
+false
+[Off enable]
+false

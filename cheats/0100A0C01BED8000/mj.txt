@@ -1,0 +1,5 @@
+ldr s9, a
+str s9, [x19, #0xb58]
+return:
+b code1+4
+a:.float 10
