@@ -1,0 +1,16 @@
+STP X25, X26, [SP,#-0x90]
+ldr w0, [x8, #0x1c]
+ldr w25, b
+cmp w0, w25
+b.eq gold
+ldr w0, a
+b return
+gold:
+ldr w0, a1
+return:
+LDP X25, X26, [SP,#-0x90]
+str w0, [x8, #0x20]
+b code1+4
+a:.word 1000
+a1:.word 1000000
+b:.word 2051

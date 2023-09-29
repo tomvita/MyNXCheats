@@ -1,0 +1,20 @@
+STP X25, X26, [SP,#-0x90]
+/* load identifier */
+ldr w0, [x8, #0x1c] 
+/* load what the identifier should be for the target */
+ldr w25, b 
+/* is it our target? */
+cmp w0, w25 
+b.eq target
+others:
+ldr w0, a 
+b return
+target:
+ldr w0, a1
+return:
+LDP X25, X26, [SP,#-0x90]
+str w0, [x8, #0x20]
+b code1+4
+a:.word 1000
+a1:.word 1000000
+b:.word 2051
