@@ -1,0 +1,12 @@
+[master]
+true
+[ hp sp full]
+true
+[ en hp 1]
+true
+[ en hp 0]
+false
+[g 1m]
+false
+[Off enable]
+false

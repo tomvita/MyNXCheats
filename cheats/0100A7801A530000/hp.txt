@@ -1,0 +1,6 @@
+ldr x19, [x8, #0x378]
+str x19, [x8, #0x368]
+ldr x19, [x8, #0x358]
+str x19, [x8, #0x348]
+return:
+b code1+4
