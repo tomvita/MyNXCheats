@@ -1,0 +1,8 @@
+[ncd]
+false
+[hp100]
+false
+[hp31]
+false
+[Off enable]
+false
