@@ -1,0 +1,8 @@
+[beat]
+false
+[dna]
+false
+[ammo]
+false
+[Off enable]
+false
