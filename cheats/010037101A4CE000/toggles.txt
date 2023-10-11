@@ -1,0 +1,8 @@
+[money]
+false
+[ hp 1 when hit]
+true
+[hp mp full]
+true
+[hp1]
+false

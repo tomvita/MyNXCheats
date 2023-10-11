@@ -1,0 +1,4 @@
+mov w8, 1
+str w8, [x19, #0x18]
+return:
+b code1+4

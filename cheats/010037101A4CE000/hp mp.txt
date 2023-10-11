@@ -1,0 +1,16 @@
+/* save to stack so we can use the register */
+STP X25, X26, [SP,#-0x90] 
+ldr w26, [x0, #0x1c]
+cbz x26,p1_init 
+str w26, [x0, #0x10]
+b return
+p1_init:
+ldr w25, [x0, #0x14]
+str w25, [x0, #0x10]
+return:
+/* perform original code */
+ldr w0, [x0, #0x10]
+/* uncorrupt these register by loading it */
+LDP X25, X26, [SP,#-0x90] 
+b code1+4 /* return to game code */
+a:.word 100 /* example of defining a value */
