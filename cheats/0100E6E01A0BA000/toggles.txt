@@ -1,0 +1,10 @@
+[hp 1000]
+false
+[hp full]
+false
+[dmg x8 everybody]
+false
+[ohk]
+false
+[Off enable]
+false
