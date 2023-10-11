@@ -1,0 +1,11 @@
+STP X25, X26, [SP,#-0x90] 
+ADRP X25, (data_start & 0xFFFFFFFF000)
+add x26, x19, #0xcc
+str x26, [X25, (data_start & 0xFFF)] 
+/* save that value */
+return:
+/* perform original code */
+str s0, [x19, #0xcc]
+/* uncorrupt these register by loading it */
+LDP X25, X26, [SP,#-0x90] 
+b code1+4 /* return to game code */
