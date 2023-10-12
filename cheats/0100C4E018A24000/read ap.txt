@@ -1,0 +1,6 @@
+ldr w3, a
+str w3, [x21, #0x78]
+str w3, [x21, #0x74]
+return:
+b code1+4
+a:.word 1

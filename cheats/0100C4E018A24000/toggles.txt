@@ -1,0 +1,22 @@
+[ap]
+false
+[ read ap]
+true
+[money]
+false
+[npc en]
+false
+[en]
+false
+[ ammo]
+false
+[hp=1]
+false
+[hp full]
+true
+[attacker hp full]
+false
+[defender die]
+false
+[Off enable]
+false

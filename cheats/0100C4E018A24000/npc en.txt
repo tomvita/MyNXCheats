@@ -1,0 +1,7 @@
+ldr w4, a
+str w4, [x8, #0x74]
+str wzr, [x8, #0x78]
+ldr w4, [x8, #0x78]
+return:
+b code1+4
+a:.word 1
