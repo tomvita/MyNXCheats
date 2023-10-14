@@ -1,0 +1,11 @@
+STP X25, X26, [SP,#-0x90]
+ldr w25, [x9, #0x14]
+ldr w26, a
+cmp w25,w26 
+b.gt return
+str w26, [x9, #0x14]
+return:
+ldr w9, [x9, #0x14]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.word 100

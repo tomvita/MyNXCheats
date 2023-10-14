@@ -1,0 +1,5 @@
+ldr s2, a
+stp s1, s2, [x8]
+return:
+b code1+4
+a:.float 4

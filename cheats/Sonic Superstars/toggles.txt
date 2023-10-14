@@ -1,0 +1,8 @@
+[ring x16]
+false
+[ mj]
+true
+[no die for no ring]
+false
+[Off enable]
+false
