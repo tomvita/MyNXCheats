@@ -1,0 +1,6 @@
+ldr w9, a
+str w9, [x19, #0xcc]
+ldr x9, [x19, #0xc8]
+return:
+b code1+4
+a:.float 5

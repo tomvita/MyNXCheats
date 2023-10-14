@@ -1,0 +1,8 @@
+[ mj]
+true
+[mj]
+true
+[hp etc]
+false
+[Off enable]
+false
