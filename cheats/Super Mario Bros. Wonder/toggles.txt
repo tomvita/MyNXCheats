@@ -1,0 +1,8 @@
+[coin]
+false
+[ 1]
+true
+[ 2]
+true
+[Off enable]
+false

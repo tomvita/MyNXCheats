@@ -1,0 +1,5 @@
+ldr w8, a
+str w8, [x22, #0x1e4]
+return:
+b code1+4
+a:.float 15
