@@ -1,0 +1,15 @@
+code1 = 0x0007C744
+cave_start = 0x03DAB2F0
+data_start = 0x078821E0
+data_end = 0x07883000
+ldr w8, [x0, #0x160]
+cbz w8,en
+ldr w8, [x0, #0x178]
+str w8, [x0, #0x17c]
+b return
+en:
+ldr w8, a
+str w8, [x0, #0x17c]
+return:
+b code1+4
+a:.float 1

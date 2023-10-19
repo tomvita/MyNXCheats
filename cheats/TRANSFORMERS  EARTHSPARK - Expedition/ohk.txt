@@ -1,0 +1,11 @@
+ldr w8, [x0, #0x160]
+cbz w8,en
+ldr w8, [x0, #0x178]
+str w8, [x0, #0x17c]
+b return
+en:
+ldr w8, a
+str w8, [x0, #0x17c]
+return:
+b code1+4
+a:.float 1

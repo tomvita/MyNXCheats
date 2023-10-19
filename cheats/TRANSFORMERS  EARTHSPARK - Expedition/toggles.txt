@@ -1,0 +1,14 @@
+[add 10 health pack on use]
+false
+[ mj]
+false
+[Off enable]
+false
+[hp]
+false
+[hp]
+false
+[ohk]
+false
+[c hp]
+false

@@ -1,0 +1,6 @@
+ldr s28, a
+str d2, [x19, #0xc8]
+str s28, [x19, #0xcc]
+return:
+b code1+4
+a:.float 5
