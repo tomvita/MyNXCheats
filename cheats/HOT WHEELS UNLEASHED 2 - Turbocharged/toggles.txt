@@ -1,0 +1,8 @@
+[nitro player full enemy 0]
+true
+[use pt to have 100pt 1M coins]
+false
+[Off enemy nitro 0]
+false
+[Off enable]
+false

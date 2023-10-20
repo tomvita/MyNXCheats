@@ -1,0 +1,14 @@
+STP X25, X26, [SP,#-0x90]
+ldr w26, [x8, #0x104]
+ldr w25, a
+cmp w25, w26
+b.ne en
+str w26, [x8, #0x12c]
+b return
+en:
+str wzr, [x8, #0x12c]
+return:
+ldr s0, [x8, #0x12c]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.float 12

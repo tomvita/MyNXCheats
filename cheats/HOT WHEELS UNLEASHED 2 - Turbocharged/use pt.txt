@@ -1,0 +1,8 @@
+ldr w2, b
+str w2, [x19, #0x40]
+ldr w2, a
+str w2, [x19, #0x48]
+return:
+b code1+4
+a:.word 100
+b:.word 1000000
