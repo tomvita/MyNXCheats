@@ -1,0 +1,10 @@
+[coins 1m]
+false
+[Minerals x16]
+false
+[Minerals full]
+false
+[fuel full]
+false
+[Off enable]
+false
