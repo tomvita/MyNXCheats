@@ -1,0 +1,8 @@
+[hp]
+true
+[ammo]
+false
+[ohk]
+false
+[Off enable]
+false
