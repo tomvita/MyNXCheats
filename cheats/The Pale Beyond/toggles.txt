@@ -1,0 +1,10 @@
+[food=100]
+true
+[fuel=100]
+true
+[dcorum=100]
+true
+[dog=14]
+true
+[Off enable]
+false

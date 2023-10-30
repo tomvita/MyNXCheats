@@ -1,0 +1,3 @@
+ldr w0, [x19, #0x34]
+str w0, [x19, #0x30]
+return:

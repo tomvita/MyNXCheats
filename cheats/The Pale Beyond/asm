@@ -1,0 +1,7 @@
+code1 = 0x0251D14C
+cave_start = 0x02DE0700
+data_start = 0x04939FE8
+data_end = 0x04942000
+ldr w0, [x19, #0x34]
+str w0, [x19, #0x30]
+return:
