@@ -1,0 +1,12 @@
+[hold  ohk]
+true
+[focus unit hp sp full]
+false
+[ no damage]
+false
+[enter shop to have 1M yen]
+false
+[skill cost -30]
+false
+[Off enable]
+false
