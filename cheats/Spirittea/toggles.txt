@@ -1,0 +1,10 @@
+[clean towel 10]
+true
+[heat 100]
+true
+[stm 100]
+true
+[money 1m]
+true
+[Off enable]
+false
