@@ -1,0 +1,8 @@
+[ mj]
+true
+[hp full ohk]
+false
+[disable ohk]
+false
+[disable hp full]
+false

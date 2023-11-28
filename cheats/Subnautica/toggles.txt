@@ -1,0 +1,6 @@
+[o2]
+false
+[fuel no dec]
+false
+[food]
+false
