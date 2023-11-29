@@ -1,0 +1,8 @@
+[hp no dec]
+false
+[rage no zero on use]
+false
+[rage fill to full]
+false
+[Off enable]
+false
