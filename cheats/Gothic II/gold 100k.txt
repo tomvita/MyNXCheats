@@ -1,0 +1,5 @@
+ldr w8, a
+str w8, [x22, #0x39c]
+return:
+b code1+4
+a:.word 100000

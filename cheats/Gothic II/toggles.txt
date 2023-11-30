@@ -1,0 +1,10 @@
+[gold 100k]
+false
+[qty read]
+false
+[level up on gaining exp]
+false
+[hp full]
+false
+[Off enable]
+false
