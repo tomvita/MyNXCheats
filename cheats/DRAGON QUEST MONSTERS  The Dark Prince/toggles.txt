@@ -1,0 +1,22 @@
+[get_value_int]
+false
+[get_value_bool]
+false
+[use skill pts to have 200]
+false
+[get Hp]
+false
+[Off enable]
+false
+[Scout]
+false
+[exp]
+false
+[exp x10]
+false
+[gold]
+false
+[gold x10]
+false
+[Off enable]
+false

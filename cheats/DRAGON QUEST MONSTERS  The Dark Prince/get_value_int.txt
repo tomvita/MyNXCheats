@@ -1,0 +1,5 @@
+eor w8, w9, w8
+stp w8, wzr, [x0, #0x10]
+mov w0, w8
+return:
+b code1+4

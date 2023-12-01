@@ -1,0 +1,10 @@
+ldr x1, [x0, #0x98]
+ldr x1, [x1, #0x10]
+ldp w8, w9, [x1, #0x10]
+eor w8, w9, w8
+cbnz w8,return
+ldr x1, [x0, #0x38]
+ldr w8, [x1, #0x10]
+return:
+ldr x0, [x0, #0x38]
+b code1+4

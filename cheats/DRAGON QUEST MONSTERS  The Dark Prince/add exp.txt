@@ -1,0 +1,6 @@
+stp x29, x30, [sp, #-0x20]!
+ldr w29, a
+mul w1, w1, w29
+return:
+b code1+4
+a:.word 100
