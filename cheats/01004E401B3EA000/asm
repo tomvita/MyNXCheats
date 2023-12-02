@@ -1,0 +1,9 @@
+code1 = 0x01ED3818
+cave_start = 0x03D56A78
+data_start = 0x064DEBF0
+data_end = 0x064DF000
+ldr s0, a
+str s0, [x19, #0xa4]
+return:
+b code1+4
+a:.float 1000000

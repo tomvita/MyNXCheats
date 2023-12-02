@@ -1,0 +1,2 @@
+[money 1m]
+false
