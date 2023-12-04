@@ -1,0 +1,14 @@
+code1 = 0x03059988
+cave_start = 0x064532A8
+data_start = 0x0A463A20
+data_end = 0x0A464000
+ldr x0, [x8, #0x20]
+cmp w0, 1
+b.ne return
+ldr w1, a
+str w1, [x8, #0x24]
+str w1, [x8, #0x30]
+str w1, [x8, #0x3c]
+return:
+b code1+4
+a:.word 9999

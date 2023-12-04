@@ -1,0 +1,6 @@
+[pts 9999 before buy]
+false
+[inf jump]
+false
+[Off enable]
+false
