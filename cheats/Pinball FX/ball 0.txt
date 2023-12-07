@@ -1,0 +1,4 @@
+ldr x1, [x19]
+strb wzr, [x19,0x4d3]
+return:
+b code1+4

@@ -1,0 +1,7 @@
+ldr x9, [x0, #0x50]
+cmp x9,3
+b.ne original
+mov x9, 6
+str x9, [x0, #0x40]
+original: {original}	
+return: b code1+4

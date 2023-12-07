@@ -1,0 +1,10 @@
+[slow mo full]
+false
+[slow mo full off]
+false
+[ball william]
+false
+[ball zen]
+false
+[Off enable]
+false

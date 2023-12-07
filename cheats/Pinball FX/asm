@@ -1,0 +1,29 @@
+code1 = 0x00EE8E5C
+cave_start = 0x04398C20
+data_start = 0x084C0C50
+data_end = 0x084C1000
+and w0, w8, #0xffff
+ldr w19, fish
+cmp w0, w19
+b.eq hack
+ldr w19, star
+cmp w0, w19
+b.eq hack
+ldr w19, twilight
+cmp w0, w19
+b.eq hack
+ldr w19, addams
+cmp w0, w19
+b.eq hack
+ldr w19, ball
+cmp w0, w19
+b.eq hack
+b original
+hack: strb wzr, [x8, #0x120]
+original: ldrb w0, [x8, #0x120]	
+return: b code1+4
+fish:.word 0x5eb-0x120
+star:.word 0xec4b-0x120
+twilight:.word 0x58b-0x120
+addams:.word 0xa148-0x120
+ball:.word 0x4260-0x120
