@@ -1,0 +1,35 @@
+kind=0x9C0
+skill=0x9D0
+STP X25, X26, [SP,#-0x90]
+ldr x1, [x20, #0x20]
+adrp x26, (data_start & 0xFFFFFFFF000) 
+ldr w25,[x26, kind+4]
+cbz w25, checkskill
+ldr w25,[x26, kind]
+str x25, [x1, #0x10]
+add w25, w25, #1
+str x25,[x26, kind]
+checkskill:
+ldr w25,[x26, skill]
+loop:
+cbz w25, return
+ldr x1, [x20, #0x78]
+ldr x1, [x1, #0x18]
+add x1, x1, w25, lsl#3
+ldr x1, [x1, #0x18]
+cbz x1, next
+ldr x1, [x1, #0x18]
+
+add x26, x26, #0x4
+ldr s0, [x26,skill]
+str s0, [x1, #0x10]
+str wzr,[x1, #0x14]
+ldr x1, [x1, #0x10]
+
+next:
+sub w25,w25, #1
+b loop
+return:
+ldp x8, x1, [x0]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
