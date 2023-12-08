@@ -1,0 +1,8 @@
+[hp]
+true
+[value]
+false
+[stm]
+true
+[ballon]
+false
