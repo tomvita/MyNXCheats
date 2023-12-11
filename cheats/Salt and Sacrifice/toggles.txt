@@ -1,0 +1,14 @@
+[stm add]
+true
+[ no damage]
+true
+[arrow add]
+true
+[ mj]
+true
+[hp fill]
+true
+[damage x5]
+true
+[Off enable]
+false

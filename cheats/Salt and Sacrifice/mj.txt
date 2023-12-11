@@ -1,0 +1,4 @@
+ldr s0, a
+return:
+b code1+4
+a:.float -1000
