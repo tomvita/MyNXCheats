@@ -1,0 +1,6 @@
+[fuel 100]
+false
+[favour 100]
+false
+[Off enable]
+false
