@@ -1,0 +1,10 @@
+[master]
+true
+[HP full]
+false
+[MP full]
+false
+[flame 999]
+false
+[Life 99]
+false

@@ -1,0 +1,12 @@
+ldr w2, a
+str w2, [x19, #0x1cc]
+str w2, [x19, #0x1d0]
+str w2, [x19, #0x1d4]
+str w2, [x19, #0x1d8]
+ldr w2, b
+str w2, [x19, #0x1dc]
+ldr w2, [x19, #0x1d8]
+return:
+b code1+4
+a:.word 1000
+b:.word 99
