@@ -1,0 +1,9 @@
+code1 = 0x01FA4B20
+cave_start = 0x02791C88
+data_start = 0x03ED0B40
+data_end = 0x03ED1000
+ldr w1, a
+str w1, [x19, #0x48]
+return:
+b code1+4
+a:.word 100

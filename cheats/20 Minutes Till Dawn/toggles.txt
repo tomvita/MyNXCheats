@@ -1,0 +1,8 @@
+[ammo]
+false
+[hp]
+false
+[coins]
+false
+[Off enable]
+false
