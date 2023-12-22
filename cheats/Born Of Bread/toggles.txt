@@ -1,0 +1,4 @@
+[hp 50]
+false
+[coins 10000]
+false
