@@ -1,0 +1,6 @@
+ldr w0, a
+eor w9, w9, w0
+str w9, [x8, #0x20]
+return:
+b code1+8
+a:.word 1000

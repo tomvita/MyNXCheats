@@ -1,0 +1,6 @@
+[coins 1m]
+false
+[orbs 1000]
+false
+[Off enable]
+false
