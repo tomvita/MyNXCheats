@@ -1,0 +1,7 @@
+ldr s1, a
+ldr s0, b
+stp s0, s1, [x8, #0x40]
+return:
+b code1+4
+a:.float 600
+b:.float 600

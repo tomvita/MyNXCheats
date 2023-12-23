@@ -1,0 +1,18 @@
+[mj enable]
+true
+[hp]
+false
+[ammo]
+false
+[scroll]
+false
+[coins x16]
+false
+[Off enable]
+false
+[up]
+true
+[left]
+true
+[right]
+true
