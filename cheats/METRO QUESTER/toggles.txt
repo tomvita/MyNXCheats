@@ -1,0 +1,20 @@
+[hp]
+false
+[fuel]
+false
+[food]
+false
+[food]
+false
+[res]
+false
+[fuel]
+false
+[ehp]
+false
+[damage]
+false
+[ohk]
+false
+[Off enable]
+false
