@@ -1,0 +1,10 @@
+[always ball 1]
+false
+[token 1000]
+false
+[inf slow mo]
+false
+[Off enable]
+false
+[score]
+false
