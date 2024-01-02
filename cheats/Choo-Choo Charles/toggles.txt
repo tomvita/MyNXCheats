@@ -1,0 +1,6 @@
+[hp 200]
+false
+[hp 2000]
+true
+[scrap 9999]
+true
