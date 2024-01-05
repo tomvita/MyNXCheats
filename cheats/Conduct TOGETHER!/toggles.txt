@@ -1,0 +1,10 @@
+[coin x16]
+false
+[Off enable]
+false
+[coin 1m]
+false
+[t]
+false
+[tc]
+false

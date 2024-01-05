@@ -1,0 +1,10 @@
+[coins 10k]
+false
+[  moon jump]
+true
+[hp all]
+false
+[hp]
+true
+[Off enable]
+false

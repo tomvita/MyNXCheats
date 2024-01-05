@@ -1,0 +1,22 @@
+[qty add when used]
+true
+[orb add when used]
+false
+[stm full]
+false
+[  bless]
+true
+[read stats]
+false
+[read more stats]
+false
+[add time and more]
+false
+[Off enable]
+false
+[orb]
+false
+[stm]
+true
+[damage x16]
+false

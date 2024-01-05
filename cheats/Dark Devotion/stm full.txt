@@ -1,0 +1,5 @@
+ldr d1, a
+str d1, [x0, #8]
+return:
+b code1+4
+a:.double 1000

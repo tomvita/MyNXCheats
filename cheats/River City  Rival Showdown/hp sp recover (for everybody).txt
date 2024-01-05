@@ -1,0 +1,10 @@
+ldr w0, [x0, #0x4c]
+ldr w1, a
+cmp w0, w1
+b.le return
+ldr x0, [x19, #0xac]
+str x0, [x19, #0x4c]
+ldr w0, [x19, #0xac]
+return:
+b code1+4
+a:.word 1

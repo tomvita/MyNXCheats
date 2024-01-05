@@ -1,0 +1,8 @@
+[hp sp recover (for everybody)]
+true
+[ohk]
+true
+[buy to have max money]
+false
+[Off enable]
+false
