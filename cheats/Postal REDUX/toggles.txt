@@ -1,0 +1,16 @@
+[hp]
+false
+[armor]
+false
+[ammo]
+false
+[Off enable]
+false
+[missel1]
+false
+[shot gun]
+false
+[pistal]
+false
+[hp]
+false
