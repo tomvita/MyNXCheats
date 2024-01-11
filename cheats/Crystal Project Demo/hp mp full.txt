@@ -1,0 +1,8 @@
+ldr w12, [x15, #0x244]
+str w12, [x15, #0xc8]
+ldr w12, [x15, #0x248]
+str w12, [x15, #0xcc]
+ldr w12, [x15, #0x240]
+str w12, [x15, #0xc4]
+return:
+b code1+4

@@ -5,3 +5,6 @@ cheats/0100F2C0115B6000/2023050814131801-CC47F0DEC75C1FD3B1F95FA9F9D57667.mp4
 *.jpg
 *.bmk
 *.dat
+*asm
+*adv_save
+*toggles.txt
