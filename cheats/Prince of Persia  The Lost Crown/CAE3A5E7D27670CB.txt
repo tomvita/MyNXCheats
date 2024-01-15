@@ -67,8 +67,11 @@
 [change drop to HealingPotion]
 04000000 046B1D20 00000002 
 
-[change drop to VisionSlots]
+[change drop to Amulet Holder]
 04000000 046B1D20 00000011 
+
+[Change drop to VisionSlots]
+04000000 046B1D20 0000000B 
 
 [Off enable]
 04000000 021F732C 4B140108 
