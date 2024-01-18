@@ -1,0 +1,7 @@
+ldr w22, a
+str w22, [x8]
+str w22, [x8,4]
+str w22, [x8,8]
+return:
+b code1+4
+a:.word 200

@@ -1,0 +1,5 @@
+str w19, [x20, #0x228]
+ldr w8, [x20, #0x228]
+return:
+b code1+4
+a:.word 100

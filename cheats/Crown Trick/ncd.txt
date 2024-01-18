@@ -1,0 +1,4 @@
+str wzr, [x20, #0x20]
+ldr w0, [x20, #0x20]
+return:
+b code1+4

@@ -1,0 +1,5 @@
+ldr w8, [x8, #0xcc]
+ldr w8, [x8, #0xcc]
+return:
+b code1+4
+a:.word 100
