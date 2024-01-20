@@ -1,0 +1,271 @@
+public class FollowerInfo // TypeDefIndex: 1545
+{
+	// Fields
+	public int ID; // 0x10g
+	public string Name; // 0x18
+	public Thought CursedState; // 0x20
+	public bool WorkerBeenGivenOrders; // 0x24
+	public float follower_pitch; // 0x28
+	public float follower_vibrato; // 0x2C
+	public int SermonCountAfterlife; // 0x30
+	public int SermonCountFood; // 0x34
+	public int SermonCountLawAndOrder; // 0x38
+	public int SermonCountPossession; // 0x3C
+	public int SermonCountWorkAndWorship; // 0x40
+	public bool TraitsSet; // 0x44
+	public int SkinCharacter; // 0x48
+	public int SkinVariation; // 0x4C
+	public int SkinColour; // 0x50
+	public string SkinName; // 0x58
+	public bool ShowingNecklace; // 0x60
+	public FollowerHatType Hat; // 0x64
+	public FollowerOutfitType Outfit; // 0x68
+	public FollowerClothingType Clothing; // 0x6C
+	public string ClothingVariant; // 0x70
+	public string ClothingPreviousVariant; // 0x78
+	public FollowerCustomisationType Customisation; // 0x80
+	public FollowerSpecialType Special; // 0x84
+	public FollowerProtectionType Protection; // 0x88
+	public int ImprisonedDay; // 0x8C
+	public InventoryItem.ITEM_TYPE Necklace; // 0x90
+	public bool IsFakeBrain; // 0x94
+	public List<FollowerPet.FollowerPetType> Pets; // 0x98
+	public int DayJoined; // 0xA0
+	public int TimesTurnedIntoADemon; // 0xA4
+	public int TimesDoneConfessionBooth; // 0xA8
+	public int Age; // 0xAC
+	public int LifeExpectancy; // 0xB0
+	public InventoryItem.ITEM_TYPE SacrificialType; // 0xB4
+	public bool LeavingCult; // 0xB8
+	public int LeftCultDay; // 0xBC
+	public bool DiedOfIllness; // 0xC0
+	public bool DiedOfInjury; // 0xC1
+	public bool DiedOfOldAge; // 0xC2
+	public bool DiedOfStarvation; // 0xC3
+	public bool DiedFromTwitchChat; // 0xC4
+	public bool DiedInPrison; // 0xC5
+	public bool DiedFromMurder; // 0xC6
+	public bool DiedFromDeadlyDish; // 0xC7
+	public bool DiedFromMissionary; // 0xC8
+	public int TimeOfDeath; // 0xCC
+	public bool BornInCult; // 0xD0
+	public int MurderedBy; // 0xD4
+	public string MurderedTerm; // 0xD8
+	public bool HasBeenBuried; // 0xE0
+	public bool HasReceivedNecklace; // 0xE1
+	public Thought StartingCursedState; // 0xE4
+	public FollowerFaction Faction; // 0xE8
+	public FollowerRole FollowerRole; // 0xEC
+	public WorkerPriority WorkerPriority; // 0xF0
+	public bool IsDisciple; // 0xF4
+	public FollowerTaskType CurrentOverrideTaskType; // 0xF8
+	public StructureBrain.TYPES CurrentOverrideStructureType; // 0xFC
+	public int OverrideDayIndex; // 0x100
+	public bool OverrideTaskCompleted; // 0x104
+	public List<ThoughtData> Thoughts; // 0x108
+	public float Adoration; // 0x110
+	public const float MAX_ADORATION = 100;
+	public int XPLevel; // 0x114
+	public bool MaxLevelReached; // 0x118
+	public FollowerLocation HomeLocation; // 0x11C
+	public FollowerLocation Location; // 0x120
+	public Vector3 LastPosition; // 0x124
+	public FollowerTaskType SavedFollowerTaskType; // 0x130
+	public FollowerLocation SavedFollowerTaskLocation; // 0x134
+	public Vector3 SavedFollowerTaskDestination; // 0x138
+	public int DwellingID; // 0x144
+	public int PreviousDwellingID; // 0x148
+	public int DwellingLevel; // 0x14C
+	public int DwellingSlot; // 0x150
+	public int RandomSeed; // 0x154
+	public float MissionaryTimestamp; // 0x158
+	public float MissionaryDuration; // 0x15C
+	public int MissionaryIndex; // 0x160
+	public int MissionaryType; // 0x164
+	public float MissionaryChance; // 0x168
+	public bool MissionaryFinished; // 0x16C
+	public bool MissionarySuccessful; // 0x16D
+	public InventoryItem[] MissionaryRewards; // 0x170
+	public List<int> FollowersReeducatedToday; // 0x178
+	public int FightPitWinStreak; // 0x180
+	public int FightPitsFought; // 0x184
+	public int FollowersFought; // 0x188
+	public List<int> Parents; // 0x190
+	public string Parent1Name; // 0x198
+	public string Parent2Name; // 0x1A0
+	public List<int> Siblings; // 0x1A8
+	public List<InventoryItem> Inventory; // 0x1B0
+	public int DaysSleptOutside; // 0x1B8
+	public bool HadFuneral; // 0x1BC
+	public List<FollowerTrait.TraitType> Traits; // 0x1C0
+	public int BastardCounter; // 0x1C8
+	public const float MIN_HP = 0;
+	public bool OldAge; // 0x1CC
+	public bool MarriedToLeader; // 0x1CD
+	public bool FirstTimeSpeakingToPlayer; // 0x1CE
+	public bool ComplainingAboutNoHouse; // 0x1CF
+	public bool ComplainingNeedBetterHouse; // 0x1D0
+	public bool NudistWinner; // 0x1D1
+	public bool TaxEnforcer; // 0x1D2
+	public bool FaithEnforcer; // 0x1D3
+	public string ViewerID; // 0x1D8
+	public int Pleasure; // 0x1E0
+	public const float MAX_PLEASURE = 65;
+	public int TotalPleasure; // 0x1E4
+	private float _maxHP; // 0x1E8
+	private float _HP; // 0x1EC
+	public const float DEVOTION_PER_GAME_DAY = 5;
+	public float PrayProgress; // 0x1F0
+	public int DevotionGiven; // 0x1F4
+	public const float MIN_HAPPINESS = 0;
+	public const float MAX_HAPPINESS = 100;
+	public const float LOW_HAPPINESS_THRESHOLD = 25;
+	public const float CRITICAL_HAPPINESS_THRESHOLD = 10;
+	public const float HAPPINESS_GAME_MINUTES_TO_DEPLETE = 6600;
+	private float _happiness; // 0x1F8
+	public const float MIN_FAITH = 0;
+	public const float MAX_FAITH = 100;
+	public const float LOW_FAITH_THRESHOLD = 30;
+	public const float CRITICAL_FAITH_THRESHOLD = 5;
+	private float _faith; // 0x1FC
+	public const float MIN_FEARLOVE = 0;
+	public const float MAX_FEARLOVE = 100;
+	public const float FEAR_THRESHOLD = 20;
+	public const float LOVE_THRESHOLD = 80;
+	private float _fearLove; // 0x200
+	public const float MIN_SATIATION = 0;
+	public const float MAX_SATIATION = 100;
+	public const float EAT_THRESHOLD = 60;
+	public const float HUNGER_THRESHOLD = 30;
+	public const float SATIATION_GAME_MINUTES_TO_DEPLETE = 2400;
+	private float _satiation; // 0x204
+	public const float MIN_STARVATION = 0;
+	public const float MAX_STARVATION = 75;
+	private float _starvation; // 0x208
+	public bool IsFreezing; // 0x20C
+	public const float MIN_BATHROOM = 0;
+	public const float MAX_BATHROOM = 30;
+	public float BathroomFillRate; // 0x210
+	public const float BATHRHOOM_THRESHOLD = 15;
+	public const float BATHROOM_GAME_MINUTES_TO_FULL = 180;
+	private float _bathroom; // 0x214
+	private float _targetBathroom; // 0x218
+	public const float MIN_SOCIAL = 0;
+	public const float MAX_SOCIAL = 100;
+	public const float SOCIAL_GAME_MINUTES_TO_FULL = 200;
+	private float _social; // 0x21C
+	public const float MIN_VOMIT = 0;
+	public const float MAX_VOMIT = 30;
+	public const float VOMIT_GAME_MINUTES_TO_FULL = 320;
+	private float _vomit; // 0x220
+	public const float MIN_REST = 0;
+	public const float TIRED_THRESHOLD = 20;
+	public const float MAX_REST = 100;
+	public const float REST_GAME_MINUTES_TO_DEPLETE = 1200;
+	private float _rest; // 0x224
+	public const float MIN_ILLNESS = 0;
+	public const float MAX_ILLNESS = 100;
+	public const float ILLNESS_GAME_MINUTES_TO_FULL = 3600;
+	public const float MIN_EXHAUSTION = 0;
+	public const float MAX_EXHAUSTION = 100;
+	public const float EXHAUSTION_GAME_MINUTES_TO_REMOVE = 480;
+	public const float MIN_DRUNK = 0;
+	public const float MAX_DRUNK = 100;
+	public const float DRUNK_GAME_MINUTES_TO_REMOVE = 480;
+	public const float MIN_INJURED = 0;
+	public const float MAX_INJURED = 100;
+	public const float INJURED_GAME_MINUTES_TO_REMOVE = 2400;
+	public const int ADULTHOOD_AGE = 18;
+	private float _illness; // 0x228
+	private float _injured; // 0x22C
+	private float _exhaustion; // 0x230
+	private float _drunk; // 0x234
+	public const float MIN_DISSENT = 0;
+	public const float MAX_DISSENT = 100;
+	public const float DISSENTER_THRESHOLD = 80;
+	public float DissentDuration; // 0x238
+	public float DissentGold; // 0x23C
+	public bool GivenDissentWarning; // 0x240
+	private float _dissent; // 0x244
+	private float reeducation; // 0x248
+	public const float MIN_REEDUCATE = 0;
+	public const float MAX_REEDUCATE = 100;
+	public const float REEDUCATE_GAME_MINUTES_TO_FULL = 3600;
+	public const float REEDUCATE_PRISON_BONUS = 25;
+	public const float REEDUCATE_INTERACTION_BONUS = 7.5;
+	public const float REEDUCATE_INTERACTION_FOLLOWER_BONUS = 7.5;
+	public const float EXHAUSTION_GAME_MINUTES_TO_FULL = 900;
+	public List<StructureAndTime> ReactionsAndTime; // 0x250
+	public List<TaskAndTime> TaskMemory; // 0x258
+	public const float INTERACTIONCOOLDOWN_DEMAND_DEVOTION = 1;
+	public const float INTERACTIONCOOLDOWN_FAST = 5;
+	public const float INTERACTIONCOOLDOWN_ENERGISING_SPEECH = 2;
+	public const float INTERACTIONCOOLDOWN_MOTIVATIONAL_SPEECH = 2;
+	public int InteractionCoolDownFasting; // 0x260
+	public int InteractionCoolDownEnergizing; // 0x264
+	public int InteractionCoolDownMotivational; // 0x268
+	public int InteractionCoolDemandDevotion; // 0x26C
+	public float FastingUntil; // 0x270
+	public int GuaranteedGoodInteractionsUntil; // 0x274
+	public int IncreasedDevotionOutputUntil; // 0x278
+	public int BrainwashedUntil; // 0x27C
+	public int MotivatedUntil; // 0x280
+	public int LastBlessing; // 0x284
+	public int LastSermon; // 0x288
+	public float LastVomit; // 0x28C
+	public int LastReeducate; // 0x290
+	public int LastHeal; // 0x294
+	public bool PaidTithes; // 0x298
+	public bool ReceivedBlessing; // 0x299
+	public bool ReeducatedAction; // 0x29A
+	public bool KissedAction; // 0x29B
+	public bool Inspired; // 0x29C
+	public bool PetDog; // 0x29D
+	public bool Cuddled; // 0x29E
+	public bool Intimidated; // 0x29F
+	public bool Bribed; // 0x2A0
+	public bool ScaredTraitInteracted; // 0x2A1
+	public bool SozoBrainshed; // 0x2A2
+	public int CuddledAmount; // 0x2A4
+	public int WakeUpDay; // 0x2A8
+	public int ReassuranceCount; // 0x2AC
+	public float MissionaryExhaustion; // 0x2B0
+	public const int MaxMissionaryExhaustion = 5;
+	public int TaxCollected; // 0x2B4
+	public bool TaxedToday; // 0x2B8
+	public bool FaithedToday; // 0x2B9
+	public int CursedStateVariant; // 0x2BC
+	public const float RELATIONSHIP_THRESHOLD_HATE = -10;
+	public const float RELATIONSHIP_THRESHOLD_FRIEND = 5;
+	public const float RELATIONSHIP_THRESHOLD_LOVE = 10;
+	public List<IDAndRelationship> Relationships; // 0x2C0
+	private const int h = 240;
+	public int CachedLumber; // 0x2C8
+	public int CachedLumberjackStationID; // 0x2CC
+	private static List<string> NameBeginnings; // 0x0
+	private static List<string> NameMiddles; // 0x8
+	private static List<string> NameEndings; // 0x10
+
+	// Properties
+	public int MemberDuration { get; }
+	public int SacrificialValue { get; }
+	public float MaxHP { get; set; }
+	public float HP { get; set; }
+	public float Happiness { set; }
+	public float Faith { get; set; }
+	public float Satiation { get; set; }
+	public float Starvation { get; set; }
+	public float Bathroom { get; set; }
+	public float TargetBathroom { get; set; }
+	public float Social { get; set; }
+	public float Vomit { get; set; }
+	public float Rest { get; set; }
+	public float Illness { get; set; }
+	public float Injured { get; set; }
+	public float Exhaustion { get; set; }
+	public float Drunk { get; set; }
+	public bool IsDrunk { get; }
+	public float Dissent { set; }
+	public float Reeducation { get; set; }
+	public ObjectivesData CurrentPlayerQuest { get; }
+	public bool WorkThroughNight { get; }
