@@ -1,0 +1,4 @@
+mov x3,0
+sub sp, sp, #0x50
+return:
+b code1+4

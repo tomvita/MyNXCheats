@@ -1,0 +1,6 @@
+cmp x1,2
+b.ne return
+mul x2,3
+return:
+sub sp, sp, #0x70
+b code1+4

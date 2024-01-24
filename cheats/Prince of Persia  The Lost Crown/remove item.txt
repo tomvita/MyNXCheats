@@ -1,0 +1,6 @@
+cmp x1,3
+b.ne return
+mov x2,0
+return:
+sub sp, sp, #0x70
+b code1+4

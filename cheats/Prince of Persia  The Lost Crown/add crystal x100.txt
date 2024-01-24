@@ -1,0 +1,8 @@
+stp x28, x27, [sp, #0x20]
+cmp x1,2
+b.ne return
+ldr w28, a
+mul w2,w2,w28
+return:
+b code1+4
+a:.word 100
