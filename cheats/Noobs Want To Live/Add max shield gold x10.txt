@@ -1,0 +1,26 @@
+cave_start = 0x042acb38
+cmp x1,5 
+b.eq Shield
+cmp x1,13 
+b.eq Mul
+return:
+sub sp, sp, #0xe0
+b code1+4
+Shield:
+mov x1, 6
+ldr s0, a
+b return
+Mul:
+/* no sub */
+fcmp s0, #0.0
+b.gt cont
+b return
+/* ret */
+cont:
+/* multiply */
+ldr s31, a
+fmul s0,s0,s31
+fmul s2,s2,s31
+b return
+a:.float 10
+

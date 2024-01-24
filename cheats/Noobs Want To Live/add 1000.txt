@@ -1,0 +1,7 @@
+sub sp, sp, #0xe0
+ldr s0, a
+ldr s2, a
+return:
+b code1+4
+a:.float 100
+

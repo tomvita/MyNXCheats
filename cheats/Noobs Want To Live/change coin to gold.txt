@@ -1,0 +1,8 @@
+Player_AddValue = 0x3302380 
+Player_CionChange = 0x33031D0
+mov w1, 13
+fmov s0, 1
+/* fmov s1, 0 */
+/* fmov s2, 1 */
+/* fmov s3, 0 */
+b Player_AddValue

@@ -1,0 +1,10 @@
+cave_start = 0x042acbb8
+Player_AddValue = 0x3302380 
+Player_CionChange = 0x33031D0
+cmp w1, #0.0
+b.lt return
+ldr w1, a
+return:
+str d10, [sp, #-0x70]!
+b code1+4
+a:.word 10

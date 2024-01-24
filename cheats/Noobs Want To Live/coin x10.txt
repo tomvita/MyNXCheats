@@ -1,0 +1,11 @@
+fcmp s8, #0.0
+b.gt cont
+/* fneg s8,s8 */
+b return
+cont:
+ldr s1, a
+fmul s8,s8,s1
+return:
+ldr x0, [x21]
+b code1+4
+a:.float 10

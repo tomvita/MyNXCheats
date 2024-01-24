@@ -1,0 +1,5 @@
+ldr w8, [x19, #0x110]
+str w8, [x19, #0x118]
+ldrb w8, [x19, #0x114]
+return:
+b code1+4
