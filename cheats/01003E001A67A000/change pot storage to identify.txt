@@ -1,0 +1,11 @@
+cave_start = 0x0676f3d8
+ldr w1, [x26, #0x10]
+ldr w9, b
+cmp w1, w9
+b.ne return
+ldr w1, c
+str w1, [x26, #0x10]
+return:
+b code1+4
+b:.word 0x62FE3DC7
+c:.word 0x384D0F46

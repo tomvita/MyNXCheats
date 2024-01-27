@@ -1,0 +1,6 @@
+ldr w22, a
+str w22, [x19, #0x10]
+str w22, [x19, #0x14]
+return:
+b code1+4
+a:.word 999
