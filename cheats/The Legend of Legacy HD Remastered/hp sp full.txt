@@ -1,0 +1,7 @@
+cave_start = 0x030cdfc0
+ldr w22, [x21, #0x38]
+str w22, [x21, #0x34]
+ldr w22, [x21, #0x30]
+str w22, [x21, #0x28]
+return:
+b code1+4
