@@ -1,0 +1,6 @@
+ldr w19, [x0,0xc]
+str w19, [x0,8]
+ldr w19, [x0,4]
+str w19, [x0]
+return:
+b code1+4
