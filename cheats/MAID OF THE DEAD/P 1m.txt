@@ -1,0 +1,6 @@
+ldr s8, a
+str s8, [x8, #0x10]
+return:
+ldr w8, [x8, #0x10]
+b code1+4
+a:.word 1000000
