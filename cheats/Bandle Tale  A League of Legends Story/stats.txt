@@ -1,0 +1,32 @@
+cave_start = 0x043BABC8
+cmp w1, 79
+b.eq happy
+cmp w1, 80
+b.eq friend
+cmp w1, 81
+b.eq demand
+cmp w1, 35
+b.eq star
+cmp w1, 17
+b.eq points
+ldr s8, [x0, #0x18]
+return:
+str s8, [x0, #0x18]
+b code1+4
+happy:
+fmov s8,#20
+b return;
+friend:
+fmov s8,#20
+b return;
+demand:
+fmov s8,#20
+b return;
+star:
+ldr s8,star_
+b return;
+points:
+ldr s8,points_
+b return;
+star_:.float 100
+points_:.float 100
