@@ -1,0 +1,11 @@
+str w1, [x8, #0x44]
+ldr w1, a
+str w1, [x8, #0x84]
+str w1, [x8, #0x80]
+ldr w1, b
+str w1, [x8, #0x70]
+return:
+ldr w1, [x8, #0x44]
+b code1+4
+a:.float 20
+b:.float 2
