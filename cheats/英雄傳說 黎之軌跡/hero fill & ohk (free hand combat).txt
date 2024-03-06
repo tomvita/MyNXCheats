@@ -1,0 +1,27 @@
+stp x25, x26, [sp,#-0x90]	
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.eq hero
+ldr w25,f
+lsl w26,w30,16
+cmp w25, w26
+b.ne original
+ldr w9, [x0, #0xc]
+cmp w9, 1
+b.le original
+mov w9, 1
+str w9, [x0, #0xc]
+b original
+hero:
+ldp w9, w8, [x0, #0x14]
+stp w8, w8, [x0, #0x14]
+ldp w9, w8, [x0, #0x1c]
+stp w8, w8, [x0, #0x1c]
+ldp w9, w8, [x0, #0xc]
+stp w8, w8, [x0, #0xc]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0x977c0000
+f:.word 0xedcc0000
