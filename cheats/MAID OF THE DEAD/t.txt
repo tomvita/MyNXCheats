@@ -1,0 +1,6 @@
+fadd s8, s8, s8
+fadd s8, s8, s8
+fadd s8, s8, s8
+str s8, [x8, #0x78]
+return:
+b code1+4

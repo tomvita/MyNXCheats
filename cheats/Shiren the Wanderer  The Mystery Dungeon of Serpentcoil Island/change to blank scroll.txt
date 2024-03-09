@@ -1,0 +1,15 @@
+cave_start = 0x0676edf0
+ldr w26, [x8, #0x3c]
+cbnz w26, return
+ldr w26, [x8, #0xc]
+cbnz w26, hack
+ldr w26, [x8, #0x10]
+str w26, [x8, #0xc]
+hack:
+ldr x26, a
+str w26, [x8, #0x10]
+return:
+ldr w26, [x8, #0x10]
+b code1+4
+a:.word 0x160A6DC6
+d1:.word 0x5f595d43

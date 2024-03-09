@@ -1,0 +1,8 @@
+ldp w9, w8, [x0, #0x14]
+stp w8, w8, [x0, #0x14]
+ldp w9, w8, [x0, #0x1c]
+stp w8, w8, [x0, #0x1c]
+ldp w9, w8, [x0, #0xc]
+stp w8, w8, [x0, #0xc]
+return:
+b code1+4

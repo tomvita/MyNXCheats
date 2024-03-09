@@ -1,0 +1,11 @@
+ldr d1, b
+str d1, [x8, #0x20]
+ldr d1, a
+str d1, [x8, #0x10]
+return:
+ldr d1, [x8, #0x10]
+b code1+4
+a:.float 2
+a1:.float 2
+b:.float 20
+b1:.float 20

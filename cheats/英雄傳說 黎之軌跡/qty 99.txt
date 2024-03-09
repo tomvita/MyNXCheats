@@ -1,0 +1,7 @@
+ldrb w0, [x8, x9]
+cbz w0, return
+ldr w0,a
+strb w0, [x8, x9]
+return:
+b code1+4
+a:.word 99

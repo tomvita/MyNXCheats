@@ -1,0 +1,7 @@
+cave_start = 0x0676edf0
+ldr w26, [x8, #0xc]
+cbz w26, return
+str w26, [x8, #0x10]
+return:
+ldr w26, [x8, #0x10]
+b code1+4

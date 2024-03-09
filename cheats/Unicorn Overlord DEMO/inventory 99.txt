@@ -1,0 +1,5 @@
+ldr w8,a
+strh w8, [x21]
+return:
+b code1+4
+a:.word 99

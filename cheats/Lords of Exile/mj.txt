@@ -1,0 +1,5 @@
+ldr d8, a
+str d8, [x25]
+return:
+b code1+4
+a:.double -5.5
