@@ -1,0 +1,5 @@
+mov w0, 2
+strb w0, [x8]
+ldr w0, [x8]
+return:
+b code1+4

@@ -1,0 +1,3 @@
+ldr s1, a
+return:
+b code1+4
