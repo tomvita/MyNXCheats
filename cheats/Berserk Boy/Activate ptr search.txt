@@ -1,0 +1,37 @@
+code1 = 0x00D81FA4
+cave_start = 0x00FD89D0
+data_start = 0x0217B6A8
+data_end = 0x0217C000
+hack1:		STP X25, X26, [SP,#-0x90]	
+			STP X27, X28, [SP,#-0x80]	
+			STP X29, X30, [SP,#-0x70]	
+mod:		add x25, 	x20,#0
+			ldr x26,[x25]	
+ldr x29, a
+cmp x26, x29
+b.lt skip	
+/* mov x26,x28 */
+and w28,w28,0xfff
+cmp w28,0xb98
+b.ne skip
+			mov x29, (data_end - data_start)/16
+			adrp x27, (data_start & 0xFFFFFFFF000) 
+			add x27,x27, (data_start & 0xFFF)
+			bl	findslot
+skip:
+			LDP X25, X26, [SP,#-0x90]	
+			LDP X27, X28, [SP,#-0x80]	
+			LDP X29, X30, [SP,#-0x70]	
+original:	str x8, [x20]	
+Return:		b code1+4
+findslot:		ldr x28,  [X27]
+			CBZ X28, Saveptr
+			cmp x28,x25
+			B.EQ Saveptr
+			ADD X27,X27,#0x10
+			SUB x29,x29,#1
+			CBNZ X29, findslot
+			b Done
+Saveptr:		STP X25,X26, [X27]
+Done:			ret
+a: .double 8
