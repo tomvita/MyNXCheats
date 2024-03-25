@@ -1,0 +1,6 @@
+ldr  s0, a
+str s0, [x0, #0xa8]
+return:
+ldur d0, [x0, #0xa4]
+b code1+4
+a:.float 3.4
