@@ -1,0 +1,17 @@
+cave_start = 0x04b14fb0
+LDR X9, [X19,#0x18]
+CBZ X9, return
+LDR W9, [X9,#0x1c]
+cmp w9,100
+b.gt return
+LDR X9, [X19,#0x20]
+CBZ X9, return
+LDR W9, [X9,#0x10]
+hack:
+str w9, [x8, #0x28]
+return:
+ldr w8, [x8, #0x28]
+b code1+4
+ohk:
+mov w9,1
+b hack
