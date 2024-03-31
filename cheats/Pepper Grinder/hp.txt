@@ -1,0 +1,5 @@
+ldr d0, a
+str d0, [x8, #0x178]
+return:
+b code1+4
+a:.double 10

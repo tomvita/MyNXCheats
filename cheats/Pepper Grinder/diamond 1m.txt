@@ -1,0 +1,6 @@
+cave_start = 0x017b14cc
+ldr d0, a
+str d0, [x26, #0x1738]
+return:
+b code1+4
+a:.double 1000000
