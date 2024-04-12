@@ -1,0 +1,19 @@
+stp x25, x26, [sp,#-0x90]	
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne original
+cmp w20, 5
+b.ge en
+ldr s8, [x8, #0x18]
+str s8, [x8, #0x10]
+b return
+en:
+ldr s8, a
+str s8, [x8, #0x10]
+b return
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0xb5d40000
+a:.word 1
