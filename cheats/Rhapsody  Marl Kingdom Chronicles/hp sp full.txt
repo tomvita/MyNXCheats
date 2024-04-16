@@ -1,0 +1,6 @@
+ldr w16, [x15, #0x468]
+str w16, [x15, #0x470]
+ldr w16, [x15, #0x464]
+str w16, [x15, #0x46c]
+return:
+b code1+4
