@@ -1,0 +1,5 @@
+ldr r0, a
+str r0, [r4, #0x188]
+return:
+b code1+4
+a:.word 16000
