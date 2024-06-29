@@ -1,0 +1,11 @@
+code1 = 0x0067EB50
+cave_start = 0x00DD9840
+data_start = 0x01D9F088
+data_end = 0x01DA0000
+ldr x8, a
+str x8, [x1]
+str x8, [x1,0x10]
+str x8, [x1,0x40]
+return:
+b code1+4
+a:.double 10
