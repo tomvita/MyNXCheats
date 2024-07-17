@@ -1,0 +1,14 @@
+code1 = 0x00C785C4
+cave_start = 0x068D4B00
+data_start = 0x06C40DA8
+data_end = 0x06C41000
+stp x25, x26, [sp,#-0x90]	
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne original
+ldr w25, [x8]
+original: ldr w8, [x8]	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0x21fc0000
