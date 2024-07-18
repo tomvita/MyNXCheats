@@ -1,0 +1,14 @@
+code1 = 0x00CC9154
+cave_start = 0x00E314A0
+data_start = 0x21F8F6F8
+data_end = 0x21F90000
+ldr s0, [x8, #0x70]
+fmov s12, 1
+fcmp s0,s12
+b.lt return
+ldr s0, a
+str s0, [x8, #0x70]
+return:
+ldr s0, [x8, #0x70]
+b code1+4
+a:.float 10.1
