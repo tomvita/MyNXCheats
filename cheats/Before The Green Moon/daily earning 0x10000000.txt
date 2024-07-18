@@ -1,0 +1,5 @@
+ldr w1, a
+mov w20, w1
+return:
+b code1+4
+a:.word 100000000

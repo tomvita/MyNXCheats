@@ -1,0 +1,7 @@
+add w8, w8, w1
+  mov W1, #1000 // =0x3e8
+  sdiv w8, w8, W1
+  mul w8, w8, W1
+  add w1, w8, #999
+return:
+b code1+4

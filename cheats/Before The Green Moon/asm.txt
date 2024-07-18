@@ -1,0 +1,6 @@
+code1 = 0x018D4098
+cave_start = 0x03A6D298
+data_start = 0x05EA93B0
+data_end = 0x05EAA000
+cave_start = 0x018d4098
+mul w20, w1, 4

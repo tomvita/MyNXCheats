@@ -1,0 +1,16 @@
+STP X25, X26, [SP,#-0x90]
+mov w25,51
+str w25, [x0, #0x4c]
+str w25, [x0, #0x50]
+str w25, [x0, #0x54]
+str w25, [x0, #0x58]
+str w25, [x0, #0x5c]
+str w25, [x0, #0x60]
+str w25, [x0, #0x64]
+str w25, [x0, #0x68]
+str w25, [x0, #0x6c]
+str w25, [x0, #0x70]
+return:
+ldr w0, [x0, #0x4c]
+LDP X25, X26, [SP,#-0x90]
+b code1+4

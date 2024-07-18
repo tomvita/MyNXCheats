@@ -1,0 +1,36 @@
+stp x25, x26, [sp,#-0x90]	
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+/* b.ne en */
+b.ne original
+ldr w8, [x0, #0x14]
+str w8, [x0, #0x40]
+ldr w8, [x0, #0x18]
+str w8, [x0, #0x48]
+mov w8, 5
+str w8, [x0, #0x44]
+mov w8, 5000
+str w8, [x0, #0x1c]
+str w8, [x0, #0x24]
+ldr w8, [x0, #0x10]
+str w8, [x0, #0x3c]
+original: ldr w8, [x0, #0x3c]	
+ldp x25, x26, [sp,#-0x90]
+cmp w8, #1
+cset w0, lt
+return: ret
+/* en: */
+/* mov w8, 5 */
+/* str w8, [x0, #0x3c] */
+/* b original */
+e:.word 0x69200000
+/* f:.word 0x6d200000 */
+/* check_en: */
+/* ldr w25,f */
+/* cmp w25, w26 */
+/* b.ne original */
+/* mov w8, 0 */
+/* str w8, [x0, #0x3c] */
+/* b original */
+

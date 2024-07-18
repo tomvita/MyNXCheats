@@ -1,0 +1,11 @@
+cave_start = 0x0c03ccfc
+.word 1000
+.word 1018
+.word 1000
+.word 1019
+.word 1000
+.word 1013
+.word 1000
+.word 1014
+.word 1000
+.word 1003

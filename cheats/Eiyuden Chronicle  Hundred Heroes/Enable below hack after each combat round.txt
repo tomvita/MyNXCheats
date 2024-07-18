@@ -1,0 +1,27 @@
+cave_start = 0x066b3444
+stp x25, x26, [sp,#-0x90]	
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+/* b.ne en */
+b.ne original
+ldr w8, [x0, #0x14]
+str w8, [x0, #0x40]
+ldr w8, [x0, #0x18]
+str w8, [x0, #0x48]
+mov w8, 5
+str w8, [x0, #0x44]
+mov w8, 5000
+str w8, [x0, #0x1c]
+str w8, [x0, #0x24]
+ldr w8, [x0, #0x10]
+str w8, [x0, #0x3c]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0x45900000
+/* en: */
+/* mov w8, 5 */
+/* str w8, [x0, #0x3c] */
+/* b original */
+/* f:.word 0xc1f80000 */

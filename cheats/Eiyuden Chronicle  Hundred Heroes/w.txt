@@ -1,0 +1,9 @@
+code1 = 0x066B3FC0
+cave_start = 0x0C384B58
+data_start = 0x0C6F0DA8
+data_end = 0x0C6F1000
+adrp x25, (data_start & 0xFFFFFFFF000)
+str x0,[x25, (data_start & 0xFFF)]
+return:
+b code1+4
+a:.word 100

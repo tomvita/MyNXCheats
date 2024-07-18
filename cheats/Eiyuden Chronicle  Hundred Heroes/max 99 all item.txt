@@ -1,0 +1,9 @@
+cave_start = 0x0c384cb8
+ldr w8, [x24, #0x34]
+cmp w8,1
+b.eq return
+ldr w8, a
+str w8, [x24, #0x34]
+return:
+b code1+4
+a:.word 99

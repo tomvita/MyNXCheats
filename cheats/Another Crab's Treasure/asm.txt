@@ -1,0 +1,13 @@
+code1 = 0x019DD9C8
+cave_start = 0x038A2AB0
+data_start = 0x05A866E8
+data_end = 0x05A8E000
+ldr s8, a
+str s8, [x8, #0x14]
+ldr s8, b
+str s8, [x8, #0x10]
+return:
+ldr w8, [x8, #0x14]
+b code1+4
+a:.word 10000
+b:.word 1000

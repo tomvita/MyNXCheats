@@ -1,0 +1,12 @@
+ldp s0, s1, [x19, #0x9c]
+ldr s1, a
+and x29, x19, 0xfff
+cbz w29, fish
+stp s0, s1, [x19, #0x9c]
+b return
+fish:
+stp s0, s1, [x19, #0x9c]
+return:
+ldp s0, s1, [x19, #0x9c]
+b code1+4
+a:.float 11

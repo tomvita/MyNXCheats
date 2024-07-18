@@ -1,0 +1,18 @@
+STP X25, X26, [SP,#-0x90]
+button_save = 0x0c03ccf0
+adrp x25, (button_save & 0xFFFFFFFF000)
+ldr w26,[x25, (button_save & 0xFFF)]
+cmp w26, 1
+b.lt return
+sub w26, w26, 0x1
+str w26,[x25, (button_save & 0xFFF)]
+ldr w25, [x0, #0x14]
+  mov w26, #1000 // =0x3e8
+  sdiv w25, w25, w26
+  mul w25, w25, w26
+  add w25, w25, #999
+str w25, [x0, #0x14]
+return:
+ldr w0, [x0, #0x14]
+LDP X25, X26, [SP,#-0x90]
+b code1+4

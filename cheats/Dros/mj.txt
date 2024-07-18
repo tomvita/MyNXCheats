@@ -1,0 +1,8 @@
+/* and x0, x8, 0xfff  */
+/* cbnz x0, return */
+ldr s9, a
+str s9, [x8, #0x1e4]
+return:
+mov x0, xzr
+b code1+4
+a:.float 6.5

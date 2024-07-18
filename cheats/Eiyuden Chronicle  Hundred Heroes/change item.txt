@@ -1,0 +1,26 @@
+/* mov w8,99 */
+str w8, [x26, #0x18]
+STP X25, X26, [SP,#-0x90]
+STP X27, X28, [SP,#-0x80]
+STP X29, X30, [SP,#-0x70]
+button_save = 0x0c03ccf8
+adrp x25, (button_save & 0xFFFFFFFF000)
+ldr w26, [x25, (button_save & 0xFFF)]
+cmp w26, 0x1
+b.lt return
+sub w26, w26, 0x1
+add x29, x25, (button_save & 0xFFF)+4
+add x30, x25, (button_save & 0xFFF)+8
+ldr w27, [x0, #0x10]
+ldr x28, [x29, x26, lsl #3]
+cmp w27, w28
+b.ne return
+str w26, [x25, (button_save & 0xFFF)]
+ldr x28, [x30, x26, lsl #3]
+str w28, [x0, #0x10]
+/* str w8, [x0, #0x14] */
+return:
+LDP X25, X26, [SP,#-0x90]
+LDP X27, X28, [SP,#-0x80]
+LDP X29, X30, [SP,#-0x70]
+b code1+4

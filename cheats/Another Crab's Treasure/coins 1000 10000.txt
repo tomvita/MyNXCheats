@@ -1,0 +1,9 @@
+ldr s8, a
+str s8, [x8, #0x14]
+ldr s8, b
+str s8, [x8, #0x10]
+return:
+ldr w8, [x8, #0x14]
+b code1+4
+a:.word 10000
+b:.word 1000

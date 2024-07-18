@@ -1,0 +1,33 @@
+code1 = 0x066B3D08
+cave_start = 0x0C384B40
+data_start = 0x0C6F0DA8
+data_end = 0x0C6F1000
+STP X25, X26, [SP,#-0x90]
+STP X27, X28, [SP,#-0x80]
+STP X29, X30, [SP,#-0x70]
+cave_start = 0x0c384b88
+button_save = 0x0c03ccf8
+ldr w8, [x0, #0x18]
+adrp x25, (button_save & 0xFFFFFFFF000)
+ldr w26, [x25, (button_save & 0xFFF)]
+cmp w26, 0x1
+b.lt return
+sub w26, w26, 0x1
+adrp x29, (a & 0xFFFFFFFF000)
+add x29, x29, (a & 0xFFF)
+adrp x30, (b & 0xFFFFFFFF000)
+add x30, x30, (b & 0xFFF)
+ldr w27, [x0, #0x10]
+ldr w28, [x29, x26, lsl #3]
+cmp w27, w28
+b.ne return
+str w26, [x25, (button_save & 0xFFF)]
+ldr w28, [x30, x26, lsl #3]
+str w28, [x0, #0x10]
+return:
+LDP X25, X26, [SP,#-0x90]
+LDP X27, X28, [SP,#-0x80]
+LDP X29, X30, [SP,#-0x70]
+b code1+4
+a:.word 1000
+b:.word 1003

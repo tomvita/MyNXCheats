@@ -1,0 +1,8 @@
+ldr w8, a
+str w8, [x19, #0x30]
+ldr w8, b
+str w8, [x19, #0x2c]
+return:
+b code1+4
+a:.float 100
+b:.word 15

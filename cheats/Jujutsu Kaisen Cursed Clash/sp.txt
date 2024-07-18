@@ -1,0 +1,7 @@
+ldr s8, a
+str s8, [x8, #0x148]
+str s8, [x8, #0x14c]
+str s8, [x8, #0x150]
+return:
+b code1+4
+a:.float 100

@@ -1,0 +1,8 @@
+/* ldr w1, [x19, 4] */
+/* cbz w1, return */
+ldr s1, a
+str s1, [x19, 4]
+return:
+ldp s0, s1, [x19]
+b code1+4
+a:.float 6.5

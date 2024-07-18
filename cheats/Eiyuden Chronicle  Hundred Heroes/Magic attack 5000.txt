@@ -1,0 +1,4 @@
+str w8, [x0, #0x24]
+return:
+b code1+4
+a:.word 100

@@ -1,0 +1,7 @@
+button_save = 0x07336a40
+adrp x25, (button_save & 0xFFFFFFFF000)
+ldr w26, [x25, (button_save & 0xFFF)]
+cmp w26, 0x1
+b.lt return
+sub w26, w26, 0x1
+str w26, [x25, (button_save & 0xFFF)]

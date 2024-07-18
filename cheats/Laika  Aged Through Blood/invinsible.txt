@@ -1,0 +1,6 @@
+ldr w8, a
+str w8, [x19, #0x30]
+mov w8, 16
+return:
+b code1+4
+a:.float 100

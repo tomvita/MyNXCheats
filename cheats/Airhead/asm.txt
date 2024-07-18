@@ -1,0 +1,19 @@
+code1 = 0x0204476C
+cave_start = 0x037147C8
+data_start = 0x049DFE18
+data_end = 0x049E0000
+button_save = 0x049dfe10
+adrp x25, (button_save & 0xFFFFFFFF000)
+ldr w26, [x25, (button_save & 0xFFF)]
+cmp w26, 0x1
+b.lt return
+sub w26, w26, 0x1
+str w26, [x25, (button_save & 0xFFF)]
+ldr s0, [x8, #0x28]
+ldr s30, a
+fadd s0, s0, s30
+str s0, [x8, #0x28]
+return:
+ldr s0, [x8, #0x28]
+b code1+4
+a:.float 0.01

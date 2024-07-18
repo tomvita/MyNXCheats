@@ -1,0 +1,7 @@
+ldr s0, [x8, #0x28]
+ldr s30, a
+fadd s0, s0, s30
+str s0, [x8, #0x28]
+return:
+b code1+4
+a:.float 0.01

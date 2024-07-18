@@ -1,0 +1,17 @@
+STP X25, X26, [SP,#-0x90]
+button_save = 0x07ec2478
+adrp x25, (button_save & 0xFFFFFFFF000)
+ldr w26, [x25, (button_save & 0xFFF)]
+cmp w26, 0x1
+b.lt return
+sub w26, w26, 0x1
+str w26, [x25, (button_save & 0xFFF)]
+ldr w19, [x8, -20]
+cbz w19,return
+str w19, [x8, 8]
+str w19, [x8, 12]
+return:
+LDP X25, X26, [SP,#-0x90]
+ldr s8, [x8, #0xc]
+b code1+4
+a:.word 100

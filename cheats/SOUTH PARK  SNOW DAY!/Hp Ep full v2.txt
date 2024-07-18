@@ -1,0 +1,16 @@
+STP X25, X26, [SP,#-0x90]
+ldr w26, a
+ldr w25, [x8, #0x38]
+cmp w25,w26
+b.lt return
+ldr w25, [x8, #0x2c]
+cbz w25,return
+ldr w25, b
+str w25, [x8, #0x2c]
+str w25, [x8, #0x30]
+return:
+ldr s8, [x8, #0x2c]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.float 100
+b:.float 500

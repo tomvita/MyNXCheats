@@ -1,0 +1,11 @@
+STP X25, X26, [SP,#-0x90]
+ldr w25, [x0, #0x14]
+  mov w26, #1000 // =0x3e8
+  sdiv w25, w25, w26
+  mul w25, w25, w26
+  add w25, w25, #999
+str w25, [x0, #0x14]
+return:
+ldr w0, [x0, #0x14]
+LDP X25, X26, [SP,#-0x90]
+b code1+4

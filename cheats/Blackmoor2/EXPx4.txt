@@ -1,0 +1,6 @@
+ldr s9, a
+fmul s0, s0, s9
+return:
+stp x29, x30, [sp, #0x60]
+b code1+4
+a:.float 100
