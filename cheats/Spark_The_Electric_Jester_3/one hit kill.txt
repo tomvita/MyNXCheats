@@ -1,0 +1,7 @@
+ldr s0, [x19, #0x78]
+fcmp s0, #0.0
+b.le return
+fmov s0, #1.0
+str s0, [x19, #0x78]
+return:
+b code1+4

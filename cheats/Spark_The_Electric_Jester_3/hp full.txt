@@ -1,0 +1,4 @@
+ldp w21, w22, [x8, #8]
+stp w22, w22, [x8, #8]
+return:
+b code1+4

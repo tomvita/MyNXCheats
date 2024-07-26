@@ -1,0 +1,11 @@
+code1 = 0x017F2B00
+cave_start = 0x026C8BD8
+data_start = 0x03D71518
+data_end = 0x03D72000
+ldr s0, [x19, #0x78]
+fcmp s0, #0.0
+b.le return
+fmov s0, #1.0
+str s0, [x19, #0x78]
+return:
+b code1+4
