@@ -1,0 +1,9 @@
+ldr s9, a
+stp s9,s9, [x8, #0x28]
+stp s9,s9, [x8, #0x30]
+stp s9,s9, [x8, #0x38]
+stp s9,s9, [x8, #0x40]
+return:
+ldr w9, [x8, #0x18]
+b code1+4
+a:.word 99
