@@ -1,0 +1,5 @@
+ldr s8, a
+str s8, [x8, #0x10]
+return:
+b code1+4
+a:.float 1000
