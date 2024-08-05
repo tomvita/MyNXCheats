@@ -1,0 +1,6 @@
+ldr s0, a
+str s0, [x0, #0x2ac]
+return:
+ldr w0, [x0, #0x2ac]
+b code1+4
+a:.word 1000000

@@ -1,0 +1,6 @@
+ldr s0, a
+ldr s1, [x0, #0x2d0]
+return:
+b code1+4
+ldr s0, a
+a:.float 999
