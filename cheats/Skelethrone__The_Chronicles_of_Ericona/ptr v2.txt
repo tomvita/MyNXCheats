@@ -1,0 +1,5 @@
+STP X25, X26, [SP,#-0x90]
+adrp x25, (data_start & 0xFFFFFFFF000)
+str x1, [x25, (data_start & 0xFFF)]
+LDP X25, X26, [SP,#-0x90]
+bl #0x10b4
