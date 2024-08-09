@@ -1,0 +1,5 @@
+ldr w10, [x21, #0x4c]
+str w10, [x21, #0x48]
+return:
+b code1+4
+a:.word 100
