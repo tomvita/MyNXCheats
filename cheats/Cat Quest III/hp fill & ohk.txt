@@ -1,0 +1,42 @@
+stp x25, x26, [sp,#-0x90]	
+ldr w25,ship
+lsl w26,w30,16
+cmp w25, w26
+b.eq fill_ship
+ldr w25,hp
+cmp w25, w26
+b.eq fill_hp
+ldr w25,en
+cmp w25, w26
+b.ne original
+check_if_ship:
+adrp x26, (data_start & 0xFFFFFFFF000)
+ldr x25, [x26, (data_start & 0xFFF)]
+cmp x0, x25
+b.eq original
+check_if_hp:
+adrp x26, (data_start & 0xFFFFFFFF000)
+ldr x25, [x26, (data_start & 0xFFF)+8]
+cmp x0, x25
+b.eq original
+kill:
+str wzr, [x0, #0x20]
+b original
+fill_ship:
+adrp x26, (data_start & 0xFFFFFFFF000)
+str x0, [x26, (data_start & 0xFFF)]
+ldr w25, [x0, #0x24]
+stp w25, w25, [x0, #0x20]
+b original
+fill_hp:
+adrp x26, (data_start & 0xFFFFFFFF000)
+str x0, [x26, (data_start & 0xFFF) +8]
+ldr w25, [x0, #0x24]
+stp w25, w25, [x0, #0x20]
+original: {original}	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+ship:.word 0x39000000
+hp:.word 0x33300000
+en:.word 0x33c40000
+/* e:.word 0x84980000 */
