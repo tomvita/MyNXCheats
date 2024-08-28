@@ -1,0 +1,4 @@
+ldrsh w23, [x0, #0x766]
+strh w23, [x0, #0x764]
+return:
+b code1+4

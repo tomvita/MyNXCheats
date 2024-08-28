@@ -1,0 +1,4 @@
+ldrsh w8, [x0, #0x76e]
+strh w8, [x0, #0x76c]
+return:
+b code1+4
