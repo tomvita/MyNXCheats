@@ -1,0 +1,42 @@
+mov w1, 12
+str w1, [x20, #0x20C]
+str w1, [x20, #0x210]
+ldr x1, [x20, #0x178]
+ldr x9, [x1, #0x80]
+ldr w9, [x9, #0x10]
+str w9, [x20, #0x188]
+ldr x9, [x1, #0x10]
+ldr s8, power
+str s8, [x9, #0x10]
+ldr x9, [x1, #0x18]
+ldr s8, Area
+str s8, [x9, #0x10]
+ldr x9, [x1, #0x20]
+ldr s8, Speed
+str s8, [x9, #0x10]
+ldr x9, [x1, #0x28]
+ldr s8, MoveSpeed
+str s8, [x9, #0x10]
+ldr x9, [x1, #0x70]
+ldr s8, ReRolls
+str s8, [x9, #0x10]
+ldr x9, [x1, #0x78]
+ldr s8, Skips
+str s8, [x9, #0x10]
+ldr x9, [x1, #0x88]
+ldr s8, Magnet
+str s8, [x9, #0x10]
+ldr x9, [x1, #0xA0]
+ldr s8, Revivals
+str s8, [x9, #0x10]
+return:
+ldr s8, [x20, #0x188]
+b code1+4
+power:.float 2
+Area:.float 2
+Speed:.float 2
+MoveSpeed:.float 2
+Magnet:.float 20
+Revivals:.float 2
+ReRolls:.float 2
+Skips:.float 2

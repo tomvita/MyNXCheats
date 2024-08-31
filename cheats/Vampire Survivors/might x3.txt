@@ -1,0 +1,6 @@
+ldr x0, [x8, #0x10]
+ldr s18, a
+str s18, [x0, #0x10]
+return:
+b code1+4
+a:.float 2
