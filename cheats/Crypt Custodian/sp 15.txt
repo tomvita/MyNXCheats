@@ -1,0 +1,5 @@
+ldr x8, a
+str x8, [x1]
+return:
+b code1+4
+a:.double 15

@@ -1,0 +1,5 @@
+ldr d0, a
+str d0, [x22]
+return:
+b code1+4
+a:.double 15

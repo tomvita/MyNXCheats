@@ -1,0 +1,6 @@
+ldr s0, a
+str s0, [x19,4]
+return:
+ldr d0, [x19]
+b code1+4
+a:.float -2.6
