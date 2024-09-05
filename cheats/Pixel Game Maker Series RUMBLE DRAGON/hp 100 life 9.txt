@@ -1,0 +1,18 @@
+cmp w1, 2
+b.eq hp
+cmp w1, 2007
+b.eq life
+return:
+ldr x9, [x0, #0x30]
+b code1+4
+a:.word 100
+hp_: .double 100
+life_: .double 9
+hp:
+ldr x9, hp_
+str x9, [x0, #0x30]
+b return
+life:
+ldr x9, life_
+str x9, [x0, #0x30]
+b return
