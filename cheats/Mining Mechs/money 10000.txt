@@ -1,0 +1,6 @@
+ldr x20, a
+str x20, [x0]
+return:
+movz w20, #0x1
+b 0x6c76a0
+a:.double 10000
