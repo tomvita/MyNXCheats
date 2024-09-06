@@ -1,0 +1,6 @@
+ldr w8, a
+ldr x8, [x0, 0x10]
+return:
+ldr x8, [x0]
+b code1+4
+a:.word 25

@@ -1,0 +1,6 @@
+mov w1, 10000
+str w1, [x0]
+return:
+mov x1, xzr
+b 0x36587d0
+
