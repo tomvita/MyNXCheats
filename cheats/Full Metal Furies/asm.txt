@@ -1,0 +1,24 @@
+code1 = 0x021A8DF0
+cave_start = 0x029AD900
+data_start = 0x08F57AF0
+data_end = 0x08F58000
+stp x25, x26, [sp,#-0x90]	
+lsl w26,w30,16
+ldr w25,f
+cmp w25, w26
+b.eq en
+ldr w25,e
+cmp w25, w26
+b.ne original
+ldr s0, [x0, #0x2b4]
+str s0, [x0, #0x2b8]
+original: ldr s0, [x0, #0x2b8]	
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+en:
+/* ldr s0, [x0, #0x2b8] */
+str wzr, [x0, #0x2b8]
+b original
+/* e:.word 0xea300000 */
+e:.word 0xea800000
+f:.word 0xda480000
