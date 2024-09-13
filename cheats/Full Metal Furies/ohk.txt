@@ -1,0 +1,2 @@
+str wzr, [x0, #0x2b8]
+br x8
