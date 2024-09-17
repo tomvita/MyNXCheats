@@ -1,0 +1,11 @@
+and w0, w8, 0xFFF
+cmp w0, 0x3ac
+b.ne return
+mov w0, 0x80
+strb w0, [x8, #0x23] 
+ldr  w0, a
+strb w0, [x8, #0x20]
+return:
+ldrb w0, [x8, #0x20]
+b code1+4
+a:.word 1
