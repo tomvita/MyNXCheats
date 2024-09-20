@@ -1,0 +1,13 @@
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+ldr x26, [sp,0xd0]
+lsl w26,w26,16
+cmp w25, w26
+b.ne original
+ldr s8, a
+str s8, [x0, #0x60]
+original: {original}
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0xfd1c0000
+a:.float 100000
