@@ -1,0 +1,6 @@
+ldr s1, a
+str s1, [x8, #0x44]
+return:
+ldr d1, [x8, #0x40]
+b code1+4
+a:.float 20
