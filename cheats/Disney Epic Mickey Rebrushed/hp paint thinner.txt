@@ -1,0 +1,26 @@
+stp x25, x26, [sp,#-0x90]
+ldrh w26, [sp,0xa8]
+ldr w25,hp
+cmp w25, w26
+b.eq _hp
+ldr w25,paint
+cmp w25, w26
+b.eq _paint
+ldr w25,thinner
+cmp w25, w26
+b.eq _thinner
+original: {original}
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+hp:.word 0x6848
+paint:.word 0x6ad0
+thinner:.word 0x6d58
+_hp:
+fmov s8, #10.0
+str s8, [x8, #8]
+b original
+_paint:
+_thinner:
+ldr s8, [x8, #0x18]
+str s8, [x8, #8]
+b original
