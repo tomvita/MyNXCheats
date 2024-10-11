@@ -1,0 +1,19 @@
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+ldrh w26, [sp,0x158]
+cmp w25, w26
+b.ne en
+ldr s0, [x8, #0x2c]
+scvtf s0, s0
+str s0, [x8, #0x3c]
+original: {original}
+ldp x25, x26, [sp,#-0x90]
+return: b code1+4
+e:.word 0x2d3c
+en:
+ldr w26, [x8, #0x20]
+tbz w26, 16, original
+/* cbz w26, original */
+/* ldr s0, [x8, #0x3c] */
+str w25, [x8, #0x3c]
+b original
