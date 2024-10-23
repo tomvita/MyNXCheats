@@ -1,0 +1,27 @@
+cave_start = 0x079d2b20
+STP X25, X26, [SP,#-0x90]
+and w25,w8,0xFFF
+cmp w25,0x618
+b.ne return
+ldr w25,e
+ldrh w26, [sp,0x88]
+cmp w25, w26
+b.eq hero
+ldr w26, [x8]
+/* cmp w26, 123 */
+/* b.eq return */
+cmp w26, 1
+b.lo return
+mov w25, 1
+ldr w25, [x8]
+/* str w25,[x8] */
+return:
+LDP X25, X26, [SP,#-0x90]
+ldr w8, [x8]
+b code1+4
+e:.word 0x7ec
+hero:
+mov w26, 123
+str w26, [x8]
+str w26, [x8,0x14]
+b return
