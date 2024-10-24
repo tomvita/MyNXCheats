@@ -1,0 +1,25 @@
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+ldrh w26, [sp,0xb8]
+cmp w25, w26
+b.ne original
+ldr w25, [x23,4]
+cmp w25, 1
+b.ne hero
+str wzr, [x23]
+original: 
+{original}
+ldp x25, x26, [sp,#-0x90]
+return: 
+b code1+4
+hero:
+ldr w25, bp
+str w25, [x23,8]
+ldr x25, hp
+str x25, [x23]
+b original
+e:.word 0x45b8
+hp:.word 200
+lp:.word 200
+bp:.word 200
+
