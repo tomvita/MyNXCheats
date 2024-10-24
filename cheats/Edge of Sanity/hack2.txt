@@ -1,0 +1,7 @@
+ldr x0, [x19, #0x90]
+cmp w28, 1
+sub w28, w28, 1
+b.lt return
+b 0x1a72fac
+return:
+b code1+4

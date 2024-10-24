@@ -1,0 +1,22 @@
+STP X25, X26, [SP,#-0x90]
+ldr w25,e1
+lsl w26,w30,16
+cmp w25, w26
+b.ne return
+ldr w25,e
+ldrh w26, [sp,0x8]
+cmp w25, w26
+b.eq stress
+ldr x25, [x19, #0x28]
+ldr x25, [x25, #0x18]
+ldr s8, [x25, #0x18]
+str s8, [x19, #0x34]
+return:
+LDP X25, X26, [SP,#-0x90]
+ldr s8, [x19, #0x34]
+b code1+4
+e:.word 0x5ac0
+e1:.word 0xa96c0000
+stress:
+str wzr, [x19, #0x34]
+b return

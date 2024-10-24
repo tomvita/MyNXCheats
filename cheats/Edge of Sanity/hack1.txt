@@ -1,0 +1,4 @@
+mov w28,1
+mov x20, x0
+return:
+b code1+4
