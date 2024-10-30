@@ -1,0 +1,15 @@
+cave_start = 0x020d0e60
+STP X25, X26, [SP,#-0x90]
+ldr w25, cultural
+strh w25, [x0, #0xfc]
+ldr w25, notorious
+strh w25, [x0, #0x100]
+ldr w25, martial
+strh w25, [x0, #0xfe]
+return:
+LDP X25, X26, [SP,#-0x90]
+ldrh w0, [x0, #0xfe]
+b code1+4
+martial:.word 9999
+cultural:.word 9999
+notorious:.word 9999
