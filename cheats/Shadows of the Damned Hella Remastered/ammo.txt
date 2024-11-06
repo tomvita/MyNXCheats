@@ -1,0 +1,9 @@
+ldr w9, [x21,12]
+cmp w9, 8
+b.lt return
+cmp w9, 18
+b.gt return
+str w9, [x21]
+return:
+ldr w9, [x21]
+b code1+4

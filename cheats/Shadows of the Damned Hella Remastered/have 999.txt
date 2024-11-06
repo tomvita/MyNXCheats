@@ -1,0 +1,10 @@
+cave_start = 0x049744e0
+ldr w8, [x2]
+cmp w8, 1
+b.lt return
+ldr w8, a
+str w8, [x2]
+return:
+ldr w8, [x2]
+b code1+4
+a:.word 999
