@@ -1,0 +1,10 @@
+ldr x30, [x19, #0x18]
+ldr w30, [x30, 0xbc]
+cbz w30, ohk
+ldr w0, [x19, #0x2c]
+return:
+str w0, [x19, #0x30]
+b code1+4
+ohk:
+str w0, [x19, #0x30]
+b code1+4
