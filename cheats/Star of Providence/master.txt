@@ -1,0 +1,25 @@
+ldr w20, hp
+cmp w20, w14
+b.eq hp_
+ldr w20, ammo
+cmp w20, w14
+b.eq ammo_
+ldr w20, mag
+cmp w20, w14
+b.eq ammo_
+return:
+ldr x8, [x21]
+b code1+4
+hp:.word 0x195a7
+ammo:.word 0x19d8b
+mag:.word 0x188de
+a:.double 600
+hp_:
+ldr x8, [x21,0x10]
+str x8, [x21]
+b return
+ammo_:
+ldr x8, a
+str x8, [x21]
+b return
+
