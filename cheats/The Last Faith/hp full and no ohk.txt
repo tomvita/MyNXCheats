@@ -1,0 +1,9 @@
+ldr w20, [x20, 0x180]
+cmp w20, 01
+b.ne enemy
+return:
+b code1+4
+enemy:
+bl #0x1ab3230
+/* str wzr, [x0, #0x2c] */
+b code1+4
