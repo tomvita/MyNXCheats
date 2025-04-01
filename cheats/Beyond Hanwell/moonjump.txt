@@ -1,0 +1,35 @@
+STP X25, X26, [SP,#-0x90]
+data_save = 0x079623F0
+adrp x25, (data_save & 0xFFFFFFFF000)
+str x8, [x25, (data_save & 0xFFF)]
+ldr d0, [x8, #0x200]
+ldr w26, [x25, (data_save & 0xFFF)+0x28] 
+cbnz w26, load_save
+ldr d1, [x25, (data_save & 0xFFF)+0x8]
+/* ldr d1, a */
+fadd d0, d1, d0
+str d0, [x8, #0x200]
+str xzr, [x25, (data_save & 0xFFF)+0x8]
+return:
+LDP X25, X26, [SP,#-0x90]
+ldr s1, [x20, #0x30c]
+b code1+4
+a:.double 100
+load_save:
+cmp w26, 1
+b.eq load
+save:
+ldr q1, [x8, #0x1F0]
+str q1, [x25, (data_save & 0xFFF)+0x10]
+ldr d1, [x8, #0x200]
+str d1, [x25, (data_save & 0xFFF)+0x20]
+str wzr, [x25, (data_save & 0xFFF)+0x28] 
+b return
+load:
+ldr x26, [x25, (data_save & 0xFFF)+0x20]
+cbz x26, return
+str x26, [x8, #0x200]
+ldr q1, [x25, (data_save & 0xFFF)+0x10]
+str q1, [x8, #0x1F0]
+str wzr, [x25, (data_save & 0xFFF)+0x28] 
+b return

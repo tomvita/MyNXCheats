@@ -1,0 +1,21 @@
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+ldrh w26, [sp,0x8]
+cmp w25, w26
+b.eq hack
+ldr w25,e2
+cmp w25, w26
+b.ne original
+hack:
+ldr w8, [x20]
+cmp w8, w25
+b.gt original
+mov w8, 88
+str w8, [x20]
+original: 
+{original}
+ldp x25, x26, [sp,#-0x90]
+return: 
+b code1+4
+e2:.word 0xb3d8
+e:.word 0x88e0

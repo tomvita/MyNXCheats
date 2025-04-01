@@ -1,0 +1,8 @@
+fmov s12, 10
+fcmp s12, s0
+b.gt return
+fmov s0, 0
+/* str wzr, [x0, #0xc] */
+return:
+ldr s12, [x0, #0xc]
+b code1+4
