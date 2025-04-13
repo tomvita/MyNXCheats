@@ -1,0 +1,10 @@
+/* ldr w8, [x0, #0x18] */
+ldr w8, [x0, #0x38]
+/* cmp w8, -1 */
+cmp w8, 85
+b.ne return
+mov w8, 1
+str w8, [x0, #8]
+return:
+ldr w8, [x0, #8]
+b code1+4
