@@ -1,0 +1,31 @@
+code1 = 0x00152024
+cave_start = 0x0582F200
+data_start = 0x07DC8CD0
+data_end = 0x07DC9000
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne chksp
+hack:
+ldrh w0, [x1, #0x30]
+strh w0, [x1, #0x10]
+original: 
+ldrh w0, [x1, #0x10]
+ldp x25, x26, [sp,#-0x90]
+return: 
+b code1+4
+chksp:
+ldr w25,e1
+cmp w25, w26
+b.ne chken
+b hack
+chken:
+ldr w25,e2
+cmp w25, w26
+b.ne original
+ldrh w0, [x1, #0x10]
+b original
+e2:.word 0xb5d00000
+e1:.word 0x14680000
+e:.word 0x6e040000
