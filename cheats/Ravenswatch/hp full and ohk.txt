@@ -1,0 +1,25 @@
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne en
+data_save = 0x02B3DD00
+adrp x25, (data_save & 0xFFFFFFFF000)
+str x0, [x25, (data_save & 0xFFF)]
+hero:
+ldr s0, [x0, #0xec]
+str s0, [x0, #0xe8]
+original: 
+ldp x25, x26, [sp,#-0x90]
+return: 
+b code1+4
+en: 
+adrp x25, (data_save & 0xFFFFFFFF000)
+ldr x25, [x25, (data_save & 0xFFF)]
+cmp x0, x25
+b.eq hero
+ldr s0, a
+str s0, [x0, #0xe8]
+b original
+e: .word 0x10940000
+a: .float 1
