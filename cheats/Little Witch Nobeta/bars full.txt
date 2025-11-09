@@ -1,0 +1,8 @@
+ldr s8, [x0, #0x1c]
+str s8, [x0, #0x20]
+ldr s8, [x0, #0x34]
+str s8, [x0, #0x38]
+ldr s8, [x0, #0x28]
+str s8, [x0, #0x2c]
+return:
+b code1+4

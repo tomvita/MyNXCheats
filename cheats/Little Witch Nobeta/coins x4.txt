@@ -1,0 +1,6 @@
+ldr s0, a
+fmul s1, s0, s1
+ldr s0, [x8, #0x10]
+return:
+b code1+4
+a:.float 4

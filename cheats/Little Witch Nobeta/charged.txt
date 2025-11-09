@@ -1,0 +1,5 @@
+ldp s1, s0, [x0, #0x54]
+fmov s0, s1
+stp s1, s0, [x0, #0x54]
+return:
+b code1+4
