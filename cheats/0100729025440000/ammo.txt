@@ -1,0 +1,6 @@
+ldr w9, a
+str w9, [x0, #0x20]
+return:
+ldr w0, [x0, #0x20]
+b code1+4
+a:.word 10

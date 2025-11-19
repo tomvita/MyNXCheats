@@ -1,0 +1,17 @@
+code1 = 0x054BF6C0
+cave_start = 0x06A364CC
+data_start = 0x09789980
+data_end = 0x0978A000
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+ldrh w26, [sp,0x18]
+cmp w25, w26
+b.ne return
+ldr w9, a
+str w9, [x0, #0x20]
+return:
+ldp x25, x26, [sp,#-0x90]
+ldr w0, [x0, #0x20]
+b code1+4
+e:.word 0x4c18
+a:.word 1000
