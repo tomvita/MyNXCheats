@@ -1,0 +1,28 @@
+cave_start = 0x014e9ae0
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+ldrh w26, [sp,0x250]
+cmp w25, w26
+b.ne original
+mov w22, 2
+str w22, [x0]
+ldr x22, a
+str x22, [x0, #8]
+mp:
+mov w22, 2
+str w22, [x0, -0x80]
+ldr x22, a
+str x22, [x0, -0x78]
+blood:
+sub x0, x0, 0x100
+mov w22, 2
+str w22, [x0, -0x80]
+ldr x22, a
+str x22, [x0, -0x78]
+original: 
+{original}
+ldp x25, x26, [sp,#-0x90]
+return: 
+b code1+4
+e:.word 0xcb90
+a:.quad 1000000
