@@ -1,0 +1,12 @@
+data_save = 0x00EF5D18
+adrp x8, (data_save & 0xFFFFFFFF000)
+str x1, [x8, (data_save & 0xFFF)]
+mov w8, 0x8450
+cmp w0, w8
+b.ne return
+data_save = 0x00EF5D20
+adrp x8, (data_save & 0xFFFFFFFF000)
+str x1, [x8, (data_save & 0xFFF)]
+return:
+ldrh w8, [x1, w0, uxtw]
+b code1+4
