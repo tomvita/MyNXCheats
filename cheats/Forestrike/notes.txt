@@ -1,26 +1,39 @@
-[money no dec]
-note = asm hack so money don't reduce on use
+[money no decrease]
+note = ASM hack so money does not reduce when used
+
 [money 999]
-pointer hack value to 999
+note = Pointer hack that sets money value to 999
+
 [hp 6]
-=false
+note = This and the next three cheats may occasionally fail to land on the correct address. I noticed this cheat hacking NPC HP (the NPC on the boat).
+
 [boost 5]
 false
+
 [parry 5]
 false
+
 [special 5]
 false
-[For info]
+
+[for info]
 false
+
 [health system hack read]
-false
+note = This cheat contains the instruction that reads health system data
+
 [hp hack off]
-false
+note = Enable this cheat to restore the original instruction modified by the next cheat
+
 [hp max]
-false
-[hp 5]
-false
+note = ASM hack for HP.
+       May affect enemies as well—turn off if enemies cannot be killed
+
+[ hp 5]
+note = Pointer saved by the HP Max cheat
+
 [time]
-false
-[ end]
+note = Time played and other nearby stats
+
+[end]
 false
