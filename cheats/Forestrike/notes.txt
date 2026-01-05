@@ -1,0 +1,26 @@
+[money no dec]
+note = asm hack so money don't reduce on use
+[money 999]
+pointer hack value to 999
+[hp 6]
+=false
+[boost 5]
+false
+[parry 5]
+false
+[special 5]
+false
+[For info]
+false
+[health system hack read]
+false
+[hp hack off]
+false
+[hp max]
+false
+[hp 5]
+false
+[time]
+false
+[ end]
+false
