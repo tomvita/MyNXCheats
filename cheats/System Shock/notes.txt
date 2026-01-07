@@ -1,0 +1,13 @@
+[hp hack]
+note=Hack hero hp by checking caller is on stack, this cheat has not been tested much, so far seems to work fine
+
+[hp and more]
+note=This line of code access hero HP and a few others, not sure if they are HP of other entities
+
+[caller to hp]
+note=This caller is found on stack that so far seems to access hero HP
+
+[v0 from tomswitch]
+note=Only made one cheat from the start of the game. Game is slow moving so only have enough information from the first few minutes for one cheat, more will come if I continue to play this game
+
+
