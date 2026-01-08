@@ -1,0 +1,47 @@
+stp x25, x26, [sp,#-0x90]
+ldr w25,e
+lsl w26,w30,16
+cmp w25, w26
+b.ne original
+ldr w25,e0
+ldrh w26, [sp,0x48]
+cmp w25, w26
+b.ne original
+ldr w25,e1
+ldrh w26, [sp,0x88]
+cmp w25, w26
+b.ne original
+ldr w25,e2
+ldrh w26, [sp,0xc8]
+cmp w25, w26
+b.ne original
+ldr w25,e3
+ldrh w26, [sp,0x148]
+cmp w25, w26
+b.ne original
+ldr w25,e4
+ldrh w26, [sp,0x158]
+cmp w25, w26
+b.ne original
+ldr w25, [x8,-4]
+str w25, [x8]
+original: 
+ldr w25,e5
+ldrh w26, [sp,0x248]
+cmp w25, w26
+b.eq gun
+return: 
+{original}
+ldp x25, x26, [sp,#-0x90]
+b code1+4
+e:.word 0xd18c0000
+e0:.word 0xb528
+e1:.word 0xb010
+e2:.word 0x744
+e3:.word 0x1104
+e4:.word 0x84c0
+e5:.word 0x8bc4
+gun:
+mov w25, 100
+str w25, [x8]
+b return

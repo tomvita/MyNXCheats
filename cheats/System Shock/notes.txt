@@ -1,6 +1,22 @@
 [hp hack]
 note=Hack hero hp by checking caller is on stack, this cheat has not been tested much, so far seems to work fine
 
+[ hp hack]
+note=keyguard to not overuse this not fully tested cheat
+
+[ energy hack]
+note=keyguard to not overuse this not fully tested cheat
+
+
+[ pickup inventory to have max qty, ammo 99]
+note=keyguard to not overuse this not fully tested cheat, pickup item in inventory interface and put it back to change the qty to max. ammo in gun 99 only tested on one gun I have so far 
+
+[caller to ammo]
+04000000 00C82BC0 97FF3F6E 
+
+[caller to energy]
+04000000 037D6404 97FFE2C0 
+
 [hp and more]
 note=This line of code access hero HP and a few others, not sure if they are HP of other entities
 
@@ -9,5 +25,8 @@ note=This caller is found on stack that so far seems to access hero HP
 
 [v0 from tomswitch]
 note=Only made one cheat from the start of the game. Game is slow moving so only have enough information from the first few minutes for one cheat, more will come if I continue to play this game
+
+[v1 from tomswitch]
+note=Added hack to energy, inventory qty and ammo in gun
 
 
