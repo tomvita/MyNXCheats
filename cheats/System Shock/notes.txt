@@ -29,4 +29,7 @@ note=Only made one cheat from the start of the game. Game is slow moving so only
 [v1 from tomswitch]
 note=Added hack to energy, inventory qty and ammo in gun
 
+[v2 from tomswitch]
+note=fixed gold becoming zero as that was in the max field, now it will become 9999
+
 
