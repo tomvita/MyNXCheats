@@ -1,0 +1,110 @@
+[master]
+note=This master code in Breeze format and adapted to support the original code. I have ported all the cheats to the Breeze format for easier understanding and further development should that be desired.
+true
+[Money Max]
+false
+[Money Max off]
+false
+[HP MAX(Changed)]
+false
+[HP MAX(Changed) off]
+false
+[One Hit Kill(while pressing ZL)]
+false
+[One Hit Kill(while pressing ZL) original]
+note=This is to test that the original works with my master code
+false
+[One Hit Kill(while pressing ZL) off]
+false
+[ATB MAX(increase)]
+false
+[ATB MAX(increase) off]
+false
+[Exp Rate x2]
+false
+[Exp Rate off]
+false
+[Exp Rate x3]
+false
+[Exp Rate x4]
+false
+[Exp Rate x5]
+false
+[Exp Rate x10]
+false
+[Exp Rate x100]
+false
+[Exp Rate x1000]
+false
+[Exp Rate x10000]
+false
+[Not reduced by magic use]
+false
+[Not reduced by magic use off]
+false
+[Not reduced by item use]
+false
+[Not reduced by item use off]
+false
+[No Encount (While Pressing ZL Immediate Encount)]
+false
+[No Encount (While Pressing ZL Immediate Encount) off]
+false
+[100Item Drop]
+false
+[100Item Drop off]
+false
+[Item Drop (common)]
+false
+[Item Drop hack off]
+false
+[Item Drop (UnCommon)]
+false
+[Item Drop (Rare)]
+false
+[Item Drop (UltraRare)]
+false
+[100% card drop]
+false
+[100 ard drop off]
+false
+[AP 255 gained in battle]
+false
+[AP 255 gained in battle off]
+false
+[G.F. LV MAX (After Battle)]
+false
+[G.F. LV MAX (After Battle) off]
+false
+[G.F. Exp x2]
+false
+[G.F. Exp x off]
+false
+[G.F. Exp x4]
+false
+[G.F. Exp x8]
+false
+[G.F. Exp x32]
+false
+[G.F. Exp x128]
+false
+[Card All 100]
+false
+[Card All 100 off]
+false
+[Item All(Select item while pressing L3+R3)]
+false
+[Item All(Select item while pressing L3+R3) off]
+false
+[G.F. All]
+false
+[G.F. All off]
+false
+[Immediate escape possible]
+false
+[Immediate escape possible off]
+false
+[Save Anywhere (Not recommended)]
+false
+[Save Anywhere (Not recommended) off]
+false
