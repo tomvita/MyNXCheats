@@ -1,0 +1,6 @@
+[Cheats by TomSwitch v0]
+note=enable this cheat to allow cheats to be turn off
+[HP full MP 10]
+note=two in one cheat, fill hp to full and make mp 10, you can edit this cheat easily, just disassemble it and take a look
+[lacrima 1000]
+note=this change the actual you have but display will only change when the game decide to refresh it
