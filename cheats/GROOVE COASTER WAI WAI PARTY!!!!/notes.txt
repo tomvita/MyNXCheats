@@ -1,0 +1,10 @@
+[Cheats by tomswitch v0]
+false
+[Off enable]
+note=enable this cheat to be able to turn off the cheats, asm cheats by default cannot be turn off
+[max coins]
+note=set the coin count to max when you acquire some coin
+[no miss]
+[coin x4]
+note=get four times the coin you normally would, you can edit this cheat to any multiplier of 2, lsl 2 means 2^2 = 4, use the edit cheat button and edit the second line
+
