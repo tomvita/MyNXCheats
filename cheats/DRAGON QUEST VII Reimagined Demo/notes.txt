@@ -1,0 +1,18 @@
+[Cheats by TomSwitch v0]
+note=Nice demo! Looking forward to the full game
+[Off enable]
+false
+[hp mp 500]
+note=apply to all party members
+[damage x4]
+note=applies to everyone including party members
+[exp x4]
+false
+[have max qty]
+note=set inventory quantity to the max value, that toy bear which can't be sold may end up in your inventory forever, if you have problem with equipping equipment try turning off this cheat 
+[Off enable]
+false
+[pointer to coins]
+note=it is more accessible than placing a watch on the asm instruction I used for the coin cheat, you can jump to target to look around
+[coin 10000 on update]
+note=maybe demo has a cap on coin, at this high value the game stop updating the value, you can modify the value to lower to see it getting update again in game when the cheat is turn off
