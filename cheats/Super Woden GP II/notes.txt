@@ -1,0 +1,179 @@
+[coins 1m]
+note=No grinding for coins
+[credit 10]
+note=Your arcade retry credit
+[time left 99]
+note=arcade time left 99
+[count down stop at 1]
+note=arcade time left stop count at 1 second, i.e. you will never gameover
+[ reset time]
+note=reset the time to zero
+[ power]
+note=hack the power and life of your car and reduce the power of your rivals
+[For info]
+false
+[star]
+note=this asm area is where the star count is computed, trace this area may lead to a cheat to set all starts to be won
+[ end]
+false
+[Off enable]
+false
+
+BM_ public class MainCar : MonoBehaviour // TypeDefIndex: 3473
+{
+	// Fields
+	public string PlayerIndex; // 0x18
+	public float Idle_Speed; // 0x20
+	[HideInInspector]
+	public string PilotName; // 0x28
+	[HideInInspector]
+	public Sprite Avatar; // 0x30
+	[HideInInspector]
+	public Sprite Flag; // 0x38
+	public MainCar.CarStatuses Status; // 0x40
+	public MeshRenderer CarMesh; // 0x48
+	public int CarId; // 0x50
+	[HideInInspector]
+	public CarSelecter CSelecter; // 0x58
+	[HideInInspector]
+	public bool Rival; // 0x60
+	[HideInInspector]
+	public MeshRenderer[] Meshes; // 0x68
+	public float SpeedMultiplier; // 0x70
+	public int Gears; // 0x74
+	[HideInInspector]
+	public int MyGear; // 0x78
+	[HideInInspector]
+	public int MemGear; // 0x7C
+	[HideInInspector]
+	public bool Turbo; // 0x80
+	public float CarPower; // 0x84
+	public float PowerOffset; // 0x88
+	public float BrakePower; // 0x8C
+	public float BrakeAntiSlideHelper; // 0x90
+	[HideInInspector]
+	public float ActualPower; // 0x94
+	public float CarTopSpeed; // 0x98
+	public float CarSteer; // 0x9C
+	[HideInInspector]
+	public float MaxSteerAngle; // 0xA0
+	public float CarSteerQuickNess; // 0xA4
+	public float MaxSteerHelp; // 0xA8
+	public float SteerHelpSpeed; // 0xAC
+	[HideInInspector]
+	public float SteerHelpStatus; // 0xB0
+	[HideInInspector]
+	public float SteerIAmultiplier; // 0xB4
+	public float AutoCenterSpeed; // 0xB8
+	public float CarSteerDestiny; // 0xBC
+	public float ResistanceFactor; // 0xC0
+	[HideInInspector]
+	public bool Latigazo; // 0xC4
+	public float Latigazo_On; // 0xC8
+	public float Latigazo_Off; // 0xCC
+	public float Grip; // 0xD0
+	public float G_Force; // 0xD4
+	public float OutOfBoundsPublic; // 0xD8
+	public float OutOfBounds; // 0xDC
+	[HideInInspector]
+	public int TrueSpeed; // 0xE0
+	private Transform Carbody; // 0xE8
+	private float CarAngle; // 0xF0
+	[HideInInspector]
+	public Rigidbody Rb; // 0xF8
+	private MAINCURVES MainCurvesScript; // 0x100
+	private MainImpacts MainImpactsScript; // 0x108
+	public CarAudio CarAudioScr; // 0x110
+	private Controls ControlsScr; // 0x118
+	[HideInInspector]
+	public Vector3 Drag; // 0x120
+	[HideInInspector]
+	public bool Grounded; // 0x12C
+	private bool Grounded_Mem; // 0x12D
+	public bool Air; // 0x12E
+	[HideInInspector]
+	public bool AirSpeedAvailable; // 0x12F
+	[HideInInspector]
+	public float AirSpeed; // 0x130
+	private float AirspeedDecrease; // 0x134
+	public MainParticles ParticlesScr; // 0x138
+	[HideInInspector]
+	public float Rpm; // 0x140
+	public float RpmDamp; // 0x144
+	public WheelCollider[] WheelColliders; // 0x148
+	[HideInInspector]
+	public WheelCollider[] FrontAxle; // 0x150
+	[HideInInspector]
+	public WheelCollider[] RearAxle; // 0x158
+	[SerializeField]
+	private Vector3 CenterOfMass; // 0x160
+	[HideInInspector]
+	public int CheckPoint; // 0x16C
+	[HideInInspector]
+	public int Laps; // 0x170
+	[HideInInspector]
+	public CarClock Clock; // 0x178
+	[HideInInspector]
+	public PlayerCamera MyCamera; // 0x180
+	private RaceConditions RaceConditionsScript; // 0x188
+	[HideInInspector]
+	public Vector3 StoredPosition; // 0x190
+	[HideInInspector]
+	public Quaternion StoredRotation; // 0x19C
+	public bool Accelerating; // 0x1AC
+	[HideInInspector]
+	public float RespawnTime; // 0x1B0
+	public float SimSteerOffset; // 0x1B4
+	public float Score; // 0x1B8
+	private float ScoreMem; // 0x1BC
+	[HideInInspector]
+	public int Rank; // 0x1C0
+	public bool Braking; // 0x1C4
+	public bool BrakeLight; // 0x1C5
+	[HideInInspector]
+	public WheelAnimation WheelAnimationScr; // 0x1C8
+	private bool Flicker; // 0x1D0
+	private int Flicks; // 0x1D4
+	public GameObject Safebox; // 0x1D8
+	public float SlipStreamLevel; // 0x1E0
+	[HideInInspector]
+	public float Fuel; // 0x1E4
+	public float Life; // 0x1E8
+	[HideInInspector]
+	public float LifeRestoreRate; // 0x1EC
+	[HideInInspector]
+	public CarStats MyCarstats; // 0x1F0
+	private Vector3 DistanceA; // 0x1F8
+	private Vector3 DistanceB; // 0x204
+	[HideInInspector]
+	public float Oil; // 0x210
+	public Vector3[] HubDefaults; // 0x218
+	private GarageSlot MySlot; // 0x220
+	private float MemorySpeed; // 0x228
+	private int BrakeTimer; // 0x22C
+	private RankSystem RankSystem_; // 0x230
+	private GameModes Modetemp; // 0x238
+	public float LoseGripStatus; // 0x23C
+	public float LoseGripSpeed; // 0x240
+	public float RecoverGripSpeed; // 0x244
+	[HideInInspector]
+	public bool Traction_Left; // 0x248
+	[HideInInspector]
+	public bool Traction_Right; // 0x249
+	private bool Esp; // 0x24A
+	[HideInInspector]
+	public bool locked; // 0x24B
+	[HideInInspector]
+	public bool GripRecover; // 0x24C
+	public GearBox[] GearBoxes; // 0x250
+	private GearBox MyGearBox; // 0x258
+	private float FinalMaxSpeed; // 0x260
+	public int Penaltyframes; // 0x264
+	public Autopilot MyAutopilot; // 0x268
+	private bool HighSpeedSecurer; // 0x270
+	private int HSSValue; // 0x274
+	[HideInInspector]
+	public bool lights; // 0x278
+	private Transform thisTransform; // 0x280
+	private readonly MainCar.GroundDetectionInfo[] groundDetections; // 0x288
+	private int groundDetectionFrame; // 0x290
