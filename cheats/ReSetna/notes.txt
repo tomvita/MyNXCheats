@@ -1,0 +1,54 @@
+[hp hack]
+note=Hack hp value not the display, save address to prevent damage 999 from killing our hero
+[heal count and cool down hack]
+note=Set heal count to max and no cool down for use
+[damage 999]
+note=Will hurt hero too if hp hack is not enabled
+[Off enable]
+note=Enable this will disable all the above cheats, there is no other way to turn them off
+[movement hack enable]
+note=Setup pointers for the following cheats. Be warned that gaining ability that the developer did not intent you to have at your current stage will spoil their design and potentially make you stuck and cannot progress in the game.
+[MultiJumpEnabled on]
+note=you have to disable this when you are suppose to gain it or the game cannot progress.
+[MultiJumpEnabled off]
+false
+[unlimited MultiJump]
+false
+[ground on]
+note=other than change the animation of multi jump I have not seen any difference
+[FastFallingEnabled on]
+note=This have not been tested. I assume it work as the name suggest.
+[FastFallingEnabled off]
+false
+[WallJumpEnabled on]
+note=This have not been tested. I assume it work as the name suggest.
+
+[WallJumpEnabled off]
+false
+[WallGrabbingEnabled on]
+note=This have not been tested. I assume it work as the name suggest.
+
+[WallGrabbingEnabled off]
+false
+[WallHoldingEnabled on]
+note=This have not been tested. I assume it work as the name suggest.
+
+[WallHoldingEnabled off]
+false
+[PushbackCanceled on]
+note=This have not been tested. 
+
+[PushbackCanceled off]
+false
+[InSaveStation on]
+false
+[InSaveStation off]
+false
+[For info]
+false
+[Pointer to hp]
+note=saved pointer to hp, use by damage 999 to not hurt our hero, for exploration of the memory location
+[resource read]
+note=qty of the resource you have and some other things, recognize the number and hack if you wish
+[ end]
+false
