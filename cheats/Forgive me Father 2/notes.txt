@@ -1,0 +1,15 @@
+[hp and shield full]
+note=Classic match x30 friend or foe being use on this cheat. Unique caller observed and used for distinction. Only tested in the first few minutes of the game have good chance to last but you never know until you play till the end. Generally better than pointer search.
+
+[ammo no dec]
+note=Tested on the first gun obtained. Have chance to apply to other guns but you never know until they appear.
+
+[Off enable]
+note=ASM cheats generally requires a restore to original game code cause they normally don't get refreshed.
+
+[Cheats by TomSwitch]
+note=A few minutes into the game. Maybe just these will be all this game need. May continue to play.
+
+[Breeze]
+font_size=19
+show_notes=true
