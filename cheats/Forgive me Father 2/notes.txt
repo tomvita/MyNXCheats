@@ -13,3 +13,63 @@ note=A few minutes into the game. Maybe just these will be all this game need. M
 [Breeze]
 font_size=19
 show_notes=true
+
+[no reload]
+note=You don't need to reload but your ammo will decrease unless you enable ammo no dec
+
+[revolver ammo no dec]
+note=This hack the total ammo, you can find it by searching x + y when you see x/y on screen
+
+[shotgun ammo no dec]
+note=It's a pity that they don't use the same code for all ammo types.
+
+[Moonjump]
+note=
+
+[Others]
+note=This folder has some less frequently used cheats
+
+[ZL Hover ZL+B Moonjump]
+note=This is alternative to moon jump, only one can work at a time, if you enable this the other one will be disabled
+
+[revolver ammo pointer]
+note=If you like to explore the memory, do a jump to target with Breeze, shotgun ammo is right of this and I suspect other type of ammo when they become available may follow.
+
+[Others end]
+note=
+
+[Cheats by TomSwitch v1]
+note=
+
+[Cheats by TomSwitch v3]
+note=
+
+[rifle ammo no dec]
+note=
+
+[grenade ammo no dec]
+note=
+
+[battery no dec]
+note=
+
+[credits 1m upgrade pts 100]
+note=
+
+[Cheats by TomSwitch v4]
+note=Enable this cheat to restore original game code when cheats that modify them has been turned off.
+
+[ammo]
+note=
+
+[end]
+note=
+
+[4 bar]
+note=
+[have bar]
+note=
+[sp bar full on fill]
+note=
+[actual sp bar is always full]
+note=You will not see any change to sp bar until you use sp
