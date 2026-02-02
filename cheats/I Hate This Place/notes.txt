@@ -1,0 +1,10 @@
+[Cheats by TomSwitch]
+note=Enable this cheat to restore original game code when cheats that modify them has been turned off.
+[HP]
+note=
+[ST]
+note=
+[FD]
+note=
+[qty 10]
+note=
