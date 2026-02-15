@@ -1,0 +1,12 @@
+[set current stats at 9 at upgrade screen]
+note=This cheat activate when you are at the upgrade screen making the temporary values all 9, this get saved when you confirm. Turn this on, see that you stats is now all 9, if you are satisfied with all 9 confirm and you are done, if you want 10 then turn this cheat off and then increase it to 10 before saving.
+
+[Cheats by TomSwitch]
+note=Enable this cheat to restore original game code when cheats that modify them has been turned off.
+
+[enable then watch to manual edit stats]
+note=This cheat is use together with the above cheat, enable both, then watch this with Breeze (ZR+B is the default key). You will capture the stats and you can edit them to the value you want. You have to save to make it permanent.
+
+[Breeze]
+font_size=20
+show_notes=true

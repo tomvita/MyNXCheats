@@ -1,0 +1,5 @@
+[Breeze]
+show_notes=true
+
+[inf double jump]
+note=First cheat I release after I made Breezehand, my brand new overlay that so many has been asking for. This cheat and any revision will be auto fetched by using download from url button in Breezehand.

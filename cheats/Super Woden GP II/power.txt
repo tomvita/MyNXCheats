@@ -1,0 +1,22 @@
+ldp s0, s1, [x19, #0x84]
+STP X25, X26, [SP,#-0x90]
+ldr x25, [x19, #0x18]
+cbz x25, return
+ldr w26, [x25, 0x14]
+ldr w25, e
+cmp w26, w25
+b.ne rivals
+ldr w25, b
+str w25, [x19, #0x1e8]
+ldr s0, c
+str s0, [x19, #0x98]
+return:
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a: .float 10.0
+b: .float 100
+c: .float 1000
+e: .word 0x310050
+rivals:
+ldr s0, a
+b return
