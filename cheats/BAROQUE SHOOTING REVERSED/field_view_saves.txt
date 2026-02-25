@@ -1,0 +1,3 @@
+v7
+T	CSystem	CSystem	Game.Stage	CSystem	3C1740EE4	1	3C1740F20	5	0	0	0	-	-	1	5F77768	0	-	B8
+T	na	CSystem	Game.Stage	na	3C1740EE4	1	3C1740F20	5	0	0	0	-	-	1	5F77768	0	-	B8
