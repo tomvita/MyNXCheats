@@ -1,0 +1,21 @@
+[Cheats by TomSwitch]
+note=Turn this on to enable the two cheats to be turn off
+
+[hp 200]
+note=Just set to 200 but if you max is 100 you will not have anything higher shown
+
+[For info]
+note=For use with Breeze to explore the game
+
+[kill count]
+note=Hook this to start your journey of discovery
+
+[hp all]
+note=Both your hero and enemy's hp
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true
+font_size=21
