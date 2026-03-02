@@ -1,0 +1,7 @@
+data_save = 0x06D40FC0
+adrp x8, (data_save & 0xFFFFFFFF000)
+str x19, [x8, (data_save & 0xFFF)]
+mov w8, 9
+str w8, [x19, #0x8c]
+return:
+b code1+4
