@@ -1,0 +1,6 @@
+[get exp]
+note=This code execute when you open inventory view. This is provided for you to explore the new Unity feature on Breeze beta100+
+[hp no dec]
+note=
+[hp no dec off]
+note=
