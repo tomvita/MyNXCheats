@@ -1,0 +1,6 @@
+v7
+T	VertexShakeMui	VertexShakeMui		VertexShakeMui	390F50A8C0	0	0	3	0	0	0	-	-	0	0	0	-	-
+T	PoiOffset	PoiOffset		PoiOffset	0	0	0	11	0	0	0	-	-	0	0	0	-	-
+T	fallDistance : LanaFallDistance	LanaFallDistance	PoL.Characters.Lana	fallDistance : LanaFallDistance	390F4D8800	0	0	3	0	0	0	-	-	0	0	0	-	-
+T	fallDistance : LanaFallDistance1	LanaFallDistance	PoL.Characters.Lana	fallDistance : LanaFallDistance1	35C982F800	0	0	7	0	0	0	-	-	0	0	0	-	-
+T	rigidbodyActor : RigidbodyActor	RigidbodyActor	PoL.Actors	rigidbodyActor : RigidbodyActor	35C9840D80	0	0	23	0	0	0	-	-	0	0	0	-	-

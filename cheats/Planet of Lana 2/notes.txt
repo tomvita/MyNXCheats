@@ -1,0 +1,38 @@
+[Freeze Game]
+note=
+[Resume Game]
+note=
+[lana]
+note=
+[gravity]
+note=
+[ gravity]
+note=
+[g2]
+note=
+[Cheats by TomSwitch]
+note=Unity Klass focused cheat creation. See gravity hack gravity and so on
+[ g2]
+note=
+[ gravity]
+note=
+[fall won't kill]
+note=This hack the fall height that would kill you to a big number
+[inf jump]
+note=
+[inf jump off]
+note=
+[gnd]
+note=
+[gravity hack]
+note=
+[ no gravity]
+note=This cheat let you walk in air and also jump real high but you need to time the press of the button to do that, once you are falling the button no longer work
+[adline]
+note=
+[adrenaline]
+note=
+[ adrenaline]
+note=
+[ adrenaline]
+note=You run faster, don't know what else this affects yet
