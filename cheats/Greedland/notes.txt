@@ -1,0 +1,56 @@
+[Cheats by TomSwitch]
+note=
+
+[ upgrade remaining no dec]
+note=
+
+[ clock x4]
+note=The time it takes for the ship to pick you up
+
+[Time is up]
+note=Ship is coming now
+
+[hook exp to find pointer]
+note=This set up the pointer for the following cheats to work
+
+[Pointer found from exp]
+note=This will clear the pointer do not enable, it's for use with Breeze for you to explore the other attributes that I did not made into cheats
+
+[hp]
+note=
+
+[revival]
+note=You can die without game over, toggle once to give you nine chance, enable to never die
+
+[damage]
+note=
+
+[healing]
+note=Don't know what this does, it is call healing by the developer
+
+[gold]
+note=
+
+[speed1]
+note=movement speed without shooting
+
+[speed2]
+note=movement speed while shooting
+
+[health rate]
+note=This heals you
+
+[For info]
+note=
+
+[coins]
+note=This access the coins in the main menu upgrade screen. Use with Breeze.
+
+[cd]
+note=This access the display of cool down, for people who want to do more research. I did not pursue cool down further.
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true
