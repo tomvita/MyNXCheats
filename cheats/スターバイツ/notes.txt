@@ -1,0 +1,20 @@
+[hp]
+note=
+[Cheats by TomSwitch]
+note=These are battle codes
+[ohk]
+note=Bonus damage x1000
+[tp]
+note=
+[ap]
+note=
+[ep]
+note=
+[hp 1000]
+note=In battel hp
+[tp 1000]
+note=
+[ap 1000]
+note=
+[ep 1000]
+note=
