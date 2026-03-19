@@ -1,0 +1,12 @@
+[Cheats by TomSwitch v]
+note=
+[coin read]
+note=use for watching
+[quick use qty]
+note=use for watching
+[inventory tab qty]
+note=use for watching, trigger on going into inventory tab
+[hp read]
+note=use for watching, trigger when you view character
+[easy battle]
+note=hp, attack, defense = 1000 
