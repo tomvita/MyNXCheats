@@ -1,0 +1,14 @@
+[HP 10]
+note=This cheat write 10, you only get to see your max
+
+[coins 10000]
+note=Coins will be updated when the game decide to do so
+
+[charge 100]
+note=Let you do your super move
+
+[book 15]
+note=This is the top left corner thing, don't know the name
+
+[Breeze]
+show_notes=true
