@@ -1,0 +1,33 @@
+STP X25, X26, [SP,#-0x90]
+sub x25, x8, 0x420
+ldrh w26, [x25]
+ldr w25, a
+cmp w25, w26
+b.eq ammo
+sub x25, x8, 0x400
+ldrh w26, [x25]
+ldr w25, e
+cmp w25, w26
+b.eq ammo
+sub x25, x8, 0x3c8
+ldrh w26, [x25]
+ldr w25, b
+cmp w25, w26
+b.eq hp
+return:
+ldr w8, [x8]
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.word 0x5228
+b:.word 0x1220
+e:.word 0x4990
+ammo:
+ldr w25, c
+str w25, [x8]
+b return
+hp:
+ldr w25, d
+str w25, [x8]
+b return
+c:.word 999
+d:.float 999

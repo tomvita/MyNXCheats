@@ -1,0 +1,6 @@
+[Cheats by TomSwitch]
+note=Enable to be able to turn off cheats
+[ammo]
+note=Hack hand gun ammo to 999
+[ammo and hp]
+note=Hack hand gun and shot gun ammo and hp to 999
