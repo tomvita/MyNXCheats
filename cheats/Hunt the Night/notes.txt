@@ -1,0 +1,20 @@
+[hp]
+note=This cheat hook access to hp and hack it to 1000, it will be set by game to hp max, this cheat also setup pointer to "Player"
+
+[ammo no dec]
+note=This is the gun ammo
+
+[throwable no dec]
+note=This is the throwing item
+
+[AttackDamageIncrease 1000]
+note=This make use of the saved "Player" pointer. Only work if hp is enabled.
+
+[GunShootDamageIncrease 1000]
+note=This make use of the saved "Player" pointer. Only work if hp is enabled.
+
+[Clear Pointer to Player]
+note=This is for safety, enable this will clear the "Player" pointer every round of cheatVM cycle. A precaution for stale pointer causing problem with game when it change state.
+
+[Breeze]
+show_notes=true
