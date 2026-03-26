@@ -1,0 +1,5 @@
+ldr w1, a
+str w1, [x8, #0x60]
+return:
+b code1+4
+a:.word 99999
