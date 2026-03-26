@@ -1,26 +1,23 @@
-[No cheats available for BID:313070FB7967E9C7 TID:0100C6A0235D4]
-note=
-[hp no dec]
-note=
-[speed 12]
-note=
-[exp x4]
-note=
-[have 99999]
-note=
-[have 99999 resources]
-note=
-[level no inc]
-note=
-[ allow level to increase]
-note=
-[level no inc  allow level to inc]
-note=
 [Cheats by TomSwitch]
-note=
-[health regen 3]
-note=
-[hp no dec all]
-note=
+note=Enable to restore ASM
+
 [ hp no dec all]
-note=
+note=Use this if you just need a little help
+
+[speed 12]
+note=Reasonable speed.
+
+[exp x4]
+note=Faster level up
+
+[have 99999 resources]
+note=Use at the merchant
+
+[level no inc  allow level to inc]
+note=When your level don't increase your bonus don't stop coming, enable to continue game play
+
+[health regen 3]
+note=I think that is enough, you can have up to 31 by editing the fmov instruction
+
+[Breeze]
+show_notes=true
