@@ -4,12 +4,17 @@ ldrh w26, [x25]
 ldr w25, a
 cmp w25, w26
 b.eq ammo
-sub x25, x8, 0x400
+sub x25, x8, 0x410
 ldrh w26, [x25]
-ldr w25, e
+ldr w25, a
 cmp w25, w26
 b.eq ammo
-sub x25, x8, 0x3c8
+sub x25, x8, 0x418
+ldrh w26, [x25]
+ldr w25, a
+cmp w25, w26
+b.eq ammo
+sub x25, x8, 0x5e8
 ldrh w26, [x25]
 ldr w25, b
 cmp w25, w26
@@ -19,8 +24,7 @@ ldr w8, [x8]
 LDP X25, X26, [SP,#-0x90]
 b code1+4
 a:.word 0x5228
-b:.word 0x1220
-e:.word 0x4990
+b:.word 0x960
 ammo:
 ldr w25, c
 str w25, [x8]
@@ -30,4 +34,5 @@ ldr w25, d
 str w25, [x8]
 b return
 c:.word 999
-d:.float 999
+d:.float 300
+
