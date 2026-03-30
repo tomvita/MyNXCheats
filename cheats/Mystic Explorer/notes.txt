@@ -1,0 +1,26 @@
+[Cheats by TomSwitch]
+note=Restore ASM to original.
+
+[hp 1000]
+note=ASM hack 1000 to hp
+
+[exp x10]
+note=ASM multiply exp gain
+
+[gold 10000]
+note=ASM hack gold to 10000
+
+[gamemanager -> player stats]
+note=Pointer to player stats from game manager
+
+[player : PlayerStats gold]
+note=Example of cheats you can create when you have found pointer to PlayerStats
+
+[player : PlayerStats skillPointText]
+note=
+
+[player : PlayerStats experience]
+note=
+
+[Breeze]
+show_notes=true

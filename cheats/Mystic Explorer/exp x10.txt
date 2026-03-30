@@ -1,0 +1,6 @@
+ldr s8, a
+fmul s0, s0, s8
+fadd s8, s1, s0
+return:
+b code1+4
+a:.float 100.0
