@@ -1,0 +1,5 @@
+ldr w0, a
+str w0, [x8, x9, lsl #2]
+return:
+b code1+4
+a:.word 2000

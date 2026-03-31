@@ -1,0 +1,13 @@
+ldr s0, b
+str s0, [x19, #0x110]
+ldr s0, c
+str s0, [x19, #0x10c]
+ldr s0, [x19, #0x100]
+str s0, [x19, #0xfc]
+ldr s0, a
+str s0, [x19, #0x104]
+return:
+b code1+4
+a:.float 100.0
+c:.float 12
+b:.word 5

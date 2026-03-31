@@ -1,0 +1,8 @@
+[Cheats by TomSwitch]
+note=UE5 game, only reason I spend this time on it, this game is not for me
+[ weapon 1000 and charged]
+note=Hack your weapon's BulletNum and ChargeTurnNum to 1000, hold the key after you move your unit.
+[ fuel 100, hp full, unit 5, move 12 on cursor]
+note=Hack the unit under the cursor, move cursor over your own unit and press the key
+[resource 2000]
+note=
