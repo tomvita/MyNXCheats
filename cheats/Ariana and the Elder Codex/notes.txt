@@ -1,0 +1,20 @@
+[Cheats by TomSwitch]
+note=I create this cheat file to illustrate how to make cheats with Breeze's Unity support
+[playercontroller]
+note=Pointer to player controller, use Breeze's "Class field" button(default shortcut ZL+ZR+Y) in memory explorer to look around
+[PlayerController movePower.y]
+note=This power in y direction gives you moonjump
+[Params hp]
+note=Edit the cheat to hack the value you want, enable this then maybe then you won't die, I suppose if you get ohk then you die
+[Params mp]
+note=Edit the cheat to hack the value you want
+[Params stan]
+note=Edit the cheat to hack the value you want
+[Params spRec]
+note=Edit the cheat to hack the value you want
+[Params atk]
+note=This cheat hack it to 400, almost ohk, you can make it very big then it will be always ohk
+[Params matk]
+note=Edit the cheat to hack the value you want
+[Params def]
+note=Edit the cheat to hack the value you want
