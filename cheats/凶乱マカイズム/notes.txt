@@ -1,0 +1,50 @@
+[Cheats by TomSwitch]
+note=Restore ASM to original, enable ASM cheats to be turn off
+
+[hero hp full]
+note=This will copy hp max to hp, probably does not prevent one hit kill, if you want to prevent getting one hit killed you can increase the hp max value
+
+[potion full]
+note=Your quick use potions will be full
+
+[damage x2]
+note=This increase damage for everyone, you will suffer amplified damage too, you can make this bigger if you want but be aware of getting one hit killed
+
+[coins 100k]
+note=This set both coins to 100k
+
+[coin1 no dec]
+note=This code is a sub so it should only affect you getting reduction in coin
+
+[coin2 no change]
+note=This code is a add so have a slim chance that it also affects you gaining the coin, I did not check it.
+
+[For info]
+note=These codes are game instruction I captured, for information only, it just write the original
+
+[potion qty]
+note=
+
+[potion inventory qty]
+note=
+
+[hp all]
+note=
+
+[exp]
+note=
+
+[en hp]
+note=
+
+[write exp]
+note=
+
+[ end]
+note=
+
+[coins 1m]
+note=This set both coins to one million
+
+[Breeze]
+show_notes=true

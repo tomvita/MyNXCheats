@@ -1,0 +1,6 @@
+ldr x2, a
+str x2, [x8, #0x68]
+str x2, [x8, #0x78]
+return:
+b code1+4
+a:.quad 1000000
