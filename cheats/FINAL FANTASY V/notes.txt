@@ -1,0 +1,44 @@
+[Cheats by TomSwitch]
+note=Turns out that they did not just put a wrapper around the ancient rom, this one is actually making use of Klass fields for game play. Have fun with unity features!
+
+[battle hp 1000]
+note=The usual place to start hacking, see hp search hp and you shall soon find it in the Klass field.
+
+[battle exp hack to 1000]
+note=This one would be almost impossible to find but thanks to unity field name it is not hard to find
+
+[PlayerCharacterParameter currentHP]
+note=Thanks to unity feature dungeon and higher level Klass field is now easily accessible. This is for slot 1 HP, you can easily change this to access the other slots
+
+[PlayerCharacterParameter currentMP]
+note=
+
+[saveData : PlayerCharacterParameterSaveData addtionalMaxHp]
+note=
+
+[saveData : PlayerCharacterParameterSaveData addtionalMaxMp]
+note=
+
+[saveData : OwnedCharacterSaveData currentExp]
+note=
+
+[For info]
+note=ASM hooks to access the characters in walking menu
+
+[exp]
+note=
+
+[hp]
+note=
+
+[max hp]
+note=
+
+[max mp]
+note=
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true
