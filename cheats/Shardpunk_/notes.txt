@@ -1,0 +1,16 @@
+[ActionPoints]
+note=Combat AP of the current character
+[HP]
+note=Combat HP of the current character
+[ShelterAP]
+note=This is the group AP for the shelter stage
+[inventory qty off]
+note=Restore ASM
+[inventory qty no dec off]
+note=Restore ASM
+[inventory qty 99]
+note=Hack inventory calculation code to return 99
+[inventory qty no dec]
+note=Hack inventory subtraction code to do nothing
+[InventoryItem _size 0]
+note=In case you left inventory hacking code on during certain game transition and end up with loads of inventory set it to 0
