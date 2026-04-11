@@ -1,0 +1,9 @@
+ldr x8, [x19, #0x180]
+cbnz w8, return
+ldr w8, [x19, #0x14]
+cbz w8, return
+mov w8, 1
+str w8, [x19, #0x14]
+return:
+ldr w8, [x19, #0x14]
+b code1+4

@@ -1,0 +1,41 @@
+[Cheats by TomSwitch]
+note=Enable to restore ASM
+
+[slot 1 : PlayerCharacterParameter currentHP]
+note=Pointer to first character, increment the offset that is currently 0x20 by 8 for next character
+
+[expRate]
+note=Has the original value, you can copy and modify to any value you like
+
+[gilRate]
+note=Has the original value, you can copy and modify to any value you like
+
+[learningProficiencyRate]
+note=Has the original value, you can copy and modify to any value you like
+
+[magicProficiencyRate]
+note=Has the original value, you can copy and modify to any value you like
+
+[parameterUpRate]
+note=Has the original value, you can copy and modify to any value you like
+
+[magicLearningProficiencyRate]
+note=Has the original value, you can copy and modify to any value you like
+
+[For info]
+note=Some traditional ASM cheats
+
+[open menu makes hp mp 1000, additional hp mp 1000]
+note=When you open menu hack current hp and mp and hack additional hp and mp, the base mp is not changed, you max hp mp is the sump of base and additional
+
+[One hit kill]
+note=Make enemy hp 1
+
+[player battle hp 1000]
+note=Make your characters' hp 1000
+
+[ end]
+note=
+
+[Breeze]
+show_notes=false
