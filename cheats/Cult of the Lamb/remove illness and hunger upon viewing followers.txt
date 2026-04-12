@@ -1,0 +1,7 @@
+ldr s0, a
+str s0, [x8, #0x230]
+fmov s0, wzr
+str s0, [x8, #0x254]
+return:
+b code1+4
+a:.float 100

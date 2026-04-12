@@ -1,0 +1,8 @@
+STP X25, X26, [SP,#-0x90]
+ldr w25, a
+str w25, [x8, #0x14]
+original: ldr w8, [x8, #0x14]
+LDP X25, X26, [SP,#-0x90]
+return:
+b code1+4
+a:.word 1000

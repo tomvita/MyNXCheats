@@ -1,0 +1,32 @@
+[Cheats by TomSwitch]
+note=Enable to restore ASM
+[hearts full]
+note=ASM hack to hearts
+[qty 1000]
+note=ASM hack to make qty 1000 for all items
+[can use fervour]
+note=ASM hack to make the check that you have enough to always be true
+[fervour full]
+note=Fill you fervour to max when it changes
+[remove illness and hunger upon viewing followers]
+note=Only take action when you view
+[DataManager XP]
+note=This is the number you see on screen when you collect soul
+[DataManager items]
+note=For exploration, do not activate this cheat, you have been warned
+[DataManager Followers]
+note=Same as above. You can follow this pointer to see everyone of your follower's stats.
+[DataManager PLAYER_HEARTS_LEVEL]
+note=Additional hearts to your base 
+[DataManager CurrentRunWeaponLevel]
+note=Additional level to your base
+[DataManager CurrentRunCurseLevel]
+note=Additional level to your base
+[For info]
+note=
+[age]
+note=Let you check the age of your followers. Use watch ASM.
+[soul from structure]
+note=
+[ end]
+note=
