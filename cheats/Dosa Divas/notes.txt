@@ -1,0 +1,32 @@
+[Cheats by TomSwitch]
+note=Enable to restore ASM
+
+[PersistentPlayerStats battleContinues 10]
+note=Unity version 39, you will need il2CppDumper included with beta104.3 to get the full benefit of Breeze Unity support
+
+[PersistentPlayerStats currency 1m]
+note=
+
+[qty 100]
+note=
+
+[invulnerable]
+note=This and next cheat hook the same SP read, only one will work
+
+[boost max]
+note=
+
+[For info]
+note=
+
+[money]
+note=
+
+[sp]
+note=
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true
