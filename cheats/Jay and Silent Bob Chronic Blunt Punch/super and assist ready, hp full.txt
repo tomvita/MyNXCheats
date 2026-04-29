@@ -1,0 +1,8 @@
+ldr x8, a
+str x8, [x21, #0xb8]
+str wzr, [x21, #0xa4]
+return:
+ldrb w8, [x21, #0xe1]
+b code1+4
+a:.word 8000
+.word 4000
