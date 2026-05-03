@@ -1,0 +1,20 @@
+[energy no dec]
+note=asm cheat, sub 0
+
+[hp]
+note=pointer to hp, set to 500
+
+[Player energy]
+note=pointer to energy, set to 4
+
+[Player hp]
+note=
+
+[Cheats by TomSwitch]
+note=restore asm to original
+
+[Player hp=max]
+note=pointer cheat that copy hp max to hp
+
+[Breeze]
+show_notes=true
