@@ -1,0 +1,6 @@
+ldr x1, [x19, #0x48]
+data_save = 0x0B34E2E0
+adrp x20, (data_save & 0xFFFFFFFF000)
+str x1, [x20, (data_save & 0xFFF)]
+return:
+b code1+4

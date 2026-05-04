@@ -1,0 +1,65 @@
+[Cheats by TomSwitch]
+note=Use this cheat to restore the asm to original
+
+[CConPlayerPotion _potionCount 10]
+note=potion count is filled by the next value, 15 is one set by another value which I did not change
+
+[CConPlayerPotion _current 150]
+note=150 is 15*10
+
+[CConCharacterHealth baseHealth 50]
+note=50 becomes 500 in the profile display
+
+[CConCharacterHealth Current 50]
+note=
+
+[CConPlayerPaint baseWillpower 20]
+note=20 becomes 200 in the profile display, this is ink.
+
+[CConPlayerPaint regenDelayAfterChange 0]
+note=Set to 0 for no delay
+
+[CConPlayerPaint regenSpeed 25]
+note=
+
+[SConEntityConfig_Player_Movement maxMoveSpeed]
+note=Increased a little to make it easier to open some doors
+
+[ZL hover  moonjump]
+note=
+
+[No Respawn]
+note=This make it a lot easier for some stage, you don't want to start from way back.
+
+[pay nothing]
+note=Free to buy
+
+[pay -1000]
+note=They pay you when you buy
+
+[has off]
+note=If you have not yet acquired the unlockable the game will know
+
+[has]
+note=The game will think you have acquired all unlockable
+
+[For info]
+note=Some initial cheats I made for this game
+
+[on health change save pointer]
+note=This cheat hook health change and register a pointer. The pointer I use with the cheats above may not be reliable. Only more testing will tell. This acquired pointer is with much higher confident.
+
+[base will power]
+note=ASM hack to will power
+
+[regen speed]
+note=ASM back to regen speed of will power
+
+[ hp full on hit (all)]
+note=Initial HP hack. Apply to all. Apply with conditional key to give you advantage.
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true

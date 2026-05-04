@@ -1,0 +1,6 @@
+ldp s11, s10, [x0, #0x5c]
+ldr s10, a
+stp s11, s10, [x0, #0x5c]
+return:
+b code1+4
+a:.float 20.0
