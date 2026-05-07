@@ -1,0 +1,38 @@
+[CombatPlayer _actionPoint = 9]
+note=
+
+[HealthSystem maxHealth]
+note=This will write my current value to yours
+
+[HealthSystem currentHealth]
+note=This will write my current value to yours
+
+[HealthSystem currentHealth = maxHealth]
+note=
+
+[EsseneceSystem maxEssence]
+note=This will write my current value to yours
+
+[EsseneceSystem currentExistanceEssence]
+note=This will write my current value to yours
+
+[EsseneceSystem currentOblivionEssence]
+note=This will write my current value to yours
+
+[For info]
+note=These are original ASM from game for information
+
+[hp dec]
+note=
+
+[ap]
+note=
+
+[health]
+note=
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true
