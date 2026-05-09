@@ -1,0 +1,50 @@
+[Cheats by TomSwitch]
+note=Restore ASM to original
+
+[exp x4]
+note=Level up faster
+
+[coin x256]
+note=Get more coins
+
+[time x10]
+note=When you want to fight the final boss sooner
+
+[weapon base damage 1000 cool down 0.5 sec]
+note=Applicable to most weapons
+
+[rank 25]
+note=Use for mission, don't think it does anything else
+
+[pet rank 3]
+note=Same as above
+
+[ControllableCharacter godMode off]
+note=
+
+[ControllableCharacter godMode]
+note=
+
+[ControllableCharacter currentHealth]
+note=
+
+[ControllableCharacter currentXP]
+note=Put a big XP here and you will level up fast, value too low means you will be stuck at lower level
+
+[ControllableCharacter healthRegenPerSecondStat]
+note=
+
+[ControllableCharacter finalDamageMultiplyerStat]
+note=I think this one do nothing
+
+[CollectableManager redSoulsThisRun]
+note=Will not display the change until the final screen. You get this amount plus bonus
+
+[CollectableManager crystalsThisRun]
+note=
+
+[CollectableManager skull2ThisRun]
+note=
+
+[Breeze]
+show_notes=true

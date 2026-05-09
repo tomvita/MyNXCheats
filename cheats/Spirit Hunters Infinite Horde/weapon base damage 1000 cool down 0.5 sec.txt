@@ -1,0 +1,10 @@
+mov x21, x0
+cbz x21, return
+ldr w0, a
+stp w0, w0, [x21, #0x38]
+ldr w0, b
+stp w0, w0, [x21, #0x70]
+return:
+b code1+4
+a:.float 1000
+b:.float .5000
