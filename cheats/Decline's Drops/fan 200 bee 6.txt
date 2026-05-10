@@ -1,0 +1,25 @@
+cmp x9, 0xcb0
+b.eq bee
+cmp x9, 0x9f0
+b.ne return
+ldr x0, [x8, 0xA00]
+cbz x0, return
+ldr x9, a
+str x9, [x0]
+ldr x0, [x8, 0x9f0]
+cbz x0, return
+str x9, [x0]
+mov x9, 0x9f0
+return:
+ldr x0, [x8, x9]
+b code1+4
+bee:
+ldr x0, [x8, x9]
+cbz x0, return
+ldr x9, b
+str x9, [x0]
+mov x9, 0xcb0
+b return
+a:.double 200
+b:.double 6
+
