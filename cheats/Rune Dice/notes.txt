@@ -1,0 +1,10 @@
+[Cheats by TomSwitch]
+note=Enable to restore ASM to original
+[health no dec no ohk]
+note=health will be max
+[health no dec and ohk]
+note=health will be max and enemy will be one hit kill
+[health]
+note=Pointer to health, edit cheat to modify value hacked
+[coin]
+note=Pointer to coin, edit cheat to modify value hacked
