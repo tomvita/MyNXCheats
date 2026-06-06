@@ -1,0 +1,26 @@
+[hp]
+note=game update screen when game change the value, actual being hack don't matter to the screen display
+
+[max hp base]
+note=there are some other contributor to max hp
+
+[mp]
+note=not sure what mp do, since it's there in the Klass I give you these two cheats
+
+[max mp base]
+note=
+
+[add money x16]
+note=
+
+[zl ncd]
+note=
+
+[zr ncd]
+note=
+
+[pet ncd]
+note=
+
+[Breeze]
+show_notes=true
