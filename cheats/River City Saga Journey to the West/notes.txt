@@ -1,0 +1,17 @@
+[Cheats by TomSwitch]
+note=Enable to restore ASM to original
+
+[hero hp mp 3000]
+note=hook mp read, assume enemy mp is lower than 300
+
+[hero hp fill, enemy hp1]
+note=hook hp read, assume enemy mp is lower than 300
+
+[hero hp fill, enemy no action]
+note=A small change of the above, just don't write enemy hp
+
+[have 1000 by entering store]
+note=
+
+[Breeze]
+show_notes=true
