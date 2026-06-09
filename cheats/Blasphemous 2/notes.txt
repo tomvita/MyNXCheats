@@ -1,0 +1,38 @@
+[Cheats by TomSwitch]
+note=Enable this to restore original game ASM
+[hover, B to ascend]
+note=Pointer based
+[flask no dec]
+note=ASM hack
+[hp full]
+note=ASM hack
+[For info]
+note=For people who what to explore a bit and try some DIY hacking
+[ValueStat read]
+note=There are two kinds of stats, example of ValueStat is upgrade points and money
+[RangeStat read]
+note=Example of RangeStat is HP, MP, Potion
+[ RangeStat min=max value=max]
+note=This will hack all the RangeStat as the game access it. 
+[chargetime .1]
+note=What does this do? You tell me. Original value is 1.5
+[item0 : ValueStat currentValue Upgrade pt]
+note=Change the target value to what you want
+[item1 : ValueStat currentValue Money]
+note=
+[item0 : RangeStat currentValue MP]
+note=MP
+[item1 : RangeStat currentValue]
+note=For you to discover, one of these is potion
+[item2 : RangeStat currentValue]
+note=For you to discover, one of these is potion
+[item3 : RangeStat currentValue HP]
+note=HP
+[item4 : RangeStat currentValue]
+note=For you to discover, one of these is potion
+[item5 : RangeStat currentValue]
+note=For you to discover, one of these is potion
+[item6 : RangeStat currentValue]
+note=For you to discover, one of these is potion
+[ end]
+note=
