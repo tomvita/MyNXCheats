@@ -1,0 +1,78 @@
+public enum MapRegion // TypeDefIndex: 1835
+{
+	// Fields
+	public int value__; // 0x0
+	public const MapRegion Green = 0;
+	public const MapRegion Beach = 1;
+	public const MapRegion Abyss = 2;
+	public const MapRegion Forest = 3;
+	public const MapRegion Desert = 4;
+	public const MapRegion Swamp = 5;
+	public const MapRegion SunkenCity = 6;
+	public const MapRegion Junkyard = 7;
+	public const MapRegion None = 8;
+}
+
+public enum MapRegionState // TypeDefIndex: 1836
+{
+	// Fields
+	public int value__; // 0x0
+	public const MapRegionState Locked = 0;
+	public const MapRegionState Unlocked = 1;
+	public const MapRegionState Scanned = 2;
+}
+
+public enum Modules // TypeDefIndex: 1837
+{
+	// Fields
+	public int value__; // 0x0
+	public const Modules IdolBomb = 0;
+	public const Modules IdolSlow = 1;
+	public const Modules IdolAlly = 2;
+	public const Modules BoostCost = 3;
+	public const Modules XpGain = 4;
+	public const Modules HpDrop = 5;
+	public const Modules PrimordialCrystal = 6;
+	public const Modules HearthCrystal = 7;
+	public const Modules SpiritDash = 8;
+	public const Modules BlueBullet = 9;
+	public const Modules Overcharge = 10;
+	public const Modules CollectableScan = 11;
+	public const Modules Rage = 12;
+	public const Modules Retaliation = 13;
+	public const Modules FreePower = 14;
+	public const Modules Compass = 15;
+	public const Modules Teleport = 16;
+}
+
+public static class PlayerState // TypeDefIndex: 2104
+{
+	// Fields
+	[CompilerGenerated]
+	private static PlayerState.CollectableHandler CurrencyChanged; // 0x0
+	[CompilerGenerated]
+	private static Action StatsPointsChanged; // 0x8
+	[CompilerGenerated]
+	private static Action KeysChanged; // 0x10
+	[CompilerGenerated]
+	private static Action ModulesChanged; // 0x18
+	public const string CurrCheckpointDefault = "CaveCheckpoint0";
+	public const string CurrLocationDefault = "Cave";
+	public const bool CrystalizedDefault = True;
+	public const int StatsPointsDefault = 0;
+	public const int XpTotalDefault = 0;
+	public static bool Crystalized; // 0x20
+	public static string CurrCheckpoint; // 0x28
+	public static string CurrLocation; // 0x30
+	public static int StatsPoints; // 0x38
+	public static int XpTotal; // 0x3C
+	public static Dictionary<int, int> DungeonKeys; // 0x40
+	public static Dictionary<int, int> DungeonBossKeys; // 0x48
+	public static Dictionary<Currency, int> Currency; // 0x50
+	public static Dictionary<GameStatsId, float> GameStats; // 0x58
+	public static Dictionary<MapRegion, MapRegionState> Map; // 0x60
+	public static Dictionary<Modules, bool> Modules; // 0x68
+	public static Dictionary<Skill, bool> Skills; // 0x70
+	public static Dictionary<Stats, int> StatsLevel; // 0x78
+	public static Dictionary<KeyUse, bool> UniqueKeys; // 0x80
+
