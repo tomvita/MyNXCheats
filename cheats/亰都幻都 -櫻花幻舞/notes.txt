@@ -1,0 +1,24 @@
+[off cheat]
+note=restore asm to pre hack original
+[hero hp atk hack enable]
+note=setup code cave and hook for the next two cheats
+[hp full]
+note=hp always set to hp max when hook is activated by game
+[atk 10000]
+note=total atk is 10000 which I expect to one hit kill, you can adjust this to be larger
+[potion 100]
+note=set potion count to 100
+[money 10000]
+note=set money to 10000
+[exp x4]
+note=exp gain is x4
+[ncd]
+note=no cool down
+[ncd and have 100]
+note=no cool down plus also hack your qty to 100
+[For info]
+note=
+[all hp]
+note=asm that reads all hp, in case you want to see what the enemy hp are, you have to do asm watch, this code don't do anything when you activate it
+[ end]
+note=
