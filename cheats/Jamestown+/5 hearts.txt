@@ -1,0 +1,11 @@
+ldr w8, [x25, #8]
+cmp w8, 3
+b.ne return
+ldr d25, [x25]
+fmov d26, 3.0
+fcmp d25, d26
+b.ne return
+ldr d25, [x25]
+return:
+ldr w8, [x25, #8]
+b code1+4

@@ -1,0 +1,20 @@
+and x8, x25, 0xF
+cbnz x8, return
+ldr w8, [x25, #8]
+cmp w8, 3
+b.ne return
+ldr d25, [x25]
+fmov d26, 3.0
+fcmp d25, d26
+b.ne return
+ldr x8, [x25,-0x20]
+cmp w8, 1
+b.ne return
+ldr x8, [x25,0x30]
+cmp w8, 5
+b.ne return
+fmov d25, 6.0
+str d25, [x25]
+return:
+ldr x8, [x25]
+b code1+4

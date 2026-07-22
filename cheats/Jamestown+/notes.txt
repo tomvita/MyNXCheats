@@ -1,0 +1,38 @@
+[No cheats available for BID:46CB824811FFF864 TID:010000100C4B8]
+note=
+[5 hearts]
+note=
+[1]
+note=
+[hp]
+note=
+[ 1]
+note=
+[money 1m]
+note=
+[ hearts 2->5]
+note=
+[hearts 2 5]
+note=
+[hearts 2 5 w]
+note=
+[off cheat]
+note=
+[hpw]
+note=
+[hearts no dec]
+note=
+[hearts 2 to 5]
+note=
+[hearts 2 to 5 on change]
+note=
+[hearts stay at 2]
+note=
+[For info]
+note=
+[ end]
+note=
+[bar full no dec]
+note=
+[hearts 0 to 5]
+note=
