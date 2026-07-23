@@ -1,0 +1,34 @@
+[normal combat hp 130]
+note= Not boss stage
+[normal CombatHero IsInvincible]
+note= Enemy won't attack you on normal stage
+[boss combat hp 130]
+note= boss stage
+[boss CombatHero IsInvincible]
+note= Enemy won't attach you on boss stage
+[coin 1m]
+note=
+[For hacking info]
+note=
+[coin2]
+note= Is this read only? Anything interesting surrounding this?
+[skill card count]
+note= This pointer give you a head start to explore the hacking skill cards
+[ end]
+note=
+[For info]
+note=
+[coin2 is it for hacking?]
+note=
+[hp full asm]
+note=
+[all hp 1]
+note=
+[off cheat]
+note=
+[hp 1000]
+note=
+[ all hp 1]
+note=
+[hp 130]
+note=
