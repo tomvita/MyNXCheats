@@ -26,9 +26,7 @@ note=
 note=
 [off cheat]
 note=
-[hp 1000]
-note=
 [ all hp 1]
-note=
+note=ASM hack apply to everyone including you, don't press button at the wrong time and get one hit killed
 [hp 130]
-note=
+note=ASM hack apply to all stages
