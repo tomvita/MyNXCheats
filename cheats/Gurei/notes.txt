@@ -1,0 +1,18 @@
+[ moonjump]
+note=Basic moonjump, also may apply to enemy, not that important so I don't bother
+[ hover  move up ]
+note=Variant, of the above, let you hover
+[ player health max+]
+note=Set health to a big value, after one hit it becomes max
+[PlayerHealth PlayerCurrentHealth]
+note=This is pointer to player health
+[PlayerData basicMovementSpeed]
+note=This is pointer to movement speed, increase it for faster speed, default value is same as game's value
+[For ASM info]
+note=If you don't know what that is don't bother
+[health]
+note=
+[player state health]
+note=
+[ end]
+note=
