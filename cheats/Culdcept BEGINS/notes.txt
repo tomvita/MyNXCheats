@@ -1,0 +1,32 @@
+[off cheat]
+note=
+
+[Mana 1250]
+note=Set you in battle mana to 1250, you can increase the number to just win after one round
+
+[CepterInfo Gold]
+note=For you to buy cards at the card shop
+
+[card qty 4]
+note=Go to change card and you will see you have four of each
+
+[For info]
+note=Activating these do nothing, it's for hacker to explore
+
+[speed]
+note=Not sure what this actually do but you will see the game say it is running at the set speed
+
+[cost of card]
+note=It reads the cost of card information. May not be useful.
+
+[SaveData PossessionCardData]
+note=This is where the game store what cards you have.
+
+[ end]
+note=
+
+[Breeze]
+show_notes=true
+
+[CepterInfo Gold 10000]
+note=
