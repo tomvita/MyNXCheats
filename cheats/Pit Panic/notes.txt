@@ -1,0 +1,14 @@
+[coin 1000]
+note=
+[AC_PlayerMovementController_C AvailableWallJumpsCount]
+note=
+[AC_PlayerMovementController_C JumpUpTargetDuration]
+note=
+[AC_PlayerMovementController_C JumpUpMaxDuration]
+note=
+[hp hack]
+note=Make your hearts full, does not prevent you from dying by one hit kill
+[ohk (need hp hack)]
+note=Hold key and hit enemy will kill them with one hit
+[hp hack off]
+note=
