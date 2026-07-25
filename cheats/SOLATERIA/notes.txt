@@ -1,0 +1,56 @@
+[PlayerStat Money]
+note=I suppose this is OHN
+[PlayerStat experience.value]
+note=
+[ hover  move up]
+note=
+[Health ]
+note=All these stats are pre hacked my starting values
+[Stamina]
+note=
+[StaminaRegain]
+note=
+[Attack]
+note=
+[Defense]
+note=
+[CollectingPower]
+note=
+[CollectingRange]
+note=
+[FireAttack]
+note=
+[CounterAttack]
+note=
+[GroggyAttack]
+note=
+[GuardDamageReduceRate]
+note=
+[GuardStaminaReduceRate]
+note=
+[ShieldMaximum]
+note=
+[ResidualRate]
+note=
+[ResidualHeal]
+note=
+[ParryGroggy]
+note=
+[GoodsProtection]
+note=
+[WarmhornHealAmount]
+note=
+[WarmhornCount]
+note=
+[For info]
+note=
+[off cheat]
+note=
+[hp asm hack]
+note=hp hack by asm I made before doing the pointer search
+[playerMover : PlayerMover relativeVelocity.y]
+note=This is used for the moonjump hack above
+[playerMover : PlayerMover targetGravity]
+note=If you like you can explore hacking this value, I suppose you will float if you reduce it
+[ end]
+note=
