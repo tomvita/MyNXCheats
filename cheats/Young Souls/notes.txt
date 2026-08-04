@@ -1,0 +1,8 @@
+[character]
+note=For people to explore, not sure if it only fetch your characters
+[hp1]
+note=Hp for character on the left
+[hp]
+note=Can be for the character that is in use or the enemy
+[hp2]
+note=Hp for character on the right
