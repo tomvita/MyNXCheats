@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=exp x256
+offset=007D3280
+instruction=0B140021
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=91004000 F8786800 B940B401 0B140021 B900B401 2A1303E0
+mask=FFC003FF FFFFFFFF FFC003FF FFFFFFFF FFC003FF FFFFFFFF

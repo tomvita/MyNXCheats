@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=values including upgrade points
+offset=007FB4B4
+instruction=B9400015
+offset_register=0
+hook_position=0
+pattern_words=6
+pattern=B9400015 14000002 2A1F03F5 350001D5 F9401A80 39C0001F
+mask=FFC003FF FC000000 FFFFFFFF FF00001F FFC003FF FFC003FF

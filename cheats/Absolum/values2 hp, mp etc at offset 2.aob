@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=values2 hp, mp etc at offset 2
+offset=007C6ECC
+instruction=B9400000
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=AA1303E1 943082FF B4000140 B9400000 140000E0 F9400E80
+mask=FFFFFFFF FC000000 FF00001F FFC003FF FC000000 FFC003FF
