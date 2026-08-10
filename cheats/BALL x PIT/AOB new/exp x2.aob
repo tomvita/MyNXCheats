@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=exp x2
+offset=034F5ED4
+instruction=1E210800
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=1E220261 1E222800 BD409502 1E210800 1E202840 BD009500
+mask=FFFFFFFF FFFFFFFF FFC003FF FFFFFFFF FFFFFFFF FFC003FF

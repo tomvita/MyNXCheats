@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=hp full
+offset=01A24BE0
+instruction=BD401000
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=910003FD F9404C08 B40000C8 BD401000 BD401101 1E211800
+mask=FFC003FF FFC003FF FF00001F FFC003FF FFC003FF FFFFFFFF

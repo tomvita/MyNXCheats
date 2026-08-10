@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=add hp on hit
+offset=035037E8
+instruction=1E283800
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=F9400108 B4001248 BD409100 1E283800 BD009100 D0029B68
+mask=FFC003FF FF00001F FFC003FF FFFFFFFF FFC003FF 9F00001F

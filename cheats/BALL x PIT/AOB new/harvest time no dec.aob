@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=harvest time no dec
+offset=030B1A90
+instruction=BD006A80
+offset_register=0
+hook_position=0
+pattern_words=7
+pattern=BD006A80 B4000F80 AA1F03E1 9402A18D 3942B288 34001508 F94092E0
+mask=FFC003FF FF00001F FFFFFFFF FC000000 FFC003FF FF00001F FFC003FF

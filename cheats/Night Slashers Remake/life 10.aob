@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=life 10
+offset=01AA0E44
+instruction=B9403288
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=F942AD09 F942B102 D63F0120 B9403288 D10013A0 AA1F03E1
+mask=FFC003FF FFC003FF FFFFFFFF FFC003FF FFC003FF FFFFFFFF
