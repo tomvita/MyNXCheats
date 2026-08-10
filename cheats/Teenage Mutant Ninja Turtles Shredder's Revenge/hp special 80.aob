@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=hp special 80
+offset=01400430
+instruction=94023778
+offset_register=0
+hook_position=8
+pattern_words=6
+pattern=F85F03A0 97FFFC35 94023778 F85E83A8 B9000100 F85F03A0
+mask=FFE00FFF FC000000 FC000000 FFE00FFF FFC003FF FFE00FFF

@@ -1,0 +1,9 @@
+ldr w8, a
+str w8, [x0, #0x4c]
+str w8, [x0, #0x50]
+str w8, [x0, #0x64]
+str w8, [x0, #0x68]
+return:
+bl #0x148e210
+b code1+4
+a:.word 80
