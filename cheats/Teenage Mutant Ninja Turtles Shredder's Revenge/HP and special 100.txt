@@ -1,0 +1,9 @@
+ldr w29, a
+str w29, [x0, #0x4c]
+str w29, [x0, #0x50]
+str w29, [x0, #0x58]
+str w29, [x0, #0x5c]
+return:
+bl #0x138f430
+b code1+4
+a:.word 100
