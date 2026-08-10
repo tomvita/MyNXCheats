@@ -1,0 +1,11 @@
+ldr w19, [x0, 0xd8]
+cbz w19, enemy
+fmov s8, -10 
+ldr w19, [x0, 0xd8]
+return:
+mov x19, x0
+b code1+4
+enemy:
+ldr s8, a
+b return
+a:.float 1000

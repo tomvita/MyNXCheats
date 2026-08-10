@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=on ground
+offset=02D6848C
+instruction=3941C268
+offset_register=0
+hook_position=20
+pattern_words=6
+pattern=540000AD 2A1F03E0 F9400BF3 A8C27BFD D65F03C0 3941C268
+mask=FF00001F FFFFFFFF FFC003FF FFC07FFF FFFFFFFF FFC003FF

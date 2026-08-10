@@ -1,0 +1,13 @@
+ldr w29, [x19, 0x104]
+cbz w29, return
+STP X0, X1, [SP,#-0x90]
+bl #0x1cf32d0
+ldr s30, a
+fadd s1, s1, s30
+LDP X0, X1, [SP,#-0x90]
+bl #0x1cf33a0
+b code1+4
+return:
+bl #0x1cf32d0
+b code1+4
+a:.float .1

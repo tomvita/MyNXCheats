@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=player no damage
+offset=031EC2C4
+instruction=AA0003F3
+offset_register=0
+hook_position=16
+pattern_words=6
+pattern=1E204008 AA0203F4 3944EAC8 2A0103F5 AA0003F3 37000368
+mask=FFFFFFFF FFFFFFFF FFC003FF FFFFFFFF FFFFFFFF FFF8001F
