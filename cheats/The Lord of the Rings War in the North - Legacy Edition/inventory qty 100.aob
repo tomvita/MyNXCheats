@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=inventory qty
+offset=0090489C
+instruction=B9401008
+offset_register=0
+hook_position=16
+pattern_words=6
+pattern=F9400008 F9404108 D63F0100 B4000240 B9401008 B942266A
+mask=FFC003FF FFC003FF FFFFFFFF FF00001F FFC003FF FFC003FF

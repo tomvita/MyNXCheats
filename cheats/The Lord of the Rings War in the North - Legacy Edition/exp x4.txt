@@ -1,0 +1,5 @@
+fadd s0, s0, s0
+fadd s0, s0, s0
+fadd s0, s0, s1
+return:
+b code1+4

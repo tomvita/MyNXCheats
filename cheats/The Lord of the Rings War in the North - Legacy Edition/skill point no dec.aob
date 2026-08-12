@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=skill point no dec
+offset=00793B98
+instruction=51000508
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=F90003FF B9000BEA B940E808 51000508 B900E808 90002C08
+mask=FFC003FF FFC003FF FFC003FF FFC003FF FFC003FF 9F00001F
