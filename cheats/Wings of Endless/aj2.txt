@@ -1,0 +1,12 @@
+cave_start = 0x014fb770
+ldr x21, [x8, x9]
+cmp x9, 0xd90
+b.ne return
+data_save = 0x02603E98
+adrp x0, (data_save & 0xFFFFFFFF000)
+str x21, [x0, (data_save & 0xFFF)]
+/* ldr d21, a */
+/* str d21, [x21] */
+return:
+b code1+4
+/* a:.double 1 */

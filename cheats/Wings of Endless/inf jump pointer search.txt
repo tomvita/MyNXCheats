@@ -1,0 +1,19 @@
+STP X25, X26, [SP,#-0x90]
+cave_start = 0x014fb770
+ldr x21, [x8, x9]
+cmp x9, 0xd90
+b.ne return
+add x25, x8, x9
+ldr w25, [x25, 0x8]
+ldr w26, a
+cmp w25, w26
+b.ne return
+data_save = 0x02603E98
+adrp x25, (data_save & 0xFFFFFFFF000)
+str x21, [x25, (data_save & 0xFFF)]
+/* ldr d21, a */
+/* str d21, [x21] */
+return:
+LDP X25, X26, [SP,#-0x90]
+b code1+4
+a:.word 105176

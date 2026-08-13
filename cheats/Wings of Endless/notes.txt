@@ -1,0 +1,40 @@
+[No cheats available for BID:9B926B70AE06F731 TID:010018B022CCC]
+note=
+[access]
+note=
+[read value]
+note=
+[hack value]
+note=
+[Cheats by TomSwitch(enable to restore ASM)]
+note=
+[stamina]
+note=
+[hp]
+note=
+[gold]
+note=
+[exp]
+note=
+[gold 1m]
+note=
+[exp 2k]
+note=
+[Freeze Game]
+note=
+[Resume Game]
+note=
+[inf jump]
+note=
+[1]
+note=
+[inf]
+note=
+[aj2]
+note=
+[inf jump pointer search]
+note=
+[hp2]
+note=
+[ammo]
+note=

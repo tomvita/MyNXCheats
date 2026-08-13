@@ -1,0 +1,38 @@
+STP X25, X26, [SP,#-0x90]
+ldr w26, [x8, 8]
+adr X25, targets
+loop:
+ldr w0, [X25]
+cbz w0, return
+cmp w0, w26
+b.eq found
+add X25, X25, #12
+b loop
+return:
+LDP X25, X26, [SP,#-0x90]
+ldr x0, [x8]
+b code1+4
+found:
+ldr x26, [X25, #4]
+ldr x0, [x8]
+str x26, [x0]
+b return
+targets:
+gold:
+.word 0x19ce5
+.double 10000
+life:
+.word 0x19f9f
+.double 1
+.word 0
+stamina:
+.word 0x1a260
+.double 130
+armor:
+.word 0x19a3f
+.double 10000
+end_of_list:
+.word 0
+item_cooldown:
+.word 0x19dea
+.double 0000

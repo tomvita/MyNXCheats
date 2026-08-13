@@ -1,0 +1,14 @@
+ldr x0, [x8]
+ldr w1, gold
+cmp w1, w9
+b.eq gold_
+return:
+b code1+4
+hack:
+str x1, [x0]
+b code1+4
+gold_:
+ldr x1, gold+0x4
+b hack
+gold: .word 0x19ce6
+.double 10000
