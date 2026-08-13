@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=read values
+offset=006FD104
+instruction=BD401900
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=940F47DE 17FFFFE2 F9401008 BD401900 D65F03C0 00000000
+mask=FC000000 FC000000 FFC003FF FFC003FF FFFFFFFF FFFFFFFF

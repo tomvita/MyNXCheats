@@ -1,0 +1,6 @@
+cave_start = 0x00ad0f10
+ldr s8, a
+str s8, [x8, #0x18]
+return:
+b code1+4
+a:.float 1000

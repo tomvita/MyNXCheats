@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=read coins
+offset=0080B768
+instruction=BD455C00
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=6B15011F 54000161 F0002828 BD455C00 91002260 F947D508
+mask=FFFFFFFF FF00001F 9F00001F FFC003FF FFC003FF FFC003FF

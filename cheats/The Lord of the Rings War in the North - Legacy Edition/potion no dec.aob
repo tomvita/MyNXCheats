@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=potion no dec
+offset=004A9770
+instruction=D503201F
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=D63F0100 B94012C8 AA1403E0 D503201F B90012C8 97F99C2A
+mask=FFFFFFFF FFC003FF FFFFFFFF FFFFFFFF FFC003FF FC000000

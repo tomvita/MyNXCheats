@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=read skill points
+offset=007950D8
+instruction=B940EA88
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=94000055 B9400FE8 340001A8 B940EA88 34000168 F9400660
+mask=FC000000 FFC003FF FF00001F FFC003FF FF00001F FFC003FF

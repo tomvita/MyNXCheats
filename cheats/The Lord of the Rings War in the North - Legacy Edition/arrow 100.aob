@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=arrow 100
+offset=006140E4
+instruction=B9401008
+offset_register=0
+hook_position=12
+pattern_words=6
+pattern=F9400008 F9404108 D63F0100 B9401008 7100011F 7A541304
+mask=FFC003FF FFC003FF FFFFFFFF FFC003FF FFC003FF FFFFFFFF

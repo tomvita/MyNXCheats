@@ -1,0 +1,10 @@
+[AOB]
+format_version=2
+name=mana no dec
+offset=006FA934
+instruction=1E283800
+offset_register=0
+hook_position=0
+pattern_words=6
+pattern=1E283800 BD001900 F9400268 AA1303E0 52800761 F9402D08
+mask=FFFFFFFF FFC003FF FFC003FF FFFFFFFF FFFFFFFF FFC003FF
