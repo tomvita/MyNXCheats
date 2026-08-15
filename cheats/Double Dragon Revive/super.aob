@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=super
+offset=00135440
+instruction=BD40C800
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=F9400BF3 A8C27BFD D65F03C0 BD40C800 1E22C000 BD40D001
+mask=FFC003FF FFC07FFF FFFFFFFF FFC003FF FFFFFFFF FFC003FF

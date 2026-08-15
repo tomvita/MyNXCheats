@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=ohk
+offset=03E3D4D8
+instruction=BD40B120
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=37F00189 F9456809 1E2E1002 BD40B120 BD40A921 1E211800
+mask=FFF8001F FFC003FF FFFFFFFF FFC003FF FFC003FF FFFFFFFF

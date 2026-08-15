@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=hp full (bar not refreshed)
+offset=03E69AFC
+instruction=D63F0100
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=F9400288 AA1403E0 F9463D08 D63F0100 BD449E61 7E21D821
+mask=FFC003FF FFFFFFFF FFC003FF FFFFFFFF FFC003FF FFFFFFFF
