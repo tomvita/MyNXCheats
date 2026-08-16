@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=hp
+offset=0243DF10
+instruction=BD401008
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=F9400009 EB01013F 54000AA1 BD401008 3964FF69 37000129
+mask=FFC003FF FFFFFFFF FF00001F FFC003FF FFC003FF FFF8001F
