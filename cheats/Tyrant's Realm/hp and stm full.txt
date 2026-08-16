@@ -1,0 +1,11 @@
+STP X25, X26, [SP,#-0x90]
+data_save = 0x080F3AF8
+adrp x25, (data_save & 0xFFFFFFFF000)
+str x19, [x25, (data_save & 0xFFF)]
+ldr s0, [x19, #0x694]
+str s0, [x19, #0x690]
+ldr s0, [x19, #0x69c]
+str s0, [x19, #0x8ac]
+return:
+LDP X25, X26, [SP,#-0x90]
+b code1+4
