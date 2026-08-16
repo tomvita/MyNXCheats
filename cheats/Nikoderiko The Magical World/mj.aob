@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=mj
+offset=02BE9970
+instruction=BD400902
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=F9416108 F100001F 9A890108 BD400902 2D400500 F9400BF3
+mask=FFC003FF FFC003FF FFFFFFFF FFC003FF FFC07FFF FFC003FF
