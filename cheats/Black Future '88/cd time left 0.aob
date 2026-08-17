@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=cd time left 0
+offset=00248EE4
+instruction=1E20BC20
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=A9437BFD A9424FF4 F9400BF5 1E20BC20 6CC423E9 D65F03C0
+mask=FFC07FFF FFC07FFF FFC003FF FFFFFFFF FFC07FFF FFFFFFFF
