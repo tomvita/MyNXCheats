@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=pts no dec off.1
+offset=0068D174
+instruction=5100054A
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=3400048A B9401E6B 9104A009 5100054A 7902680A 9000600C
+mask=FF00001F FFC003FF FFC003FF FFC003FF FFC003FF 9F00001F

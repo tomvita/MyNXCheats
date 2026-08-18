@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=exp x256.0
+offset=00624634
+instruction=2B152328
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=2A3903E8 6B0802BF 5A9932B6 2B152328 5A9F3115 B9013A75
+mask=FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFC003FF

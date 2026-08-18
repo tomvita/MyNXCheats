@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=gold.0
+offset=005EF860
+instruction=B9400518
+offset_register=0
+hook_position=0
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=B9400518 14000325 AA1303E0 2A1503E1 2A1F03E2 94000970
+mask=FFC003FF FC000000 FFFFFFFF FFFFFFFF FFFFFFFF FC000000

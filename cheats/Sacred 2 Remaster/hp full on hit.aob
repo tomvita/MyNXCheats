@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=hp full on hit
+offset=00631690
+instruction=BD41BA60
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=2A1F03EB AA1F03F8 3607FDB7 BD41BA60 2F00E402 BD4067E1
+mask=FFFFFFFF FFFFFFFF FFF8001F FFC003FF FFFFFFFF FFC003FF

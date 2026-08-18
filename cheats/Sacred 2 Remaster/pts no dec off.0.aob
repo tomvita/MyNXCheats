@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=pts no dec off.0
+offset=006E86B4
+instruction=51000529
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=79426809 34000249 B9401FEA 51000529 79026809 8B0A0409
+mask=FFC003FF FF00001F FFC003FF FFC003FF FFC003FF FFFFFFFF
