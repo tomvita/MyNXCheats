@@ -1,0 +1,9 @@
+ldr w0, [x19, #0x138]
+cbz w0, return
+ldr s0, [x19, #0x1bc]
+str s0, [x19, #0x1b8]
+str s0, [x19, #0x1c0]
+b code1+4
+return:
+ldr s0, [x19, #0x1b8]
+b code1+4
