@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=stop time
+offset=03105930
+instruction=3940E268
+offset_register=0
+hook_position=4
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=3929BE95 3940E268 370005C8 3940A268 37000588 3940EA68
+mask=FFC003FF FFC003FF FFF8001F FFC003FF FFF8001F FFC003FF

@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=time's up
+offset=0310594C
+instruction=BD403260
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=3940EA68 7100051F 54000081 BD403260 1E202008 54000589
+mask=FFC003FF FFC003FF FF00001F FFC003FF FFFFFFFF FF00001F
