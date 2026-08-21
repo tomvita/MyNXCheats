@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=FixedUpdate.0
+offset=034AF7C0
+instruction=D10243FF
+offset_register=0
+hook_position=16
+pattern_words=7
+occurrences=1
+target_index=0
+pattern=F9402100 974E5B0B 974E53FA D503201F D10243FF 6D023BEF F9003BF5
+mask=FFC003FF FC000000 FC000000 FFFFFFFF FFC003FF FFC07FFF FFC003FF

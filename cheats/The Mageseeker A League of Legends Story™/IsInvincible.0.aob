@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=IsInvincible.0
+offset=02E4F990
+instruction=A9BF7BFD
+offset_register=0
+hook_position=0
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=A9BF7BFD 910003FD F9405000 B4000080 528000C1 A8C17BFD
+mask=FFC07FFF FFC003FF FFC003FF FF00001F FFFFFFFF FFC07FFF

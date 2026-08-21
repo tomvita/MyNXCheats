@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=TakeDamageFrom.0
+offset=02C805D0
+instruction=D10143FF
+offset_register=0
+hook_position=28
+pattern_words=8
+occurrences=1
+target_index=0
+pattern=F94013F7 A9417BFD 910143FF D61F0060 976F1077 976F107A D503201F D10143FF
+mask=FFC003FF FFC07FFF FFC003FF FFFFFFFF FC000000 FC000000 FFFFFFFF FFC003FF
