@@ -1,0 +1,163 @@
+FField Name Resolution Diagnostic
+hint=0x00 nm_off=0x18 blk_off=0x28
+
+[1] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[2] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[3] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[4] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[5] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[6] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[7] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[8] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[9] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[10] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[11] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[12] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[13] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[14] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[15] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[16] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[17] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[18] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+
+[19] addr=03006E8220 chosen_name="DoubleProperty_8"
+  +0x18 cidx=56(0x000038) num=8 -> DoubleProperty_8 [CHOSEN]
+  raw +0x18: 38000000 08000000
+  raw +0x28: B0077420 04000000
+  raw +0x30: 68086451 4B000000
+  Offset_Internal: +0x44=75(0x4B) +0x48=448(0x1C0) +0x4C=16(0x10)
+
+[20] addr=04207406F0 chosen_name="ObjectProperty_8"
+  +0x18 cidx=0(0x000000) num=0 -> None 
+  +0x20 cidx=0(0x000000) num=0 -> None 
+  +0x28 cidx=16(0x000010) num=8 -> ObjectProperty_8 [CHOSEN]
+  raw +0x18: 00000000 00000000
+  raw +0x28: 10000000 08000000
+  raw +0x30: 00000000 00000000
+  Offset_Internal: +0x44=0(0x0) +0x48=0(0x0) +0x4C=0(0x0)
+

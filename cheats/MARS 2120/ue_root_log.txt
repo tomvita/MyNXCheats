@@ -1,0 +1,22 @@
+UE root chain log
+note=ok
+j_UWorld_pointer=0x4B5282FB38
+j_UGameEngine_pointer=0x0000000000
+NamePoolData=0x4B52079180
+NamePoolBlocksOffset=0x28
+UWorld.OwningGameInstance=0x180
+UGameInstance.LocalPlayers=0x38
+UPlayer.PlayerController=0x30
+UObject.NamePrivate=0x18
+APlayerController.AcknowledgedPawn=0x338
+ACharacter.CharacterMovement=0x328
+
+resolved:
+UWorld=0x06806E2800
+UGameEngine=0x0000000000
+UGameInstance=0x05607A4540
+LocalPlayers.Data=0x0320849200
+LocalPlayer[0]=0x05607A7D20
+APlayerController=0x06A1130640
+AcknowledgedPawn=0x0400731820
+CharacterMovement=0x034088F3C0

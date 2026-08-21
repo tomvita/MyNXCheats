@@ -1,0 +1,84 @@
+NamePool Block Table Dump
+namepool=0x0000004B52079180 blocks_off=0x28
+pool+0x18=0x00000000 pool+0x20=0x00000028 pool+0x24=0x00014132
+
+  blocks[ 0] at +0x028: 0x0000000C20690000 first_entry="None"
+  blocks[ 1] at +0x030: 0x0000000C206B0000 first_entry="/Script/ProjectMars_DEMO/Default__IcePillarCoreEffectActor"
+  blocks[ 2] at +0x038: 0x0000000C206D0000 first_entry="/Script/Foliage/ProceduralFoliageSpawner"
+  blocks[ 3] at +0x040: 0x0000000C206F0000 first_entry="/Script/Engine/CharacterMovementComponentPostPhysicsTickFunction"
+  blocks[ 4] at +0x048: 0x0000000C20710000 first_entry="/Script/Engine/ESoundGroup"
+  blocks[ 5] at +0x050: 0x0000000C20730000 first_entry="SearchSpatialDatabaseForPolygonsPotentiallyIntersectingLineSegment"
+  blocks[ 6] at +0x058: 0x0000000C20750000 first_entry="MaterialExpressionSkyAtmosphereLightIlluminance"
+  blocks[ 7] at +0x060: 0x0000000C20770000 first_entry="/Game/Art/Environments/ModularEnvironment/ModularScifiHallways/Textures/T_Ceiling_A_Buffer_N_normals.T_Ceiling_A_Buffer_N_normals"
+  blocks[ 8] at +0x068: 0x0000000C20790000 first_entry="/Game/Art/Effects/PSystems/electricSkills/Electrified_status_condition"
+  blocks[ 9] at +0x070: 0x0000000C207B0000 first_entry="/Game/Art/Environments/scifi_kitbash/meshes/SM_Cable03.SM_Cable03"
+  blocks[10] at +0x078: 0x0000000C207D0000 first_entry="/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_SoftLight.Blend_SoftLight"
+  blocks[11] at +0x080: 0x0000000C207F0000 first_entry="/Game/Art/Environments/Buildings/LivingQuarters/Holograms/Hologram_Material_02"
+  blocks[12] at +0x088: 0x0000000C20810000 first_entry="/Game/Art/Effects/PSystems/FireSkills/fire_activation/Lv2/Lv2fire_act_head.Lv2fire_act_head"
+  blocks[13] at +0x090: 0x0000000C20830000 first_entry="/Game/Art/Environments/ModularEnvironment/ModularScifiProps/Meshes/SM_MedBottle_b.SM_MedBottle_b"
+  blocks[14] at +0x098: 0x0000000C20850000 first_entry="/Game/FMOD/Reverbs/Reverbs/verb_cave_small"
+  blocks[15] at +0x0A0: 0x0000000C20870000 first_entry="/Game/Art/UI/AbilitieScreen/AbilitieSelectionIcon_ElecEnhancement"
+  blocks[16] at +0x0A8: 0x0000000C20890000 first_entry="/Game/Blueprints/Attacks/Player/Core/Electric/Core_Electric_SpecialAbility_AttackBehaviour_BP.Core_Electric_SpecialAbility_AttackBehaviour_BP"
+  blocks[17] at +0x0B0: 0x0000000C208B0000 first_entry="/Game/Art/Environments/ModularEnvironment/ModularSci_Comm/Textures/T_Pipes_A_Diff"
+  blocks[18] at +0x0B8: 0x0000000C208D0000 first_entry="/Game/Art/Player/ColAnnaCharlotte/Textures/BodyArmor_Lvl0/Ice_Core/Ice_Lvzero_complete_M_Armor_LowerBody_Lvl1_Roughness"
+  blocks[19] at +0x0C0: 0x0000000C208F0000 first_entry="/Game/Art/Effects/Niagara_Effects/Systems/BuffTower/BuffDefense_NSystem.BuffDefense_NSystem"
+  blocks[20] at +0x0C8: 0x0000000C20910000 first_entry="/Game/Art/Player/ColAnnaCharlotte/Animations/Shooting/Mars_ColCharlotte_IdleCombat"
+  blocks[21] at +0x0D0: 0x0000000C20930000 first_entry="/Game/FMOD/Events/SFX/ENEMIES/BOSS/boss_1_sidero/sfx_boss_sidero_eyelaserblast.sfx_boss_sidero_eyelaserblast"
+  blocks[22] at +0x0D8: 0x0000000C20950000 first_entry="/Game/Art/Environments/Buildings/NavgationRoom/Converted_Meshs/Merged"
+  blocks[23] at +0x0E0: 0x0000000C20970000 first_entry="/Game/FMOD/Events/SFX/ENEMIES/MOBSTERS/nightmare_creature/sfx_enemy_nightmare_creature_scream.sfx_enemy_nightmare_creature_scream"
+  blocks[24] at +0x0E8: 0x0000000C20990000 first_entry="/Game/Art/Enemies/ParaziteAlpha/Textures/claws/frozen/AlfaBoss_ClawsLICE_Roughness.AlfaBoss_ClawsLICE_Roughness"
+  blocks[25] at +0x0F0: 0x0000000C209B0000 first_entry="/Game/Data/SaveEvents/MapIcons/Furnace_A/FurnaceA_Upgrade_Background_Reveal"
+  blocks[26] at +0x0F8: 0x0000000C209D0000 first_entry="/Game/Data/InputCommands/ForwardCoreCommand.ForwardCoreCommand"
+  blocks[27] at +0x100: 0x0000000C209F0000 first_entry="Boss_Spiderbot_ReaTreat_UseCondition"
+  blocks[28] at +0x108: 0x0000000C20A10000 first_entry="/Game/Art/Effects/PSystems/electricSkills/Rifle/electric_shot_muzzle.electric_shot_muzzle"
+  blocks[29] at +0x110: 0x0000000C20A30000 first_entry="/Game/Art/Environments/Buildings/NavgationRoom/Merged/SM_MERGED_UV_Cube.SM_MERGED_UV_Cube"
+  blocks[30] at +0x118: 0x0000000C20A50000 first_entry="/Game/Data/SaveEvents/Doors/LivingQuarters_Fan_Passthrough"
+  blocks[31] at +0x120: 0x0000000C20A70000 first_entry="ToolBar.Keybinding"
+
+Test decode CIdx=0x1282B7 (1213111):
+  block=18 offset=33463 block_ptr=0x0000000C208D0000
+  stride=2 addr=0x0000000C208E056E hdr=0x676F s1_len=13239 s6_len=413 -> <fail>
+    raw: 6F67732F45532D45532F42696F2F45532D45535F42696F2D3400B21A2F47616D
+    asc: ogs/ES-ES/Bio/ES-ES_Bio-4.../Gam
+  stride=4 addr=0x0000000C208F0ADC hdr=0x5F67 s1_len=12211 s6_len=381 -> <fail>
+    raw: 675F4C6566745F66726F6E745F53706563756C617200501C2F47616D652F4172
+    asc: g_Left_front_Specular.P./Game/Ar
+  stride=1 addr=0x0000000C208D82B7 hdr=0x6C6C s1_len=13878 s6_len=433 -> <fail>
+    raw: 6C6C5F455F4675726E61636500EC152F47616D652F4172742F456E7669726F6E
+    asc: ll_E_Furnace.../Game/Art/Environ
+
+Test decode CIdx=0x134DB8 (1265080):
+  block=19 offset=19896 block_ptr=0x0000000C208F0000
+  stride=2 addr=0x0000000C208F9B70 hdr=0x6572 s1_len=12985 s6_len=405 -> <fail>
+    raw: 726561747572652F4D6174657269616C732F4E696768746D6172654372656174
+    asc: reature/Materials/NightmareCreat
+  stride=4 addr=0x0000000C209036E0 hdr=0x6972 s1_len=13497 s6_len=421 -> <fail>
+    raw: 7269735F437261636B65645F5570C4024E525F43656E7465725F4100B4212F47
+    asc: ris_Cracked_Up..NR_Center_A..!/G
+  stride=1 addr=0x0000000C208F4DB8 hdr=0x2F65 s1_len=6066 s6_len=189 -> <fail>
+    raw: 652F54657874757265732F545F6E6574746C655F30315F42435F4D2E545F6E65
+    asc: e/Textures/T_nettle_01_BC_M.T_ne
+
+Test decode CIdx=0x1271CC (1208780):
+  block=18 offset=29132 block_ptr=0x0000000C208D0000
+  stride=2 addr=0x0000000C208DE398 hdr=0x2F72 s1_len=6073 s6_len=189 -> <fail>
+    raw: 722F77696E67735F63616E6E6F6E5F4E6F726D616C008E084E696768746D6172
+    asc: r/wings_cannon_Normal...Nightmar
+  stride=4 addr=0x0000000C208EC730 hdr=0x7241 s1_len=14624 s6_len=457 -> <fail>
+    raw: 41726D6F725F436F6C6C65637465645F4C7633003E152F47616D652F44617461
+    asc: Armor_Collected_Lv3.>./Game/Data
+  stride=1 addr=0x0000000C208D71CC hdr=0x4B32 s1_len=9625 s6_len=300 -> <fail>
+    raw: 324B5F4F7061636974792E7367656B666876705F324B5F4F706163697479160D
+    asc: 2K_Opacity.sgekfhvp_2K_Opacity..
+
+Test decode CIdx=0x12600E (1204238):
+  block=18 offset=24590 block_ptr=0x0000000C208D0000
+  stride=2 addr=0x0000000C208DC01C hdr=0x472F s1_len=9111 s6_len=284 -> <fail>
+    raw: 2F47616D652F4172742F506C617965722F436F6C416E6E61436861726C6F7474
+    asc: /Game/Art/Player/ColAnnaCharlott
+  stride=4 addr=0x0000000C208E8038 hdr=0x6D61 s1_len=14000 s6_len=437 -> <fail>
+    raw: 616D652F4172742F456E7669726F6E6D656E74732F47656E6572616C2F486F6C
+    asc: ame/Art/Environments/General/Hol
+  stride=1 addr=0x0000000C208D600E hdr=0x7270 s1_len=14648 s6_len=457 -> <fail>
+    raw: 707269746500E8024C6F636B65645F49636F6E00BC0E2F47616D652F4172742F
+    asc: prite...Locked_Icon.../Game/Art/

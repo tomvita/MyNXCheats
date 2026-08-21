@@ -1,0 +1,2 @@
+profile_scan quick=0 reason=load_fail(profile file not found: sdmc:/switch/breeze/cheats/0100AAA017544000/ue_profile.ini)
+profile_scan quick=0 fallback=0 success=1 total=10113ms quick=1ms detect=0ms p5=10054ms pass={9989,60,0,0,0} fb={0,0,0,0,0} layout=10ms write=17ms matches=1 slots=2155520 score=8 slot=0x4B5282FB38
