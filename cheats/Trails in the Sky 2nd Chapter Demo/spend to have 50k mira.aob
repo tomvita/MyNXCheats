@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=spend to have 50k mira
+offset=00523F34
+instruction=1B08A6A8
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=1E270101 1E211800 1E290008 1B08A6A8 0AA87D08 B90002C8
+mask=FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFC003FF

@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=qty 80(don't visit key tab when cheat is on)
+offset=0017A3A4
+instruction=78696908
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=8B040908 52914989 72A00249 78696908 34FFFB48 F9400328
+mask=FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FF00001F FFC003FF

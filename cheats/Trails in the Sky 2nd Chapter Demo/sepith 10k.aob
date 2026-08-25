@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=sepith 10k
+offset=0016BF14
+instruction=B87C6901
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=9416056E F9400368 8B160908 B87C6901 9416278E AA1403E0
+mask=FC000000 FFC003FF FFFFFFFF FFFFFFFF FC000000 FFFFFFFF
