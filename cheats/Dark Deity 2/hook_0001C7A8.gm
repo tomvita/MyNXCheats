@@ -1,0 +1,5 @@
+cave_start=00533BA0
+section=000186C3 0000000000000C40 Current_HP
+section=000186C3 0000000000002C40 Hero_HP
+dependent=00533BC8
+dependent=00533BF0
