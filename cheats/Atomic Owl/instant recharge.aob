@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=instant recharge
+offset=01BF8278
+instruction=BD401260
+offset_register=0
+hook_position=0
+pattern_words=7
+occurrences=1
+target_index=0
+pattern=BD401260 AA1F03E1 A9414FF4 A8C27BFD 17FF83D6 97A6BF59 B00258E0
+mask=FFC003FF FFFFFFFF FFC07FFF FFC07FFF FC000000 FC000000 9F00001F
