@@ -1,0 +1,44 @@
+cave_start = 0x00533BA0
+// GameMaker shared hook at M+0x0001C7A8  ldr x0, [x8, x9]
+// One section per variable, 40 bytes each, starting at cave+0x08.
+// A section runs when X9 holds its slot offset and the id at slot+8
+// matches; the cheat named after the variable writes the one word at the
+// landing, so it is that variable's switch.  Sections are only appended,
+// so the landings already in use never move.
+stp x25, x26, [sp,#-0x90]
+stp x27, x28, [sp,#-0x80]
+// section 0 Current_HP id 100035 offset 0xC40 landing M+0x00533C70
+ldr w25, gm_off_0
+cmp x9, x25
+b.ne gm_next_0
+add x26, x8, x9
+ldr w25, [x26, #8]
+ldr w27, gm_id_0
+cmp w25, w27
+b.ne gm_next_0
+gm_land_0:
+nop
+b gm_done
+gm_next_0:
+// section 1 Hero_HP id 100035 offset 0x2C40 landing M+0x00533C98
+ldr w25, gm_off_1
+cmp x9, x25
+b.ne gm_next_1
+add x26, x8, x9
+ldr w25, [x26, #8]
+ldr w27, gm_id_1
+cmp w25, w27
+b.ne gm_next_1
+gm_land_1:
+nop
+b gm_done
+gm_next_1:
+gm_done:
+ldp x25, x26, [sp,#-0x90]
+ldp x27, x28, [sp,#-0x80]
+{original}
+b code1+4
+gm_off_0: .word 0xC40
+gm_id_0: .word 100035
+gm_off_1: .word 0x2C40
+gm_id_1: .word 100035

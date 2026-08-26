@@ -1,0 +1,4 @@
+ldr x0, [x8, x9]
+ldr d0, [x0]
+return:
+b code1+4
