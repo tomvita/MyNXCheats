@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=infinite hp.0
+offset=003A1064
+instruction=D503201F
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=927C0108 8B080300 D63F0120 D503201F AA1803E0 9400A329
+mask=FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FC000000
