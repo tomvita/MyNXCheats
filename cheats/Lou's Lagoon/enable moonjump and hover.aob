@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=enable moonjump and hover
+offset=0515E904
+instruction=BD406A68
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=54000169 BD406A68 14000012 BD406A68 1E202108 54000248
+mask=FF00001F FFC003FF FC000000 FFC003FF FFFFFFFF FF00001F

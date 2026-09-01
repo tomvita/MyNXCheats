@@ -1,0 +1,8 @@
+ldr s8, a
+str s8, [x19, #0x60]
+ldr s8, b
+ldr s8, [x19, #0x68]
+return:
+b code1+4
+a:.float -16
+b:.float 1

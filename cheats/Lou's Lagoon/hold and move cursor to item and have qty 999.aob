@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name= hold and move cursor to item and have qty 999
+offset=051945E8
+instruction=B9402108
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=97B24CC5 36000180 F94017E8 B9402108 0B130113 17FFFFF9
+mask=FC000000 FFF8001F FFC003FF FFC003FF FFFFFFFF FC000000
