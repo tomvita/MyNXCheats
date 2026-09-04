@@ -1,0 +1,13 @@
+# Breeze Lua bookmarks: enabled, name, tag, value, path
+# Paths, not addresses -- addresses do not survive a game restart.
+1	Gold	16	34C2F	AllCharactersStorage/1/Gold
+1	potion	13	871	PlayerControlObjects/[1]/items/[5]/stack
+1	health	13	3E8	PlayerControlObjects/[1]/health
+0	_G.Hero.overdrive	13	7D0	Hero/overdrive
+0	_G.Hero.MaxHealth	13	2710	Hero/MaxHealth
+1	_G.HandleToObject.(1).overdrive = 4000	13	FA0	HandleToObject/[1]/overdrive
+1	Hero no cooldowns	01	0	Hero/cooldowns_enabled
+1	_G.HandleToObject.(1).items.(6).stack = 99	13	63	HandleToObject/[1]/items/[6]/stack
+0	_G.Hero.base_damage	13	A	Hero/base_damage
+0	_G.Hero.critical_chance	13	A	Hero/critical_chance
+0	_G.Hero.critical_bonus	13	3E8	Hero/critical_bonus
