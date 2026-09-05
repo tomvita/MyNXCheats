@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=gold 1M
+offset=04292BA4
+instruction=B9402900
+offset_register=0
+hook_position=0
+pattern_words=8
+occurrences=1
+target_index=0
+pattern=B9402900 A8C17BFD D65F03C0 12800000 A8C17BFD D65F03C0 A9BE7BFD A9014FF4
+mask=FFC003FF FFC07FFF FFFFFFFF FFFFFFFF FFC07FFF FFFFFFFF FFC07FFF FFC07FFF

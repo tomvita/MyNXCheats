@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=hp full
+offset=043B46F8
+instruction=B9010E88
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=6B00027F 1A80B268 0AA87D08 B9010E88 A9414FF4 A8C27BFD
+mask=FFFFFFFF FFFFFFFF FFFFFFFF FFC003FF FFC07FFF FFC07FFF

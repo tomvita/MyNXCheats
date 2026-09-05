@@ -1,0 +1,10 @@
+ldr w8, [x19, #0xfc]
+cmp w8, 1000
+b.lt return
+cmp w8, 2000
+b.ge return
+mov w8, w0
+b code1+4
+return:
+mov w8, w24
+b code1+4

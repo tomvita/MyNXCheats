@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=mp full
+offset=040B073C
+instruction=1A80B308
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=940C0E51 6B00031F 2A1F03E2 1A80B308 AA1303E0 0AA87D08
+mask=FC000000 FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF
