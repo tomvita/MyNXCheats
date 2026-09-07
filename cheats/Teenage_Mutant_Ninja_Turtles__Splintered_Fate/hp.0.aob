@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=hp.0
+offset=01671214
+instruction=BD4196A9
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=5280030D 12B0100E 1E2701C5 BD4196A9 F9402569 F940112A
+mask=FFFFFFFF FFFFFFFF FFFFFFFF FFC003FF FFC003FF FFC003FF
