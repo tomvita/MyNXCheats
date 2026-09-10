@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=if alive full hp (all)
+offset=037271B8
+instruction=B9401928
+offset_register=0
+hook_position=0
+pattern_words=7
+occurrences=1
+target_index=0
+pattern=B9401928 7100051F 540001EB AA0003F3 910023E8 9100E120 2A1F03E1
+mask=FFC003FF FFC003FF FF00001F FFFFFFFF FFC003FF FFC003FF FFFFFFFF

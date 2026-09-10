@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=talent point 100
+offset=00045C80
+instruction=B9402400
+offset_register=0
+hook_position=0
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=B9402400 D65F03C0 00000000 00000000 12001C29 F940180A
+mask=FFC003FF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFC003FF

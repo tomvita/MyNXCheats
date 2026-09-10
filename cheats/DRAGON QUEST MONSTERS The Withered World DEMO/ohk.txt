@@ -1,0 +1,5 @@
+ldr x9, [x0]
+str wzr, [x9, #0x18]
+bl #0x37271a0
+return:
+b code1+4

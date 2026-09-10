@@ -1,0 +1,5 @@
+fadd d19, d19, d19
+fadd v21.2d, v21.2d, v21.2d
+return:
+fadd v7.2d, v7.2d, v21.2d
+b code1+4
