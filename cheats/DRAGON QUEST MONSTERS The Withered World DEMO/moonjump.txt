@@ -1,0 +1,5 @@
+ldr d13, a
+str d13, [x19, #0xe0]
+return:
+b code1+4
+a:.double 900.0

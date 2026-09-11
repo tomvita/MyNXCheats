@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=ohk
+offset=04C416C0
+instruction=97AB96B8
+offset_register=0
+hook_position=0
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=97AB96B8 7200001F 1A9F075A 17FFFFF1 AA1403E0 97ABC99F
+mask=FC000000 FFFFFFFF FFFFFFFF FC000000 FFFFFFFF FC000000

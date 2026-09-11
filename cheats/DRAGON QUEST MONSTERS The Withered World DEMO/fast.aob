@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name= fast
+offset=02A283B8
+instruction=4E62D421
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=4FC09021 4E62D421 3DC03662 4E62D421 FD41E662 3D803661
+mask=FFFFFFFF FFFFFFFF FFC003FF FFFFFFFF FFC003FF FFC003FF

@@ -1,0 +1,6 @@
+ldr w8, [x9, #0x18]
+cbz w8, return
+ldr w8, [x9, #0x1c]
+str w8, [x9, #0x18]
+return:
+b code1+4

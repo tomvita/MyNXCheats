@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=  moonjump moss1
+offset=0456CF60
+instruction=B940CE6A
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=AA1303E0 F84C4EA9 910E1E78 B940CE6A B81C03AA BD41D900
+mask=FFFFFFFF FFE00FFF FFC003FF FFC003FF FFE00FFF FFC003FF

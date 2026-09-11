@@ -1,0 +1,6 @@
+ldr x8, [x2]
+ldr w3, [x8, #0x34]
+str w3, [x8, #0x30]
+bl #0x3729d90
+return:
+b code1+4
