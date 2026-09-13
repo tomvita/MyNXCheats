@@ -1,0 +1,5 @@
+v1
+CharaStatRecord	E322D0	A0	9
+ExpTable	66F0D8	0	1
+GrowthTable	66F1A4	0	1
+ExpLevelFactor	670BD0	0	1
