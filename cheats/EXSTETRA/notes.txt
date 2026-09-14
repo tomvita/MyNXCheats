@@ -1,0 +1,8 @@
+[ hp full]
+note=All code with conditional key apply to all at some point but when it is your turn and when walking it only applies to your heroes
+[ HpMax 1000]
+note=These code are temporary feel free to use them and it would recover to the unhacked value when you exit the battle
+[exp x10]
+note=exp is awwarded unequally depending on how much the character fight this raise the total allocation
+[exp flat]
+note=Exp is also awarded to lower level fighter at a higher ratio, this cheat make that flat.
