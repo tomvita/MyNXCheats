@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=EXP x4.0
+offset=006C052C
+instruction=531E7433
+offset_register=0
+hook_position=0
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=531E7433 AA0003F4 37000322 B0024348 BD41CA81 BD414902
+mask=FFFFFFFF FFFFFFFF FFF8001F 9F00001F FFC003FF FFC003FF

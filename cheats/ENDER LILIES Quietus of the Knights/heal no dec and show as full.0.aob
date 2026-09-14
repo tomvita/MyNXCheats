@@ -1,0 +1,12 @@
+[AOB]
+format_version=3
+name=heal no dec and show as full.0
+offset=006B46F4
+instruction=D503201F
+offset_register=0
+hook_position=12
+pattern_words=6
+occurrences=1
+target_index=0
+pattern=00000000 00000000 B9412808 D503201F 0AA87D08 B9012808
+mask=FFFFFFFF FFFFFFFF FFC003FF FFFFFFFF FFFFFFFF FFC003FF
