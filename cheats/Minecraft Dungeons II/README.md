@@ -11,7 +11,7 @@ This guide makes cheats for Minecraft Dungeons II from scratch with Breeze's **A
 | Ready-made cheats | [`9E9D887D59F7F7DB.txt`](9E9D887D59F7F7DB.txt) |
 | Breeze | **beta123.06** or later |
 
-If you only want the cheats, copy [`9E9D887D59F7F7DB.txt`](9E9D887D59F7F7DB.txt) to `sdmc:/switch/breeze/cheats/0100A7C01B792000/` and press **Load Cheats from file** in Breeze's cheat menu. The file has the same seven cheats this guide makes, plus a backup folder with a second version of each (see step 3).
+If you only want the cheats, copy [`9E9D887D59F7F7DB.txt`](9E9D887D59F7F7DB.txt) to `sdmc:/switch/breeze/cheats/0100A7C01B792000/` and press **Load Cheats from file** in Breeze's cheat menu. The file has the seven attribute cheats this guide makes, the moon jump and no-cooldown cheats from step 7, and a backup folder with a second version of each attribute cheat (see step 3).
 
 ## How the game keeps its stats
 
@@ -134,6 +134,58 @@ Not everything is an attribute. Three other tools in the Unreal menu help to fin
 - **Browse UE Objects** lists every object in the game (over 100,000 here), with **Filter by class** (R): for example `Character`, `Inventory` or `AbilitySystem`. **Open UClass view** shows the object you pick.
 - In a field view (Memory Explorer > **Class field**), **Open** on a row that points to another object -- such as your character's `AbilitySystemComponent` or `InventoryManagerComponent` -- opens that object. **Make cheat** there is **ZL+Plus**.
 
+## 7. Two cheats from the field view: moon jump and no cooldown
+
+These two are not attributes, so they were built by hand from what the field view shows. Both are in the cheat file.
+
+### Moon jump (hold ZL+B)
+
+Open your character's movement component: in the **UWorld Explorer** it is the `MoveComp` line, or in a field view of your character, **Open** on `CharacterMovement`. Two fields matter:
+
+![The movement component, cursor on Velocity](guide/15_movement_component.jpg)
+
+- `Velocity` -- three doubles; `Velocity::Z` (`+0xE0`) is the vertical speed.
+- `MovementMode` (`+0x231`) -- the field view names it, `MOVE_Walking (1)`. While walking, the game discards upward speed every frame, so the cheat also sets `MOVE_Falling` (3).
+
+While ZL+B is held, the cheat writes an upward speed of 1200 and the falling mode; let go and gravity brings you down, and the game goes back to walking when you land.
+
+```
+80000102                     while ZL+B is held
+580F0000 0AD7BEE8 ...        world > game instance > local player > controller > character
+580F1000 00000330            > its movement component
+780F0000 000000E0            Velocity.Z
+680F0000 4092C000 00000000   = 1200.0
+780F0000 00000151            MovementMode (+0x231)
+610F0000 00000000 00000003   = 3, MOVE_Falling
+20000000
+```
+
+ZL also drinks a potion in this game. If that gets in the way, change the key with **Add conditional key** in the cheat menu.
+
+### No ability cooldown
+
+Artifacts cost souls (the Souls cheat covers that) and have a cooldown -- 5 seconds for the Pouch of Frost. **Browse UE Objects** with the filter `Cooldown` finds `GE_AbilityCooldown`: one cooldown effect that all of your abilities apply, each with its own duration. In its field view, `DurationPolicy` reads `HasDuration (2)`. (With the cheat on it reads `Instant (0)`, as here.)
+
+![The cooldown effect's DurationPolicy](guide/16_cooldown_effect.jpg)
+
+Put the cursor on `DurationPolicy` and press **Edit Value** (ZR+Y): Breeze lists the values of the enum, with the current one marked.
+
+![Picking a value for DurationPolicy](guide/14_pick_duration_policy.jpg)
+
+`Instant` (0) means the effect is applied once and does not stay, so it grants no cooldown tag, and an ability is only blocked while that tag is present. (A duration of 0 would not work: the game never starts the timer that removes it, so the cooldown would last forever.) The cheat sets `Instant` every time it runs, reaching the effect through your ability system:
+
+```
+580F0000 0AD7BEE8 ...        world > ... > your character > its ability system (+0xA20)
+580F1000 00000508            > the list of granted abilities
+580F1000 00000010            > the first ability
+580F1000 000001B8            > its cooldown effect class (GE_AbilityCooldown)
+580F1000 00000170            > that class's default object
+780F0000 00000030            DurationPolicy
+610F0000 00000000 00000000   = 0, Instant
+```
+
+Abilities can then be used again as soon as their animation ends. Two things to know: the change is made to the effect's defaults, which are shared by the whole game, and switching the cheat off does not bring the cooldowns back until the game is restarted.
+
 ## Notes
 
 - **Open set** in the attribute screen opens the set in the field view. Press its button: pressing **A** always activates the highlighted button.
@@ -150,6 +202,8 @@ Not everything is an attribute. Three other tools in the Unreal menu help to fin
 | Attributes (GAS) | **ZR+Plus** | Make cheat (scan) |
 | Attributes (GAS) | **ZR+Y** | Edit value |
 | Attributes (GAS) | **X** | Refresh |
+| Field view | **ZR+Y** | Edit Value (a pick list on enum fields) |
+| Field view | **ZL+Plus** | Make cheat |
 | Cheat Menu | **X** | Toggle Cheat |
 | Cheat Menu | **L** | Edit Cheat |
 | Any | **B** | Back |
