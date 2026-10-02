@@ -1,6 +1,6 @@
 # Fountains -- making cheats with Breeze
 
-This guide shows how the Fountains cheats were made with Breeze, and how to check them yourself. You find a value with Search Manager, read the player's stats around it in Memory Explorer, and see how the cheats reach those stats in every room. Fountains is made with the **Godot** engine. The same approach works for other Godot games, which keep a script's variables the same way.
+This guide shows how the Fountains cheats were made with Breeze, and how to make them yourself. You find a value with Search Manager, read the player's stats around it in Memory Explorer, let **Find chain** find a route to it that works in every room, and make the cheat from that route. Fountains is made with the **Godot** engine. The same approach works for other Godot games, which keep a script's variables the same way.
 
 | | |
 |---|---|
@@ -9,7 +9,7 @@ This guide shows how the Fountains cheats were made with Breeze, and how to chec
 | Build ID | `CCE53AD937702726` |
 | Engine | Godot 4.5 (GDScript) |
 | Ready-made cheats | [`CCE53AD937702726.txt`](CCE53AD937702726.txt) |
-| Breeze | **beta123.07** or later |
+| Breeze | **beta123.08** or later; **Find chain** for Godot (step 3) needs the release after beta123.08 |
 
 If you only want the cheats, copy [`CCE53AD937702726.txt`](CCE53AD937702726.txt) to `sdmc:/switch/breeze/cheats/010063302712A000/` and press **Load Cheats from file** (Y) in Breeze's cheat menu.
 
@@ -75,9 +75,36 @@ Now `dbl:4` is the water just before the coins (entry 99), and `dbl:45` is the s
 
 You could freeze this address now, but it would not last. The player is rebuilt every time you change rooms or die, and the list moves to a new address. The cheats have to find the player afresh every time they run.
 
-## 3. How the cheats find the player
+## 3. Find chain: let Breeze find the way to the player
 
-Godot keeps a few always-loaded nodes called **autoloads** under the root of the scene tree. They load in a fixed order, so they are always at the same place. One of them, `Inventory`, keeps a reference to the player in its entry 11. So every cheat in the file starts with the same eight lines: from a fixed address in the game's code to the root, to `Inventory`, to the player, to the player's list.
+The address from step 1 is only good until you leave the room. A cheat needs a route from something that never moves to the player's list -- a pointer chain. In a Godot game, **Find chain** finds it.
+
+Go back to the candidates (B), put the cursor on the player's coins and press **Find chain** (Y+ZR). Breeze walks the game's own objects from the root of the scene tree -- the nodes, and the variables their scripts hold -- and lists every route it finds to the coins, cheapest first:
+
+![Find chain on the coins](guide/11_find_chain.jpg)
+
+How to read a row:
+
+| Part | Meaning |
+|---|---|
+| `/Inventory` | a node directly under the scene root, here the `Inventory` autoload |
+| `.v11>` | variable 11 of that node's script, which holds the next object |
+| `Player .v100` | variable 100 of the Player's script: the coins |
+| the number on the left | the cost of the route |
+
+Routes through **autoloads** -- nodes the game loads once and keeps for the whole session -- cost least, because they are the same in every room. Routes through the current room (here `GuardsDomainEast`) cost 8: the room is rebuilt when you leave it, and so is everything that route passes through.
+
+Take the top row and press **Make cheat** (X). Breeze asks for a name, then adds a cheat that writes the value the coins have now, switched off in the cheat list. **Bookmark** (Y) saves the route instead, and **Go to** (R) opens it in Memory Explorer.
+
+On Fountains Find chain took 3 seconds and looked at about 13,000 objects. The cheat it made kept the coins after a room change, when the player had been rebuilt at a new address.
+
+**Why not a pointer search?** It was tried. Two pointer searches on Fountains, one for the player's list and one for the player itself, both ran out of memory before reaching the `Inventory` route. All 419 chains they did find went through the current room, and none still worked after a room change. **Perform Clean up** removed all but 4 of them, and those 4 pointed at other objects. In a Godot game, use Find chain.
+
+**Other stats** are in the same list (the table above), so their cheats use the same route with a different last offset: entry number x `0x18` + 8. Or search for the value and run Find chain on it.
+
+## 4. How the cheats find the player
+
+Godot keeps a few always-loaded nodes called **autoloads** under the root of the scene tree. They load in a fixed order, so they are always at the same place. One of them, `Inventory`, keeps a reference to the player in its entry 11 -- the route Find chain lists first. So every cheat in the file starts with the same eight lines: from a fixed address in the game's code to the root, to `Inventory`, to the player, to the player's list.
 
 In the cheat menu, put the cursor on a cheat and press **Edit Cheat** (L):
 
@@ -117,19 +144,19 @@ and the attack and speed cheats write a double:
 680F0000 40674000 00000000        = 186.0
 ```
 
-## 4. Jump to target: see the player's stats live
+## 5. Jump to target and Trace cheat: see what a cheat does
 
-Breeze can follow a cheat's pointers for you. In Edit Cheats, put the cursor on the first `580F0000` line and press **Jump to target** (ZL+Right). Breeze follows the chain and opens Memory Explorer at the place the cheat reads, here max HP (entry 4):
+Breeze can run a cheat without switching it on and show you where it goes. In Edit Cheats, put the cursor on the first line and press **Jump to target** (ZL+Right). Breeze runs the cheat as a dry run -- it reads the game's memory but writes nothing -- and opens Memory Explorer at the address the cheat writes, here HP (entry 6), already shown as a double:
 
-![Jump to target lands on max HP](guide/04_jump_target.jpg)
+![Jump to target lands on HP](guide/04_jump_target.jpg)
 
-The line under the title is the whole chain, `main+42B9708+170+48+68+28+118+68+28+68`. Press **Change Type** (R+ZL) until the header says `dbl` to read the values:
+The line under the title is the whole chain, `main+42B9708+170+48+68+28+118+68+28+98`. The rows around it are the player's list: `139.5` (movement speed, with the Move Speed 1.5x cheat on), then `80`, `80`, `80` (max HP, a copy of it, and HP). From here you can scroll to any entry in the table above and use **Edit Memory** (X) to try a value out before you make a cheat for it.
 
-![The player's first entries as doubles](guide/05_hp_dbl.jpg)
+**Trace cheat** (ZR+Right) lists every step instead: each pointer the cheat follows (`hop`), each value it reads (`read`), and what it would write where (`write`). For Infinite Health that is eight hops down to the player's list, a read of max HP, and a write of it into HP. **Go to** (X) on any row opens that address.
 
-From the top: 4.5, 30, then `139.5` (movement speed, with the Move Speed 1.5x cheat on), then `80`, `80`, `80` (max HP, a copy of it, and HP). From here you can scroll down to any entry in the table above and use **Edit Memory** (X) to try a value out before you make a cheat for it.
+![Trace cheat on Infinite Health](guide/12_trace_cheat.jpg)
 
-## 5. Turn the cheats on
+## 6. Turn the cheats on
 
 Open **Cheat Menu** from the main screen. Tick the cheats you want with **Toggle Cheat** (X). A solid square means on:
 
@@ -153,6 +180,10 @@ Open **Cheat Menu** from the main screen. Tick the cheats you want with **Toggle
 | Search Manager | **X** | Start Search |
 | Search Manager | **L** | Show Candidates |
 | Candidates | **RS** | Memory Explorer |
+| Candidates | **Y+ZR** | Find chain |
+| Godot chains | **X** | Make cheat |
+| Godot chains | **Y** | Bookmark |
+| Godot chains | **R** | Go to |
 | Memory Explorer | **R+ZL** | Change Type |
 | Memory Explorer | **X** | Edit Memory |
 | Cheat Menu | **X** | Toggle Cheat |
@@ -160,4 +191,5 @@ Open **Cheat Menu** from the main screen. Tick the cheats you want with **Toggle
 | Cheat Menu | **L** | Edit Cheat |
 | Edit Cheats | **Down** | Toggle Disassembly |
 | Edit Cheats | **ZL+Right** | Jump to target |
+| Edit Cheats | **ZR+Right** | Trace cheat |
 | Any | **B** | Back |
