@@ -1,0 +1,11 @@
+[Breeze beta123.10 Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil 1.03 TID: 01007680281C2000 BID: EB689BC8C840245A]
+
+[Inf lives]
+01000000 003F54D8 00000008 
+
+[Inf bombs]
+01000000 003F54D9 00000008 
+
+[Max power]
+02000000 003E8270 00000080 
+
