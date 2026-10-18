@@ -1,0 +1,29 @@
+    // Give item hook, at GameInfo::Update (x0 = GameInfo, every frame).
+    // A give cheat writes the count to [main+75D8FF4] and then the item id
+    // to [main+75D8FF0]; here the id is cleared and the game's own
+    // ItemInfo::AddHaveItem(itemInfo, id, count, &leftOver, 0, 1) is called,
+    // the call harvesting makes.
+    adrp x16, 0x75D8000
+    ldr w17, [x16, #0xff0]
+    cbz w17, orig
+    stp x29, x30, [sp, #-0x30]!
+    mov x29, sp
+    stp x0, x19, [sp, #0x10]
+    mov x19, x16
+    ldr w1, [x19, #0xff0]
+    ldr w2, [x19, #0xff4]
+    str wzr, [x19, #0xff0]
+    ldr x0, [x0, #0x80]
+    cbz x0, done
+    str wzr, [sp, #0x20]
+    add x3, sp, #0x20
+    mov w4, wzr
+    mov w5, #1
+    mov x6, xzr
+    bl 0x27B9FF0
+done:
+    ldp x0, x19, [sp, #0x10]
+    ldp x29, x30, [sp], #0x30
+orig:
+{original}
+    b code1+4
