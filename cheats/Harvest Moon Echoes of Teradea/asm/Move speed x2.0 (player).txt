@@ -1,0 +1,8 @@
+    ldrb w9, [x19, #0x2c]
+    cbz w9, plain
+    fmov s11, #2.0
+    fmul s11, s0, s11
+    b code1+4
+plain:
+{original}
+    b code1+4

@@ -1,0 +1,72 @@
+    // Clear field obstacles hook, at CropFieldController::ExternalUpdate (x0 = field, every frame).
+    // The key cheat writes 1 to [main+A8BE118]; the field the player stands in clears it and
+    // removes every weed, stone and stump: Weed(row, col, &result) on tiles whose obstacle has
+    // a model (the game's own weeding: gives the item, destroys the model), FurrowInfo::GoBackFurrow
+    // on the other tiles of a big obstacle.
+    adrp x16, 0xA8BE000
+    ldr w17, [x16, #0x118]
+    cbz w17, orig
+    ldrb w17, [x0, #0x50]
+    cbz w17, orig
+    ldr w17, [x0, #0x54]
+    cbz w17, orig
+    str wzr, [x16, #0x118]
+    stp x29, x30, [sp, #-0x70]!
+    mov x29, sp
+    stp x19, x20, [sp, #0x10]
+    stp x21, x22, [sp, #0x20]
+    stp x0, x1, [sp, #0x30]
+    str d0, [sp, #0x40]
+    mov x19, x0
+    mov w20, #0
+r_loop:
+    ldr w8, [x19, #0x54]
+    cmp w20, w8
+    b.ge done
+    mov w21, #0
+c_loop:
+    ldr w8, [x19, #0x58]
+    cmp w21, w8
+    b.ge r_next
+    madd w11, w8, w20, w21
+    ldr x9, [x19, #0x48]
+    cbz x9, done
+    ldr w10, [x9, #0x18]
+    cmp w11, w10
+    b.ge c_next
+    ldr x9, [x9, #0x10]
+    add x9, x9, #0x20
+    ldr x9, [x9, w11, uxtw #3]
+    cbz x9, c_next
+    ldr x22, [x9, #0x40]
+    cbz x22, c_next
+    ldr x10, [x22, #0x20]
+    cbz x10, c_next
+    ldr x10, [x9, #0x48]
+    cbz x10, part
+    mov x0, x19
+    mov w1, w20
+    mov w2, w21
+    add x3, sp, #0x50
+    stp xzr, xzr, [sp, #0x50]
+    bl 0x28E85C0
+    b c_next
+part:
+    mov x0, x22
+    mov x1, xzr
+    bl 0x2910D80
+c_next:
+    add w21, w21, #1
+    b c_loop
+r_next:
+    add w20, w20, #1
+    b r_loop
+done:
+    ldr d0, [sp, #0x40]
+    ldp x0, x1, [sp, #0x30]
+    ldp x21, x22, [sp, #0x20]
+    ldp x19, x20, [sp, #0x10]
+    ldp x29, x30, [sp], #0x70
+orig:
+{original}
+    b code1+4

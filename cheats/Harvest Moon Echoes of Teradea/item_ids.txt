@@ -1,0 +1,1218 @@
+# Harvest Moon Echoes of Teradea - item id (decimal / hex), category, kind, sell price, name
+  10000  02710  cat=15  kind=0    sell=130    Asparagus
+  10001  02711  cat=15  kind=0    sell=170    White Asparagus
+  10002  02712  cat=15  kind=0    sell=170    Purple Asparagus
+  10003  02713  cat=15  kind=0    sell=320    Phalanx
+  10004  02714  cat=15  kind=0    sell=370    Lava Asparagus
+  10005  02715  cat=15  kind=0    sell=320    Macedonia
+  10006  02716  cat=15  kind=0    sell=320    Water Asparagus
+  10007  02717  cat=15  kind=0    sell=270    Sparta
+  10008  02718  cat=15  kind=0    sell=150    Broccoli
+  10009  02719  cat=15  kind=0    sell=180    Broccolini
+  10010  0271A  cat=15  kind=0    sell=190    Cauliflower
+  10011  0271B  cat=15  kind=0    sell=230    Romanesco
+  10012  0271C  cat=15  kind=0    sell=240    Yggdrasil
+  10013  0271D  cat=15  kind=0    sell=230    Blue Broccoli
+  10014  0271E  cat=15  kind=0    sell=190    Evergreen
+  10015  0271F  cat=15  kind=0    sell=230    Dryad
+  10016  02720  cat=15  kind=0    sell=80     Cabbage
+  10017  02721  cat=15  kind=0    sell=120    Red Cabbage
+  10018  02722  cat=15  kind=0    sell=120    Pepper Cabbage
+  10019  02723  cat=15  kind=0    sell=290    Dome Cabbage
+  10020  02724  cat=15  kind=0    sell=390    Lava Cabbage
+  10021  02725  cat=15  kind=0    sell=340    Pointy Cabbage
+  10022  02726  cat=15  kind=0    sell=340    Whitesphere Cabbage
+  10023  02727  cat=15  kind=0    sell=340    Fireball Cabbage
+  10024  02728  cat=15  kind=0    sell=80     Celery
+  10025  02729  cat=15  kind=0    sell=300    Mystic Herb
+  10026  0272A  cat=15  kind=0    sell=120    White Celery
+  10027  0272B  cat=15  kind=0    sell=250    Royal Herb
+  10028  0272C  cat=15  kind=0    sell=300    Icy Celery
+  10029  0272D  cat=15  kind=0    sell=120    Spicy Celery
+  10030  0272E  cat=15  kind=0    sell=300    Blue Herb
+  10031  0272F  cat=15  kind=0    sell=350    Desert Herb
+  10032  02730  cat=15  kind=0    sell=160    Corn
+  10033  02731  cat=15  kind=0    sell=120    Fodder Corn
+  10034  02732  cat=15  kind=0    sell=160    Sweet Corn
+  10035  02733  cat=15  kind=0    sell=230    Sunset Corn
+  10036  02734  cat=15  kind=0    sell=230    Glass Gem Corn
+  10037  02735  cat=15  kind=0    sell=280    Desert Corn
+  10038  02736  cat=15  kind=0    sell=230    Crystal Corn
+  10039  02737  cat=15  kind=0    sell=180    Goldsilver Corn
+  10040  02738  cat=15  kind=0    sell=30     Carrot
+  10041  02739  cat=15  kind=0    sell=80     Baby Carrot
+  10042  0273A  cat=15  kind=0    sell=70     Black Carrot
+  10043  0273B  cat=15  kind=0    sell=130    White Carrot
+  10044  0273C  cat=15  kind=0    sell=130    Mandrake
+  10045  0273D  cat=15  kind=0    sell=70     Snow Carrot
+  10046  0273E  cat=15  kind=0    sell=130    Aqua Carrot
+  10047  0273F  cat=15  kind=0    sell=120    Alraune
+  10048  02740  cat=15  kind=0    sell=90     Eggplant
+  10049  02741  cat=15  kind=0    sell=130    Globe Eggplant
+  10050  02742  cat=15  kind=0    sell=130    Striped Eggplant
+  10051  02743  cat=15  kind=0    sell=130    White Eggplant
+  10052  02744  cat=15  kind=0    sell=180    Lightbulb Eggplant
+  10053  02745  cat=15  kind=0    sell=180    Rock Eggplant
+  10054  02746  cat=15  kind=0    sell=180    Water Eggplant
+  10055  02747  cat=15  kind=0    sell=230    Flame Eggplant
+  10056  02748  cat=15  kind=0    sell=50     Green Bell Pepper
+  10057  02749  cat=15  kind=0    sell=90     Red Bell Pepper
+  10058  0274A  cat=15  kind=0    sell=160    Yellow Bell Pepper
+  10059  0274B  cat=15  kind=0    sell=210    Magic Bell Pepper
+  10060  0274C  cat=15  kind=0    sell=260    Golden Bell Pepper
+  10061  0274D  cat=15  kind=0    sell=210    Bitter Bell Pepper
+  10062  0274E  cat=15  kind=0    sell=210    White Bell Pepper
+  10063  0274F  cat=15  kind=0    sell=90     Snow Bell Pepper
+  10064  02750  cat=15  kind=0    sell=170    Lettuce
+  10065  02751  cat=15  kind=0    sell=210    Endive
+  10066  02752  cat=15  kind=0    sell=210    Romaine Lettuce
+  10067  02753  cat=15  kind=0    sell=250    Ice Lettuce
+  10068  02754  cat=15  kind=0    sell=210    Lava Lettuce
+  10069  02755  cat=15  kind=0    sell=210    Red Leaf Lettuce
+  10070  02756  cat=15  kind=0    sell=300    Desert Lettuce
+  10071  02757  cat=15  kind=0    sell=250    Blue Lettuce
+  10072  02758  cat=15  kind=0    sell=30     Onion
+  10073  02759  cat=15  kind=0    sell=80     Red Onion
+  10074  0275A  cat=15  kind=0    sell=130    Leek
+  10075  0275B  cat=15  kind=0    sell=80     Garlic
+  10076  0275C  cat=15  kind=0    sell=130    Salad Onion
+  10077  0275D  cat=15  kind=0    sell=120    Monster Onion
+  10078  0275E  cat=15  kind=0    sell=130    Colorful Teardrop
+  10079  0275F  cat=15  kind=0    sell=130    Jewel Onion
+  10080  02760  cat=15  kind=0    sell=100    Pumpkin
+  10081  02761  cat=15  kind=0    sell=110    Zucchini
+  10082  02762  cat=15  kind=0    sell=200    Squash
+  10083  02763  cat=15  kind=0    sell=170    Giant Squash
+  10084  02764  cat=15  kind=0    sell=210    Jack-o'-Lantern
+  10085  02765  cat=15  kind=0    sell=210    Cream Pumpkin
+  10086  02766  cat=15  kind=0    sell=210    Giant Water Squash
+  10087  02767  cat=15  kind=0    sell=260    Lava-o'-Lantern
+  10088  02768  cat=15  kind=0    sell=430    Pineapple
+  10089  02769  cat=15  kind=0    sell=470    Peach Pineapple
+  10090  0276A  cat=15  kind=0    sell=610    Gold Barrel Pineapple
+  10091  0276B  cat=15  kind=0    sell=610    Dragon Pineapple
+  10092  0276C  cat=15  kind=0    sell=470    Crystal Pineapple
+  10093  0276D  cat=15  kind=0    sell=560    Energy Pineapple
+  10094  0276E  cat=15  kind=0    sell=610    Water Dragon Pineapple
+  10095  0276F  cat=15  kind=0    sell=660    Desert Dragon Pineapple
+  10096  02770  cat=15  kind=0    sell=70     Potato
+  10097  02771  cat=15  kind=0    sell=140    Black Potato
+  10098  02772  cat=15  kind=0    sell=90     Sweet Potato
+  10099  02773  cat=15  kind=0    sell=120    Shadow Queen Potato
+  10100  02774  cat=15  kind=0    sell=120    Gold Potato
+  10101  02775  cat=15  kind=0    sell=140    Long Sweet Potato
+  10102  02776  cat=15  kind=0    sell=120    Ice Potato
+  10103  02777  cat=15  kind=0    sell=170    Siegfried
+  10104  02778  cat=15  kind=0    sell=170    Strawberry
+  10105  02779  cat=15  kind=0    sell=210    White Berry
+  10106  0277A  cat=15  kind=0    sell=260    Angel Lantern
+  10107  0277B  cat=15  kind=0    sell=210    Magical Berry
+  10108  0277C  cat=15  kind=0    sell=260    Princess's Eye
+  10109  0277D  cat=15  kind=0    sell=210    Aqua Strawberry
+  10110  0277E  cat=15  kind=0    sell=300    Burning Lantern
+  10111  0277F  cat=15  kind=0    sell=300    Snow Lantern
+  10112  02780  cat=15  kind=0    sell=50     Soybean
+  10113  02781  cat=15  kind=0    sell=60     Green Pea
+  10114  02782  cat=15  kind=0    sell=100    Chickpea
+  10115  02783  cat=15  kind=0    sell=90     Lentil
+  10116  02784  cat=15  kind=0    sell=140    Diamond Pea
+  10117  02785  cat=15  kind=0    sell=90     White Soybean
+  10118  02786  cat=15  kind=0    sell=150    Blue Soybean
+  10119  02787  cat=15  kind=0    sell=140    Lava Chickpea
+  10120  02788  cat=15  kind=0    sell=80     Spinach
+  10121  02789  cat=15  kind=0    sell=70     Watercress
+  10122  0278A  cat=15  kind=0    sell=130    Savoy Spinach
+  10123  0278B  cat=15  kind=0    sell=120    Kale
+  10124  0278C  cat=15  kind=0    sell=170    Sand Kale
+  10125  0278D  cat=15  kind=0    sell=130    Lilac Spinach
+  10126  0278E  cat=15  kind=0    sell=220    Flametongue
+  10127  0278F  cat=15  kind=0    sell=130    Pink Spinach
+  10128  02790  cat=15  kind=0    sell=30     Tomato
+  10129  02791  cat=15  kind=0    sell=100    San Marzano
+  10130  02792  cat=15  kind=0    sell=100    Ice Tomato
+  10131  02793  cat=15  kind=0    sell=50     Killer Tomato
+  10132  02794  cat=15  kind=0    sell=80     Sun Tomato
+  10133  02795  cat=15  kind=0    sell=50     Crimson
+  10134  02796  cat=15  kind=0    sell=150    King Crimson
+  10135  02797  cat=15  kind=0    sell=150    Giant Killer Tomato
+  10136  02798  cat=15  kind=0    sell=20     Turnip
+  10137  02799  cat=15  kind=0    sell=50     Beet
+  10138  0279A  cat=15  kind=0    sell=90     Water Beet
+  10139  0279B  cat=15  kind=0    sell=110    Heart of the Earth
+  10140  0279C  cat=15  kind=0    sell=140    Maiden's Heart
+  10141  0279D  cat=15  kind=0    sell=50     Radish
+  10142  0279E  cat=15  kind=0    sell=90     Snow Beet
+  10143  0279F  cat=15  kind=0    sell=150    Giant's Heart
+  10144  027A0  cat=15  kind=0    sell=30     Wheat
+  10145  027A1  cat=15  kind=0    sell=70     Barley
+  10146  027A2  cat=15  kind=0    sell=50     Rye
+  10147  027A3  cat=15  kind=0    sell=110    Rice
+  10148  027A4  cat=15  kind=0    sell=210    Ancient Rice
+  10149  027A5  cat=15  kind=0    sell=80     Snow Wheat
+  10150  027A6  cat=15  kind=0    sell=130    Ancient Wheat
+  10151  027A7  cat=15  kind=0    sell=80     Sun-kissed Wheat
+  10152  027A8  cat=15  kind=0    sell=230    Watermelon
+  10153  027A9  cat=15  kind=0    sell=270    Mellow Yellow
+  10154  027AA  cat=15  kind=0    sell=370    Cannonball
+  10155  027AB  cat=15  kind=0    sell=410    Kegling
+  10156  027AC  cat=15  kind=0    sell=410    Snowman
+  10157  027AD  cat=15  kind=0    sell=410    Blue Melon
+  10158  027AE  cat=15  kind=0    sell=270    Glitterball
+  10159  027AF  cat=15  kind=0    sell=460    Lavaman
+  10160  027B0  cat=15  kind=0    sell=30     Tea Leaves
+  10161  027B1  cat=15  kind=0    sell=80     Qingxin Oolong
+  10162  027B2  cat=15  kind=0    sell=80     Kolkhida
+  10163  027B3  cat=15  kind=0    sell=80     Yabukita
+  10200  027D8  cat=24  kind=0    sell=80     Daisy
+  10201  027D9  cat=24  kind=0    sell=50     Pink Daisy
+  10202  027DA  cat=24  kind=0    sell=50     Orange Daisy
+  10203  027DB  cat=24  kind=0    sell=50     White Daisy
+  10204  027DC  cat=24  kind=0    sell=120    Ice Daisy
+  10205  027DD  cat=24  kind=0    sell=170    Rock Daisy
+  10206  027DE  cat=24  kind=0    sell=120    Aqua Daisy
+  10207  027DF  cat=24  kind=0    sell=170    Lava Daisy
+  10208  027E0  cat=24  kind=0    sell=230    Goldband Lily
+  10209  027E1  cat=24  kind=0    sell=130    Edelweiss
+  10210  027E2  cat=24  kind=0    sell=120    Incan Lily
+  10211  027E3  cat=24  kind=0    sell=270    Stargazer
+  10212  027E4  cat=24  kind=0    sell=270    Blackmore
+  10213  027E5  cat=24  kind=0    sell=270    Water Lily
+  10214  027E6  cat=24  kind=0    sell=340    Edelblau
+  10215  027E7  cat=24  kind=0    sell=320    Fire Lily
+  10216  027E8  cat=24  kind=0    sell=80     Hibiscus
+  10217  027E9  cat=24  kind=0    sell=160    Hollyhock
+  10218  027EA  cat=24  kind=0    sell=120    Striped Hibiscus
+  10219  027EB  cat=24  kind=0    sell=160    Cotton Rosemallow
+  10220  027EC  cat=24  kind=0    sell=160    Violet Hibiscus
+  10221  027ED  cat=24  kind=0    sell=210    Desert Hibiscus
+  10222  027EE  cat=24  kind=0    sell=210    Blue Hibiscus
+  10223  027EF  cat=24  kind=0    sell=210    Lava Hibiscus
+  10224  027F0  cat=24  kind=0    sell=240    Lotus
+  10225  027F1  cat=24  kind=0    sell=280    Water Lotus
+  10226  027F2  cat=24  kind=0    sell=280    Lullaby
+  10227  027F3  cat=24  kind=0    sell=310    Nirvana
+  10228  027F4  cat=24  kind=0    sell=310    Samsara
+  10229  027F5  cat=24  kind=0    sell=270    Mountain Lotus
+  10230  027F6  cat=24  kind=0    sell=280    Snow Queen
+  10231  027F7  cat=24  kind=0    sell=310    Lava Lotus
+  10232  027F8  cat=24  kind=0    sell=80     Marguerite
+  10233  027F9  cat=24  kind=0    sell=120    Yellow Marguerite
+  10234  027FA  cat=24  kind=0    sell=120    Pink Marguerite
+  10235  027FB  cat=24  kind=0    sell=120    Purple Marguerite
+  10236  027FC  cat=24  kind=0    sell=120    Chamomile
+  10237  027FD  cat=24  kind=0    sell=160    Giant Marguerite
+  10238  027FE  cat=24  kind=0    sell=120    Blue Marguerite
+  10239  027FF  cat=24  kind=0    sell=160    Aqua Chamomile
+  10240  02800  cat=24  kind=0    sell=120    Strawberry Pansy
+  10241  02801  cat=24  kind=0    sell=190    Violet Pansy
+  10242  02802  cat=24  kind=0    sell=230    Orange Pansy
+  10243  02803  cat=24  kind=0    sell=250    Viola
+  10244  02804  cat=24  kind=0    sell=350    Blue Valentine
+  10245  02805  cat=24  kind=0    sell=160    Sunlight Pansy
+  10246  02806  cat=24  kind=0    sell=160    Snow White Pansy
+  10247  02807  cat=24  kind=0    sell=230    Aquature
+  10248  02808  cat=24  kind=0    sell=290    Queen of the Night
+  10249  02809  cat=24  kind=0    sell=330    Flowing Clouds
+  10250  0280A  cat=24  kind=0    sell=330    Clear Water
+  10251  0280B  cat=24  kind=0    sell=330    Snow Moon
+  10252  0280C  cat=24  kind=0    sell=330    Mortal Enemy
+  10253  0280D  cat=24  kind=0    sell=290    Orchid Cactus
+  10254  0280E  cat=24  kind=0    sell=330    Epiphyllum
+  10255  0280F  cat=24  kind=0    sell=330    Pink Orchid Cactus
+  10256  02810  cat=24  kind=0    sell=280    Red Rose
+  10257  02811  cat=24  kind=0    sell=330    Pink Rose
+  10258  02812  cat=24  kind=0    sell=330    Blue Rose
+  10259  02813  cat=24  kind=0    sell=330    White Rose
+  10260  02814  cat=24  kind=0    sell=380    Moon River
+  10261  02815  cat=24  kind=0    sell=330    Solar Ray
+  10262  02816  cat=24  kind=0    sell=330    King of Roses
+  10263  02817  cat=24  kind=0    sell=290    Desert Rose
+  10264  02818  cat=24  kind=0    sell=150    Sunflower
+  10265  02819  cat=24  kind=0    sell=190    Moulin Rouge
+  10266  0281A  cat=24  kind=0    sell=190    White Night
+  10267  0281B  cat=24  kind=0    sell=240    Rising Sun
+  10268  0281C  cat=24  kind=0    sell=240    Eclipse
+  10269  0281D  cat=24  kind=0    sell=190    Lemon Aura
+  10270  0281E  cat=24  kind=0    sell=240    Incredible Sunflower
+  10271  0281F  cat=24  kind=0    sell=200    Sunset Beach
+  10272  02820  cat=24  kind=0    sell=80     Tulip
+  10273  02821  cat=24  kind=0    sell=80     Yellow Tulip
+  10274  02822  cat=24  kind=0    sell=80     White Tulip
+  10275  02823  cat=24  kind=0    sell=120    Angel's Trumpet
+  10276  02824  cat=24  kind=0    sell=120    Ice Trumpet
+  10277  02825  cat=24  kind=0    sell=120    Champagne Flute
+  10278  02826  cat=24  kind=0    sell=170    Holy Grail
+  10279  02827  cat=24  kind=0    sell=120    Devil's Trumpet
+  19999  04E1F  cat=28  kind=0    sell=1      Grass
+  30000  07530  cat=11  kind=0    sell=1780   Vase (Pink)
+  30001  07531  cat=11  kind=0    sell=1780   Vase (Blue)
+  30002  07532  cat=11  kind=0    sell=2080   Vase (Orange)
+  30003  07533  cat=11  kind=0    sell=1330   Vase (White)
+  30004  07534  cat=11  kind=0    sell=1260   Vase (Yellow)
+  30010  0753A  cat=11  kind=0    sell=760    Potted Daisy
+  30011  0753B  cat=11  kind=0    sell=580    Potted Pink Daisy
+  30012  0753C  cat=11  kind=0    sell=580    Potted Orange Daisy
+  30013  0753D  cat=11  kind=0    sell=580    Potted White Daisy
+  30014  0753E  cat=11  kind=0    sell=520    Potted Ice Daisy
+  30015  0753F  cat=11  kind=0    sell=760    Potted Rock Daisy
+  30016  07540  cat=11  kind=0    sell=520    Potted Aqua Daisy
+  30017  07541  cat=11  kind=0    sell=760    Potted Lava Daisy
+  30020  07544  cat=11  kind=0    sell=970    Potted Marguerite
+  30021  07545  cat=11  kind=0    sell=1270   Potted Yellow Marguerite
+  30022  07546  cat=11  kind=0    sell=670    Potted Pink Marguerite
+  30023  07547  cat=11  kind=0    sell=670    Potted Purple Marguerite
+  30024  07548  cat=11  kind=0    sell=1270   Potted Chamomile
+  30025  07549  cat=11  kind=0    sell=970    Potted Giant Marguerite
+  30026  0754A  cat=11  kind=0    sell=670    Potted Blue Marguerite
+  30027  0754B  cat=11  kind=0    sell=970    Potted Aqua Chamomile
+  30030  0754E  cat=11  kind=0    sell=1210   Potted Strawberry Pansy
+  30031  0754F  cat=11  kind=0    sell=1740   Potted Violet Pansy
+  30032  07550  cat=11  kind=0    sell=1440   Potted Orange Pansy
+  30033  07551  cat=11  kind=0    sell=2260   Potted Viola
+  30034  07552  cat=11  kind=0    sell=2260   Potted Blue Valentine
+  30035  07553  cat=11  kind=0    sell=910    Potted Sunlight Pansy
+  30036  07554  cat=11  kind=0    sell=910    Potted Snow White Pansy
+  30037  07555  cat=11  kind=0    sell=1440   Potted Aquature
+  30038  07556  cat=11  kind=0    sell=550    Potted Hibiscus
+  30039  07557  cat=11  kind=0    sell=20     Flowerpot
+  30040  07558  cat=11  kind=0    sell=90     White Planter
+  30041  07559  cat=11  kind=0    sell=90     Wooden Planter
+  30042  0755A  cat=11  kind=0    sell=40     Houseplant 1
+  30043  0755B  cat=11  kind=0    sell=40     Houseplant 2
+  30044  0755C  cat=11  kind=0    sell=40     Houseplant 3
+  30045  0755D  cat=11  kind=0    sell=390    Houseplant 4
+  30100  07594  cat=11  kind=0    sell=1000   Sunset Photo
+  30101  07595  cat=11  kind=0    sell=1000   Morning Sky Photo
+  30102  07596  cat=11  kind=0    sell=1000   Night Sky Photo
+  30103  07597  cat=11  kind=0    sell=1000   Cove Photo
+  30104  07598  cat=11  kind=0    sell=1000   Cherry Blossom Photo
+  30105  07599  cat=11  kind=0    sell=1000   Waterfall Photo
+  30106  0759A  cat=11  kind=0    sell=1000   Lake Photo
+  30107  0759B  cat=11  kind=0    sell=1000   Snowy Mountain Photo
+  30108  0759C  cat=11  kind=0    sell=1000   Ocean Photo
+  30109  0759D  cat=11  kind=0    sell=1000   Palm Tree Photo
+  30110  0759E  cat=11  kind=0    sell=1000   Fall Leaves Photo
+  30111  0759F  cat=11  kind=0    sell=1000   Desert Photo
+  30112  075A0  cat=11  kind=0    sell=1000   Oasis Photo
+  30113  075A1  cat=11  kind=0    sell=1000   Wilderness Photo
+  30200  075F8  cat=11  kind=0    sell=15060  Backpack
+  30201  075F9  cat=11  kind=0    sell=440    Toolbox
+  30202  075FA  cat=11  kind=0    sell=110    Hammer
+  30203  075FB  cat=11  kind=0    sell=690    Blueprint
+  30204  075FC  cat=11  kind=0    sell=190    Wooden Box
+  30205  075FD  cat=11  kind=0    sell=300    Wooden Box (Green)
+  30206  075FE  cat=11  kind=0    sell=1570   Wooden Box (Light Blue)
+  30207  075FF  cat=11  kind=0    sell=1630   Wooden Box (Orange)
+  30208  07600  cat=11  kind=0    sell=230    Barrel
+  30209  07601  cat=11  kind=0    sell=260    Anvil
+  30210  07602  cat=11  kind=0    sell=110    Wooden Bucket
+  30211  07603  cat=11  kind=0    sell=90     Metal Bucket
+  30212  07604  cat=11  kind=0    sell=5030   Tricolor Swim Ring
+  30213  07605  cat=11  kind=0    sell=4440   Simple Swim Ring
+  30214  07606  cat=11  kind=0    sell=4400   Colorful Swim Ring
+  30215  07607  cat=11  kind=0    sell=250    Buoy (Green)
+  30216  07608  cat=11  kind=0    sell=270    Buoy (Light Blue)
+  30217  07609  cat=11  kind=0    sell=310    Buoy (Yellow)
+  30218  0760A  cat=11  kind=0    sell=260    Palette and Paintbrush
+  30219  0760B  cat=11  kind=0    sell=560    Lyre
+  30220  0760C  cat=11  kind=0    sell=150    Bow
+  30221  0760D  cat=11  kind=0    sell=420    Tuning Fork
+  30222  0760E  cat=11  kind=0    sell=840    Trash Can (White)
+  30223  0760F  cat=11  kind=0    sell=1110   Trash Can (Navy Blue)
+  30224  07610  cat=11  kind=0    sell=790    Trash Can (Red)
+  30225  07611  cat=11  kind=0    sell=450    Quill Pen
+  30226  07612  cat=11  kind=0    sell=3050   Ore
+  30227  07613  cat=11  kind=0    sell=3090   Coal
+  30228  07614  cat=11  kind=0    sell=210    Wooden Box and Small Box
+  30229  07615  cat=11  kind=0    sell=770    Wheel
+  30230  07616  cat=11  kind=0    sell=70     Storage Box
+  30231  07617  cat=11  kind=0    sell=100    Ore Box
+  30232  07618  cat=11  kind=0    sell=130    Coal Box
+  30233  07619  cat=11  kind=0    sell=230    Handwritten Sign 1
+  30234  0761A  cat=11  kind=0    sell=230    Handwritten Sign 2
+  30235  0761B  cat=11  kind=0    sell=520    Crafting Shop Sign
+  30236  0761C  cat=11  kind=0    sell=520    General Store Sign
+  30237  0761D  cat=11  kind=0    sell=520    Restaurant Sign
+  30238  0761E  cat=11  kind=0    sell=690    Product Display Sign
+  30239  0761F  cat=11  kind=0    sell=690    Document
+  30240  07620  cat=11  kind=0    sell=700    Newspaper
+  30241  07621  cat=11  kind=0    sell=10500  Newspaper Stack
+  30242  07622  cat=11  kind=0    sell=2610   Cash Register
+  30243  07623  cat=11  kind=0    sell=110    Black Decorative Plate
+  30244  07624  cat=11  kind=0    sell=250    Green Decorative Plate
+  30245  07625  cat=11  kind=0    sell=560    Yellow Decorative Plate
+  30246  07626  cat=11  kind=0    sell=630    Red Decorative Plate
+  30247  07627  cat=11  kind=0    sell=140    Simple Decorative Plate
+  30248  07628  cat=11  kind=0    sell=1380   Blue Decorative Plate
+  30249  07629  cat=11  kind=0    sell=4080   Cool Decorative Plate
+  30250  0762A  cat=11  kind=0    sell=1310   Ornate Decorative Plate
+  30251  0762B  cat=11  kind=0    sell=1110   Rustic Decorative Plate
+  30252  0762C  cat=11  kind=0    sell=3140   Square Decorative Plate
+  30253  0762D  cat=11  kind=0    sell=80     Black Bowl
+  30254  0762E  cat=11  kind=0    sell=260    Green Bowl
+  30255  0762F  cat=11  kind=0    sell=570    Yellow Bowl
+  30256  07630  cat=11  kind=0    sell=690    Laundry Basket
+  30257  07631  cat=11  kind=0    sell=90     Basket
+  30258  07632  cat=11  kind=0    sell=90     Creel
+  30259  07633  cat=11  kind=0    sell=90     Strainer
+  30260  07634  cat=11  kind=0    sell=90     Net
+  30261  07635  cat=11  kind=0    sell=140    Trapping Basket
+  30262  07636  cat=11  kind=0    sell=1220   White Trapping Basket
+  30263  07637  cat=11  kind=0    sell=1850   Sand
+  30264  07638  cat=11  kind=0    sell=20     Simple Pot
+  30265  07639  cat=11  kind=0    sell=40     Flat Pot
+  30266  0763A  cat=11  kind=0    sell=90     Fancy Pot
+  30267  0763B  cat=11  kind=0    sell=3070   Pink Dyeing Pot
+  30268  0763C  cat=11  kind=0    sell=3070   Orange Dyeing Pot
+  30269  0763D  cat=11  kind=0    sell=220    Blue Dyeing Pot
+  30270  0763E  cat=11  kind=0    sell=890    Pink Dye
+  30271  0763F  cat=11  kind=0    sell=890    Orange Dye
+  30272  07640  cat=11  kind=0    sell=70     Blue Dye
+  30273  07641  cat=11  kind=0    sell=170    Shovel
+  30274  07642  cat=11  kind=0    sell=480    Bus Stop
+  30275  07643  cat=11  kind=0    sell=230    Lantern
+  30276  07644  cat=11  kind=0    sell=58950  Clock
+  30277  07645  cat=11  kind=0    sell=13230  Large Floral Decoration
+  30278  07646  cat=11  kind=0    sell=6930   Small Floral Decoration
+  30279  07647  cat=11  kind=0    sell=410    Cow Bronze Sculpture
+  30280  07648  cat=11  kind=0    sell=410    Horse Bronze Sculpture
+  30281  07649  cat=11  kind=0    sell=410    Reindeer Bronze Sculpture
+  30282  0764A  cat=11  kind=0    sell=410    Fish Bronze Sculpture
+  30283  0764B  cat=11  kind=0    sell=8330   Cow Snow Sculpture
+  30284  0764C  cat=11  kind=0    sell=8330   Horse Snow Sculpture
+  30285  0764D  cat=11  kind=0    sell=8330   Reindeer Snow Sculpture
+  30286  0764E  cat=11  kind=0    sell=8330   Sasquatch Snow Sculpture
+  30287  0764F  cat=11  kind=0    sell=9240   Snowman
+  30288  07650  cat=11  kind=0    sell=10800  Tournament Flag 1
+  30289  07651  cat=11  kind=0    sell=10800  Tournament Flag 2
+  30290  07652  cat=11  kind=0    sell=10800  Tournament Flag 3
+  30291  07653  cat=11  kind=0    sell=10650  Tournament Flag 4
+  30292  07654  cat=11  kind=0    sell=10800  Festival Flag 1
+  30293  07655  cat=11  kind=0    sell=10050  Festival Flag 2
+  30294  07656  cat=11  kind=0    sell=10120  Festival Flag 3
+  30295  07657  cat=11  kind=0    sell=10800  Festival Flag 4
+  30300  0765C  cat=11  kind=0    sell=0      Gorgan's Gift
+  50000  0C350  cat=1   kind=1000 sell=3      Asparagus Seeds
+  50001  0C351  cat=1   kind=1001 sell=3      White Asparagus Seeds
+  50002  0C352  cat=1   kind=1002 sell=3      Purple Asparagus Seeds
+  50003  0C353  cat=1   kind=1003 sell=3      Phalanx Seeds
+  50004  0C354  cat=1   kind=1004 sell=3      Lava Asparagus Seeds
+  50005  0C355  cat=1   kind=1005 sell=3      Macedonia Seeds
+  50006  0C356  cat=1   kind=1006 sell=3      Water Asparagus Seeds
+  50007  0C357  cat=1   kind=1007 sell=3      Sparta Seeds
+  50008  0C358  cat=1   kind=1008 sell=3      Broccoli Seeds
+  50009  0C359  cat=1   kind=1009 sell=3      Broccolini Seeds
+  50010  0C35A  cat=1   kind=1010 sell=3      Cauliflower Seeds
+  50011  0C35B  cat=1   kind=1011 sell=3      Romanesco Seeds
+  50012  0C35C  cat=1   kind=1012 sell=3      Yggdrasil Seeds
+  50013  0C35D  cat=1   kind=1013 sell=3      Blue Broccoli Seeds
+  50014  0C35E  cat=1   kind=1014 sell=3      Evergreen Seeds
+  50015  0C35F  cat=1   kind=1015 sell=3      Dryad Seeds
+  50016  0C360  cat=1   kind=1016 sell=3      Cabbage Seeds
+  50017  0C361  cat=1   kind=1017 sell=3      Red Cabbage Seeds
+  50018  0C362  cat=1   kind=1018 sell=3      Pepper Cabbage Seeds
+  50019  0C363  cat=1   kind=1019 sell=3      Dome Cabbage Seeds
+  50020  0C364  cat=1   kind=1020 sell=3      Lava Cabbage Seeds
+  50021  0C365  cat=1   kind=1021 sell=3      Pointy Cabbage Seeds
+  50022  0C366  cat=1   kind=1022 sell=3      Whitesphere Cabbage Seeds
+  50023  0C367  cat=1   kind=1023 sell=3      Fireball Cabbage Seeds
+  50024  0C368  cat=1   kind=1024 sell=3      Celery Seeds
+  50025  0C369  cat=1   kind=1025 sell=3      Mystic Herb Seeds
+  50026  0C36A  cat=1   kind=1026 sell=3      White Celery Seeds
+  50027  0C36B  cat=1   kind=1027 sell=3      Royal Herb Seeds
+  50028  0C36C  cat=1   kind=1028 sell=3      Icy Celery Seeds
+  50029  0C36D  cat=1   kind=1029 sell=3      Spicy Celery Seeds
+  50030  0C36E  cat=1   kind=1030 sell=3      Blue Herb Seeds
+  50031  0C36F  cat=1   kind=1031 sell=3      Desert Herb Seeds
+  50032  0C370  cat=1   kind=1032 sell=3      Corn Seeds
+  50033  0C371  cat=1   kind=1033 sell=3      Fodder Corn Seeds
+  50034  0C372  cat=1   kind=1034 sell=3      Sweet Corn Seeds
+  50035  0C373  cat=1   kind=1035 sell=3      Sunset Corn Seeds
+  50036  0C374  cat=1   kind=1036 sell=3      Glass Gem Corn Seeds
+  50037  0C375  cat=1   kind=1037 sell=3      Desert Corn Seeds
+  50038  0C376  cat=1   kind=1038 sell=3      Crystal Corn Seeds
+  50039  0C377  cat=1   kind=1039 sell=3      Goldsilver Corn Seeds
+  50040  0C378  cat=1   kind=1040 sell=3      Carrot Seeds
+  50041  0C379  cat=1   kind=1041 sell=3      Baby Carrot Seeds
+  50042  0C37A  cat=1   kind=1042 sell=3      Black Carrot Seeds
+  50043  0C37B  cat=1   kind=1043 sell=3      White Carrot Seeds
+  50044  0C37C  cat=1   kind=1044 sell=3      Mandrake Seeds
+  50045  0C37D  cat=1   kind=1045 sell=3      Snow Carrot Seeds
+  50046  0C37E  cat=1   kind=1046 sell=3      Aqua Carrot Seeds
+  50047  0C37F  cat=1   kind=1047 sell=3      Alraune Seeds
+  50048  0C380  cat=1   kind=1048 sell=3      Eggplant Seeds
+  50049  0C381  cat=1   kind=1049 sell=3      Globe Eggplant Seeds
+  50050  0C382  cat=1   kind=1050 sell=3      Striped Eggplant Seeds
+  50051  0C383  cat=1   kind=1051 sell=3      White Eggplant Seeds
+  50052  0C384  cat=1   kind=1052 sell=3      Lightbulb Eggplant Seeds
+  50053  0C385  cat=1   kind=1053 sell=3      Rock Eggplant Seeds
+  50054  0C386  cat=1   kind=1054 sell=3      Water Eggplant Seeds
+  50055  0C387  cat=1   kind=1055 sell=3      Flame Eggplant Seeds
+  50056  0C388  cat=1   kind=1056 sell=3      Green Bell Pepper Seeds
+  50057  0C389  cat=1   kind=1057 sell=3      Red Bell Pepper Seeds
+  50058  0C38A  cat=1   kind=1058 sell=3      Yellow Bell Pepper Seeds
+  50059  0C38B  cat=1   kind=1059 sell=3      Magic Bell Pepper Seeds
+  50060  0C38C  cat=1   kind=1060 sell=3      Golden Bell Pepper Seeds
+  50061  0C38D  cat=1   kind=1061 sell=3      Bitter Bell Pepper Seeds
+  50062  0C38E  cat=1   kind=1062 sell=3      White Bell Pepper Seeds
+  50063  0C38F  cat=1   kind=1063 sell=3      Snow Bell Pepper Seeds
+  50064  0C390  cat=1   kind=1064 sell=3      Lettuce Seeds
+  50065  0C391  cat=1   kind=1065 sell=3      Endive Seeds
+  50066  0C392  cat=1   kind=1066 sell=3      Romaine Lettuce Seeds
+  50067  0C393  cat=1   kind=1067 sell=3      Ice Lettuce Seeds
+  50068  0C394  cat=1   kind=1068 sell=3      Lava Lettuce Seeds
+  50069  0C395  cat=1   kind=1069 sell=3      Red Leaf Lettuce Seeds
+  50070  0C396  cat=1   kind=1070 sell=3      Desert Lettuce Seeds
+  50071  0C397  cat=1   kind=1071 sell=3      Blue Lettuce Seeds
+  50072  0C398  cat=1   kind=1072 sell=3      Onion Seeds
+  50073  0C399  cat=1   kind=1073 sell=3      Red Onion Seeds
+  50074  0C39A  cat=1   kind=1074 sell=3      Leek Seeds
+  50075  0C39B  cat=1   kind=1075 sell=3      Garlic Seeds
+  50076  0C39C  cat=1   kind=1076 sell=3      Salad Onion Seeds
+  50077  0C39D  cat=1   kind=1077 sell=3      Monster Onion Seeds
+  50078  0C39E  cat=1   kind=1078 sell=3      Colorful Teardrop Seeds
+  50079  0C39F  cat=1   kind=1079 sell=3      Jewel Onion Seeds
+  50080  0C3A0  cat=1   kind=1080 sell=3      Pumpkin Seeds
+  50081  0C3A1  cat=1   kind=1081 sell=3      Zucchini Seeds
+  50082  0C3A2  cat=1   kind=1082 sell=3      Squash Seeds
+  50083  0C3A3  cat=1   kind=1083 sell=3      Giant Squash Seeds
+  50084  0C3A4  cat=1   kind=1084 sell=3      Jack-o'-Lantern Seeds
+  50085  0C3A5  cat=1   kind=1085 sell=3      Cream Pumpkin Seeds
+  50086  0C3A6  cat=1   kind=1086 sell=3      Giant Water Squash Seeds
+  50087  0C3A7  cat=1   kind=1087 sell=3      Lava-o'-Lantern Seeds
+  50088  0C3A8  cat=1   kind=1088 sell=3      Pineapple Seeds
+  50089  0C3A9  cat=1   kind=1089 sell=3      Peach Pineapple Seeds
+  50090  0C3AA  cat=1   kind=1090 sell=3      Gold Barrel Pineapple Seeds
+  50091  0C3AB  cat=1   kind=1091 sell=3      Dragon Pineapple Seeds
+  50092  0C3AC  cat=1   kind=1092 sell=3      Crystal Pineapple Seeds
+  50093  0C3AD  cat=1   kind=1093 sell=3      Energy Pineapple Seeds
+  50094  0C3AE  cat=1   kind=1094 sell=3      Water Dragon Pineapple Seeds
+  50095  0C3AF  cat=1   kind=1095 sell=3      Desert Dragon Pineapple Seeds
+  50096  0C3B0  cat=1   kind=1096 sell=3      Potato Seeds
+  50097  0C3B1  cat=1   kind=1097 sell=3      Black Potato Seeds
+  50098  0C3B2  cat=1   kind=1098 sell=3      Sweet Potato Seeds
+  50099  0C3B3  cat=1   kind=1099 sell=3      Shadow Queen Potato Seeds
+  50100  0C3B4  cat=1   kind=1100 sell=3      Gold Potato Seeds
+  50101  0C3B5  cat=1   kind=1101 sell=3      Long Sweet Potato Seeds
+  50102  0C3B6  cat=1   kind=1102 sell=3      Ice Potato Seeds
+  50103  0C3B7  cat=1   kind=1103 sell=3      Siegfried Seeds
+  50104  0C3B8  cat=1   kind=1104 sell=3      Strawberry Seeds
+  50105  0C3B9  cat=1   kind=1105 sell=3      White Berry Seeds
+  50106  0C3BA  cat=1   kind=1106 sell=3      Angel Lantern Seeds
+  50107  0C3BB  cat=1   kind=1107 sell=3      Magical Berry Seeds
+  50108  0C3BC  cat=1   kind=1108 sell=3      Princess's Eye Seeds
+  50109  0C3BD  cat=1   kind=1109 sell=3      Aqua Strawberry Seeds
+  50110  0C3BE  cat=1   kind=1110 sell=3      Burning Lantern Seeds
+  50111  0C3BF  cat=1   kind=1111 sell=3      Snow Lantern Seeds
+  50112  0C3C0  cat=1   kind=1112 sell=3      Soybean Seeds
+  50113  0C3C1  cat=1   kind=1113 sell=3      Green Pea Seeds
+  50114  0C3C2  cat=1   kind=1114 sell=3      Chickpea Seeds
+  50115  0C3C3  cat=1   kind=1115 sell=3      Lentil Seeds
+  50116  0C3C4  cat=1   kind=1116 sell=3      Diamond Pea Seeds
+  50117  0C3C5  cat=1   kind=1117 sell=3      White Soybean Seeds
+  50118  0C3C6  cat=1   kind=1118 sell=3      Blue Soybean Seeds
+  50119  0C3C7  cat=1   kind=1119 sell=3      Lava Chickpea Seeds
+  50120  0C3C8  cat=1   kind=1120 sell=3      Spinach Seeds
+  50121  0C3C9  cat=1   kind=1121 sell=3      Watercress Seeds
+  50122  0C3CA  cat=1   kind=1122 sell=3      Savoy Spinach Seeds
+  50123  0C3CB  cat=1   kind=1123 sell=3      Kale Seeds
+  50124  0C3CC  cat=1   kind=1124 sell=3      Sand Kale Seeds
+  50125  0C3CD  cat=1   kind=1125 sell=3      Lilac Spinach Seeds
+  50126  0C3CE  cat=1   kind=1126 sell=3      Flametongue Seeds
+  50127  0C3CF  cat=1   kind=1127 sell=3      Pink Spinach Seeds
+  50128  0C3D0  cat=1   kind=1128 sell=3      Tomato Seeds
+  50129  0C3D1  cat=1   kind=1129 sell=3      San Marzano Seeds
+  50130  0C3D2  cat=1   kind=1130 sell=3      Ice Tomato Seeds
+  50131  0C3D3  cat=1   kind=1131 sell=3      Killer Tomato Seeds
+  50132  0C3D4  cat=1   kind=1132 sell=3      Sun Tomato Seeds
+  50133  0C3D5  cat=1   kind=1133 sell=3      Crimson Seeds
+  50134  0C3D6  cat=1   kind=1134 sell=3      King Crimson Seeds
+  50135  0C3D7  cat=1   kind=1135 sell=3      Giant Killer Tomato Seeds
+  50136  0C3D8  cat=1   kind=1136 sell=3      Turnip Seeds
+  50137  0C3D9  cat=1   kind=1137 sell=3      Beet Seeds
+  50138  0C3DA  cat=1   kind=1138 sell=3      Water Beet Seeds
+  50139  0C3DB  cat=1   kind=1139 sell=3      Heart of the Earth Seeds
+  50140  0C3DC  cat=1   kind=1140 sell=3      Maiden's Heart Seeds
+  50141  0C3DD  cat=1   kind=1141 sell=3      Radish Seeds
+  50142  0C3DE  cat=1   kind=1142 sell=3      Snow Beet Seeds
+  50143  0C3DF  cat=1   kind=1143 sell=3      Giant's Heart Seeds
+  50144  0C3E0  cat=1   kind=1144 sell=3      Wheat Seeds
+  50145  0C3E1  cat=1   kind=1145 sell=3      Barley Seeds
+  50146  0C3E2  cat=1   kind=1146 sell=3      Rye Seeds
+  50147  0C3E3  cat=1   kind=1147 sell=3      Rice Seeds
+  50148  0C3E4  cat=1   kind=1148 sell=3      Ancient Rice Seeds
+  50149  0C3E5  cat=1   kind=1149 sell=3      Snow Wheat Seeds
+  50150  0C3E6  cat=1   kind=1150 sell=3      Ancient Wheat Seeds
+  50151  0C3E7  cat=1   kind=1151 sell=3      Sun-Kissed Wheat Seeds
+  50152  0C3E8  cat=1   kind=1152 sell=3      Watermelon Seeds
+  50153  0C3E9  cat=1   kind=1153 sell=3      Mellow Yellow Seeds
+  50154  0C3EA  cat=1   kind=1154 sell=3      Cannonball Seeds
+  50155  0C3EB  cat=1   kind=1155 sell=3      Kegling Seeds
+  50156  0C3EC  cat=1   kind=1156 sell=3      Snowman Seeds
+  50157  0C3ED  cat=1   kind=1157 sell=3      Blue Melon Seeds
+  50158  0C3EE  cat=1   kind=1158 sell=3      Glitterball Seeds
+  50159  0C3EF  cat=1   kind=1159 sell=3      Lavaman Seeds
+  50160  0C3F0  cat=1   kind=1160 sell=3      Tea Leaf Seeds
+  50161  0C3F1  cat=1   kind=1161 sell=3      Qingxin Oolong Seeds
+  50162  0C3F2  cat=1   kind=1162 sell=3      Kolkhida Seeds
+  50163  0C3F3  cat=1   kind=1163 sell=3      Yabukita Seeds
+  50200  0C418  cat=1   kind=2000 sell=3      Daisy Seeds
+  50201  0C419  cat=1   kind=2001 sell=3      Pink Daisy Seeds
+  50202  0C41A  cat=1   kind=2002 sell=3      Orange Daisy Seeds
+  50203  0C41B  cat=1   kind=2003 sell=3      White Daisy Seeds
+  50204  0C41C  cat=1   kind=2004 sell=3      Ice Daisy Seeds
+  50205  0C41D  cat=1   kind=2005 sell=3      Rock Daisy Seeds
+  50206  0C41E  cat=1   kind=2006 sell=3      Aqua Daisy Seeds
+  50207  0C41F  cat=1   kind=2007 sell=3      Lava Daisy Seeds
+  50208  0C420  cat=1   kind=2008 sell=3      Goldband Lily Seeds
+  50209  0C421  cat=1   kind=2009 sell=3      Edelweiss Seeds
+  50210  0C422  cat=1   kind=2010 sell=3      Incan Lily Seeds
+  50211  0C423  cat=1   kind=2011 sell=3      Stargazer Seeds
+  50212  0C424  cat=1   kind=2012 sell=3      Blackmore Seeds
+  50213  0C425  cat=1   kind=2013 sell=3      Water Lily Seeds
+  50214  0C426  cat=1   kind=2014 sell=3      Edelblau Seeds
+  50215  0C427  cat=1   kind=2015 sell=3      Fire Lily Seeds
+  50216  0C428  cat=1   kind=2016 sell=3      Hibiscus Seeds
+  50217  0C429  cat=1   kind=2017 sell=3      Hollyhock Seeds
+  50218  0C42A  cat=1   kind=2018 sell=3      Striped Hibiscus Seeds
+  50219  0C42B  cat=1   kind=2019 sell=3      Cotton Rosemallow Seeds
+  50220  0C42C  cat=1   kind=2020 sell=3      Violet Hibiscus Seeds
+  50221  0C42D  cat=1   kind=2021 sell=3      Desert Hibiscus Seeds
+  50222  0C42E  cat=1   kind=2022 sell=3      Blue Hibiscus Seeds
+  50223  0C42F  cat=1   kind=2023 sell=3      Lava Hibiscus Seeds
+  50224  0C430  cat=1   kind=2024 sell=3      Lotus Seeds
+  50225  0C431  cat=1   kind=2025 sell=3      Water Lotus Seeds
+  50226  0C432  cat=1   kind=2026 sell=3      Lullaby Seeds
+  50227  0C433  cat=1   kind=2027 sell=3      Nirvana Seeds
+  50228  0C434  cat=1   kind=2028 sell=3      Samsara Seeds
+  50229  0C435  cat=1   kind=2029 sell=3      Mountain Lotus Seeds
+  50230  0C436  cat=1   kind=2030 sell=3      Snow Queen Seeds
+  50231  0C437  cat=1   kind=2031 sell=3      Lava Lotus Seeds
+  50232  0C438  cat=1   kind=2032 sell=3      Marguerite Seeds
+  50233  0C439  cat=1   kind=2033 sell=3      Yellow Marguerite Seeds
+  50234  0C43A  cat=1   kind=2034 sell=3      Pink Marguerite Seeds
+  50235  0C43B  cat=1   kind=2035 sell=3      Purple Marguerite Seeds
+  50236  0C43C  cat=1   kind=2036 sell=3      Chamomile Seeds
+  50237  0C43D  cat=1   kind=2037 sell=3      Giant Marguerite Seeds
+  50238  0C43E  cat=1   kind=2038 sell=3      Blue Marguerite Seeds
+  50239  0C43F  cat=1   kind=2039 sell=3      Aqua Chamomile Seeds
+  50240  0C440  cat=1   kind=2040 sell=3      Strawberry Pansy Seeds
+  50241  0C441  cat=1   kind=2041 sell=3      Violet Pansy Seeds
+  50242  0C442  cat=1   kind=2042 sell=3      Orange Pansy Seeds
+  50243  0C443  cat=1   kind=2043 sell=3      Viola Seeds
+  50244  0C444  cat=1   kind=2044 sell=3      Blue Valentine Seeds
+  50245  0C445  cat=1   kind=2045 sell=3      Sunlight Pansy Seeds
+  50246  0C446  cat=1   kind=2046 sell=3      Snow White Pansy Seeds
+  50247  0C447  cat=1   kind=2047 sell=3      Aquature Seeds
+  50248  0C448  cat=1   kind=2048 sell=3      Queen of the Night Seeds
+  50249  0C449  cat=1   kind=2049 sell=3      Flowing Clouds Seeds
+  50250  0C44A  cat=1   kind=2050 sell=3      Clear Water Seeds
+  50251  0C44B  cat=1   kind=2051 sell=3      Snow Moon Seeds
+  50252  0C44C  cat=1   kind=2052 sell=3      Mortal Enemy Seeds
+  50253  0C44D  cat=1   kind=2053 sell=3      Orchid Cactus Seeds
+  50254  0C44E  cat=1   kind=2054 sell=3      Epiphyllum Seeds
+  50255  0C44F  cat=1   kind=2055 sell=3      Pink Orchid Cactus Seeds
+  50256  0C450  cat=1   kind=2056 sell=3      Red Rose Seeds
+  50257  0C451  cat=1   kind=2057 sell=3      Pink Rose Seeds
+  50258  0C452  cat=1   kind=2058 sell=3      Blue Rose Seeds
+  50259  0C453  cat=1   kind=2059 sell=3      White Rose Seeds
+  50260  0C454  cat=1   kind=2060 sell=3      Moon River Seeds
+  50261  0C455  cat=1   kind=2061 sell=3      Solar Ray Seeds
+  50262  0C456  cat=1   kind=2062 sell=3      King of Roses Seeds
+  50263  0C457  cat=1   kind=2063 sell=3      Desert Rose Seeds
+  50264  0C458  cat=1   kind=2064 sell=3      Sunflower Seeds
+  50265  0C459  cat=1   kind=2065 sell=3      Moulin Rouge Seeds
+  50266  0C45A  cat=1   kind=2066 sell=3      White Night Seeds
+  50267  0C45B  cat=1   kind=2067 sell=3      Rising Sun Seeds
+  50268  0C45C  cat=1   kind=2068 sell=3      Eclipse Seeds
+  50269  0C45D  cat=1   kind=2069 sell=3      Lemon Aura Seeds
+  50270  0C45E  cat=1   kind=2070 sell=3      Incredible Sunflower Seeds
+  50271  0C45F  cat=1   kind=2071 sell=3      Sunset Beach Seeds
+  50272  0C460  cat=1   kind=2072 sell=3      Tulip Seeds
+  50273  0C461  cat=1   kind=2073 sell=3      Yellow Tulip Seeds
+  50274  0C462  cat=1   kind=2074 sell=3      White Tulip Seeds
+  50275  0C463  cat=1   kind=2075 sell=3      Angel's Trumpet Seeds
+  50276  0C464  cat=1   kind=2076 sell=3      Ice Trumpet Seeds
+  50277  0C465  cat=1   kind=2077 sell=3      Champagne Flute Seeds
+  50278  0C466  cat=1   kind=2078 sell=3      Holy Grail Seeds
+  50279  0C467  cat=1   kind=2079 sell=3      Devil's Trumpet Seeds
+  59999  0EA5F  cat=1   kind=100  sell=1      Grass Seeds
+  60000  0EA60  cat=29  kind=0    sell=1      Manure
+  60001  0EA61  cat=5   kind=2    sell=3      Fertilizer Lv. 1
+  60002  0EA62  cat=5   kind=3    sell=3      Fertilizer Lv. 2
+  60003  0EA63  cat=5   kind=4    sell=3      Fertilizer Lv. 3
+  60004  0EA64  cat=5   kind=5    sell=3      Bloomfield Fertilizer
+  60005  0EA65  cat=5   kind=6    sell=3      Tidewind Fertilizer
+  60006  0EA66  cat=5   kind=8    sell=3      Quarrytop Fertilizer
+  60007  0EA67  cat=5   kind=7    sell=3      Maplehill Fertilizer
+  60008  0EA68  cat=5   kind=9    sell=3      Lava Fertilizer
+  60009  0EA69  cat=5   kind=10   sell=3      Desert Fertilizer
+  60010  0EA6A  cat=5   kind=11   sell=3      Harvest Goddess Fertilizer
+  60011  0EA6B  cat=6   kind=1    sell=3      Compost Lv. 1
+  60012  0EA6C  cat=6   kind=2    sell=3      Compost Lv. 2
+  60013  0EA6D  cat=6   kind=3    sell=3      Compost Lv. 3
+  70000  11170  cat=31  kind=6    sell=0      Handmade Watering Can
+  70001  11171  cat=31  kind=7    sell=0      Expert Watering Can
+  70002  11172  cat=31  kind=8    sell=0      Master Watering Can
+  70003  11173  cat=31  kind=9    sell=0      Legendary Watering Can
+  70004  11174  cat=31  kind=10   sell=0      Harvest Goddess Watering Can
+  70005  11175  cat=32  kind=1    sell=0      Handmade Hoe
+  70006  11176  cat=32  kind=2    sell=0      Expert Hoe
+  70007  11177  cat=32  kind=3    sell=0      Master Hoe
+  70008  11178  cat=32  kind=4    sell=0      Legendary Hoe
+  70009  11179  cat=32  kind=5    sell=0      Harvest Goddess Hoe
+  70015  1117F  cat=34  kind=21   sell=0      Old Axe
+  70016  11180  cat=34  kind=22   sell=0      Expert Axe
+  70017  11181  cat=34  kind=23   sell=0      Master Axe
+  70018  11182  cat=34  kind=24   sell=0      Legendary Axe
+  70019  11183  cat=34  kind=25   sell=0      Harvest Goddess Axe
+  70020  11184  cat=35  kind=33   sell=0      Brush
+  70021  11185  cat=35  kind=34   sell=0      High-Quality Brush
+  70022  11186  cat=36  kind=35   sell=0      Milker
+  70023  11187  cat=36  kind=36   sell=0      High-Quality Milker
+  70024  11188  cat=37  kind=37   sell=0      Clippers
+  70025  11189  cat=37  kind=38   sell=0      High-Quality Clippers
+  70026  1118A  cat=38  kind=31   sell=0      Pitchfork
+  70027  1118B  cat=38  kind=32   sell=0      High-Quality Pitchfork
+  70028  1118C  cat=40  kind=26   sell=0      Old Sickle
+  70029  1118D  cat=40  kind=27   sell=0      Expert Sickle
+  70030  1118E  cat=40  kind=28   sell=0      Master Sickle
+  70031  1118F  cat=40  kind=29   sell=0      Legendary Sickle
+  70032  11190  cat=40  kind=30   sell=0      Harvest Goddess Sickle
+  70033  11191  cat=39  kind=0    sell=0      Old Fishing Rod
+  70034  11192  cat=39  kind=1    sell=0      Expert Fishing Rod
+  70035  11193  cat=39  kind=2    sell=0      Master Fishing Rod
+  70036  11194  cat=39  kind=3    sell=0      Legendary Fishing Rod
+  70037  11195  cat=39  kind=4    sell=0      Harvest Goddess Fishing Rod
+  70038  11196  cat=41  kind=11   sell=0      Old Pickaxe
+  70039  11197  cat=41  kind=12   sell=0      Expert Pickaxe
+  70040  11198  cat=41  kind=13   sell=0      Master Pickaxe
+  70041  11199  cat=41  kind=14   sell=0      Legendary Pickaxe
+  70042  1119A  cat=41  kind=15   sell=0      Harvest Goddess Pickaxe
+  70050  111A2  cat=42  kind=0    sell=0      Traveler's Lantern
+  70051  111A3  cat=42  kind=1    sell=0      Mist-Dispelling Lantern
+  70052  111A4  cat=42  kind=2    sell=0      Everlasting Lantern
+  70100  111D4  cat=14  kind=240  sell=0      Lantern Oil
+  70900  114F4  cat=12  kind=0    sell=800    Ancient Bronze Coins
+  70901  114F5  cat=12  kind=0    sell=2000   Ancient Silver Coins
+  70902  114F6  cat=12  kind=0    sell=8000   Ancient Gold Coins
+  70903  114F7  cat=12  kind=0    sell=20000  Ancient White Gold Coins
+  70910  114FE  cat=11  kind=0    sell=800    Calf Earthenware
+  70911  114FF  cat=11  kind=0    sell=800    Chick Earthenware
+  70912  11500  cat=11  kind=0    sell=800    Horse Earthenware
+  70913  11501  cat=11  kind=0    sell=800    Velociraptor Earthenware
+  70914  11502  cat=11  kind=0    sell=800    Brown Bear Earthenware
+  70915  11503  cat=11  kind=0    sell=800    Antique Cow Porcelain
+  70916  11504  cat=11  kind=0    sell=800    Antique Chicken Porcelain
+  70917  11505  cat=11  kind=0    sell=800    Antique Bengal Tiger Porcelain
+  70918  11506  cat=11  kind=0    sell=800    Antique White Fox Porcelain
+  70919  11507  cat=11  kind=0    sell=800    Antique Blue Bird Porcelain
+  70920  11508  cat=11  kind=0    sell=800    Antique Sasquatch Porcelain
+  70921  11509  cat=11  kind=0    sell=2000   Ammonite
+  70922  1150A  cat=11  kind=0    sell=2000   Dinosaur Fang
+  70923  1150B  cat=11  kind=0    sell=2000   Mammoth Tusk
+  70924  1150C  cat=11  kind=0    sell=2000   Coelacanth
+  70925  1150D  cat=11  kind=0    sell=2000   Archaeopteryx
+  70926  1150E  cat=11  kind=0    sell=2000   Coral
+  70927  1150F  cat=11  kind=0    sell=2000   Daisy Amber
+  70928  11510  cat=11  kind=0    sell=2000   Lotus Amber
+  70929  11511  cat=11  kind=0    sell=2000   Queen of the Night Amber
+  70930  11512  cat=11  kind=0    sell=2000   Red Rose Amber
+  70931  11513  cat=11  kind=0    sell=2000   Hibiscus Amber
+  71000  11558  cat=44  kind=0    sell=0      DocPad
+  71001  11559  cat=44  kind=0    sell=0      Power Wisp Fruit
+  71002  1155A  cat=44  kind=0    sell=0      Harvest Goddess Happilia Bottle
+  71003  1155B  cat=44  kind=0    sell=0      Bloomfield Happilia Bottle
+  71004  1155C  cat=44  kind=0    sell=0      Tidewind Happilia Bottle
+  71005  1155D  cat=44  kind=0    sell=0      Quarrytop Happilia Bottle
+  71006  1155E  cat=44  kind=0    sell=0      Maplehill Happilia Bottle
+  71007  1155F  cat=45  kind=0    sell=0      Token of Friendship
+  71008  11560  cat=45  kind=0    sell=0      Token of Love
+  71009  11561  cat=45  kind=0    sell=0      Blue Feather
+  71010  11562  cat=44  kind=0    sell=0      Feeding Bottle
+  71011  11563  cat=44  kind=0    sell=0      Letter From Your Child
+  71012  11564  cat=44  kind=0    sell=0      Art's Letter in a Bottle
+  71013  11565  cat=44  kind=0    sell=0      Mining Union Member Card
+  71014  11566  cat=44  kind=0    sell=0      Spiral Screw
+  71015  11567  cat=44  kind=0    sell=0      Dinner Party Invitation
+  71016  11568  cat=44  kind=0    sell=0      Nicolas's Letter
+  71017  11569  cat=44  kind=0    sell=0      Lucia's Letter
+  71018  1156A  cat=44  kind=0    sell=0      Fishing Zone Discount Pass
+  71019  1156B  cat=44  kind=0    sell=0      Mine Discount Pass
+  71020  1156C  cat=44  kind=0    sell=1      Fishing Zone Invitation Ticket
+  71021  1156D  cat=44  kind=0    sell=0      High-Quality Fabric
+  71022  1156E  cat=44  kind=0    sell=0      Specially Prepared Hot Milk
+  71100  115BC  cat=44  kind=0    sell=0      Uncharted Territory Nautical Chart
+  71101  115BD  cat=44  kind=0    sell=0      Breezy Island Nautical Chart
+  71102  115BE  cat=44  kind=0    sell=0      Sprummer Island Nautical Chart
+  71103  115BF  cat=44  kind=0    sell=0      Finter Island Nautical Chart
+  71104  115C0  cat=44  kind=0    sell=0      Ancient Island Nautical Chart
+  71105  115C1  cat=44  kind=0    sell=0      Treasure Island Nautical Chart
+  71106  115C2  cat=44  kind=0    sell=0      ??? Island Nautical Chart
+  71107  115C3  cat=44  kind=0    sell=0      ??? Island Nautical Chart
+  71108  115C4  cat=44  kind=0    sell=0      Mysterious Island Nautical Chart?
+  71109  115C5  cat=44  kind=0    sell=0      ??? Island Nautical Chart
+  71200  11620  cat=43  kind=1    sell=0      Old Tent
+  71201  11621  cat=43  kind=2    sell=0      Traveler's Tent
+  71202  11622  cat=43  kind=3    sell=0      Multifunctional Tent
+  71303  11687  cat=44  kind=0    sell=0      DocNamite
+  71700  11814  cat=44  kind=0    sell=0      Beginner Fishing Bait Recipe
+  71701  11815  cat=44  kind=0    sell=0      Ultimate Fishing Bait Recipe
+  71702  11816  cat=44  kind=0    sell=0      Chum Recipe
+  71800  11878  cat=44  kind=0    sell=0      Everlasting Lantern Blueprint
+  80000  13880  cat=21  kind=0    sell=200    Milk
+  80001  13881  cat=21  kind=0    sell=400    Jersey Milk
+  80002  13882  cat=21  kind=0    sell=600    Ayrshire Milk
+  80003  13883  cat=27  kind=0    sell=150    Sheep Wool
+  80004  13884  cat=27  kind=0    sell=300    Valais Blacknose Sheep Wool
+  80005  13885  cat=27  kind=0    sell=400    Fabric
+  80006  13886  cat=27  kind=0    sell=800    High-Quality Fabric
+  80010  1388A  cat=21  kind=0    sell=600    Mooberry Milk
+  80011  1388B  cat=21  kind=0    sell=600    Moonana Milk
+  85001  14C09  cat=20  kind=1    sell=50     Egg
+  85002  14C0A  cat=20  kind=2    sell=100    Araucana Egg
+  85003  14C0B  cat=20  kind=3    sell=150    Silkie Egg
+  90001  15F91  cat=16  kind=1    sell=30     Crucian Carp
+  90002  15F92  cat=16  kind=2    sell=40     Goldfish
+  90003  15F93  cat=16  kind=3    sell=70     Calico Goldfish
+  90004  15F94  cat=16  kind=4    sell=110    Walleye
+  90005  15F95  cat=16  kind=5    sell=160    Redeye
+  90006  15F96  cat=16  kind=6    sell=180    Tiger Eye
+  90007  15F97  cat=16  kind=7    sell=130    Dorado
+  90008  15F98  cat=16  kind=8    sell=150    Silver Dorado
+  90009  15F99  cat=16  kind=9    sell=240    Golden Dorado
+  90010  15F9A  cat=16  kind=10   sell=110    Arowana
+  90011  15F9B  cat=16  kind=11   sell=220    Green Arowana
+  90012  15F9C  cat=16  kind=12   sell=130    Banjar Arowana
+  90013  15F9D  cat=16  kind=13   sell=210    Super Red Arowana
+  90014  15F9E  cat=16  kind=14   sell=370    Pirarucu
+  90015  15F9F  cat=16  kind=15   sell=70     Tilapia
+  90016  15FA0  cat=16  kind=16   sell=100    Nile Tilapia
+  90017  15FA1  cat=16  kind=17   sell=100    Mozambique Tilapia
+  90018  15FA2  cat=16  kind=18   sell=130    Piranha
+  90019  15FA3  cat=16  kind=19   sell=200    Diamond Piranha
+  90020  15FA4  cat=16  kind=20   sell=220    White Piranha
+  90021  15FA5  cat=16  kind=21   sell=40     Red Crayfish
+  90022  15FA6  cat=16  kind=22   sell=110    Blue Crayfish
+  90023  15FA7  cat=16  kind=23   sell=180    Lava Crayfish
+  90024  15FA8  cat=16  kind=24   sell=50     Mosquitofish
+  90025  15FA9  cat=16  kind=25   sell=80     Smelt
+  90026  15FAA  cat=16  kind=26   sell=130    Lava Mosquitofish
+  90027  15FAB  cat=16  kind=27   sell=110    Perch
+  90028  15FAC  cat=16  kind=28   sell=140    Yellow Perch
+  90029  15FAD  cat=16  kind=29   sell=340    Akame
+  90030  15FAE  cat=16  kind=30   sell=40     Goby
+  90031  15FAF  cat=16  kind=31   sell=60     Black Goby
+  90032  15FB0  cat=16  kind=32   sell=70     Striped Goby
+  90033  15FB1  cat=16  kind=33   sell=70     Rainbow Trout
+  90034  15FB2  cat=16  kind=34   sell=380    Huchen
+  90035  15FB3  cat=16  kind=35   sell=410    Nidhogg
+  90036  15FB4  cat=16  kind=36   sell=250    Barracuda
+  90037  15FB5  cat=16  kind=37   sell=270    Blue Barracuda
+  90038  15FB6  cat=16  kind=38   sell=270    Red Barracuda
+  90039  15FB7  cat=16  kind=39   sell=60     Sardine
+  90040  15FB8  cat=16  kind=40   sell=60     Anchovy
+  90041  15FB9  cat=16  kind=41   sell=80     Round Herring
+  90042  15FBA  cat=16  kind=42   sell=100    Cod
+  90043  15FBB  cat=16  kind=43   sell=170    Pollock
+  90044  15FBC  cat=16  kind=44   sell=190    Saffron Cod
+  90045  15FBD  cat=16  kind=45   sell=160    Red Seabream
+  90046  15FBE  cat=16  kind=46   sell=260    Black Seabream
+  90047  15FBF  cat=16  kind=47   sell=220    Rock Bream
+  90048  15FC0  cat=16  kind=48   sell=260    Red Bream
+  90049  15FC1  cat=16  kind=49   sell=330    Tuna
+  90050  15FC2  cat=16  kind=50   sell=320    Yellowfin Tuna
+  90051  15FC3  cat=16  kind=51   sell=350    Bluefin Tuna
+  90052  15FC4  cat=16  kind=52   sell=330    Bigeye Tuna
+  90053  15FC5  cat=16  kind=53   sell=410    Marlin
+  90054  15FC6  cat=16  kind=54   sell=110    Tiger Prawn
+  90055  15FC7  cat=16  kind=55   sell=120    Black Tiger Prawn
+  90056  15FC8  cat=16  kind=56   sell=180    Glass Shrimp
+  90057  15FC9  cat=16  kind=57   sell=110    Lobster
+  90058  15FCA  cat=16  kind=58   sell=140    Continental Lobster
+  90059  15FCB  cat=16  kind=59   sell=170    Cape Lobster
+  90060  15FCC  cat=16  kind=60   sell=240    Sea Bass
+  90061  15FCD  cat=16  kind=61   sell=360    Snakehead
+  90062  15FCE  cat=16  kind=62   sell=100    Black Carp
+  90063  15FCF  cat=16  kind=63   sell=150    Koi
+  90064  15FD0  cat=16  kind=64   sell=1000   Golden Carp
+  90065  15FD1  cat=16  kind=65   sell=220    Mahi-Mahi
+  90066  15FD2  cat=16  kind=66   sell=270    Pompano Mahi-Mahi
+  90067  15FD3  cat=16  kind=67   sell=150    Gourami
+  90068  15FD4  cat=16  kind=68   sell=210    Three Spot Gourami
+  90069  15FD5  cat=16  kind=69   sell=240    Chocolate Gourami
+ 100000  186A0  cat=7   kind=1    sell=0      No Bait
+ 100001  186A1  cat=7   kind=2    sell=1      Ragworm
+ 100002  186A2  cat=7   kind=3    sell=1      Worm
+ 100003  186A3  cat=7   kind=4    sell=1      River Bug
+ 100004  186A4  cat=7   kind=5    sell=1      Cut Bait
+ 100005  186A5  cat=7   kind=6    sell=1      Clam Meat
+ 100006  186A6  cat=7   kind=7    sell=1      Peeled Shrimp
+ 100007  186A7  cat=7   kind=8    sell=1      Shrimp Bait
+ 100008  186A8  cat=7   kind=9    sell=1      Fish Bait
+ 100009  186A9  cat=7   kind=10   sell=1      Bug Bait
+ 100010  186AA  cat=7   kind=2    sell=1      Regular Bait
+ 100101  18705  cat=8   kind=1    sell=1      Minced Shrimp
+ 100102  18706  cat=8   kind=2    sell=1      Minced Fish
+ 100103  18707  cat=8   kind=3    sell=1      Minced Bug
+ 100104  18708  cat=8   kind=4    sell=1      Minced Clam
+ 140000  222E0  cat=3   kind=0    sell=1      Miracle Potion
+ 140001  222E1  cat=3   kind=0    sell=1      Animal Medicine
+ 140002  222E2  cat=10  kind=0    sell=1      Herbicide
+ 140003  222E3  cat=28  kind=0    sell=1      Weed
+ 140004  222E4  cat=4   kind=0    sell=1      Animal Feed
+ 141000  226C8  cat=9   kind=1    sell=0      Small Sprinkler
+ 141001  226C9  cat=9   kind=2    sell=0      Sprinkler
+ 141002  226CA  cat=9   kind=3    sell=0      Splendid Sprinkler
+ 150000  249F0  cat=19  kind=0    sell=30     Apple
+ 150001  249F1  cat=19  kind=0    sell=30     Banana
+ 150002  249F2  cat=19  kind=0    sell=30     Peach
+ 150003  249F3  cat=19  kind=0    sell=30     Orange
+ 150004  249F4  cat=19  kind=0    sell=30     Walnut
+ 150005  249F5  cat=19  kind=0    sell=30     Olive
+ 150006  249F6  cat=19  kind=0    sell=30     Coffee Fruit
+ 150007  249F7  cat=19  kind=0    sell=30     Cacao
+ 150008  249F8  cat=19  kind=0    sell=30     Cherry
+ 150009  249F9  cat=19  kind=0    sell=30     Coconut
+ 151000  24DD8  cat=30  kind=0    sell=30     Pine Sap
+ 151001  24DD9  cat=22  kind=0    sell=30     Maple Syrup
+ 160000  27100  cat=18  kind=0    sell=25     Mussel
+ 160001  27101  cat=18  kind=0    sell=35     Oyster
+ 160002  27102  cat=18  kind=0    sell=25     Razor Clam
+ 160003  27103  cat=18  kind=0    sell=25     Clam
+ 160004  27104  cat=18  kind=0    sell=55     Large Clam
+ 160005  27105  cat=18  kind=0    sell=35     Surf Clam
+ 160006  27106  cat=18  kind=0    sell=55     Ark Clam
+ 160007  27107  cat=18  kind=0    sell=55     Egg Cockle
+ 160008  27108  cat=18  kind=0    sell=35     Yesso Scallop
+ 160009  27109  cat=18  kind=0    sell=65     Akoya Pearl Oyster
+ 160010  2710A  cat=18  kind=0    sell=55     Geoduck
+ 160013  2710D  cat=18  kind=0    sell=25     Mushroom
+ 160014  2710E  cat=18  kind=0    sell=25     White Mushroom
+ 160015  2710F  cat=18  kind=0    sell=35     Jumbo Mushroom
+ 160016  27110  cat=18  kind=0    sell=25     Shiitake Mushroom
+ 160017  27111  cat=18  kind=0    sell=25     Porcini Mushroom
+ 160018  27112  cat=18  kind=0    sell=35     Matsutake Mushroom
+ 160019  27113  cat=18  kind=0    sell=25     Morel Mushroom
+ 160020  27114  cat=18  kind=0    sell=35     Energy Mushroom
+ 160021  27115  cat=18  kind=0    sell=35     Hot Mushroom
+ 160022  27116  cat=18  kind=0    sell=35     Cold Mushroom
+ 160023  27117  cat=18  kind=0    sell=55     Truffle
+ 160024  27118  cat=18  kind=0    sell=55     White Truffle
+ 160025  27119  cat=18  kind=0    sell=55     Miracle Truffle
+ 160026  2711A  cat=18  kind=0    sell=65     Bamboo Shoot
+ 160027  2711B  cat=18  kind=0    sell=65     Timber Bamboo Shoot
+ 160028  2711C  cat=18  kind=0    sell=65     Curved Bamboo Shoot
+ 160029  2711D  cat=18  kind=0    sell=150    Harvest Goddess Mushroom
+ 160030  2711E  cat=18  kind=0    sell=250    Jumbo Harvest Goddess Mushroom
+ 161000  274E8  cat=18  kind=0    sell=55     Wild Strawberry
+ 165000  28488  cat=22  kind=0    sell=25     Salt
+ 165001  28489  cat=22  kind=0    sell=25     Spice
+ 165002  2848A  cat=22  kind=0    sell=25     Truffle Salt
+ 165003  2848B  cat=22  kind=0    sell=25     Extra Virgin Olive Oil
+ 170000  29810  cat=25  kind=0    sell=6      Lumber
+ 170001  29811  cat=25  kind=0    sell=7      Board Lumber
+ 170003  29813  cat=25  kind=0    sell=7      Square Lumber
+ 170006  29816  cat=25  kind=0    sell=12     Palm Lumber
+ 170007  29817  cat=25  kind=0    sell=14     Palm Board Lumber
+ 170008  29818  cat=25  kind=0    sell=14     Palm Square Lumber
+ 170009  29819  cat=25  kind=0    sell=24     Sturdy Lumber
+ 170010  2981A  cat=25  kind=0    sell=28     Sturdy Board Lumber
+ 170011  2981B  cat=25  kind=0    sell=28     Sturdy Square Lumber
+ 180000  2BF20  cat=26  kind=0    sell=2      Stone
+ 180001  2BF21  cat=26  kind=0    sell=8      Iron Ore
+ 180002  2BF22  cat=26  kind=0    sell=12     Bronze Ore
+ 180003  2BF23  cat=26  kind=0    sell=18     Silver Ore
+ 180004  2BF24  cat=26  kind=0    sell=26     Gold Ore
+ 180005  2BF25  cat=26  kind=0    sell=38     Titanium Ore
+ 180006  2BF26  cat=26  kind=0    sell=54     Platinum Ore
+ 180007  2BF27  cat=26  kind=0    sell=72     Damascus Steel Ore
+ 180008  2BF28  cat=26  kind=0    sell=92     Orichalcum Ore
+ 180009  2BF29  cat=26  kind=0    sell=114    Adamantite Ore
+ 180010  2BF2A  cat=26  kind=0    sell=5      Raw Glass Gemstone
+ 180011  2BF2B  cat=26  kind=0    sell=10     Raw Agate Gemstone
+ 180012  2BF2C  cat=26  kind=0    sell=17     Raw Jade Gemstone
+ 180013  2BF2D  cat=26  kind=0    sell=25     Raw Crystal Gemstone
+ 180014  2BF2E  cat=26  kind=0    sell=35     Raw Amethyst Gemstone
+ 180015  2BF2F  cat=26  kind=0    sell=45     Raw Garnet Gemstone
+ 180016  2BF30  cat=26  kind=0    sell=30     Raw Moonstone Gemstone
+ 180017  2BF31  cat=26  kind=0    sell=40     Raw Topaz Gemstone
+ 180018  2BF32  cat=26  kind=0    sell=50     Raw Opal Gemstone
+ 180019  2BF33  cat=26  kind=0    sell=70     Raw Aquamarine Gemstone
+ 180020  2BF34  cat=26  kind=0    sell=100    Raw Emerald Gemstone
+ 180021  2BF35  cat=26  kind=0    sell=100    Raw Sapphire Gemstone
+ 180022  2BF36  cat=26  kind=0    sell=100    Raw Ruby Gemstone
+ 180023  2BF37  cat=26  kind=0    sell=150    Raw Diamond Gemstone
+ 180024  2BF38  cat=26  kind=0    sell=200    Raw Tanzanite Gemstone
+ 180025  2BF39  cat=26  kind=0    sell=300    Raw Tourmaline Gemstone
+ 180026  2BF3A  cat=26  kind=0    sell=500    Raw Alexandrite Gemstone
+ 180027  2BF3B  cat=26  kind=0    sell=4      Hard Stone
+ 181000  2C308  cat=26  kind=0    sell=3      Material Stone
+ 181001  2C309  cat=26  kind=0    sell=26     Iron
+ 181002  2C30A  cat=26  kind=0    sell=34     Bronze
+ 181003  2C30B  cat=26  kind=0    sell=46     Silver
+ 181004  2C30C  cat=26  kind=0    sell=62     Gold
+ 181005  2C30D  cat=26  kind=0    sell=86     Titanium
+ 181006  2C30E  cat=26  kind=0    sell=118    Platinum
+ 181007  2C30F  cat=26  kind=0    sell=154    Damascus Steel
+ 181008  2C310  cat=26  kind=0    sell=194    Orichalcum
+ 181009  2C311  cat=26  kind=0    sell=238    Adamantite
+ 181010  2C312  cat=26  kind=0    sell=10     Glass
+ 181011  2C313  cat=26  kind=0    sell=20     Agate
+ 181012  2C314  cat=26  kind=0    sell=34     Jade
+ 181013  2C315  cat=26  kind=0    sell=50     Crystal
+ 181014  2C316  cat=26  kind=0    sell=70     Amethyst
+ 181015  2C317  cat=26  kind=0    sell=90     Garnet
+ 181016  2C318  cat=26  kind=0    sell=60     Moonstone
+ 181017  2C319  cat=26  kind=0    sell=80     Topaz
+ 181018  2C31A  cat=26  kind=0    sell=100    Opal
+ 181019  2C31B  cat=26  kind=0    sell=140    Aquamarine
+ 181020  2C31C  cat=26  kind=0    sell=200    Emerald
+ 181021  2C31D  cat=26  kind=0    sell=200    Sapphire
+ 181022  2C31E  cat=26  kind=0    sell=200    Ruby
+ 181023  2C31F  cat=26  kind=0    sell=300    Diamond
+ 181024  2C320  cat=26  kind=0    sell=400    Tanzanite
+ 181025  2C321  cat=26  kind=0    sell=600    Paraiba Tourmaline
+ 181026  2C322  cat=26  kind=0    sell=1000   Alexandrite
+ 181027  2C323  cat=26  kind=2    sell=6      Hard Material Stone
+ 190000  2E630  cat=17  kind=0    sell=200    Stew
+ 190001  2E631  cat=17  kind=0    sell=350    Truffle Soup
+ 190002  2E632  cat=17  kind=0    sell=275    Mushroom Stew
+ 190003  2E633  cat=17  kind=0    sell=150    Vegetable Pot-au-Feu
+ 190004  2E634  cat=17  kind=0    sell=175    Ratatouille
+ 190005  2E635  cat=17  kind=0    sell=200    Borscht
+ 190006  2E636  cat=17  kind=0    sell=275    Warming Mushroom Stew
+ 190007  2E637  cat=17  kind=0    sell=275    Cooling Mushroom Stew
+ 190008  2E638  cat=17  kind=0    sell=275    Energy Mushroom Stew
+ 190009  2E639  cat=17  kind=0    sell=325    Ribollita
+ 190010  2E63A  cat=17  kind=0    sell=200    Veggies au Gratin
+ 190011  2E63B  cat=17  kind=0    sell=275    Mushrooms au Gratin
+ 190012  2E63C  cat=17  kind=0    sell=300    Fish au Gratin
+ 190013  2E63D  cat=17  kind=0    sell=350    Truffles au Gratin
+ 190014  2E63E  cat=17  kind=0    sell=250    Macaroni au Gratin
+ 190015  2E63F  cat=17  kind=0    sell=200    Doria
+ 190016  2E640  cat=17  kind=0    sell=275    Warming Mushrooms au Gratin
+ 190017  2E641  cat=17  kind=0    sell=275    Cooling Mushrooms au Gratin
+ 190018  2E642  cat=17  kind=0    sell=275    Energy Mushrooms au Gratin
+ 190020  2E644  cat=17  kind=0    sell=150    Green Salad
+ 190021  2E645  cat=17  kind=0    sell=200    Flower Salad
+ 190022  2E646  cat=17  kind=0    sell=200    Bean Salad
+ 190023  2E647  cat=17  kind=0    sell=300    Truffle Salad
+ 190024  2E648  cat=17  kind=0    sell=200    Warming Salad
+ 190025  2E649  cat=17  kind=0    sell=200    Cooling Salad
+ 190026  2E64A  cat=17  kind=0    sell=300    Caprese Salad
+ 190030  2E64E  cat=17  kind=0    sell=150    Fruit Punch
+ 190031  2E64F  cat=17  kind=0    sell=300    Ahi Poke
+ 190032  2E650  cat=17  kind=0    sell=220    Warming Punch
+ 190033  2E651  cat=17  kind=0    sell=220    Cooling Punch
+ 190034  2E652  cat=17  kind=0    sell=220    Energy Punch
+ 190040  2E658  cat=17  kind=2    sell=350    Cheese Fondue
+ 190041  2E659  cat=17  kind=2    sell=300    Chocolate Fondue
+ 190050  2E662  cat=17  kind=2    sell=50     Coffee
+ 190051  2E663  cat=17  kind=2    sell=100    Caffe Latte
+ 190052  2E664  cat=17  kind=2    sell=100    Hot Chocolate
+ 190053  2E665  cat=17  kind=2    sell=100    Hot Milk
+ 190054  2E666  cat=17  kind=1    sell=150    Minestrone
+ 190055  2E667  cat=17  kind=1    sell=200    Bean Chowder
+ 190056  2E668  cat=17  kind=1    sell=300    Fish Chowder
+ 190057  2E669  cat=17  kind=1    sell=225    Corn Potage Soup
+ 190058  2E66A  cat=17  kind=1    sell=200    Gazpacho
+ 190059  2E66B  cat=17  kind=1    sell=250    Pumpkin Potage Soup
+ 190060  2E66C  cat=17  kind=1    sell=200    Vichyssoise
+ 190061  2E66D  cat=17  kind=2    sell=50     Soy Milk
+ 190062  2E66E  cat=17  kind=1    sell=225    Watermelon Gazpacho
+ 190063  2E66F  cat=17  kind=1    sell=225    Energy Gazpacho
+ 190064  2E670  cat=17  kind=2    sell=50     Black Tea
+ 190065  2E671  cat=17  kind=2    sell=100    Milk Tea
+ 190066  2E672  cat=17  kind=2    sell=100    Maple Tea
+ 190067  2E673  cat=17  kind=2    sell=50     Chamomile Tea
+ 190070  2E676  cat=17  kind=2    sell=50     Tomato Juice
+ 190071  2E677  cat=17  kind=2    sell=50     Orange Juice
+ 190072  2E678  cat=17  kind=2    sell=50     Pineapple Juice
+ 190073  2E679  cat=17  kind=2    sell=125    Mixed Juice
+ 190074  2E67A  cat=17  kind=2    sell=50     Coconut Milk
+ 190075  2E67B  cat=17  kind=2    sell=50     Iced Coffee
+ 190076  2E67C  cat=17  kind=2    sell=100    Green Smoothie
+ 190077  2E67D  cat=17  kind=2    sell=125    Chocolate Shake
+ 190078  2E67E  cat=17  kind=2    sell=50     Cherry Juice
+ 190079  2E67F  cat=17  kind=2    sell=50     Watermelon Smoothie
+ 190080  2E680  cat=17  kind=2    sell=50     Energy Juice
+ 190081  2E681  cat=17  kind=2    sell=100    Strawberry Milk
+ 190082  2E682  cat=17  kind=2    sell=100    Crimson Shake
+ 190083  2E683  cat=17  kind=2    sell=50     Iced Tea
+ 190084  2E684  cat=17  kind=2    sell=100    Iced Milk Tea
+ 190085  2E685  cat=17  kind=2    sell=100    Iced Maple Tea
+ 190086  2E686  cat=17  kind=2    sell=50     Iced Chamomile Tea
+ 190087  2E687  cat=17  kind=2    sell=50     Iced Oolong Tea
+ 190088  2E688  cat=17  kind=2    sell=50     Iced Green Tea
+ 190090  2E68A  cat=17  kind=0    sell=250    No-Bake Cheesecake
+ 190091  2E68B  cat=17  kind=0    sell=150    Chocolate Cake
+ 190092  2E68C  cat=17  kind=0    sell=175    Fruitcake
+ 190093  2E68D  cat=17  kind=0    sell=250    Flower Cake
+ 190094  2E68E  cat=17  kind=0    sell=175    Nut Cake
+ 190095  2E68F  cat=17  kind=0    sell=250    Cooling Flower Cake
+ 190100  2E694  cat=17  kind=0    sell=200    Strawberry Pie
+ 190101  2E695  cat=17  kind=0    sell=200    Cherry Pie
+ 190102  2E696  cat=17  kind=0    sell=200    Apple Pie
+ 190103  2E697  cat=17  kind=0    sell=200    Peach Pie
+ 190104  2E698  cat=17  kind=0    sell=200    Orange Pie
+ 190105  2E699  cat=17  kind=0    sell=200    Pumpkin Pie
+ 190106  2E69A  cat=17  kind=0    sell=300    Cream Pie
+ 190107  2E69B  cat=17  kind=0    sell=200    Chocolate Pie
+ 190108  2E69C  cat=17  kind=0    sell=350    Stargazy Pie
+ 190109  2E69D  cat=17  kind=0    sell=200    Sweet Potato Pie
+ 190110  2E69E  cat=17  kind=2    sell=50     Strawberry Jam
+ 190111  2E69F  cat=17  kind=2    sell=50     Cherry Jam
+ 190112  2E6A0  cat=17  kind=2    sell=50     Apple Jam
+ 190113  2E6A1  cat=17  kind=2    sell=50     Peach Jam
+ 190114  2E6A2  cat=17  kind=2    sell=50     Marmalade
+ 190115  2E6A3  cat=17  kind=2    sell=50     Watermelon Jam
+ 190116  2E6A4  cat=17  kind=2    sell=50     Hibiscus Jam
+ 190117  2E6A5  cat=17  kind=2    sell=50     Pineapple Jam
+ 190118  2E6A6  cat=17  kind=2    sell=50     Energy Jam
+ 190120  2E6A8  cat=17  kind=2    sell=250    Red Fish Sushi
+ 190121  2E6A9  cat=17  kind=2    sell=150    White Fish Sushi
+ 190122  2E6AA  cat=17  kind=2    sell=200    Blue Fish Sushi
+ 190123  2E6AB  cat=17  kind=2    sell=300    Truffle Sushi
+ 190130  2E6B2  cat=17  kind=0    sell=125    Small Grilled Fish
+ 190131  2E6B3  cat=17  kind=0    sell=150    Grilled Fish
+ 190132  2E6B4  cat=17  kind=0    sell=200    Jumbo Grilled Fish
+ 190140  2E6BC  cat=17  kind=0    sell=250    Small Fish Meunière
+ 190141  2E6BD  cat=17  kind=0    sell=275    Fish Meunière
+ 190142  2E6BE  cat=17  kind=0    sell=325    Jumbo Meunière
+ 190143  2E6BF  cat=17  kind=0    sell=425    Truffles Meunière
+ 190144  2E6C0  cat=17  kind=0    sell=475    Truffles à la Grande Meunière
+ 190150  2E6C6  cat=17  kind=0    sell=200    White Carpaccio
+ 190151  2E6C7  cat=17  kind=0    sell=300    Red Carpaccio
+ 190152  2E6C8  cat=17  kind=0    sell=250    Blue Carpaccio
+ 190160  2E6D0  cat=17  kind=0    sell=175    Paella
+ 190161  2E6D1  cat=17  kind=0    sell=275    Shrimp Pilaf
+ 190162  2E6D2  cat=17  kind=0    sell=175    Fried Rice
+ 190163  2E6D3  cat=17  kind=0    sell=175    Jambalaya
+ 190164  2E6D4  cat=17  kind=0    sell=250    Vegetable Fried Rice
+ 190165  2E6D5  cat=17  kind=0    sell=325    Seafood Fried Rice
+ 190166  2E6D6  cat=17  kind=0    sell=250    Fire Jambalaya
+ 190170  2E6DA  cat=17  kind=0    sell=125    Tomato Pasta
+ 190171  2E6DB  cat=17  kind=0    sell=200    Creamed Spinach Pasta
+ 190172  2E6DC  cat=17  kind=0    sell=300    Creamed Shrimp Pasta
+ 190173  2E6DD  cat=17  kind=0    sell=200    Cooling Tomato Pasta
+ 190174  2E6DE  cat=17  kind=0    sell=350    Frutti di Mare
+ 190180  2E6E4  cat=17  kind=0    sell=150    Strawberry Gelato
+ 190181  2E6E5  cat=17  kind=0    sell=150    Cherry Gelato
+ 190182  2E6E6  cat=17  kind=0    sell=150    Orange Gelato
+ 190183  2E6E7  cat=17  kind=0    sell=150    Apple Gelato
+ 190184  2E6E8  cat=17  kind=0    sell=150    Peach Gelato
+ 190185  2E6E9  cat=17  kind=0    sell=125    Milk Gelato
+ 190186  2E6EA  cat=17  kind=0    sell=150    Coconut Gelato
+ 190187  2E6EB  cat=17  kind=0    sell=150    Chocolate Gelato
+ 190188  2E6EC  cat=17  kind=0    sell=150    Flower Gelato
+ 190189  2E6ED  cat=17  kind=0    sell=150    Watermelon Gelato
+ 190190  2E6EE  cat=17  kind=0    sell=150    Pineapple Gelato
+ 190191  2E6EF  cat=17  kind=0    sell=150    Energy Gelato
+ 190192  2E6F0  cat=17  kind=0    sell=150    Sweet Potato Gelato
+ 190193  2E6F1  cat=17  kind=0    sell=150    Soy Gelato
+ 190200  2E6F8  cat=17  kind=0    sell=50     Fried Egg
+ 190201  2E6F9  cat=17  kind=0    sell=200    Truffle Fried Egg
+ 190210  2E702  cat=17  kind=2    sell=50     Butter
+ 190211  2E703  cat=17  kind=2    sell=50     Dark Chocolate
+ 190212  2E704  cat=17  kind=2    sell=50     Milk Chocolate
+ 190213  2E705  cat=17  kind=2    sell=50     White Chocolate
+ 190220  2E70C  cat=17  kind=2    sell=75     Hard Cheese
+ 190221  2E70D  cat=17  kind=2    sell=75     Washed-Rind Cheese
+ 190222  2E70E  cat=17  kind=2    sell=75     Blue Cheese
+ 190223  2E70F  cat=17  kind=2    sell=75     Fresh Cheese
+ 190230  2E716  cat=17  kind=2    sell=75     Baguette
+ 190231  2E717  cat=17  kind=2    sell=150    Strawberry Jam Baguette
+ 190232  2E718  cat=17  kind=2    sell=150    Cherry Jam Baguette
+ 190233  2E719  cat=17  kind=2    sell=150    Marmalade Baguette
+ 190234  2E71A  cat=17  kind=2    sell=150    Apple Jam Baguette
+ 190235  2E71B  cat=17  kind=2    sell=150    Peach Jam Baguette
+ 190236  2E71C  cat=17  kind=2    sell=200    Cream Baguette
+ 190237  2E71D  cat=17  kind=2    sell=150    Nut Bread
+ 190238  2E71E  cat=17  kind=2    sell=150    Coffee Bread
+ 190239  2E71F  cat=17  kind=2    sell=150    Watermelon Jam Baguette
+ 190240  2E720  cat=17  kind=2    sell=150    Hibiscus Jam Baguette
+ 190241  2E721  cat=17  kind=2    sell=150    Pineapple Jam Baguette
+ 190242  2E722  cat=17  kind=2    sell=150    Energy Jam Baguette
+ 190250  2E72A  cat=17  kind=0    sell=175    Margherita Pizza
+ 190251  2E72B  cat=17  kind=0    sell=399    Pescatore Pizza
+ 190252  2E72C  cat=17  kind=0    sell=175    Ortolana Rossa Pizza
+ 190253  2E72D  cat=17  kind=0    sell=300    Bismarck Pizza
+ 190254  2E72E  cat=17  kind=0    sell=250    Boscaiola Pizza
+ 190255  2E72F  cat=17  kind=0    sell=250    Ortolana Bianca Pizza
+ 190256  2E730  cat=17  kind=0    sell=375    Tofu Pizza
+ 190257  2E731  cat=17  kind=0    sell=175    Chocolate Pizza
+ 190258  2E732  cat=17  kind=0    sell=175    Fruit Pizza
+ 190259  2E733  cat=17  kind=0    sell=175    Energy Pizza
+ 190260  2E734  cat=17  kind=0    sell=300    Coconut Pizza
+ 190261  2E735  cat=17  kind=0    sell=425    Four-Cheese Pizza
+ 190270  2E73E  cat=17  kind=0    sell=100    Tofu
+ 190271  2E73F  cat=17  kind=0    sell=75     Eggy Tofu
+ 190272  2E740  cat=17  kind=0    sell=75     Bean Tofu
+ 190273  2E741  cat=17  kind=0    sell=100    Jade Tofu
+ 190280  2E748  cat=17  kind=0    sell=250    Fish Taco
+ 190281  2E749  cat=17  kind=0    sell=125    S'mores
+ 190282  2E74A  cat=17  kind=0    sell=150    Potato Salad
+ 190283  2E74B  cat=17  kind=0    sell=100    Skewered Fruit Mix
+ 190284  2E74C  cat=17  kind=0    sell=250    Marinated Seafood
+ 190285  2E74D  cat=17  kind=0    sell=200    Marinated Mushroom Salad
+ 190290  2E752  cat=17  kind=0    sell=175    Fried Noodles
+ 190291  2E753  cat=17  kind=0    sell=150    Open Omelet
+ 190292  2E754  cat=17  kind=0    sell=250    French Toast
+ 190293  2E755  cat=17  kind=0    sell=150    Pasta with Mushrooms
+ 190294  2E756  cat=17  kind=0    sell=275    Veggie Ajillo
+ 190295  2E757  cat=17  kind=0    sell=250    Seafood Ajillo
+ 190300  2E75C  cat=17  kind=2    sell=50     Baby Formula
+ 190501  2E825  cat=17  kind=0    sell=75     Skewered Marshmallows
+ 190502  2E826  cat=17  kind=0    sell=75     Corn on the Cob
+ 190503  2E827  cat=17  kind=0    sell=75     Skewered Mushrooms
+ 190504  2E828  cat=17  kind=0    sell=75     Skewered Apple
+ 190505  2E829  cat=17  kind=0    sell=75     Skewered Dumplings
+ 190506  2E82A  cat=17  kind=0    sell=125    Skewered Veggies
+ 190507  2E82B  cat=17  kind=0    sell=75     Baked Sweet Potato
+ 190508  2E82C  cat=17  kind=0    sell=225    Fish Camp Grill
+ 190509  2E82D  cat=17  kind=0    sell=125    Grilled Rice Ball
+ 190510  2E82E  cat=17  kind=0    sell=175    Grilled Mussels
+ 190511  2E82F  cat=17  kind=0    sell=125    Baked Potato
+ 190512  2E830  cat=17  kind=0    sell=125    Banana Boat
+ 190513  2E831  cat=17  kind=0    sell=125    Curry
+ 190514  2E832  cat=17  kind=0    sell=250    Seafood Curry
+ 190515  2E833  cat=17  kind=0    sell=150    Veggie Curry
+ 190516  2E834  cat=17  kind=0    sell=150    Dal Curry
+ 190517  2E835  cat=17  kind=0    sell=150    Egg Curry
+ 190518  2E836  cat=17  kind=0    sell=200    Mushroom Curry
+ 191001  2EA19  cat=17  kind=0    sell=50     Hodgepodge Salad
+ 191002  2EA1A  cat=17  kind=0    sell=75     Yummy-looking Salad
+ 191003  2EA1B  cat=17  kind=0    sell=50     Dressed Hodgepodge Dish
+ 191004  2EA1C  cat=17  kind=0    sell=75     Yummy-looking Dressed Dish
+ 191005  2EA1D  cat=17  kind=0    sell=50     Hodgepodge Soup
+ 191006  2EA1E  cat=17  kind=0    sell=75     Yummy-looking Soup
+ 191007  2EA1F  cat=17  kind=0    sell=50     Hodgepodge Drink
+ 191008  2EA20  cat=17  kind=0    sell=75     Yummy-looking Drink
+ 191009  2EA21  cat=17  kind=0    sell=50     Hodgepodge Gelato
+ 191010  2EA22  cat=17  kind=0    sell=75     Yummy-looking Gelato
+ 191011  2EA23  cat=17  kind=0    sell=50     Hodgepodge Stir-fry
+ 191012  2EA24  cat=17  kind=0    sell=75     Yummy-looking Stir-fry
+ 191013  2EA25  cat=17  kind=0    sell=50     Hodgepodge Ajillo
+ 191014  2EA26  cat=17  kind=0    sell=75     Yummy-looking Ajillo
+ 191015  2EA27  cat=17  kind=0    sell=50     Hodgepodge Simmered Dish
+ 191016  2EA28  cat=17  kind=0    sell=75     Yummy-looking Simmered Dish
+ 191017  2EA29  cat=17  kind=0    sell=50     Hodgepodge Bread
+ 191018  2EA2A  cat=17  kind=0    sell=75     Yummy-looking Bread
+ 191019  2EA2B  cat=17  kind=0    sell=50     Hodgepodge Grill
+ 191020  2EA2C  cat=17  kind=0    sell=75     Yummy-looking Grill
+ 191021  2EA2D  cat=17  kind=0    sell=50     Hodgepodge Skewers
+ 191022  2EA2E  cat=17  kind=0    sell=50     Hodgepodge Bake
+ 191023  2EA2F  cat=17  kind=0    sell=50     Hodgepodge Stew
+ 250000  3D090  cat=2   kind=1    sell=30     Apple Seedling
+ 250001  3D091  cat=2   kind=2    sell=30     Banana Seedling
+ 250002  3D092  cat=2   kind=3    sell=30     Coconut Seedling
+ 250003  3D093  cat=2   kind=4    sell=30     Peach Seedling
+ 250004  3D094  cat=2   kind=5    sell=30     Cherry Seedling
+ 250005  3D095  cat=2   kind=6    sell=30     Cacao Seedling
+ 250006  3D096  cat=2   kind=7    sell=30     Coffee Seedling
+ 250007  3D097  cat=2   kind=8    sell=30     Olive Seedling
+ 250008  3D098  cat=2   kind=9    sell=30     Orange Seedling
+ 250009  3D099  cat=2   kind=10   sell=30     Walnut Seedling
+ 251000  3D478  cat=2   kind=11   sell=30     Pine Seedling
+ 251001  3D479  cat=2   kind=12   sell=30     Maple Seedling

@@ -1,0 +1,1219 @@
+# Harvest Moon Echoes of Teradea items (3DCC79312B977CD1), from the game's ITEMPARAM table and texts
+id	cat	kind	sell	name
+10000	15	0	130	Asparagus
+10001	15	0	170	White Asparagus
+10002	15	0	170	Purple Asparagus
+10003	15	0	320	Phalanx
+10004	15	0	370	Lava Asparagus
+10005	15	0	320	Macedonia
+10006	15	0	320	Water Asparagus
+10007	15	0	270	Sparta
+10008	15	0	150	Broccoli
+10009	15	0	180	Broccolini
+10010	15	0	190	Cauliflower
+10011	15	0	230	Romanesco
+10012	15	0	240	Yggdrasil
+10013	15	0	230	Blue Broccoli
+10014	15	0	190	Evergreen
+10015	15	0	230	Dryad
+10016	15	0	80	Cabbage
+10017	15	0	120	Red Cabbage
+10018	15	0	120	Pepper Cabbage
+10019	15	0	290	Dome Cabbage
+10020	15	0	390	Lava Cabbage
+10021	15	0	340	Pointy Cabbage
+10022	15	0	340	Whitesphere Cabbage
+10023	15	0	340	Fireball Cabbage
+10024	15	0	80	Celery
+10025	15	0	300	Mystic Herb
+10026	15	0	120	White Celery
+10027	15	0	250	Royal Herb
+10028	15	0	300	Icy Celery
+10029	15	0	120	Spicy Celery
+10030	15	0	300	Blue Herb
+10031	15	0	350	Desert Herb
+10032	15	0	160	Corn
+10033	15	0	120	Fodder Corn
+10034	15	0	160	Sweet Corn
+10035	15	0	230	Sunset Corn
+10036	15	0	230	Glass Gem Corn
+10037	15	0	280	Desert Corn
+10038	15	0	230	Crystal Corn
+10039	15	0	180	Goldsilver Corn
+10040	15	0	30	Carrot
+10041	15	0	80	Baby Carrot
+10042	15	0	70	Black Carrot
+10043	15	0	130	White Carrot
+10044	15	0	130	Mandrake
+10045	15	0	70	Snow Carrot
+10046	15	0	130	Aqua Carrot
+10047	15	0	120	Alraune
+10048	15	0	90	Eggplant
+10049	15	0	130	Globe Eggplant
+10050	15	0	130	Striped Eggplant
+10051	15	0	130	White Eggplant
+10052	15	0	180	Lightbulb Eggplant
+10053	15	0	180	Rock Eggplant
+10054	15	0	180	Water Eggplant
+10055	15	0	230	Flame Eggplant
+10056	15	0	50	Green Bell Pepper
+10057	15	0	90	Red Bell Pepper
+10058	15	0	160	Yellow Bell Pepper
+10059	15	0	210	Magic Bell Pepper
+10060	15	0	260	Golden Bell Pepper
+10061	15	0	210	Bitter Bell Pepper
+10062	15	0	210	White Bell Pepper
+10063	15	0	90	Snow Bell Pepper
+10064	15	0	170	Lettuce
+10065	15	0	210	Endive
+10066	15	0	210	Romaine Lettuce
+10067	15	0	250	Ice Lettuce
+10068	15	0	210	Lava Lettuce
+10069	15	0	210	Red Leaf Lettuce
+10070	15	0	300	Desert Lettuce
+10071	15	0	250	Blue Lettuce
+10072	15	0	30	Onion
+10073	15	0	80	Red Onion
+10074	15	0	130	Leek
+10075	15	0	80	Garlic
+10076	15	0	130	Salad Onion
+10077	15	0	120	Monster Onion
+10078	15	0	130	Colorful Teardrop
+10079	15	0	130	Jewel Onion
+10080	15	0	100	Pumpkin
+10081	15	0	110	Zucchini
+10082	15	0	200	Squash
+10083	15	0	170	Giant Squash
+10084	15	0	210	Jack-o'-Lantern
+10085	15	0	210	Cream Pumpkin
+10086	15	0	210	Giant Water Squash
+10087	15	0	260	Lava-o'-Lantern
+10088	15	0	430	Pineapple
+10089	15	0	470	Peach Pineapple
+10090	15	0	610	Gold Barrel Pineapple
+10091	15	0	610	Dragon Pineapple
+10092	15	0	470	Crystal Pineapple
+10093	15	0	560	Energy Pineapple
+10094	15	0	610	Water Dragon Pineapple
+10095	15	0	660	Desert Dragon Pineapple
+10096	15	0	70	Potato
+10097	15	0	140	Black Potato
+10098	15	0	90	Sweet Potato
+10099	15	0	120	Shadow Queen Potato
+10100	15	0	120	Gold Potato
+10101	15	0	140	Long Sweet Potato
+10102	15	0	120	Ice Potato
+10103	15	0	170	Siegfried
+10104	15	0	170	Strawberry
+10105	15	0	210	White Berry
+10106	15	0	260	Angel Lantern
+10107	15	0	210	Magical Berry
+10108	15	0	260	Princess's Eye
+10109	15	0	210	Aqua Strawberry
+10110	15	0	300	Burning Lantern
+10111	15	0	300	Snow Lantern
+10112	15	0	50	Soybean
+10113	15	0	60	Green Pea
+10114	15	0	100	Chickpea
+10115	15	0	90	Lentil
+10116	15	0	140	Diamond Pea
+10117	15	0	90	White Soybean
+10118	15	0	150	Blue Soybean
+10119	15	0	140	Lava Chickpea
+10120	15	0	80	Spinach
+10121	15	0	70	Watercress
+10122	15	0	130	Savoy Spinach
+10123	15	0	120	Kale
+10124	15	0	170	Sand Kale
+10125	15	0	130	Lilac Spinach
+10126	15	0	220	Flametongue
+10127	15	0	130	Pink Spinach
+10128	15	0	30	Tomato
+10129	15	0	100	San Marzano
+10130	15	0	100	Ice Tomato
+10131	15	0	50	Killer Tomato
+10132	15	0	80	Sun Tomato
+10133	15	0	50	Crimson
+10134	15	0	150	King Crimson
+10135	15	0	150	Giant Killer Tomato
+10136	15	0	20	Turnip
+10137	15	0	50	Beet
+10138	15	0	90	Water Beet
+10139	15	0	110	Heart of the Earth
+10140	15	0	140	Maiden's Heart
+10141	15	0	50	Radish
+10142	15	0	90	Snow Beet
+10143	15	0	150	Giant's Heart
+10144	15	0	30	Wheat
+10145	15	0	70	Barley
+10146	15	0	50	Rye
+10147	15	0	110	Rice
+10148	15	0	210	Ancient Rice
+10149	15	0	80	Snow Wheat
+10150	15	0	130	Ancient Wheat
+10151	15	0	80	Sun-kissed Wheat
+10152	15	0	230	Watermelon
+10153	15	0	270	Mellow Yellow
+10154	15	0	370	Cannonball
+10155	15	0	410	Kegling
+10156	15	0	410	Snowman
+10157	15	0	410	Blue Melon
+10158	15	0	270	Glitterball
+10159	15	0	460	Lavaman
+10160	15	0	30	Tea Leaves
+10161	15	0	80	Qingxin Oolong
+10162	15	0	80	Kolkhida
+10163	15	0	80	Yabukita
+10200	24	0	80	Daisy
+10201	24	0	50	Pink Daisy
+10202	24	0	50	Orange Daisy
+10203	24	0	50	White Daisy
+10204	24	0	120	Ice Daisy
+10205	24	0	170	Rock Daisy
+10206	24	0	120	Aqua Daisy
+10207	24	0	170	Lava Daisy
+10208	24	0	230	Goldband Lily
+10209	24	0	130	Edelweiss
+10210	24	0	120	Incan Lily
+10211	24	0	270	Stargazer
+10212	24	0	270	Blackmore
+10213	24	0	270	Water Lily
+10214	24	0	340	Edelblau
+10215	24	0	320	Fire Lily
+10216	24	0	80	Hibiscus
+10217	24	0	160	Hollyhock
+10218	24	0	120	Striped Hibiscus
+10219	24	0	160	Cotton Rosemallow
+10220	24	0	160	Violet Hibiscus
+10221	24	0	210	Desert Hibiscus
+10222	24	0	210	Blue Hibiscus
+10223	24	0	210	Lava Hibiscus
+10224	24	0	240	Lotus
+10225	24	0	280	Water Lotus
+10226	24	0	280	Lullaby
+10227	24	0	310	Nirvana
+10228	24	0	310	Samsara
+10229	24	0	270	Mountain Lotus
+10230	24	0	280	Snow Queen
+10231	24	0	310	Lava Lotus
+10232	24	0	80	Marguerite
+10233	24	0	120	Yellow Marguerite
+10234	24	0	120	Pink Marguerite
+10235	24	0	120	Purple Marguerite
+10236	24	0	120	Chamomile
+10237	24	0	160	Giant Marguerite
+10238	24	0	120	Blue Marguerite
+10239	24	0	160	Aqua Chamomile
+10240	24	0	120	Strawberry Pansy
+10241	24	0	190	Violet Pansy
+10242	24	0	230	Orange Pansy
+10243	24	0	250	Viola
+10244	24	0	350	Blue Valentine
+10245	24	0	160	Sunlight Pansy
+10246	24	0	160	Snow White Pansy
+10247	24	0	230	Aquature
+10248	24	0	290	Queen of the Night
+10249	24	0	330	Flowing Clouds
+10250	24	0	330	Clear Water
+10251	24	0	330	Snow Moon
+10252	24	0	330	Mortal Enemy
+10253	24	0	290	Orchid Cactus
+10254	24	0	330	Epiphyllum
+10255	24	0	330	Pink Orchid Cactus
+10256	24	0	280	Red Rose
+10257	24	0	330	Pink Rose
+10258	24	0	330	Blue Rose
+10259	24	0	330	White Rose
+10260	24	0	380	Moon River
+10261	24	0	330	Solar Ray
+10262	24	0	330	King of Roses
+10263	24	0	290	Desert Rose
+10264	24	0	150	Sunflower
+10265	24	0	190	Moulin Rouge
+10266	24	0	190	White Night
+10267	24	0	240	Rising Sun
+10268	24	0	240	Eclipse
+10269	24	0	190	Lemon Aura
+10270	24	0	240	Incredible Sunflower
+10271	24	0	200	Sunset Beach
+10272	24	0	80	Tulip
+10273	24	0	80	Yellow Tulip
+10274	24	0	80	White Tulip
+10275	24	0	120	Angel's Trumpet
+10276	24	0	120	Ice Trumpet
+10277	24	0	120	Champagne Flute
+10278	24	0	170	Holy Grail
+10279	24	0	120	Devil's Trumpet
+19999	28	0	1	Grass
+30000	11	0	1780	Vase (Pink)
+30001	11	0	1780	Vase (Blue)
+30002	11	0	2080	Vase (Orange)
+30003	11	0	1330	Vase (White)
+30004	11	0	1260	Vase (Yellow)
+30010	11	0	760	Potted Daisy
+30011	11	0	580	Potted Pink Daisy
+30012	11	0	580	Potted Orange Daisy
+30013	11	0	580	Potted White Daisy
+30014	11	0	520	Potted Ice Daisy
+30015	11	0	760	Potted Rock Daisy
+30016	11	0	520	Potted Aqua Daisy
+30017	11	0	760	Potted Lava Daisy
+30020	11	0	970	Potted Marguerite
+30021	11	0	1270	Potted Yellow Marguerite
+30022	11	0	670	Potted Pink Marguerite
+30023	11	0	670	Potted Purple Marguerite
+30024	11	0	1270	Potted Chamomile
+30025	11	0	970	Potted Giant Marguerite
+30026	11	0	670	Potted Blue Marguerite
+30027	11	0	970	Potted Aqua Chamomile
+30030	11	0	1210	Potted Strawberry Pansy
+30031	11	0	1740	Potted Violet Pansy
+30032	11	0	1440	Potted Orange Pansy
+30033	11	0	2260	Potted Viola
+30034	11	0	2260	Potted Blue Valentine
+30035	11	0	910	Potted Sunlight Pansy
+30036	11	0	910	Potted Snow White Pansy
+30037	11	0	1440	Potted Aquature
+30038	11	0	550	Potted Hibiscus
+30039	11	0	20	Flowerpot
+30040	11	0	90	White Planter
+30041	11	0	90	Wooden Planter
+30042	11	0	40	Houseplant 1
+30043	11	0	40	Houseplant 2
+30044	11	0	40	Houseplant 3
+30045	11	0	390	Houseplant 4
+30100	11	0	1000	Sunset Photo
+30101	11	0	1000	Morning Sky Photo
+30102	11	0	1000	Night Sky Photo
+30103	11	0	1000	Cove Photo
+30104	11	0	1000	Cherry Blossom Photo
+30105	11	0	1000	Waterfall Photo
+30106	11	0	1000	Lake Photo
+30107	11	0	1000	Snowy Mountain Photo
+30108	11	0	1000	Ocean Photo
+30109	11	0	1000	Palm Tree Photo
+30110	11	0	1000	Fall Leaves Photo
+30111	11	0	1000	Desert Photo
+30112	11	0	1000	Oasis Photo
+30113	11	0	1000	Wilderness Photo
+30200	11	0	15060	Backpack
+30201	11	0	440	Toolbox
+30202	11	0	110	Hammer
+30203	11	0	690	Blueprint
+30204	11	0	190	Wooden Box
+30205	11	0	300	Wooden Box (Green)
+30206	11	0	1570	Wooden Box (Light Blue)
+30207	11	0	1630	Wooden Box (Orange)
+30208	11	0	230	Barrel
+30209	11	0	260	Anvil
+30210	11	0	110	Wooden Bucket
+30211	11	0	90	Metal Bucket
+30212	11	0	5030	Tricolor Swim Ring
+30213	11	0	4440	Simple Swim Ring
+30214	11	0	4400	Colorful Swim Ring
+30215	11	0	250	Buoy (Green)
+30216	11	0	270	Buoy (Light Blue)
+30217	11	0	310	Buoy (Yellow)
+30218	11	0	260	Palette and Paintbrush
+30219	11	0	560	Lyre
+30220	11	0	150	Bow
+30221	11	0	420	Tuning Fork
+30222	11	0	840	Trash Can (White)
+30223	11	0	1110	Trash Can (Navy Blue)
+30224	11	0	790	Trash Can (Red)
+30225	11	0	450	Quill Pen
+30226	11	0	3050	Ore
+30227	11	0	3090	Coal
+30228	11	0	210	Wooden Box and Small Box
+30229	11	0	770	Wheel
+30230	11	0	70	Storage Box
+30231	11	0	100	Ore Box
+30232	11	0	130	Coal Box
+30233	11	0	230	Handwritten Sign 1
+30234	11	0	230	Handwritten Sign 2
+30235	11	0	520	Crafting Shop Sign
+30236	11	0	520	General Store Sign
+30237	11	0	520	Restaurant Sign
+30238	11	0	690	Product Display Sign
+30239	11	0	690	Document
+30240	11	0	700	Newspaper
+30241	11	0	10500	Newspaper Stack
+30242	11	0	2610	Cash Register
+30243	11	0	110	Black Decorative Plate
+30244	11	0	250	Green Decorative Plate
+30245	11	0	560	Yellow Decorative Plate
+30246	11	0	630	Red Decorative Plate
+30247	11	0	140	Simple Decorative Plate
+30248	11	0	1380	Blue Decorative Plate
+30249	11	0	4080	Cool Decorative Plate
+30250	11	0	1310	Ornate Decorative Plate
+30251	11	0	1110	Rustic Decorative Plate
+30252	11	0	3140	Square Decorative Plate
+30253	11	0	80	Black Bowl
+30254	11	0	260	Green Bowl
+30255	11	0	570	Yellow Bowl
+30256	11	0	690	Laundry Basket
+30257	11	0	90	Basket
+30258	11	0	90	Creel
+30259	11	0	90	Strainer
+30260	11	0	90	Net
+30261	11	0	140	Trapping Basket
+30262	11	0	1220	White Trapping Basket
+30263	11	0	1850	Sand
+30264	11	0	20	Simple Pot
+30265	11	0	40	Flat Pot
+30266	11	0	90	Fancy Pot
+30267	11	0	3070	Pink Dyeing Pot
+30268	11	0	3070	Orange Dyeing Pot
+30269	11	0	220	Blue Dyeing Pot
+30270	11	0	890	Pink Dye
+30271	11	0	890	Orange Dye
+30272	11	0	70	Blue Dye
+30273	11	0	170	Shovel
+30274	11	0	480	Bus Stop
+30275	11	0	230	Lantern
+30276	11	0	58950	Clock
+30277	11	0	13230	Large Floral Decoration
+30278	11	0	6930	Small Floral Decoration
+30279	11	0	410	Cow Bronze Sculpture
+30280	11	0	410	Horse Bronze Sculpture
+30281	11	0	410	Reindeer Bronze Sculpture
+30282	11	0	410	Fish Bronze Sculpture
+30283	11	0	8330	Cow Snow Sculpture
+30284	11	0	8330	Horse Snow Sculpture
+30285	11	0	8330	Reindeer Snow Sculpture
+30286	11	0	8330	Sasquatch Snow Sculpture
+30287	11	0	9240	Snowman
+30288	11	0	10800	Tournament Flag 1
+30289	11	0	10800	Tournament Flag 2
+30290	11	0	10800	Tournament Flag 3
+30291	11	0	10650	Tournament Flag 4
+30292	11	0	10800	Festival Flag 1
+30293	11	0	10050	Festival Flag 2
+30294	11	0	10120	Festival Flag 3
+30295	11	0	10800	Festival Flag 4
+30300	11	0	0	Gorgan's Gift
+50000	1	1000	3	Asparagus Seeds
+50001	1	1001	3	White Asparagus Seeds
+50002	1	1002	3	Purple Asparagus Seeds
+50003	1	1003	3	Phalanx Seeds
+50004	1	1004	3	Lava Asparagus Seeds
+50005	1	1005	3	Macedonia Seeds
+50006	1	1006	3	Water Asparagus Seeds
+50007	1	1007	3	Sparta Seeds
+50008	1	1008	3	Broccoli Seeds
+50009	1	1009	3	Broccolini Seeds
+50010	1	1010	3	Cauliflower Seeds
+50011	1	1011	3	Romanesco Seeds
+50012	1	1012	3	Yggdrasil Seeds
+50013	1	1013	3	Blue Broccoli Seeds
+50014	1	1014	3	Evergreen Seeds
+50015	1	1015	3	Dryad Seeds
+50016	1	1016	3	Cabbage Seeds
+50017	1	1017	3	Red Cabbage Seeds
+50018	1	1018	3	Pepper Cabbage Seeds
+50019	1	1019	3	Dome Cabbage Seeds
+50020	1	1020	3	Lava Cabbage Seeds
+50021	1	1021	3	Pointy Cabbage Seeds
+50022	1	1022	3	Whitesphere Cabbage Seeds
+50023	1	1023	3	Fireball Cabbage Seeds
+50024	1	1024	3	Celery Seeds
+50025	1	1025	3	Mystic Herb Seeds
+50026	1	1026	3	White Celery Seeds
+50027	1	1027	3	Royal Herb Seeds
+50028	1	1028	3	Icy Celery Seeds
+50029	1	1029	3	Spicy Celery Seeds
+50030	1	1030	3	Blue Herb Seeds
+50031	1	1031	3	Desert Herb Seeds
+50032	1	1032	3	Corn Seeds
+50033	1	1033	3	Fodder Corn Seeds
+50034	1	1034	3	Sweet Corn Seeds
+50035	1	1035	3	Sunset Corn Seeds
+50036	1	1036	3	Glass Gem Corn Seeds
+50037	1	1037	3	Desert Corn Seeds
+50038	1	1038	3	Crystal Corn Seeds
+50039	1	1039	3	Goldsilver Corn Seeds
+50040	1	1040	3	Carrot Seeds
+50041	1	1041	3	Baby Carrot Seeds
+50042	1	1042	3	Black Carrot Seeds
+50043	1	1043	3	White Carrot Seeds
+50044	1	1044	3	Mandrake Seeds
+50045	1	1045	3	Snow Carrot Seeds
+50046	1	1046	3	Aqua Carrot Seeds
+50047	1	1047	3	Alraune Seeds
+50048	1	1048	3	Eggplant Seeds
+50049	1	1049	3	Globe Eggplant Seeds
+50050	1	1050	3	Striped Eggplant Seeds
+50051	1	1051	3	White Eggplant Seeds
+50052	1	1052	3	Lightbulb Eggplant Seeds
+50053	1	1053	3	Rock Eggplant Seeds
+50054	1	1054	3	Water Eggplant Seeds
+50055	1	1055	3	Flame Eggplant Seeds
+50056	1	1056	3	Green Bell Pepper Seeds
+50057	1	1057	3	Red Bell Pepper Seeds
+50058	1	1058	3	Yellow Bell Pepper Seeds
+50059	1	1059	3	Magic Bell Pepper Seeds
+50060	1	1060	3	Golden Bell Pepper Seeds
+50061	1	1061	3	Bitter Bell Pepper Seeds
+50062	1	1062	3	White Bell Pepper Seeds
+50063	1	1063	3	Snow Bell Pepper Seeds
+50064	1	1064	3	Lettuce Seeds
+50065	1	1065	3	Endive Seeds
+50066	1	1066	3	Romaine Lettuce Seeds
+50067	1	1067	3	Ice Lettuce Seeds
+50068	1	1068	3	Lava Lettuce Seeds
+50069	1	1069	3	Red Leaf Lettuce Seeds
+50070	1	1070	3	Desert Lettuce Seeds
+50071	1	1071	3	Blue Lettuce Seeds
+50072	1	1072	3	Onion Seeds
+50073	1	1073	3	Red Onion Seeds
+50074	1	1074	3	Leek Seeds
+50075	1	1075	3	Garlic Seeds
+50076	1	1076	3	Salad Onion Seeds
+50077	1	1077	3	Monster Onion Seeds
+50078	1	1078	3	Colorful Teardrop Seeds
+50079	1	1079	3	Jewel Onion Seeds
+50080	1	1080	3	Pumpkin Seeds
+50081	1	1081	3	Zucchini Seeds
+50082	1	1082	3	Squash Seeds
+50083	1	1083	3	Giant Squash Seeds
+50084	1	1084	3	Jack-o'-Lantern Seeds
+50085	1	1085	3	Cream Pumpkin Seeds
+50086	1	1086	3	Giant Water Squash Seeds
+50087	1	1087	3	Lava-o'-Lantern Seeds
+50088	1	1088	3	Pineapple Seeds
+50089	1	1089	3	Peach Pineapple Seeds
+50090	1	1090	3	Gold Barrel Pineapple Seeds
+50091	1	1091	3	Dragon Pineapple Seeds
+50092	1	1092	3	Crystal Pineapple Seeds
+50093	1	1093	3	Energy Pineapple Seeds
+50094	1	1094	3	Water Dragon Pineapple Seeds
+50095	1	1095	3	Desert Dragon Pineapple Seeds
+50096	1	1096	3	Potato Seeds
+50097	1	1097	3	Black Potato Seeds
+50098	1	1098	3	Sweet Potato Seeds
+50099	1	1099	3	Shadow Queen Potato Seeds
+50100	1	1100	3	Gold Potato Seeds
+50101	1	1101	3	Long Sweet Potato Seeds
+50102	1	1102	3	Ice Potato Seeds
+50103	1	1103	3	Siegfried Seeds
+50104	1	1104	3	Strawberry Seeds
+50105	1	1105	3	White Berry Seeds
+50106	1	1106	3	Angel Lantern Seeds
+50107	1	1107	3	Magical Berry Seeds
+50108	1	1108	3	Princess's Eye Seeds
+50109	1	1109	3	Aqua Strawberry Seeds
+50110	1	1110	3	Burning Lantern Seeds
+50111	1	1111	3	Snow Lantern Seeds
+50112	1	1112	3	Soybean Seeds
+50113	1	1113	3	Green Pea Seeds
+50114	1	1114	3	Chickpea Seeds
+50115	1	1115	3	Lentil Seeds
+50116	1	1116	3	Diamond Pea Seeds
+50117	1	1117	3	White Soybean Seeds
+50118	1	1118	3	Blue Soybean Seeds
+50119	1	1119	3	Lava Chickpea Seeds
+50120	1	1120	3	Spinach Seeds
+50121	1	1121	3	Watercress Seeds
+50122	1	1122	3	Savoy Spinach Seeds
+50123	1	1123	3	Kale Seeds
+50124	1	1124	3	Sand Kale Seeds
+50125	1	1125	3	Lilac Spinach Seeds
+50126	1	1126	3	Flametongue Seeds
+50127	1	1127	3	Pink Spinach Seeds
+50128	1	1128	3	Tomato Seeds
+50129	1	1129	3	San Marzano Seeds
+50130	1	1130	3	Ice Tomato Seeds
+50131	1	1131	3	Killer Tomato Seeds
+50132	1	1132	3	Sun Tomato Seeds
+50133	1	1133	3	Crimson Seeds
+50134	1	1134	3	King Crimson Seeds
+50135	1	1135	3	Giant Killer Tomato Seeds
+50136	1	1136	3	Turnip Seeds
+50137	1	1137	3	Beet Seeds
+50138	1	1138	3	Water Beet Seeds
+50139	1	1139	3	Heart of the Earth Seeds
+50140	1	1140	3	Maiden's Heart Seeds
+50141	1	1141	3	Radish Seeds
+50142	1	1142	3	Snow Beet Seeds
+50143	1	1143	3	Giant's Heart Seeds
+50144	1	1144	3	Wheat Seeds
+50145	1	1145	3	Barley Seeds
+50146	1	1146	3	Rye Seeds
+50147	1	1147	3	Rice Seeds
+50148	1	1148	3	Ancient Rice Seeds
+50149	1	1149	3	Snow Wheat Seeds
+50150	1	1150	3	Ancient Wheat Seeds
+50151	1	1151	3	Sun-Kissed Wheat Seeds
+50152	1	1152	3	Watermelon Seeds
+50153	1	1153	3	Mellow Yellow Seeds
+50154	1	1154	3	Cannonball Seeds
+50155	1	1155	3	Kegling Seeds
+50156	1	1156	3	Snowman Seeds
+50157	1	1157	3	Blue Melon Seeds
+50158	1	1158	3	Glitterball Seeds
+50159	1	1159	3	Lavaman Seeds
+50160	1	1160	3	Tea Leaf Seeds
+50161	1	1161	3	Qingxin Oolong Seeds
+50162	1	1162	3	Kolkhida Seeds
+50163	1	1163	3	Yabukita Seeds
+50200	1	2000	3	Daisy Seeds
+50201	1	2001	3	Pink Daisy Seeds
+50202	1	2002	3	Orange Daisy Seeds
+50203	1	2003	3	White Daisy Seeds
+50204	1	2004	3	Ice Daisy Seeds
+50205	1	2005	3	Rock Daisy Seeds
+50206	1	2006	3	Aqua Daisy Seeds
+50207	1	2007	3	Lava Daisy Seeds
+50208	1	2008	3	Goldband Lily Seeds
+50209	1	2009	3	Edelweiss Seeds
+50210	1	2010	3	Incan Lily Seeds
+50211	1	2011	3	Stargazer Seeds
+50212	1	2012	3	Blackmore Seeds
+50213	1	2013	3	Water Lily Seeds
+50214	1	2014	3	Edelblau Seeds
+50215	1	2015	3	Fire Lily Seeds
+50216	1	2016	3	Hibiscus Seeds
+50217	1	2017	3	Hollyhock Seeds
+50218	1	2018	3	Striped Hibiscus Seeds
+50219	1	2019	3	Cotton Rosemallow Seeds
+50220	1	2020	3	Violet Hibiscus Seeds
+50221	1	2021	3	Desert Hibiscus Seeds
+50222	1	2022	3	Blue Hibiscus Seeds
+50223	1	2023	3	Lava Hibiscus Seeds
+50224	1	2024	3	Lotus Seeds
+50225	1	2025	3	Water Lotus Seeds
+50226	1	2026	3	Lullaby Seeds
+50227	1	2027	3	Nirvana Seeds
+50228	1	2028	3	Samsara Seeds
+50229	1	2029	3	Mountain Lotus Seeds
+50230	1	2030	3	Snow Queen Seeds
+50231	1	2031	3	Lava Lotus Seeds
+50232	1	2032	3	Marguerite Seeds
+50233	1	2033	3	Yellow Marguerite Seeds
+50234	1	2034	3	Pink Marguerite Seeds
+50235	1	2035	3	Purple Marguerite Seeds
+50236	1	2036	3	Chamomile Seeds
+50237	1	2037	3	Giant Marguerite Seeds
+50238	1	2038	3	Blue Marguerite Seeds
+50239	1	2039	3	Aqua Chamomile Seeds
+50240	1	2040	3	Strawberry Pansy Seeds
+50241	1	2041	3	Violet Pansy Seeds
+50242	1	2042	3	Orange Pansy Seeds
+50243	1	2043	3	Viola Seeds
+50244	1	2044	3	Blue Valentine Seeds
+50245	1	2045	3	Sunlight Pansy Seeds
+50246	1	2046	3	Snow White Pansy Seeds
+50247	1	2047	3	Aquature Seeds
+50248	1	2048	3	Queen of the Night Seeds
+50249	1	2049	3	Flowing Clouds Seeds
+50250	1	2050	3	Clear Water Seeds
+50251	1	2051	3	Snow Moon Seeds
+50252	1	2052	3	Mortal Enemy Seeds
+50253	1	2053	3	Orchid Cactus Seeds
+50254	1	2054	3	Epiphyllum Seeds
+50255	1	2055	3	Pink Orchid Cactus Seeds
+50256	1	2056	3	Red Rose Seeds
+50257	1	2057	3	Pink Rose Seeds
+50258	1	2058	3	Blue Rose Seeds
+50259	1	2059	3	White Rose Seeds
+50260	1	2060	3	Moon River Seeds
+50261	1	2061	3	Solar Ray Seeds
+50262	1	2062	3	King of Roses Seeds
+50263	1	2063	3	Desert Rose Seeds
+50264	1	2064	3	Sunflower Seeds
+50265	1	2065	3	Moulin Rouge Seeds
+50266	1	2066	3	White Night Seeds
+50267	1	2067	3	Rising Sun Seeds
+50268	1	2068	3	Eclipse Seeds
+50269	1	2069	3	Lemon Aura Seeds
+50270	1	2070	3	Incredible Sunflower Seeds
+50271	1	2071	3	Sunset Beach Seeds
+50272	1	2072	3	Tulip Seeds
+50273	1	2073	3	Yellow Tulip Seeds
+50274	1	2074	3	White Tulip Seeds
+50275	1	2075	3	Angel's Trumpet Seeds
+50276	1	2076	3	Ice Trumpet Seeds
+50277	1	2077	3	Champagne Flute Seeds
+50278	1	2078	3	Holy Grail Seeds
+50279	1	2079	3	Devil's Trumpet Seeds
+59999	1	100	1	Grass Seeds
+60000	29	0	1	Manure
+60001	5	2	3	Fertilizer Lv. 1
+60002	5	3	3	Fertilizer Lv. 2
+60003	5	4	3	Fertilizer Lv. 3
+60004	5	5	3	Bloomfield Fertilizer
+60005	5	6	3	Tidewind Fertilizer
+60006	5	8	3	Quarrytop Fertilizer
+60007	5	7	3	Maplehill Fertilizer
+60008	5	9	3	Lava Fertilizer
+60009	5	10	3	Desert Fertilizer
+60010	5	11	3	Harvest Goddess Fertilizer
+60011	6	1	3	Compost Lv. 1
+60012	6	2	3	Compost Lv. 2
+60013	6	3	3	Compost Lv. 3
+70000	31	6	0	Handmade Watering Can
+70001	31	7	0	Expert Watering Can
+70002	31	8	0	Master Watering Can
+70003	31	9	0	Legendary Watering Can
+70004	31	10	0	Harvest Goddess Watering Can
+70005	32	1	0	Handmade Hoe
+70006	32	2	0	Expert Hoe
+70007	32	3	0	Master Hoe
+70008	32	4	0	Legendary Hoe
+70009	32	5	0	Harvest Goddess Hoe
+70015	34	21	0	Old Axe
+70016	34	22	0	Expert Axe
+70017	34	23	0	Master Axe
+70018	34	24	0	Legendary Axe
+70019	34	25	0	Harvest Goddess Axe
+70020	35	33	0	Brush
+70021	35	34	0	High-Quality Brush
+70022	36	35	0	Milker
+70023	36	36	0	High-Quality Milker
+70024	37	37	0	Clippers
+70025	37	38	0	High-Quality Clippers
+70026	38	31	0	Pitchfork
+70027	38	32	0	High-Quality Pitchfork
+70028	40	26	0	Old Sickle
+70029	40	27	0	Expert Sickle
+70030	40	28	0	Master Sickle
+70031	40	29	0	Legendary Sickle
+70032	40	30	0	Harvest Goddess Sickle
+70033	39	0	0	Old Fishing Rod
+70034	39	1	0	Expert Fishing Rod
+70035	39	2	0	Master Fishing Rod
+70036	39	3	0	Legendary Fishing Rod
+70037	39	4	0	Harvest Goddess Fishing Rod
+70038	41	11	0	Old Pickaxe
+70039	41	12	0	Expert Pickaxe
+70040	41	13	0	Master Pickaxe
+70041	41	14	0	Legendary Pickaxe
+70042	41	15	0	Harvest Goddess Pickaxe
+70050	42	0	0	Traveler's Lantern
+70051	42	1	0	Mist-Dispelling Lantern
+70052	42	2	0	Everlasting Lantern
+70100	14	240	0	Lantern Oil
+70900	12	0	800	Ancient Bronze Coins
+70901	12	0	2000	Ancient Silver Coins
+70902	12	0	8000	Ancient Gold Coins
+70903	12	0	20000	Ancient White Gold Coins
+70910	11	0	800	Calf Earthenware
+70911	11	0	800	Chick Earthenware
+70912	11	0	800	Horse Earthenware
+70913	11	0	800	Velociraptor Earthenware
+70914	11	0	800	Brown Bear Earthenware
+70915	11	0	800	Antique Cow Porcelain
+70916	11	0	800	Antique Chicken Porcelain
+70917	11	0	800	Antique Bengal Tiger Porcelain
+70918	11	0	800	Antique White Fox Porcelain
+70919	11	0	800	Antique Blue Bird Porcelain
+70920	11	0	800	Antique Sasquatch Porcelain
+70921	11	0	2000	Ammonite
+70922	11	0	2000	Dinosaur Fang
+70923	11	0	2000	Mammoth Tusk
+70924	11	0	2000	Coelacanth
+70925	11	0	2000	Archaeopteryx
+70926	11	0	2000	Coral
+70927	11	0	2000	Daisy Amber
+70928	11	0	2000	Lotus Amber
+70929	11	0	2000	Queen of the Night Amber
+70930	11	0	2000	Red Rose Amber
+70931	11	0	2000	Hibiscus Amber
+71000	44	0	0	DocPad
+71001	44	0	0	Power Wisp Fruit
+71002	44	0	0	Harvest Goddess Happilia Bottle
+71003	44	0	0	Bloomfield Happilia Bottle
+71004	44	0	0	Tidewind Happilia Bottle
+71005	44	0	0	Quarrytop Happilia Bottle
+71006	44	0	0	Maplehill Happilia Bottle
+71007	45	0	0	Token of Friendship
+71008	45	0	0	Token of Love
+71009	45	0	0	Blue Feather
+71010	44	0	0	Feeding Bottle
+71011	44	0	0	Letter From Your Child
+71012	44	0	0	Art's Letter in a Bottle
+71013	44	0	0	Mining Union Member Card
+71014	44	0	0	Spiral Screw
+71015	44	0	0	Dinner Party Invitation
+71016	44	0	0	Nicolas's Letter
+71017	44	0	0	Lucia's Letter
+71018	44	0	0	Fishing Zone Discount Pass
+71019	44	0	0	Mine Discount Pass
+71020	44	0	1	Fishing Zone Invitation Ticket
+71021	44	0	0	High-Quality Fabric
+71022	44	0	0	Specially Prepared Hot Milk
+71100	44	0	0	Uncharted Territory Nautical Chart
+71101	44	0	0	Breezy Island Nautical Chart
+71102	44	0	0	Sprummer Island Nautical Chart
+71103	44	0	0	Finter Island Nautical Chart
+71104	44	0	0	Ancient Island Nautical Chart
+71105	44	0	0	Treasure Island Nautical Chart
+71106	44	0	0	??? Island Nautical Chart
+71107	44	0	0	??? Island Nautical Chart
+71108	44	0	0	Mysterious Island Nautical Chart?
+71109	44	0	0	??? Island Nautical Chart
+71200	43	1	0	Old Tent
+71201	43	2	0	Traveler's Tent
+71202	43	3	0	Multifunctional Tent
+71303	44	0	0	DocNamite
+71700	44	0	0	Beginner Fishing Bait Recipe
+71701	44	0	0	Ultimate Fishing Bait Recipe
+71702	44	0	0	Chum Recipe
+71800	44	0	0	Everlasting Lantern Blueprint
+80000	21	0	200	Milk
+80001	21	0	400	Jersey Milk
+80002	21	0	600	Ayrshire Milk
+80003	27	0	150	Sheep Wool
+80004	27	0	300	Valais Blacknose Sheep Wool
+80005	27	0	400	Fabric
+80006	27	0	800	High-Quality Fabric
+80010	21	0	600	Mooberry Milk
+80011	21	0	600	Moonana Milk
+85001	20	1	50	Egg
+85002	20	2	100	Araucana Egg
+85003	20	3	150	Silkie Egg
+90001	16	1	30	Crucian Carp
+90002	16	2	40	Goldfish
+90003	16	3	70	Calico Goldfish
+90004	16	4	110	Walleye
+90005	16	5	160	Redeye
+90006	16	6	180	Tiger Eye
+90007	16	7	130	Dorado
+90008	16	8	150	Silver Dorado
+90009	16	9	240	Golden Dorado
+90010	16	10	110	Arowana
+90011	16	11	220	Green Arowana
+90012	16	12	130	Banjar Arowana
+90013	16	13	210	Super Red Arowana
+90014	16	14	370	Pirarucu
+90015	16	15	70	Tilapia
+90016	16	16	100	Nile Tilapia
+90017	16	17	100	Mozambique Tilapia
+90018	16	18	130	Piranha
+90019	16	19	200	Diamond Piranha
+90020	16	20	220	White Piranha
+90021	16	21	40	Red Crayfish
+90022	16	22	110	Blue Crayfish
+90023	16	23	180	Lava Crayfish
+90024	16	24	50	Mosquitofish
+90025	16	25	80	Smelt
+90026	16	26	130	Lava Mosquitofish
+90027	16	27	110	Perch
+90028	16	28	140	Yellow Perch
+90029	16	29	340	Akame
+90030	16	30	40	Goby
+90031	16	31	60	Black Goby
+90032	16	32	70	Striped Goby
+90033	16	33	70	Rainbow Trout
+90034	16	34	380	Huchen
+90035	16	35	410	Nidhogg
+90036	16	36	250	Barracuda
+90037	16	37	270	Blue Barracuda
+90038	16	38	270	Red Barracuda
+90039	16	39	60	Sardine
+90040	16	40	60	Anchovy
+90041	16	41	80	Round Herring
+90042	16	42	100	Cod
+90043	16	43	170	Pollock
+90044	16	44	190	Saffron Cod
+90045	16	45	160	Red Seabream
+90046	16	46	260	Black Seabream
+90047	16	47	220	Rock Bream
+90048	16	48	260	Red Bream
+90049	16	49	330	Tuna
+90050	16	50	320	Yellowfin Tuna
+90051	16	51	350	Bluefin Tuna
+90052	16	52	330	Bigeye Tuna
+90053	16	53	410	Marlin
+90054	16	54	110	Tiger Prawn
+90055	16	55	120	Black Tiger Prawn
+90056	16	56	180	Glass Shrimp
+90057	16	57	110	Lobster
+90058	16	58	140	Continental Lobster
+90059	16	59	170	Cape Lobster
+90060	16	60	240	Sea Bass
+90061	16	61	360	Snakehead
+90062	16	62	100	Black Carp
+90063	16	63	150	Koi
+90064	16	64	1000	Golden Carp
+90065	16	65	220	Mahi-Mahi
+90066	16	66	270	Pompano Mahi-Mahi
+90067	16	67	150	Gourami
+90068	16	68	210	Three Spot Gourami
+90069	16	69	240	Chocolate Gourami
+100000	7	1	0	No Bait
+100001	7	2	1	Ragworm
+100002	7	3	1	Worm
+100003	7	4	1	River Bug
+100004	7	5	1	Cut Bait
+100005	7	6	1	Clam Meat
+100006	7	7	1	Peeled Shrimp
+100007	7	8	1	Shrimp Bait
+100008	7	9	1	Fish Bait
+100009	7	10	1	Bug Bait
+100010	7	2	1	Regular Bait
+100101	8	1	1	Minced Shrimp
+100102	8	2	1	Minced Fish
+100103	8	3	1	Minced Bug
+100104	8	4	1	Minced Clam
+140000	3	0	1	Miracle Potion
+140001	3	0	1	Animal Medicine
+140002	10	0	1	Herbicide
+140003	28	0	1	Weed
+140004	4	0	1	Animal Feed
+141000	9	1	0	Small Sprinkler
+141001	9	2	0	Sprinkler
+141002	9	3	0	Splendid Sprinkler
+150000	19	0	30	Apple
+150001	19	0	30	Banana
+150002	19	0	30	Peach
+150003	19	0	30	Orange
+150004	19	0	30	Walnut
+150005	19	0	30	Olive
+150006	19	0	30	Coffee Fruit
+150007	19	0	30	Cacao
+150008	19	0	30	Cherry
+150009	19	0	30	Coconut
+151000	30	0	30	Pine Sap
+151001	22	0	30	Maple Syrup
+160000	18	0	25	Mussel
+160001	18	0	35	Oyster
+160002	18	0	25	Razor Clam
+160003	18	0	25	Clam
+160004	18	0	55	Large Clam
+160005	18	0	35	Surf Clam
+160006	18	0	55	Ark Clam
+160007	18	0	55	Egg Cockle
+160008	18	0	35	Yesso Scallop
+160009	18	0	65	Akoya Pearl Oyster
+160010	18	0	55	Geoduck
+160013	18	0	25	Mushroom
+160014	18	0	25	White Mushroom
+160015	18	0	35	Jumbo Mushroom
+160016	18	0	25	Shiitake Mushroom
+160017	18	0	25	Porcini Mushroom
+160018	18	0	35	Matsutake Mushroom
+160019	18	0	25	Morel Mushroom
+160020	18	0	35	Energy Mushroom
+160021	18	0	35	Hot Mushroom
+160022	18	0	35	Cold Mushroom
+160023	18	0	55	Truffle
+160024	18	0	55	White Truffle
+160025	18	0	55	Miracle Truffle
+160026	18	0	65	Bamboo Shoot
+160027	18	0	65	Timber Bamboo Shoot
+160028	18	0	65	Curved Bamboo Shoot
+160029	18	0	150	Harvest Goddess Mushroom
+160030	18	0	250	Jumbo Harvest Goddess Mushroom
+161000	18	0	55	Wild Strawberry
+165000	22	0	25	Salt
+165001	22	0	25	Spice
+165002	22	0	25	Truffle Salt
+165003	22	0	25	Extra Virgin Olive Oil
+170000	25	0	6	Lumber
+170001	25	0	7	Board Lumber
+170003	25	0	7	Square Lumber
+170006	25	0	12	Palm Lumber
+170007	25	0	14	Palm Board Lumber
+170008	25	0	14	Palm Square Lumber
+170009	25	0	24	Sturdy Lumber
+170010	25	0	28	Sturdy Board Lumber
+170011	25	0	28	Sturdy Square Lumber
+180000	26	0	2	Stone
+180001	26	0	8	Iron Ore
+180002	26	0	12	Bronze Ore
+180003	26	0	18	Silver Ore
+180004	26	0	26	Gold Ore
+180005	26	0	38	Titanium Ore
+180006	26	0	54	Platinum Ore
+180007	26	0	72	Damascus Steel Ore
+180008	26	0	92	Orichalcum Ore
+180009	26	0	114	Adamantite Ore
+180010	26	0	5	Raw Glass Gemstone
+180011	26	0	10	Raw Agate Gemstone
+180012	26	0	17	Raw Jade Gemstone
+180013	26	0	25	Raw Crystal Gemstone
+180014	26	0	35	Raw Amethyst Gemstone
+180015	26	0	45	Raw Garnet Gemstone
+180016	26	0	30	Raw Moonstone Gemstone
+180017	26	0	40	Raw Topaz Gemstone
+180018	26	0	50	Raw Opal Gemstone
+180019	26	0	70	Raw Aquamarine Gemstone
+180020	26	0	100	Raw Emerald Gemstone
+180021	26	0	100	Raw Sapphire Gemstone
+180022	26	0	100	Raw Ruby Gemstone
+180023	26	0	150	Raw Diamond Gemstone
+180024	26	0	200	Raw Tanzanite Gemstone
+180025	26	0	300	Raw Tourmaline Gemstone
+180026	26	0	500	Raw Alexandrite Gemstone
+180027	26	0	4	Hard Stone
+181000	26	0	3	Material Stone
+181001	26	0	26	Iron
+181002	26	0	34	Bronze
+181003	26	0	46	Silver
+181004	26	0	62	Gold
+181005	26	0	86	Titanium
+181006	26	0	118	Platinum
+181007	26	0	154	Damascus Steel
+181008	26	0	194	Orichalcum
+181009	26	0	238	Adamantite
+181010	26	0	10	Glass
+181011	26	0	20	Agate
+181012	26	0	34	Jade
+181013	26	0	50	Crystal
+181014	26	0	70	Amethyst
+181015	26	0	90	Garnet
+181016	26	0	60	Moonstone
+181017	26	0	80	Topaz
+181018	26	0	100	Opal
+181019	26	0	140	Aquamarine
+181020	26	0	200	Emerald
+181021	26	0	200	Sapphire
+181022	26	0	200	Ruby
+181023	26	0	300	Diamond
+181024	26	0	400	Tanzanite
+181025	26	0	600	Paraiba Tourmaline
+181026	26	0	1000	Alexandrite
+181027	26	2	6	Hard Material Stone
+190000	17	0	200	Stew
+190001	17	0	350	Truffle Soup
+190002	17	0	275	Mushroom Stew
+190003	17	0	150	Vegetable Pot-au-Feu
+190004	17	0	175	Ratatouille
+190005	17	0	200	Borscht
+190006	17	0	275	Warming Mushroom Stew
+190007	17	0	275	Cooling Mushroom Stew
+190008	17	0	275	Energy Mushroom Stew
+190009	17	0	325	Ribollita
+190010	17	0	200	Veggies au Gratin
+190011	17	0	275	Mushrooms au Gratin
+190012	17	0	300	Fish au Gratin
+190013	17	0	350	Truffles au Gratin
+190014	17	0	250	Macaroni au Gratin
+190015	17	0	200	Doria
+190016	17	0	275	Warming Mushrooms au Gratin
+190017	17	0	275	Cooling Mushrooms au Gratin
+190018	17	0	275	Energy Mushrooms au Gratin
+190020	17	0	150	Green Salad
+190021	17	0	200	Flower Salad
+190022	17	0	200	Bean Salad
+190023	17	0	300	Truffle Salad
+190024	17	0	200	Warming Salad
+190025	17	0	200	Cooling Salad
+190026	17	0	300	Caprese Salad
+190030	17	0	150	Fruit Punch
+190031	17	0	300	Ahi Poke
+190032	17	0	220	Warming Punch
+190033	17	0	220	Cooling Punch
+190034	17	0	220	Energy Punch
+190040	17	2	350	Cheese Fondue
+190041	17	2	300	Chocolate Fondue
+190050	17	2	50	Coffee
+190051	17	2	100	Caffe Latte
+190052	17	2	100	Hot Chocolate
+190053	17	2	100	Hot Milk
+190054	17	1	150	Minestrone
+190055	17	1	200	Bean Chowder
+190056	17	1	300	Fish Chowder
+190057	17	1	225	Corn Potage Soup
+190058	17	1	200	Gazpacho
+190059	17	1	250	Pumpkin Potage Soup
+190060	17	1	200	Vichyssoise
+190061	17	2	50	Soy Milk
+190062	17	1	225	Watermelon Gazpacho
+190063	17	1	225	Energy Gazpacho
+190064	17	2	50	Black Tea
+190065	17	2	100	Milk Tea
+190066	17	2	100	Maple Tea
+190067	17	2	50	Chamomile Tea
+190070	17	2	50	Tomato Juice
+190071	17	2	50	Orange Juice
+190072	17	2	50	Pineapple Juice
+190073	17	2	125	Mixed Juice
+190074	17	2	50	Coconut Milk
+190075	17	2	50	Iced Coffee
+190076	17	2	100	Green Smoothie
+190077	17	2	125	Chocolate Shake
+190078	17	2	50	Cherry Juice
+190079	17	2	50	Watermelon Smoothie
+190080	17	2	50	Energy Juice
+190081	17	2	100	Strawberry Milk
+190082	17	2	100	Crimson Shake
+190083	17	2	50	Iced Tea
+190084	17	2	100	Iced Milk Tea
+190085	17	2	100	Iced Maple Tea
+190086	17	2	50	Iced Chamomile Tea
+190087	17	2	50	Iced Oolong Tea
+190088	17	2	50	Iced Green Tea
+190090	17	0	250	No-Bake Cheesecake
+190091	17	0	150	Chocolate Cake
+190092	17	0	175	Fruitcake
+190093	17	0	250	Flower Cake
+190094	17	0	175	Nut Cake
+190095	17	0	250	Cooling Flower Cake
+190100	17	0	200	Strawberry Pie
+190101	17	0	200	Cherry Pie
+190102	17	0	200	Apple Pie
+190103	17	0	200	Peach Pie
+190104	17	0	200	Orange Pie
+190105	17	0	200	Pumpkin Pie
+190106	17	0	300	Cream Pie
+190107	17	0	200	Chocolate Pie
+190108	17	0	350	Stargazy Pie
+190109	17	0	200	Sweet Potato Pie
+190110	17	2	50	Strawberry Jam
+190111	17	2	50	Cherry Jam
+190112	17	2	50	Apple Jam
+190113	17	2	50	Peach Jam
+190114	17	2	50	Marmalade
+190115	17	2	50	Watermelon Jam
+190116	17	2	50	Hibiscus Jam
+190117	17	2	50	Pineapple Jam
+190118	17	2	50	Energy Jam
+190120	17	2	250	Red Fish Sushi
+190121	17	2	150	White Fish Sushi
+190122	17	2	200	Blue Fish Sushi
+190123	17	2	300	Truffle Sushi
+190130	17	0	125	Small Grilled Fish
+190131	17	0	150	Grilled Fish
+190132	17	0	200	Jumbo Grilled Fish
+190140	17	0	250	Small Fish Meunière
+190141	17	0	275	Fish Meunière
+190142	17	0	325	Jumbo Meunière
+190143	17	0	425	Truffles Meunière
+190144	17	0	475	Truffles à la Grande Meunière
+190150	17	0	200	White Carpaccio
+190151	17	0	300	Red Carpaccio
+190152	17	0	250	Blue Carpaccio
+190160	17	0	175	Paella
+190161	17	0	275	Shrimp Pilaf
+190162	17	0	175	Fried Rice
+190163	17	0	175	Jambalaya
+190164	17	0	250	Vegetable Fried Rice
+190165	17	0	325	Seafood Fried Rice
+190166	17	0	250	Fire Jambalaya
+190170	17	0	125	Tomato Pasta
+190171	17	0	200	Creamed Spinach Pasta
+190172	17	0	300	Creamed Shrimp Pasta
+190173	17	0	200	Cooling Tomato Pasta
+190174	17	0	350	Frutti di Mare
+190180	17	0	150	Strawberry Gelato
+190181	17	0	150	Cherry Gelato
+190182	17	0	150	Orange Gelato
+190183	17	0	150	Apple Gelato
+190184	17	0	150	Peach Gelato
+190185	17	0	125	Milk Gelato
+190186	17	0	150	Coconut Gelato
+190187	17	0	150	Chocolate Gelato
+190188	17	0	150	Flower Gelato
+190189	17	0	150	Watermelon Gelato
+190190	17	0	150	Pineapple Gelato
+190191	17	0	150	Energy Gelato
+190192	17	0	150	Sweet Potato Gelato
+190193	17	0	150	Soy Gelato
+190200	17	0	50	Fried Egg
+190201	17	0	200	Truffle Fried Egg
+190210	17	2	50	Butter
+190211	17	2	50	Dark Chocolate
+190212	17	2	50	Milk Chocolate
+190213	17	2	50	White Chocolate
+190220	17	2	75	Hard Cheese
+190221	17	2	75	Washed-Rind Cheese
+190222	17	2	75	Blue Cheese
+190223	17	2	75	Fresh Cheese
+190230	17	2	75	Baguette
+190231	17	2	150	Strawberry Jam Baguette
+190232	17	2	150	Cherry Jam Baguette
+190233	17	2	150	Marmalade Baguette
+190234	17	2	150	Apple Jam Baguette
+190235	17	2	150	Peach Jam Baguette
+190236	17	2	200	Cream Baguette
+190237	17	2	150	Nut Bread
+190238	17	2	150	Coffee Bread
+190239	17	2	150	Watermelon Jam Baguette
+190240	17	2	150	Hibiscus Jam Baguette
+190241	17	2	150	Pineapple Jam Baguette
+190242	17	2	150	Energy Jam Baguette
+190250	17	0	175	Margherita Pizza
+190251	17	0	399	Pescatore Pizza
+190252	17	0	175	Ortolana Rossa Pizza
+190253	17	0	300	Bismarck Pizza
+190254	17	0	250	Boscaiola Pizza
+190255	17	0	250	Ortolana Bianca Pizza
+190256	17	0	375	Tofu Pizza
+190257	17	0	175	Chocolate Pizza
+190258	17	0	175	Fruit Pizza
+190259	17	0	175	Energy Pizza
+190260	17	0	300	Coconut Pizza
+190261	17	0	425	Four-Cheese Pizza
+190270	17	0	100	Tofu
+190271	17	0	75	Eggy Tofu
+190272	17	0	75	Bean Tofu
+190273	17	0	100	Jade Tofu
+190280	17	0	250	Fish Taco
+190281	17	0	125	S'mores
+190282	17	0	150	Potato Salad
+190283	17	0	100	Skewered Fruit Mix
+190284	17	0	250	Marinated Seafood
+190285	17	0	200	Marinated Mushroom Salad
+190290	17	0	175	Fried Noodles
+190291	17	0	150	Open Omelet
+190292	17	0	250	French Toast
+190293	17	0	150	Pasta with Mushrooms
+190294	17	0	275	Veggie Ajillo
+190295	17	0	250	Seafood Ajillo
+190300	17	2	50	Baby Formula
+190501	17	0	75	Skewered Marshmallows
+190502	17	0	75	Corn on the Cob
+190503	17	0	75	Skewered Mushrooms
+190504	17	0	75	Skewered Apple
+190505	17	0	75	Skewered Dumplings
+190506	17	0	125	Skewered Veggies
+190507	17	0	75	Baked Sweet Potato
+190508	17	0	225	Fish Camp Grill
+190509	17	0	125	Grilled Rice Ball
+190510	17	0	175	Grilled Mussels
+190511	17	0	125	Baked Potato
+190512	17	0	125	Banana Boat
+190513	17	0	125	Curry
+190514	17	0	250	Seafood Curry
+190515	17	0	150	Veggie Curry
+190516	17	0	150	Dal Curry
+190517	17	0	150	Egg Curry
+190518	17	0	200	Mushroom Curry
+191001	17	0	50	Hodgepodge Salad
+191002	17	0	75	Yummy-looking Salad
+191003	17	0	50	Dressed Hodgepodge Dish
+191004	17	0	75	Yummy-looking Dressed Dish
+191005	17	0	50	Hodgepodge Soup
+191006	17	0	75	Yummy-looking Soup
+191007	17	0	50	Hodgepodge Drink
+191008	17	0	75	Yummy-looking Drink
+191009	17	0	50	Hodgepodge Gelato
+191010	17	0	75	Yummy-looking Gelato
+191011	17	0	50	Hodgepodge Stir-fry
+191012	17	0	75	Yummy-looking Stir-fry
+191013	17	0	50	Hodgepodge Ajillo
+191014	17	0	75	Yummy-looking Ajillo
+191015	17	0	50	Hodgepodge Simmered Dish
+191016	17	0	75	Yummy-looking Simmered Dish
+191017	17	0	50	Hodgepodge Bread
+191018	17	0	75	Yummy-looking Bread
+191019	17	0	50	Hodgepodge Grill
+191020	17	0	75	Yummy-looking Grill
+191021	17	0	50	Hodgepodge Skewers
+191022	17	0	50	Hodgepodge Bake
+191023	17	0	50	Hodgepodge Stew
+250000	2	1	30	Apple Seedling
+250001	2	2	30	Banana Seedling
+250002	2	3	30	Coconut Seedling
+250003	2	4	30	Peach Seedling
+250004	2	5	30	Cherry Seedling
+250005	2	6	30	Cacao Seedling
+250006	2	7	30	Coffee Seedling
+250007	2	8	30	Olive Seedling
+250008	2	9	30	Orange Seedling
+250009	2	10	30	Walnut Seedling
+251000	2	11	30	Pine Seedling
+251001	2	12	30	Maple Seedling

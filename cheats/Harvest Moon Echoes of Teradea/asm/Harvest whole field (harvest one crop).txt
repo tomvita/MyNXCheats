@@ -1,0 +1,67 @@
+    stp x29, x30, [sp, #-0x80]!
+    mov x29, sp
+    stp x19, x20, [sp, #0x10]
+    stp x21, x22, [sp, #0x20]
+    stp x23, x24, [sp, #0x30]
+    stp x25, x26, [sp, #0x40]
+    mov x19, x0
+    mov w23, w1
+    mov w24, w2
+    bl orig
+    mov w25, w0
+    mov w20, #0
+r_loop:
+    ldr w8, [x19, #0x54]
+    cmp w20, w8
+    b.ge done
+    mov w21, #0
+c_loop:
+    ldr w8, [x19, #0x58]
+    cmp w21, w8
+    b.ge r_next
+    cmp w20, w23
+    b.ne go
+    cmp w21, w24
+    b.eq c_next
+go:
+    madd w11, w8, w20, w21
+    ldr x9, [x19, #0x48]
+    cbz x9, done
+    ldr w10, [x9, #0x18]
+    cmp w11, w10
+    b.ge c_next
+    ldr x9, [x9, #0x10]
+    add x9, x9, #0x20
+    ldr x9, [x9, w11, uxtw #3]
+    cbz x9, c_next
+    ldrb w10, [x9, #0x70]
+    cbz w10, c_next
+    ldr x10, [x9, #0x40]
+    cbz x10, c_next
+    ldr x10, [x10, #0x18]
+    cbz x10, c_next
+    mov x0, x19
+    mov w1, w20
+    mov w2, w21
+    add x3, sp, #0x50
+    add x4, sp, #0x60
+    str xzr, [sp, #0x60]
+    str xzr, [sp, #0x68]
+    bl orig
+c_next:
+    add w21, w21, #1
+    b c_loop
+r_next:
+    add w20, w20, #1
+    b r_loop
+done:
+    mov w0, w25
+    ldp x25, x26, [sp, #0x40]
+    ldp x23, x24, [sp, #0x30]
+    ldp x21, x22, [sp, #0x20]
+    ldp x19, x20, [sp, #0x10]
+    ldp x29, x30, [sp], #0x80
+    ret
+orig:
+{original}
+    b code1+4

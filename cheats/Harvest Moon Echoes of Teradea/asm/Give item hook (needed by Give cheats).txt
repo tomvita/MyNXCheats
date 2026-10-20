@@ -1,0 +1,29 @@
+    // Give item hook, at GameInfo::ExternalUpdate (x0 = GameInfo, s0 = frame time).
+    // A give cheat writes the count to [main+A8BE108] and then the item id to
+    // [main+A8BE10C]; here the id is cleared and the game's own
+    // ItemUtil::CommonAddHaveItem(id, quality 0, count, 1, 1, sound 1) is called,
+    // the call weeding makes. The two words are never-used init flags of the
+    // developer debug menu.
+    adrp x16, 0xA8BE000
+    ldr w17, [x16, #0x10c]
+    cbz w17, orig
+    stp x29, x30, [sp, #-0x30]!
+    mov x29, sp
+    stp x0, x19, [sp, #0x10]
+    str d0, [sp, #0x20]
+    mov x19, x16
+    ldr w0, [x19, #0x10c]
+    ldr w2, [x19, #0x108]
+    str wzr, [x19, #0x10c]
+    mov w1, wzr
+    mov w3, #1
+    mov w4, #1
+    mov w5, #1
+    mov x6, xzr
+    bl 0x24AA1F0
+    ldr d0, [sp, #0x20]
+    ldp x0, x19, [sp, #0x10]
+    ldp x29, x30, [sp], #0x30
+orig:
+{original}
+    b code1+4

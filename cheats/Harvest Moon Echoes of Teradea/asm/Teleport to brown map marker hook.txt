@@ -1,0 +1,114 @@
+    // Teleport to map marker hook, at Player::ExternalUpdate (x0 = Player, s0 = frame time).
+    // The key cheat writes 1 to [main+A8BE110]. The brown marker (MapIconInfo, GameInfo+0xD0,
+    // _markedIconDataList[0]) holds a map-canvas position; WorldMapController's statics turn it
+    // into world x/z (x = cx / rate - off.x, z = cy / rate - off.z). The ground height comes from
+    // Physics.Raycast straight down from y 1000 on the ground layers only (Default, Stage,
+    // StageObject = 0x481 from App.LayerMaskConstants; with all layers it landed on an invisible
+    // area wall at the map edge), triggers ignored; then CharacterBase::Warp.
+    // The world is loaded in parts near the player, so far away the ray finds nothing at
+    // first: the player is then held above the marker at the height they started from + 10
+    // (kept in [main+A8BE104]) and the ray is retried every
+    // frame (the flag counts the tries) until the ground there has loaded, for at most 600
+    // frames. Nothing happens when the marker is not placed.
+    adrp x16, 0xA8BE000
+    ldr w17, [x16, #0x110]
+    cbz w17, orig
+    stp x29, x30, [sp, #-0x90]!
+    mov x29, sp
+    stp x0, x19, [sp, #0x10]
+    str d0, [sp, #0x20]
+    stp d8, d9, [sp, #0x28]
+    mov x19, x0
+    adrp x8, 0xA740000
+    ldr x8, [x8, #0x640]
+    cbz x8, done
+    ldr x8, [x8, #0xb8]
+    cbz x8, done
+    ldr x8, [x8]
+    cbz x8, done
+    ldr x8, [x8, #0xd0]
+    cbz x8, done
+    ldr x8, [x8, #0x10]
+    cbz x8, done
+    ldr w9, [x8, #0x18]
+    cbz w9, done
+    ldr x8, [x8, #0x20]
+    cbz x8, done
+    ldr w9, [x8, #0x14]
+    cbz w9, nomark
+    ldr s8, [x8, #0x18]
+    ldr s9, [x8, #0x1c]
+    adrp x8, 0xA36E000
+    ldr x8, [x8, #0xf10]
+    cbz x8, done
+    ldr x8, [x8]
+    cbz x8, done
+    ldr x8, [x8, #0xb8]
+    cbz x8, done
+    ldr s1, [x8, #0x14]
+    fcmp s1, #0.0
+    b.eq done
+    ldr s2, [x8, #0x18]
+    ldr s3, [x8, #0x20]
+    fdiv s8, s8, s1
+    fsub s8, s8, s2
+    fdiv s9, s9, s1
+    fsub s9, s9, s3
+    fmov s0, s8
+    movz w8, #0x447a, lsl #16
+    fmov s1, w8
+    fmov s2, s9
+    fmov s3, wzr
+    fmov s4, #-1.0
+    fmov s5, wzr
+    movz w8, #0x44fa, lsl #16
+    fmov s6, w8
+    add x0, sp, #0x40
+    mov w1, #0x481
+    mov w2, #1
+    bl 0x7324B10
+    adrp x16, 0xA8BE000
+    cbz w0, miss
+    str wzr, [x16, #0x110]
+    ldr s1, [sp, #0x44]
+    b warp
+miss:
+    ldr w17, [x16, #0x110]
+    cmp w17, #1
+    b.ne count
+    ldr x0, [x19, #0x118]
+    cbz x0, done
+    mov x1, xzr
+    bl 0x73301D0
+    fmov s3, #10.0
+    fadd s1, s1, s3
+    adrp x16, 0xA8BE000
+    str s1, [x16, #0x104]
+count:
+    ldr w17, [x16, #0x110]
+    add w17, w17, #1
+    cmp w17, #600
+    csel w17, wzr, w17, gt
+    str w17, [x16, #0x110]
+    ldr s1, [x16, #0x104]
+warp:
+    fmov s0, s8
+    fmov s2, s9
+    fmov s3, wzr
+    fmov s4, wzr
+    fmov s5, wzr
+    mov x0, x19
+    mov x1, xzr
+    bl 0x28063A0
+    b done
+nomark:
+    adrp x16, 0xA8BE000
+    str wzr, [x16, #0x110]
+done:
+    ldp d8, d9, [sp, #0x28]
+    ldr d0, [sp, #0x20]
+    ldp x0, x19, [sp, #0x10]
+    ldp x29, x30, [sp], #0x90
+orig:
+{original}
+    b code1+4

@@ -1,0 +1,64 @@
+    // Moon jump hook, at Player::ExternalFixedUpdate (x0 = Player, s0 = tick time, every physics tick).
+    // The key cheat keeps [main+A8BE114] at 1 while the keys are held and 0 otherwise. While it is
+    // set, the player's Rigidbody (+0x118) has gravity off, its position is raised 0.5 and its vertical speed zeroed every tick
+    // (the mover overwrites the velocity, so a speed alone does not lift);
+    // the byte [main+A8BE11C] remembers that gravity was turned off. On release, once: gravity
+    // back on and upward speed 0.
+    adrp x16, 0xA8BE000
+    ldr w17, [x16, #0x114]
+    cbnz w17, lift
+    ldrb w17, [x16, #0x11c]
+    cbz w17, orig
+    strb wzr, [x16, #0x11c]
+    stp x29, x30, [sp, #-0x30]!
+    mov x29, sp
+    stp x0, x19, [sp, #0x10]
+    str d0, [sp, #0x20]
+    ldr x19, [x0, #0x118]
+    cbz x19, done
+    mov x0, x19
+    mov w1, #1
+    mov x2, xzr
+    bl 0x732E690
+    mov x0, x19
+    mov x1, xzr
+    bl 0x7334390
+    fmov s1, wzr
+    b setv
+lift:
+    mov w17, #1
+    strb w17, [x16, #0x11c]
+    stp x29, x30, [sp, #-0x30]!
+    mov x29, sp
+    stp x0, x19, [sp, #0x10]
+    str d0, [sp, #0x20]
+    ldr x19, [x0, #0x118]
+    cbz x19, done
+    mov x0, x19
+    mov w1, wzr
+    mov x2, xzr
+    bl 0x732E690
+    mov x0, x19
+    mov x1, xzr
+    bl 0x73301D0
+    movz w8, #0x3f00, lsl #16
+    fmov s3, w8
+    fadd s1, s1, s3
+    mov x0, x19
+    mov x1, xzr
+    bl 0x73302F0
+    mov x0, x19
+    mov x1, xzr
+    bl 0x7334390
+    fmov s1, wzr
+setv:
+    mov x0, x19
+    mov x1, xzr
+    bl 0x7334440
+done:
+    ldr d0, [sp, #0x20]
+    ldp x0, x19, [sp, #0x10]
+    ldp x29, x30, [sp], #0x30
+orig:
+{original}
+    b code1+4

@@ -1,0 +1,118 @@
+    stp x29, x30, [sp, #-0x80]!
+    mov x29, sp
+    stp x19, x20, [sp, #0x10]
+    stp x21, x22, [sp, #0x20]
+    stp x23, x24, [sp, #0x30]
+    stp x25, x26, [sp, #0x40]
+    mov x19, x0
+    mov w23, w1
+    mov w24, w2
+    mov w22, w3
+    mov w25, #0
+    mov w26, #0
+    adrp x0, 0xa740000
+    ldr x0, [x0, #0x640]
+    cbz x0, done
+    ldr x0, [x0, #0xb8]
+    cbz x0, done
+    ldr x0, [x0]
+    cbz x0, done
+    ldr x0, [x0, #0x68]
+    cbz x0, done
+    ldr x0, [x0, #0x18]
+    cbz x0, done
+    ldr x0, [x0, #0x10]
+    cbz x0, done
+    ldr x12, [x0, #0x18]
+    cbz x12, done
+    ldr w13, [x0, #0x20]
+    add x12, x12, #0x20
+g_loop:
+    cbz w13, g_done
+    ldr w15, [x12]
+    tbnz w15, #31, g_next
+    ldr x15, [x12, #0x10]
+    cbz x15, g_next
+    ldr x15, [x15, #0x28]
+    cbz x15, g_next
+    ldr x16, [x15, #0x10]
+    cbz x16, g_next
+    ldr w17, [x15, #0x18]
+    add x16, x16, #0x20
+i_loop:
+    cbz w17, g_next
+    ldr w10, [x16, #4]
+    cmp w10, w22
+    b.ne i_next
+    ldr w10, [x16, #0xc]
+    add w26, w26, w10
+i_next:
+    add x16, x16, #0x14
+    sub w17, w17, #1
+    b i_loop
+g_next:
+    add x12, x12, #0x18
+    sub w13, w13, #1
+    b g_loop
+g_done:
+    cmp w26, #0
+    b.le done
+    mov w20, #0
+r_loop:
+    ldr w8, [x19, #0x54]
+    cmp w20, w8
+    b.ge done
+    mov w21, #0
+c_loop:
+    ldr w8, [x19, #0x58]
+    cmp w21, w8
+    b.ge r_next
+    madd w11, w8, w20, w21
+    ldr x9, [x19, #0x48]
+    cbz x9, done
+    ldr w10, [x9, #0x18]
+    cmp w11, w10
+    b.ge c_next
+    ldr x9, [x9, #0x10]
+    add x9, x9, #0x20
+    ldr x9, [x9, w11, uxtw #3]
+    cbz x9, c_next
+    ldrb w10, [x9, #0x30]
+    cbnz w10, c_next
+    ldr x9, [x9, #0x40]
+    cbz x9, c_next
+    ldr x10, [x9, #0x20]
+    cbnz x10, c_next
+    ldr x10, [x9, #0x28]
+    cbnz x10, c_next
+    ldr x10, [x9, #0x18]
+    cbnz x10, c_next
+    ldr w10, [x9, #0x10]
+    tbz w10, #0, c_next
+    mov x0, x19
+    mov w1, w20
+    mov w2, w21
+    mov w3, w22
+    bl orig
+    cmp w20, w23
+    b.ne c_next
+    cmp w21, w24
+    b.ne c_next
+    mov w25, w0
+c_next:
+    add w21, w21, #1
+    b c_loop
+r_next:
+    add w20, w20, #1
+    b r_loop
+done:
+    mov w0, w25
+    ldp x25, x26, [sp, #0x40]
+    ldp x23, x24, [sp, #0x30]
+    ldp x21, x22, [sp, #0x20]
+    ldp x19, x20, [sp, #0x10]
+    ldp x29, x30, [sp], #0x80
+    ret
+orig:
+{original}
+    b code1+4
