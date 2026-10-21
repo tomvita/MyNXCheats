@@ -61,6 +61,9 @@
 [if game freeze use Change Weapons to unfreeze]
 20000000 
 
+[if game freeze use Change Weapons to unfreeze end]
+20000001
+
 [except life all other codes should not work on emulator]
 20000000 
 

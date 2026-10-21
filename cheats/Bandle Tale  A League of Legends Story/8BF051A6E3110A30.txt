@@ -64,6 +64,9 @@
 [stars 100]
 04000000 043BAC24 42C80000 
 
+[stats hack modifier end]
+20000001
+
 [stats research]
 20000000 
 
