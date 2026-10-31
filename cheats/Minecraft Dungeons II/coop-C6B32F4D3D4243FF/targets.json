@@ -1,0 +1,52 @@
+{
+  "Movement": {
+    "class": "PlayerCharacterMovementComponent",
+    "vtable_relative": "0x938d1f0",
+    "vtable_anchor_offset": "0x93661d0"
+  },
+  "NoCooldown": {
+    "class": "GE_AbilityCooldown",
+    "vtable_relative": "0x8fbb330",
+    "vtable_anchor_offset": "0x8f94310"
+  },
+  "PlayerInput": {
+    "class": "EnhancedPlayerInput",
+    "vtable_relative": "0x8d50358",
+    "vtable_anchor_offset": "0x8d29338"
+  },
+  "attr_8": {
+    "class": "ATR_Movement",
+    "vtable_relative": "0x91b5f68",
+    "vtable_anchor_offset": "0x918ef48"
+  },
+  "attr_18": {
+    "class": "ATR_RangedAttack",
+    "vtable_relative": "0x91b6618",
+    "vtable_anchor_offset": "0x918f5f8"
+  },
+  "attr_40": {
+    "class": "ATR_Health",
+    "vtable_relative": "0x91b58b8",
+    "vtable_anchor_offset": "0x918e898"
+  },
+  "attr_58": {
+    "class": "ATR_Soul",
+    "vtable_relative": "0x91b6cc8",
+    "vtable_anchor_offset": "0x918fca8"
+  },
+  "attr_60": {
+    "class": "ATR_Currency",
+    "vtable_relative": "0x91b5560",
+    "vtable_anchor_offset": "0x918e540"
+  },
+  "attr_68": {
+    "class": "ATR_XP",
+    "vtable_relative": "0x91b76d0",
+    "vtable_anchor_offset": "0x91906b0"
+  },
+  "attr_80": {
+    "class": "ATR_Loot",
+    "vtable_relative": "0x8fcf9e0",
+    "vtable_anchor_offset": "0x8fa89c0"
+  }
+}

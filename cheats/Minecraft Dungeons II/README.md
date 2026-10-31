@@ -1,5 +1,7 @@
 # Minecraft Dungeons II -- making cheats with Breeze
 
+**Version 1.1.3.0 / BID `C6B32F4D3D4243FF`:** see the [local co-op cheats and maintenance notes](coop-C6B32F4D3D4243FF/README.md) for per-player input, refills and rarity alternatives. The tutorial below describes the older 1.1.1.0 build.
+
 This guide makes cheats for Minecraft Dungeons II from scratch with Breeze's **Attributes (GAS)** screen: infinite health, arrows that never run out, a potion that is always charged, full souls, emeralds, TNT and faster movement. No value searching is needed. The same steps work for other Unreal Engine games that keep their stats in the Gameplay Ability System.
 
 | | |
