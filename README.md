@@ -1,5 +1,13 @@
 # MyNXCheats
-cheat codes for switch that I made. I don't normally port cheats to new game updates. You have to choose between using these codes and having the game update.
+cheat codes for switch that I made. I don't normally port cheats to new game updates.
+
+## Game updated? Move the cheats with Breeze
+Breeze (beta128.08 or later) can move cheats made for an earlier version of a game to the new version by itself. Start the updated game, open Breeze's **Cheats** screen, and when it offers `ZL+ZR+X: move N cheats from <old BID>`, press ZL+ZR+X. Breeze writes a cheat file for the new build and tells you which cheats moved, which you should check, and which could not be moved.
+
+To move, Breeze needs either the old version itself, saved by Breeze **before you update** (keep the cheats in Breeze's game folder, run the old version with Breeze once and let it finish saving), or an update kit (`kit_<BID>.bin.gz`) of the old version. When a game folder here has a kit, Get Latest Cheat downloads it for you.
+
+Step by step guide: [Moving cheats after a game update](https://github.com/tomvita/Breeze-Beta/blob/master/docs/cheat%20move%20guide.md)
+
 ## The Legend of Heroes: Trails into Reverie 1.0.2 TID: 01008CB0156BC000 BID: A3E80F5FE073639D
 https://github.com/tomvita/MyNXCheats/releases/tag/01008CB0156BC000
 ![2023070619083300-CCFA659F4857F96DDA29AFEDB2E166E6](https://github.com/tomvita/MyNXCheats/assets/68505331/c07104ed-be82-445a-a16b-8c050a4782b2)
