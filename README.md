@@ -1,6 +1,11 @@
 # MyNXCheats
 cheat codes for switch that I made. I don't normally port cheats to new game updates.
 
+## Using these cheats on an emulator
+The cheat engines built into Eden, Lichii and other yuzu-family emulators miss parts of the Atmosphère cheat VM that many cheats here use (ASM and split cheats, C4 key codes), and they run every cheat in a file at once. The **cheat VM module** runs the full Atmosphère VM inside the game instead, with per-cheat on/off and an in-game menu (L+R+Down).
+
+Download and setup: [cheatvm-module](cheatvm-module/README.md)
+
 ## Game updated? Move the cheats with Breeze
 Breeze (beta128.08 or later) can move cheats made for an earlier version of a game to the new version by itself. Start the updated game, open Breeze's **Cheats** screen, and when it offers `ZL+ZR+X: move N cheats from <old BID>`, press ZL+ZR+X. Breeze writes a cheat file for the new build and tells you which cheats moved, which you should check, and which could not be moved.
 
