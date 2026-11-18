@@ -33,6 +33,10 @@ Not sure which? Install the module alone and start the game: the banner and the 
 show the title ID and build ID, and without a cheat file they show the exact path to put
 it at.
 
+A cheat file Breeze wrote starts with a `[Breeze ...]` line (and maybe a signature line).
+Those are labels with no code: as in Atmosphere they are not cheats, take none of the 255
+cheat slots, and the cheats keep the numbers Atmosphere gives them.
+
 Open the emulator's user folder (Eden: **File > Open Eden Folder**; Lichii: **File >
 Open Lichii Folders > Root Data Folder**) and put the files here:
 
