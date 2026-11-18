@@ -29,6 +29,9 @@ Switch.
 
 You need the game's title ID (`<TID>`, 16 hex digits) and the cheat file from this
 repo: `cheats/<game>/<BID>.txt`, where `<BID>` is the build ID of your game version.
+Not sure which? Install the module alone and start the game: the banner and the menu
+show the title ID and build ID, and without a cheat file they show the exact path to put
+it at.
 
 Open the emulator's user folder (Eden: **File > Open Eden Folder**; Lichii: **File >
 Open Lichii Folders > Root Data Folder**) and put the files here:
@@ -59,6 +62,8 @@ To uninstall, delete `load/<TID>/cheatvm` (or the `subsdk9` you added).
 
 ## Using it
 
+- **Banner:** after the game's first button press a banner shows for 10 s with the menu
+  keys, the title ID and build ID, and how many cheats run.
 - **Open the menu:** hold **L+R** and press **Down** (change it with `menu_keys` in
   `cheatvm.ini`). A turns a cheat on or off or opens a folder, B goes back and closes
   the menu, Left/Right page through long lists. The game gets no input while the menu
@@ -85,7 +90,8 @@ The module writes two files next to the cheat file:
 Check these first:
 - **No log file at all:** the module did not load. Check the path and that "cheatvm"
   is ticked in Add-ons.
-- **Log says no cheat file:** the `<BID>.txt` name must match your game version.
+- **"not running: no cheat file":** the menu shows the path it looks for; the `<BID>.txt`
+  name must match the build ID shown there.
 - **Menu missing or wrong but cheats run:** try `no-menu/subsdk9` and, for an upside-down
   menu, `menu_flip = 1`.
 
