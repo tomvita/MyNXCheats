@@ -1,0 +1,2301 @@
+# Disney Dreamlight Valley 1.26.1 items (build 3346726B2F640E01), from the game's ItemDatabase and its English ActivityItem texts
+id	cat	name	internal
+30200144	1	Agave	Spice!Expansion01!Agave
+30200125	1	Almonds	Fruit!Expansion01!Almond
+30200190	1	Ambrosia	Spice!Expansion02!Ambrosia
+30200002	1	Apple	Fruit!Apple
+30200236	1	Aroma Lily	Mission!Village!Phil!VLG_Phil_030_SmellyFlowers
+30200081	1	Asparagus	Vegetable!Asparagus
+30200148	1	Bamboo	Vegetable!Expansion01!Bamboo
+30200022	1	Banana	Fruit!Banana
+30200167	1	Barley	Grain!Expansion02!Barley
+30200087	1	Basil	Spice!Basil
+30200138	1	Beans	Vegetable!Expansion01!Beans
+30200207	1	Beetroot	Vegetable!Expansion03!Beetroot
+30200012	1	Bell Pepper	Vegetable!BellPepper
+30200173	1	Black Pepper	Spice!Expansion02!BlackPepper
+30200194	1	Blue Oily Bug	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_BlueBug
+30200001	1	Blueberry	Fruit!Blueberry
+30200218	1	Bonsai Star Fruit	Fruit!Expansion03!BonsaiStarfruit
+30200139	1	Broccoli	Vegetable!Expansion01!Brocoli
+30200183	1	Brussels Sprout	Vegetable!Expansion02!BrusselSprout
+30200213	1	Button Mushroom	Spice!Expansion03!ButtonMushroom
+30200140	1	Cabbage	Vegetable!Expansion01!Cabbage
+30200132	1	Cactoberries	Fruit!Expansion01!Cactoberries
+30200118	1	Candy Cane Sprout	Mission!Village!VLG_Vane_010_CandySprout
+30200240	1	Candy Corn	Vegetable!Expansion04!CandyCorn
+30200082	1	Canola	Grain!Canola
+30200170	1	Cape Gooseberry	Fruit!Expansion02!CapeGooseBerry
+30200000	1	Carrot	Vegetable!Carrot
+30200163	1	Cauliflower	Vegetable!Expansion02!Cauliflower
+30200136	1	Celery	Vegetable!Expansion01!Celery
+30200016	1	Cherry	Fruit!Cherry
+30200162	1	Chia Seeds	Vegetable!Expansion02!Chia
+30200013	1	Chili Pepper	Vegetable!ChiliPepper
+30200159	1	Chrysanthemum Tea Leaves	Spice!Chrysanthe
+30200147	1	Cinnamon	Spice!Expansion01!Cinnamon
+30200020	1	Cocoa Bean	Fruit!Cocoa
+30200096	1	Coconut	Fruit!Coconut
+30200111	1	Coffee Bean	Fruit!CoffeeBean
+30200112	1	Coffee Bean	Mission!Village!VLG_Stit_020_CoffeeBean
+30200253	1	Community Flower	Mission!Village!Ralph!VLG_Ralp_010_CropCommunityFlower
+30200011	1	Corn	Grain!Corn
+30200134	1	Cosmic Figs	Fruit!Expansion01!CosmicFigs
+30200014	1	Cucumber	Vegetable!Cucumber
+30200143	1	Cumin	Spice!Expansion01!Cumin
+30200216	1	Dark Chocolate Coffee Beans	Vegetable!Expansion03!DarkChocolateCoffeeBeans
+30200126	1	Dates	Fruit!Expansion01!Dates
+30200203	1	Deadly Nightshade	Mission!Village!VLG_Sall_010_NightShade
+30200209	1	Dill	Spice!Expansion03!Dill
+30200098	1	Dimmed Dawn Fragment	Mission!Village!VLG_Moth_040_SunstoneDawnNA
+30200133	1	Dreamango	Fruit!Expansion01!Dreamango
+30200234	1	Dreamlight Avocado	Vegetable!Expansion04!DreamlightAvocado
+30200115	1	Dreamlight Fruit	Fruit!DreamlightFruit
+30200120	1	Egg-cellent Fruit	Fruit!SpringEggFruit
+30200047	1	Eggplant	Vegetable!EggPlant
+30200188	1	Elysian Grain	Grain!Expansion02!ElysianGrain
+30200177	1	Faerie Rye	Grain!Expansion02!FaerieRye
+30200220	1	Fairy Kamut	Vegetable!Expansion03!FairyKamut
+30200217	1	Fairy Sprinkles	Spice!Expansion03!FairySprinkles
+30200221	1	Festive Cocoa Bean	Fruit!Event!FloatingFestival!Winter2025!WinterCocoa
+30200100	1	Flower of Bones	Mission!Village!VLG_Scar_030_MagicFlower
+30200135	1	Flute Root	Vegetable!Expansion01!FluteRoot
+30200223	1	Fragrant Hydrangea	Mission!Village!Tramp!VLG_Tram_020_FragrantFlower01
+30200224	1	Fragrant Purple Rising Penstemon	Mission!Village!Tramp!VLG_Tram_020_FragrantFlower_02
+30200211	1	Friendship Plant	Mission!Premium!BeautyBeast!Beast!PRM_Beas_040_WallEPlant
+30200088	1	Garlic	Spice!Garlic
+30200089	1	Ginger	Spice!Ginger
+30200097	1	Gleaming Dusk Fragment	Mission!Village!VLG_Moth_040_ActivatedSunstoneDusk
+30200189	1	Golden Apple	Fruit!Expansion02!GoldenApple
+30200231	1	Golden Pattypan	Vegetable!Mini01!GoldenPattypan
+30200046	1	Gooseberry	Fruit!Gooseberry
+30200124	1	Grapes	Fruit!Expansion01!Grape
+30200182	1	Green Beans	Vegetable!Expansion02!GreenBeans
+30200196	1	Green Bug Oil	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_GreenBug
+30200239	1	Gummy Bean	Vegetable!Expansion04!GummyBean
+30200171	1	Honeydew Melon	Fruit!Expansion02!HoneyDew
+30200160	1	Jasmine Tea Leaves	Spice!Jasmin
+30200108	1	Jungle Fern	Mission!Realm!LionKing!RLM_LionKingIP_Simb_010_Fern
+30200192	1	Jungle Fireflies	Mission!Realm!LionKing2!RLM_LionKingIP_Pumb_010_FirefliesIngredientA
+30200198	1	Jungle Fireflies	Mission!Realm!LionKing2!RLM_LionKingIP_Pumb_010_FireFliesIngredientB
+30200199	1	Jungle Fireflies	Mission!Realm!LionKing2!RLM_LionKingIP_Pumb_010_FireFliesIngredientC
+30200227	1	Juniper Berry	Fruit!Mini01!JuniperBerry
+30200083	1	Leek	Vegetable!Leek
+30200017	1	Lemon	Fruit!Lemon
+30200009	1	Lettuce	Vegetable!Lettuce
+30200178	1	Lightning Spice	Spice!Expansion02!Lightnings
+30200018	1	Lime	Fruit!Lime
+30200219	1	Lollipop Fruit	Vegetable!Expansion03!LolipopFruit
+30200233	1	Luminous Hibiscus	Spice!Expansion04!LuminousHibiscus
+30200232	1	Lychee	Fruit!Expansion04!Lychee
+30200251	1	Magical Ivy	Vegetable!Expansion04!MagicalIvy
+30200146	1	Majestea	Spice!Expansion01!Majestea
+30200237	1	Mapleberry	Fruit!Expansion04!Mapleberry
+30200095	1	Maui's Coconut	Mission!Village!VLG_Maui_010_Coconut
+30200127	1	Melon	Fruit!Expansion01!Melon
+30200248	1	Mermaid Gourd	Vegetable!Expansion04!MermaidGourd
+30200156	1	Mini Holiday Tree	Mission!Village!VLG_Jafa_020_HolidayTree
+30200158	1	Miniature Leek	Mission!Village!Mulan!Mushu!VLG_Mush_040_TinyLeekCrop
+30200091	1	Mint	Spice!Mint
+30200058	1	Mushroom	Vegetable!Mushroom
+30200131	1	Nestling Pear	Fruit!Expansion01!NestlingPear
+30200175	1	Nutmeg	Spice!Expansion02!Nutmeg
+30200180	1	Oats	Grain!Expansion02!Oats
+30200099	1	Ocean Water	Mission!Village!VLG_Moth_040_OceanWater
+30200084	1	Okra	Vegetable!Okra
+30200174	1	Olives	Fruit!Expansion02!Olive
+30200010	1	Onion	Vegetable!Onion
+30200161	1	Oolong Tea Leaves	Spice!Oolong
+30200197	1	Orange Bug Oil	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_OrangeBug
+30200086	1	Oregano	Spice!Oregano
+30200145	1	Paprika	Spice!Expansion01!Paprika
+30200229	1	Parsnip	Vegetable!Mini01!Parsnip
+30200215	1	Pearly Barley	Vegetable!Expansion03!PearlyBarley
+30200169	1	Persimmon	Fruit!Expansion02!Persimmon
+30200214	1	Pincushion Peach	Fruit!Expansion03!PincushionPeach
+30200129	1	Pineapple	Fruit!Expansion01!Pineapple
+30200191	1	Pink Marshmallow	Fruit!Event!Summer!RPT_Summer_MarshmallowPink
+30200249	1	Pomegranate	Fruit!Expansion04!Pomegranate
+30200186	1	Porcini Mushrooms	Vegetable!Expansion02!Porcini
+30200005	1	Potato	Vegetable!Potato
+30200230	1	Pufflebud Pods	Vegetable!Mini01!PufflebudPods
+30200062	1	Pumpkin	Vegetable!Pumpkin
+30200205	1	Purple Cactus Flower	Mission!Village!Alice!VLG_Alic_040_PurpleCactusFlower
+30200172	1	Radicchio	Vegetable!Expansion02!Raddichio
+30200179	1	Radish	Vegetable!Expansion02!Radish
+30200048	1	Raspberry	Fruit!Raspberry
+30200210	1	Red Currants	Fruit!Expansion03!RedCurrants
+30200195	1	Red Oily Bug	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_RedBug
+30200181	1	Rhubarb	Fruit!Expansion02!Rhubarb
+30200003	1	Rice	Grain!Rice
+30200165	1	Ring Squash	Vegetable!Expansion02!RingSquash
+30200153	1	Rotten Carp	Mission!Village!MonsterInc!Mike!VLG_Mike_020_RottenFishCrop
+30200141	1	Ruby Lentils	Vegetable!Expansion01!RubyLentils
+30200187	1	Salt Crystal	Spice!Expansion02!SaltCrystal
+30200208	1	Scarlet Kale	Vegetable!Expansion03!ScarletKale
+30200176	1	Sea Grapes	Fruit!Expansion02!SeaGrapes
+30200238	1	Sherbet Cane Straw	Grain!Expansion04!SherbertCaneStraw
+30200168	1	Sour Berries	Fruit!Expansion02!SourBerries
+30200085	1	Soya	Grain!Soya
+30200222	1	Spell Pumpkin Leaf	Mission!Village!Cinderella!Sec_Fair_010_PumpkinLeaf
+30200049	1	Spinach	Vegetable!Spinach
+30200184	1	Spiral Strawberries	Fruit!Expansion02!SpiralStrawberries
+30200119	1	Spring V-EGG-etable	Vegetable!SpringEggVeggie
+30200019	1	Strawberry	Fruit!Expansion01!Strawberry
+30200045	1	Sugarcane	Grain!Sugarcane
+30200255	1	Super Hot Chili Peppers	Vegetable!Mission!Milo!VLG_Milo_020_SuperChiliPepper
+30200228	1	Sweet Chestnut	Fruit!Mini01!SweetChestnut
+30200235	1	Sweet Heart of Palm	Vegetable!Expansion04!SweetHeartOfPalm
+30200225	1	Three Sisters Harvest	Mission!Village!Pocahontas!VLG_Poca_010_ThreeSisters
+30200201	1	Tiana's Palace Signpost	Mission!Village!Hades!VLG_Hade_040_TianaSign_Crop
+30200015	1	Tomato	Vegetable!Tomato
+30200226	1	Truffle	Spice!Mini01!Truffle
+30200200	1	Trumpet Snail	Spice!Expansion02!TrumpetSnail
+30200142	1	Turnip	Vegetable!Expansion01!Turnip
+30200250	1	Twilight Taro	Vegetable!Expansion04!Taro
+30200090	1	Vanilla	Spice!Vanilla
+30200004	1	Wheat	Grain!Wheat
+30200137	1	Yam	Vegetable!Expansion01!Yam
+30200193	1	Yellow Oily Bug	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_YellowBug
+30200051	1	Zucchini	Vegetable!Zuccini
+30200109	1	{Placeholder} Plant Crop	Mission!Realm!LionKing!RLM_LionKingIP_Simb_010_PlantCrop
+30200110	1	{Placeholder} Tree crop	Mission!Realm!LionKing!RLM_LionLingIP_Simb_010_TreeCrop
+30200116	1	{Placeholder}FakeFruit	Mission!Village!VLG_Simb_030_FakeFruit
+30200105	1	{Placeholder}Orb of Nurturing	Mission!Story!MRQS100_GrowingTokenOfNurturing
+30200107	1	{Placeholder}Thorns	Mission!Realm!LionKing!RLM_LionKingIP_Nala_010_Thorns
+30200122	1	{Placeholder}Thorns	Mission!Story!MRQS126_ThornSprout
+30200157	1	{Placeholder}Tree crop.	Mission!Realm!Mulan!RLM_Mula_020_TreeCrop
+30400197	2	Agave Seed	WildCrop!Expansion01!Agave_Seed
+30400180	2	Almond Seed	FruitTree!Expansion01!Almond_Seed
+30400029	2	Apple Seed	FruitTree!Apple_Seed
+30400287	2	Aroma Lily Seeds	Crop!Mission!Village!Phil!VLG_Phil_030_SeedSmellyFlowers
+30400134	2	Ashes	Crop!Mission!Village!VLG_Scar_030_Ashes
+30400115	2	Asparagus Seed	Crop!Asparagus_Seed
+30400199	2	Bamboo Seed	WildCrop!Expansion01!Bamboo_Seed
+30400088	2	Banana Tree Seed	FruitTree!Banana_Seed
+30400214	2	Barley Seed	Crop!Expansion02!Barley_Seed
+30400120	2	Basil Seed	WildCrop!Basil_Seed
+30400188	2	Bean Seed	Crop!Expansion01!Beans_Seed
+30400254	2	Beetroot Seeds	Crop!Expansion03!Beetroot_Seed
+30400067	2	Bell Pepper Seed	Crop!BellPepper_Seed
+30400249	2	Big Worry	Crop!Mission!Village!Sadness!VLG_Sadn_030_BlobSadMemoriesSeed
+30400224	2	Black Pepper Seed	Crop!Expansion02!BlackPepper_Seed
+30400025	2	Blueberry Bush Seed	FruitTree!Blueberry_Seed
+30400268	2	Bonsai Star Fruit Seeds	FruitTree!Expansion03!BonsaiStarfruit_Seed
+30400186	2	Broccoli Seed	Crop!Expansion01!Brocoli_Seed
+30400234	2	Brussels Sprout Seed	FruitTree!Expansion02!BrusselSprout_Seed
+30400263	2	Button Mushroom Seeds	WildCrop!Expansion03!ButtonMushroom_Seed
+30400190	2	Cabbage Seed	Crop!Expansion01!Cabbage_Seed
+30400179	2	Cactoberry Seed	FruitTree!Expansion01!Cactoberries_Seed
+30400154	2	Candy Cane Seeds	Crop!Mission!Village!VLG_Vane_010_CandySeeds
+30400290	2	Candy Corn Seed	Crop!Expansion04!CandyCorn_Seed
+30400116	2	Canola Seed	Crop!Canola_Seed
+30400219	2	Cape Gooseberry Seed	WildCrop!Expansion02!CapeGooseBerry_Seed
+30400010	2	Carrot Seed	Crop!Carrot_Seed
+30400213	2	Cauliflower Seed	Crop!Expansion02!Cauliflower_Seed
+30400182	2	Celery Seed	Crop!Expansion01!Celery_Seed
+30400071	2	Cherry Seed	FruitTree!Cherry_Seed
+30400212	2	Chia Seed	Crop!Expansion02!Chia_Seed
+30400068	2	Chili Pepper Seed	Crop!ChiliPepper_Seed
+30400145	2	Clearing Tree Seeds	Crop!Mission!Realm!LionKing!RLM_LionKingIP_Simb_010_TreeSeed
+30400086	2	Cocoa Seed	FruitTree!Cocoa_Seed
+30400131	2	Coconut Seed	FruitTree!Coconut_Seed
+30400149	2	Coffee Sapling	Crop!Mission!Village!VLG_Stit_020_CoffeeSeed
+30400150	2	Coffee Tree	FruitTree!Coffee_Seed
+30400295	2	Community Garden Seeds	Crop!Mission!Village!Ralph!VLG_Ralp_010_CommunityFlower
+30400066	2	Corn Seed	Crop!Corn_Seed
+30400185	2	Cosmic Fig Seed	Crop!Expansion01!CosmicFig_Seed
+30400132	2	Cotton Seed	Other!Cotton_Seed
+30400069	2	Cucumber Seed	Crop!Cucumber_Seed
+30400195	2	Cumin Seed	WildCrop!Expansion01!Cumin_Seed
+30400266	2	Dark Chocolate Coffee Bean Seeds	Crop!Expansion03!DarkChocolateCoffeeBeans_Seed
+30400302	2	Dark Pearl Seed	FruitTree!Expansion04!BlackPearl_Seed
+30400178	2	Date Seed	FruitTree!Expansion01!Dates_Seed
+30400242	2	Deadly Nightshade Seed	Crop!Mission!Village!Sally!VLG_Sall_010_DeadlyNightShadeSeed
+30400256	2	Dill Seeds	WildCrop!Expansion03!Dill_Seed
+30400133	2	Dimmed Dusk Fragment	Crop!Mission!Village!VLG_Moth_040_SunstoneDuskNA
+30400129	2	Dirty Dish	Crop!Mission!Realm!RLM_Rata_010_Dish_Seed
+30400181	2	Dreamango Seed	FruitTree!Expansion01!Dreamango_Seed
+30400285	2	Dreamlight Avocado Seed	Crop!Expansion04!DreamlightAvocado_Seed
+30400139	2	Dreamlight Tree Seed	Crop!Mission!Village!VLG_Simb_030_MainTreeSeed
+30400130	2	Eel	Crop!Mission!Village!VLG_Maui_010_Eel
+30400102	2	Eggplant Seed	Crop!Eggplant_Seed
+30400305	2	Electric Eel Kelp Seed	WildCrop!Expansion04!ElectricEelKelp_Seed
+30400228	2	Faerie Rye Seed	Crop!Expansion02!FaerieRye_Seed
+30400270	2	Fairy Kamut Seeds	Crop!Expansion03!FairyKamut_Seed
+30400267	2	Fairy Sprinkle Seeds	WildCrop!Expansion03!FairySprinkles_Seed
+30400239	2	Firefly Bush	Crop!Mission!Realm!LionKing2!RLM_LionKingIP_Pumb_010_Fireflies_Seed
+30400189	2	Flute Root Seed	Crop!Expansion01!FluteRoot_Seed
+30400272	2	Fragrant Hydrangea Seed	Crop!Mission!Village!Tramp!VLG_Tram_020_SeedFragrantF_01
+30400273	2	Fragrant Purple Rising Penstemon Seed	Crop!Mission!Village!Tramp!VLG_Tram_020_SeedFragrantF_02
+30400127	2	Garden Seed	Crop!Mission!Realm!RLM_Wall_010_WallESeedbag
+30400122	2	Garlic Seed	WildCrop!Garlic_Seed
+30400123	2	Ginger Seed	WildCrop!Ginger_Seed
+30400271	2	Golden Bone	Crop!Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_GoldenBoneSeedSetup
+30400281	2	Golden Pattypan Seed	Crop!Mini01!GoldenPattypan_Seed
+30400094	2	Gooseberry Seed	FruitTree!Gooseberry_Seed
+30400183	2	Grape Seed	Crop!Expansion01!Grape_Seed
+30400233	2	Green Bean Seed	Crop!Expansion02!GreenBeans_Seed
+30400158	2	Green Seed	Crop!Mission!Secret!SEC_GoldenP_GreenSeed
+30400288	2	Gummy Bean Seed	WildCrop!Expansion04!GummyBean_Seed
+30400222	2	Honeydew Seed	Crop!Expansion02!HoneyDew_Seed
+30400128	2	Ice Tear Seed	Crop!Mission!Village!VLG_Merl_070_FrozenTear
+30400143	2	Jungle Fern Seed	Crop!Mission!Realm!LionKing!RLM_LionKingIP_Simb_010_FernSeed
+30400277	2	Juniper Berry Seed	FruitTree!Mini01!JuniperBerry_Seed
+30400117	2	Leek Seed	Crop!Leek_Seed
+30400072	2	Lemon Seed	FruitTree!Lemon_Seed
+30400064	2	Lettuce Seed	Crop!Lettuce_Seed
+30400135	2	Lifeless Orb of Nurturing	Crop!Mission!Story!MRQS100_NurturingToken
+30400229	2	Lightning Tree Seed	WildCrop!Expansion02!Lightnings_Seed
+30400073	2	Lime Seed	FruitTree!Lime_Seed
+30400269	2	Lollipop Fruit Seeds	Crop!Expansion03!LolipopFruit_Seed
+30400284	2	Luminous Hibiscus Seed	WildCrop!Expansion04!LuminousHibiscus_Seed
+30400282	2	Lychee Seed	FruitTree!Expansion04!Lychee_Seed
+30400244	2	Magical Adjective Fruit Tree	Crop!Mission!Village!Alice!VLG_Alic_010_MagicAdjectiveWord_FruitTreeSeed01
+30400245	2	Magical Adjective Fruit Tree	Crop!Mission!Village!Alice!VLG_Alic_010_MagicAdjectiveWord_FruitTreeSeed02
+30400246	2	Magical Adjective Fruit Tree	Crop!Mission!Village!Alice!VLG_Alic_010_MagicAdjectiveWord_FruitTreeSeed03
+30400296	2	Magical Ivy Seed	WildCrop!Expansion04!MagicalIvy_Seed
+30400196	2	Majestea Seed	WildCrop!Expansion01!Majestea_Seed
+30400289	2	Mapleberry Seed	FruitTree!Expansion04!Mapleberry_Seed
+30400238	2	Marshmallow Bush	FruitTree!Event!Summer!RPT_Summer_MarshmallowPink_Seed
+30400187	2	Melon Seed	Crop!Expansion01!Melon_Seed
+30400259	2	Memorable Seed	Crop!Mission!Premium!BeautyBeast!Beast!PRM_Beas_040_WallESeed
+30400297	2	Mermaid Gourd Seed	Crop!Expansion04!MermaidGourd_Seed
+30400210	2	Mini Holiday Tree Seeds	Crop!Mission!Village!VLG_Jafa_020_ChristmasSeeds
+30400209	2	Miniature Leek Seeds	Crop!Mission!Village!Mulan!Mushu!BaseGame!VLG_Mush_040_TinyLeek
+30400125	2	Mint Seed	WildCrop!Mint_Seed
+30400208	2	Mulan's Tree Seeds	Crop!Mission!Realm!Mulan!Mulan_RLM_020_SeedBag
+30400126	2	Mushroom Seed	WildCrop!MushroomSeed
+30400247	2	Mystery Seed	Crop!Mission!Village!Alice!VLG_Alic_040_CactusSeed
+30400251	2	Mystery Seed #1	Crop!Mission!Story!Expansion03!MRQS_E03_030_MysterySeed01
+30400252	2	Mystery Seed #2	Crop!Mission!Story!Expansion03!MRQS_E03_030_MysterySeed02
+30400177	2	Nestling Pear Seed	FruitTree!Expansion01!NestlingPear_Seed
+30400159	2	Night Thorn Seeds	Crop!Mission!Story!MRQS126_SproutSeed
+30400226	2	Nutmeg Seed	FruitTree!Expansion02!Nutmeg_Seed
+30400231	2	Oat Seed	Crop!Expansion02!Oats_Seed
+30400118	2	Okra Seed	Crop!Okra_Seed
+30400225	2	Olive Tree Seed	FruitTree!Expansion02!Olive_Seed
+30400065	2	Onion Seed	Crop!Onion_Seed
+30400121	2	Oregano Seed	WildCrop!Oregano_Seed
+30400198	2	Paprika Seed	WildCrop!Expansion01!Paprika_Seed
+30400279	2	Parsnip Seed	Crop!Mini01!Parsnip_Seed
+30400265	2	Pearly Barley Seeds	Crop!Expansion03!PearlyBarley_Seed
+30400218	2	Persimmon Tree Seed	FruitTree!Expansion02!Persimmon_Seed
+30400264	2	Pincushion Peach Seeds	FruitTree!Expansion03!PincushionPeach_Seed
+30400192	2	Pineapple Seed	Crop!Expansion01!Pineapple_Seed
+30400298	2	Pomegranate Seed	FruitTree!Expansion04!Pomegranate_Seed
+30400237	2	Porcini Seed	WildCrop!Expansion02!Porcini_Seed
+30400060	2	Potato Seed	Crop!Potato_Seed
+30400280	2	Pufflebud Pods Seed	Crop!Mini01!PufflebudPods_Seed
+30400104	2	Pumpkin Seed	Crop!Pumpkin_Seed
+30400204	2	Purple Seeds	Crop!Mission!Story!Expansion01!MRQS_E01_180_MgSeed
+30400211	2	Purple Seeds	Crop!Mission!Story!Expansion01!MRQS_E01_180_MgSeed02
+30400223	2	Radicchio Seed	Crop!Expansion02!Raddichio_Seed
+30400230	2	Radish Seed	Crop!Expansion02!Radish_Seed
+30400097	2	Raspberry Seed	FruitTree!Raspberry_Seed
+30400257	2	Red Currant Seeds	FruitTree!Expansion03!RedCurrants_Seed
+30400232	2	Rhubarb Seed	Crop!Expansion02!Rhubarb_Seed
+30400058	2	Rice Seed	Crop!Rice_Seed
+30400215	2	Ring Squash Seed	Crop!Expansion02!RingSquash_Seed
+30400258	2	Rose Seeds	Crop!Mission!Realm!BeautyBeast2!RLM_BeautyBeast2_Cogs_010_RoseSeed
+30400193	2	Ruby Lentil Seed	Crop!Expansion01!RubyLentils_Seed
+30400255	2	Scarlet Kale Seeds	Crop!Expansion03!ScarletKale_Seed
+30400291	2	Sherbet Cane Straw Seed	Crop!Expansion04!SherbertCaneStraw_Seed
+30400262	2	Small Spell Pumpkin	Crop!Mission!Village!Cinderella!SEC_Fair_010_PumpkinellaSeed
+30400217	2	Sour Berries Seed	FruitTree!Expansion02!SourBerries_Seed
+30400119	2	Soya Seed	Crop!Soya_Seed
+30400103	2	Spinach Seed	Crop!Spinach_Seed
+30400235	2	Spiral Strawberries Seed	FruitTree!Expansion02!SpiralStrawberries_Seed
+30400203	2	Spoiled Carp	Crop!Mission!Village!MonsterInc!Mike!BaseGame!VLG_Mike_020_WastedFish
+30400156	2	Spring Egg Fruit Bush	FruitTree!SpringEggFruit_Seed
+30400074	2	Strawberry Seed	FruitTree!Expansion01!Strawberry_Seed
+30400093	2	Sugarcane Seed	Crop!Sugarcane_Seed
+30400303	2	Super Hot Chili Seeds	Crop!Mission!Milo!VLG_Milo_030_SuperChiliSeed
+30400278	2	Sweet Chestnut Seed	FruitTree!Mini01!SweetChestnut_Seed
+30400286	2	Sweet Heart of Palm Seed	Crop!Expansion04!SweetHeartOfPalm_Seed
+30400142	2	Thorn Bush Seed	Crop!Mission!Realm!LionKing!RLM_LionKingIP_Nala_ThornSeed
+30400274	2	Three Sisters Seeds	Crop!Mission!Village!Pocahontas!VLG_Poca_010_SisterSeed
+30400070	2	Tomato Seed	Crop!Tomato_Seed
+30400275	2	Truffle Seed	WildCrop!Mini01!Truffle
+30400220	2	Trumpet Snail Seed	WildCrop!Expansion02!TrumpetSnail_Seed
+30400191	2	Turnip Seed	Crop!Expansion01!Turnip_Seed
+30400299	2	Twilight Taro Seed	Crop!Expansion04!Taro_Seed
+30400240	2	Underworld Gemstone	Crop!Mission!Village!Hercules!Hades!VLG_Hade_040_TianaSign_Seed
+30400155	2	V-EGG-etable Seed	Crop!SpringEgg_Seed
+30400124	2	Vanilla Seed	WildCrop!Vanilla_Seed
+30400144	2	Waterfall Plant Seeds	Crop!Mission!Realm!LionKing!RLM_LionKingIP_Simb_010_PlantSeeds
+30400059	2	Wheat Seed	Crop!Wheat_Seed
+30400184	2	Yam Seed	Crop!Expansion01!Yam_Seed
+30400105	2	Zucchini Seed	Crop!Zuccini_Seed
+30400261	2	{DoNotTranslate}Bamboo quest seed	Crop!Mission!Village!Cogsworth!VLG_Cogs_030_JungleBambooSeed
+30400292	2	{DoNotTranslate}Blue Marshmallow Bush	FruitTree!Event!Summer!RPT_Summer_MarshmallowBlue_Seed
+30400152	2	{Placeholder}Dreamlight Fruit Seed	FruitTree!DreamlightFruit_Seed
+30400146	2	{Placeholder}IceSculpture1	Crop!Mission!Story!MRQS110_IceSculpture1Seed
+30400147	2	{Placeholder}IceSculpture2	Crop!Mission!Story!MRQS110_IceSculpture2Seed
+30400148	2	{Placeholder}IceSculpture3	Crop!Mission!Story!MRQS110_IceSculpture3Seed
+30400136	2	{Placeholder}Seed track 01	Crop!Mission!Realm!RLM_ToyS_010_SeedTrack01
+30400137	2	{Placeholder}Seed track 02	Crop!Mission!Realm!RLM_ToyS_010_SeedTrack02
+30400138	2	{Placeholder}Seed track 03	Crop!Mission!Realm!RLM_ToyS_010_SeedTrack03
+30800146	3	Beige Tale Cone Flower	Expansion02!TaleConeFlower!TaleConeFlowerD
+30800117	3	Black Glass-Like Flowers	Expansion01!GlassFlower!GlassFlowerBlack
+30800094	3	Black Passion Lily	PassionLily!PassionLilyBlack
+30800173	3	Black Silk Flower	Expansion03!SilkFlower!SilkFlowerBlack
+30800208	3	Blue Bubble Blooms	Expansion04!Kingdom!BubbleFlowers04
+30800078	3	Blue Falling Penstemon	FallingPenstemon!FallingPenstemonBlue
+30800115	3	Blue Glass-Like Flowers	Expansion01!GlassFlower!GlassFlowerBlue
+30800062	3	Blue Hydrangea	Hydrangea!HydrangeaBlue
+30800178	3	Blue Lily of the Valley	Expansion03!LilyOTheValley!LilyOfTheValleyBlue
+30800111	3	Blue Luminescent Flower	Expansion01!LuminescentFlower!LuminescentFlowerBlue
+30800087	3	Blue Marsh Milkweed	MarshMilkweed!MarshMilkweedBlue
+30800093	3	Blue Passion Lily	PassionLily!PassionLilyBlue
+30800191	3	Blue Skull Snapdragon	Expansion04!Pirates!Snapdragons02
+30800068	3	Blue Star Lily	StarLily!StarLilyBlue
+30800144	3	Blue Tale Cone Flower	Expansion02!TaleConeFlower!TaleConeFlowerB
+30800138	3	Bundle of Fresh Herbs	Mission!Village!Tiana!VLG_Tian_030_MixHerbs
+30800200	3	Chocolate Neapolitan Oxalis	Expansion04!Candy!NeapolitanOxalis01
+30800139	3	Crimson Eternal Poppies	Expansion02!EternalPoppy!EternalPoppyA
+30800059	3	Dandelion	Dandelion!DandelionYellow
+30800147	3	Dusty Violet Rose	Expansion02!PaintedRose!PaintedRoseA
+30800135	3	Flower Button	Mission!Event!Park!RPT_Park_FlowerButton01
+30800142	3	Fuchsia Eternal Poppies	Expansion02!EternalPoppy!EternalPoppyD
+30800140	3	Goldenrod Eternal Poppies	Expansion02!EternalPoppy!EternalPoppyB
+30800209	3	Green Bubble Blooms	Expansion04!Kingdom!BubbleFlowers01
+30800123	3	Green Fly Trap	Expansion01!FlyTrap!FlyTrapGreen
+30800116	3	Green Glass-Like Flowers	Expansion01!GlassFlower!GlassFlowerGreen
+30800112	3	Green Luminescent Flower	Expansion01!LuminescentFlower!LuminescentFlowerGreen
+30800092	3	Green Passion Lily	PassionLily!PassionLilyGreen
+30800095	3	Green Rising Penstemon	RisingPenstemon!RisingPenstemonGreen
+30800174	3	Green Silk Flower	Expansion03!SilkFlower!SilkFlowerGreen
+30800192	3	Green Skull Snapdragon	Expansion04!Pirates!Snapdragons03
+30800133	3	Mini Boutique	Mission!Secret!Mickey!SEC_Mick_010_MiniBoutique
+30800201	3	Mint Neapolitan Oxalis	Expansion04!Candy!NeapolitanOxalis02
+30800130	3	Night Thorn Sprout	Mission!Village!VLG_Jack_020_NightThornSprout_Flower
+30800145	3	Olive Green Tale Cone Flower	Expansion02!TaleConeFlower!TaleConeFlowerC
+30800088	3	Orange & Red Marsh Milkweed	MarshMilkweed!MarshMilkweedOrangeRed
+30800108	3	Orange Bird of Paradise	Expansion01!BirdOfParadise!BirdOfParadiseOrange
+30800118	3	Orange Glass-Like Flowers	Expansion01!GlassFlower!GlassFlowerOrange
+30800080	3	Orange Houseleek	Houseleek!HouseleekOrange
+30800085	3	Orange Marsh Milkweed	MarshMilkweed!MarshMilkweedOrange
+30800089	3	Orange Nasturtium	Nasturtium!NasturtiumOrange
+30800127	3	Orange Pitcher Plant	Expansion01!PitcherPlant!PitcherPlantOrange
+30800096	3	Orange Star Lily	StarLily!StarLilyOrange
+30800055	3	Pink Bromeliad	Bromelia!BromeliaPink
+30800119	3	Pink Cactus Flower	Expansion01!CactusFlower!CactusFlowerPink
+30800167	3	Pink Crocus	Expansion03!Crocus!CrocusPink
+30800061	3	Pink Houseleek	Houseleek!HouseleekPink
+30800081	3	Pink Hydrangea	Hydrangea!HydrangeaPink
+30800177	3	Pink Lily of the Valley	Expansion03!LilyOTheValley!LilyOfTheValleyPink
+30800113	3	Pink Luminescent Flower	Expansion01!LuminescentFlower!LuminescentFlowerPink
+30800150	3	Pink Rose	Expansion02!PaintedRose!PaintedRoseD
+30800185	3	Purple & White Foxglove	Mini01!Foxglove!FoxglovePurpleWhite
+30800054	3	Purple Bell Flower	BellFlower!BellFlowerPurple
+30800122	3	Purple Cactus Flower	Expansion01!CactusFlower!CactusFlowerPurple
+30800166	3	Purple Crocus	Expansion03!Crocus!CrocusPurple
+30800060	3	Purple Falling Penstemon	FallingPenstemon!FallingPenstemonPurple
+30800124	3	Purple Fly Trap	Expansion01!FlyTrap!FlyTrapPurple
+30800082	3	Purple Hydrangea	Hydrangea!HydrangeaPurple
+30800063	3	Purple Impatiens	Impatiens!ImpatiensPurple
+30800180	3	Purple Lily of the Valley	Expansion03!LilyOTheValley!LilyOfTheValleyPurple
+30800086	3	Purple Marsh Milkweed	MarshMilkweed!MarshMilkweedPurple
+30800067	3	Purple Rising Penstemon	RisingPenstemon!RisingPenstemonPurple
+30800187	3	Purple Thistle	Mini01!Thistle!ThistlePurple
+30800199	3	Rainbow Foxglove	Mission!Story!Mini01!MRQS_M01_140_RainbowFoxglove
+30800071	3	Red Bell Flower	BellFlower!BellFlowerRed
+30800072	3	Red Bromeliad	Bromelia!BromeliaRed
+30800207	3	Red Bubble Blooms	Expansion04!Kingdom!BubbleFlowers03
+30800076	3	Red Daisy	Daisy!DaisyRed
+30800077	3	Red Falling Penstemon	FallingPenstemon!FallingPenstemonRed
+30800114	3	Red Luminescent Flower	Expansion01!LuminescentFlower!LuminescentFlowerRed
+30800065	3	Red Nasturtium	Nasturtium!NasturtiumRed
+30800066	3	Red Passion Lily	PassionLily!PassionLilyRed
+30800125	3	Red Pitcher Plant	Expansion01!PitcherPlant!PitcherPlantRed
+30800128	3	Red Rose	Rose!RoseRed
+30800175	3	Red Silk Flower	Expansion03!SilkFlower!SilkFlowerRed
+30800193	3	Red Skull Snapdragon	Expansion04!Pirates!Snapdragons04
+30800186	3	Red Thistle	Mini01!Thistle!ThistleRed
+30800184	3	Rose & Cream Foxglove	Mini01!Foxglove!FoxgloveRoseCream
+30800176	3	Silver Silk Flower	Expansion03!SilkFlower!SilkFlowerSilver
+30800148	3	Slate Gray Rose	Expansion02!PaintedRose!PaintedRoseB
+30800202	3	Strawberry Neapolitan Oxalis	Expansion04!Candy!NeapolitanOxalis03
+30800069	3	Sunflower	Sunflower!SunflowerYellow
+30800141	3	Teal Eternal Poppies	Expansion02!EternalPoppy!EternalPoppyC
+30800102	3	The Beast's Rose	Mission!VLG_Beas_040_Rose
+30800106	3	Ugly Flower	Mission!Story!MRQS120_FadedFlower
+30800203	3	Vanilla Neapolitan Oxalis	Expansion04!Candy!NeapolitanOxalis04
+30800079	3	White & Pink Falling Penstemon	FallingPenstemon!FallingPenstemonWhitePink
+30800183	3	White & Pink Foxglove	Mini01!Foxglove!FoxgloveWhitePink
+30800083	3	White & Red Hydrangea	Hydrangea!HydrangeaWhiteRed
+30800073	3	White Bell Flower	BellFlower!BellFlowerWhite
+30800110	3	White Bird of Paradise	Expansion01!BirdOfParadise!BirdOfParadiseWhite
+30800121	3	White Cactus Flower	Expansion01!CactusFlower!CactusFlowerWhite
+30800164	3	White Crocus	Expansion03!Crocus!CrocusWhite
+30800058	3	White Daisy	Daisy!DaisyWhite
+30800084	3	White Impatiens	Impatiens!ImpatiensWhite
+30800064	3	White Marsh Milkweed	MarshMilkweed!MarshMilkweedWhite
+30800091	3	White Passion Lily	PassionLily!PassionLilyWhite
+30800149	3	White Rose	Expansion02!PaintedRose!PaintedRoseC
+30800181	3	White Thistle	Mini01!Thistle!ThistleWhite
+30800182	3	Yellow & Orange Foxglove	Mini01!Foxglove!FoxgloveYellowOrange
+30800109	3	Yellow Bird of Paradise	Expansion01!BirdOfParadise!BirdOfParadiseYellow
+30800074	3	Yellow Bromeliad	Bromelia!BromeliaYellow
+30800206	3	Yellow Bubble Blooms	Expansion04!Kingdom!BubbleFlowers02
+30800120	3	Yellow Cactus Flower	Expansion01!CactusFlower!CactusFlowerYellow
+30800165	3	Yellow Crocus	Expansion03!Crocus!CrocusYellow
+30800075	3	Yellow Daisy	Daisy!DaisyYellow
+30800179	3	Yellow Lily of the Valley	Expansion03!LilyOTheValley!LilyOfTheValleyYellow
+30800090	3	Yellow Nasturtium	Nasturtium!NasturtiumYellow
+30800126	3	Yellow Pitcher Plant	Expansion01!PitcherPlant!PitcherPlantYellow
+30800190	3	Yellow Skull Snapdragon	Expansion04!Pirates!Snapdragons01
+30800143	3	Yellow Tale Cone Flowers	Expansion02!TaleConeFlower!TaleConeFlowerA
+30800188	3	Yellow Thistle	Mini01!Thistle!ThistleYellow
+30800195	3	{DoNotTranslate}Grey Pot 01	Mission!Story!Mini01!MRQS_M01_GreyPotFlower01
+30800196	3	{DoNotTranslate}GreyPot 02.	Mission!Story!Mini01!MRQS_M01_GreyPotFlower02
+30800156	3	{DoNotTranslate}RLM_AliceIP_Alic_020_WhiteRedRoseA	Mission!Realm!Alice!RLM_AliceIP_Alic_020_WhiteRedRoseA
+30800157	3	{DoNotTranslate}RLM_AliceIP_Alic_020_WhiteRedRoseB	Mission!Realm!Alice!RLM_AliceIP_Alic_020_WhiteRedRoseB
+30800158	3	{DoNotTranslate}RLM_AliceIP_Alic_020_WhiteRedRoseC	Mission!Realm!Alice!RLM_AliceIP_Alic_020_WhiteRedRoseC
+30800159	3	{DoNotTranslate}RLM_AliceIP_Alic_020_WhiteRedRoseD	Mission!Realm!Alice!RLM_AliceIP_Alic_020_WhiteRedRoseD
+30800160	3	{DoNotTranslate}RLM_AliceIP_Alic_020_WhiteRedRoseE	Mission!Realm!Alice!RLM_AliceIP_Alic_020_WhiteRedRoseE
+30800155	3	{DoNotTranslate}SingingFlowerA	Mission!Realm!Alice!RLM_AliceIP_Alic_010_SingingFlowerA
+30800161	3	{DoNotTranslate}SingingFlowerB	Mission!Realm!Alice!RLM_AliceIP_Alic_010_SingingFlowerB
+30800162	3	{DoNotTranslate}SingingFlowerC	Mission!Realm!Alice!RLM_AliceIP_Alic_010_SingingFlowerC
+30800197	3	{DoNotTranslate}Slightly Recolored Pot	Mission!Story!Mini01!MRQS_M01_090_HalfGreyPotFlower
+30800198	3	{DoNotTranslate}Sunglow Flwer Pot	Mission!Story!Mini01!MRQS_M01_090_SunglowPot
+30800154	3	{DoNotTranslate}Waterable Door	Mission!Realm!Alice!RLM_AliceIP_WaterableDoor
+30800098	3	{Placeholder}Ice sculpture flower	Mission!Story!MRQS110_SculptureFlower01
+30800099	3	{Placeholder}Ice sculpture flower	Mission!Story!MRQS110_SculptureFlower02
+30800100	3	{Placeholder}Ice sculpture flower	Mission!Story!MRQS110_SculptureFlower03
+30800151	3	{Placeholder}RLM_LionKingIP_Timo_010_PumbaaButt	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_PumbaaButt
+31000115	4	Acorn Snail	Protein!Mini01!AcornSnail
+31000134	4	Aegean Delights	Mission!Realm!Hercules!RLM_Herc_010_GreekSeafood
+31000037	4	Albino Tuna	Mission!Realm!RLM_Moan_020_MoanaLegendaryFish
+31000118	4	Anchovy	Expansion04!Anchovy
+31000029	4	Anglerfish	AnglerFish
+31000016	4	Bass	Bass
+31000022	4	Bream	Bream
+31000069	4	Brilliant Blue Starfish	Seafood!Expansion01!BrilliantStarFishBlue
+31000020	4	Carp	Carp
+31000023	4	Catfish	Catfish
+31000099	4	Cheshire Catfish	Mission!Secret!Alice!SEC_Alic_010_CheshireCatFish
+31000098	4	Cheshire Chest	Mission!Village!CheshireCat!VLG_Ches_040_CheshireChest
+31000091	4	Clay-Soaked Salt	Mission!Village!Timon!VLG_Timo_030_ClaySoakedSalt
+31000001	4	Cod	Cod
+31000012	4	Crab	Crab
+31000066	4	Dunebopper	Expansion01!Dunebopper
+31000006	4	Eel	Eel
+31000064	4	Electric Eel	Expansion01!ElectricEel
+31000056	4	Festive Anglerfish	Event!Festive_Anglerfish
+31000054	4	Festive Bass	Event!Festive_Bass
+31000053	4	Festive Fugu	Event!Festive_Fugu
+31000055	4	Festive Salmon	Event!Festive_Salmon
+31000052	4	Festive Squid	Event!Festive_Squid
+31000094	4	Fire Suppression Potion	Mission!Village!Hades!VLG_Hade_020_Wages
+31000085	4	Flying Fish	Expansion02!FlyingFish
+31000028	4	Fugu	Fugu
+31000140	4	Ghostly Fish Remains	Mission!Village!Milo!VLG_Milo_030_GhostFish
+31000046	4	Glittering Herring	Mission!Village!Elsa!VLG_Elsa_020_UniqueHerring
+31000101	4	Goofy's Pillow	Mission!Village!Sadness!VLG_Sadn_020_GoofyWetPillow
+31000130	4	Grayscale Trout	Mission!Village!Hercules!VLG_Herc_020_CursedTrout
+31000057	4	Here and There Fish	HereAndThere
+31000013	4	Herring	Herring
+31000088	4	Hippocampus	Seafood!Expansion02!Hippocampus
+31000109	4	Honey Coral	Expansion03!CoralHoney
+31000132	4	Igloo Crab	Expansion04!IglooCrab
+31000097	4	Jar of Heart Candies	Mission!Realm!Alice!RLM_AliceIP_Alic_010_FishHeartCandies
+31000104	4	Jellied Fish	Expansion03!JelliedFish
+31000133	4	Jellyfish	Expansion04!JellyFish
+31000111	4	Joy's Wet Blanket	Mission!Village!Tramp!VLG_Tram_030_WetBlanket
+31000008	4	Kingfish	KingFish
+31000086	4	Koi	Expansion02!Koi
+31000090	4	Lamprey	Expansion02!Lamprey
+31000030	4	Lancetfish	LancetFish
+31000138	4	Lava Core	Mission!Secret!OogieBoogie!SEC_Oogi_040_LavaCore
+31000127	4	Legendary Goldfish	Mission!Realm!Hercules!RLM_Herc_010_GoldFish
+31000014	4	Lobster	Lobster
+31000093	4	Lost Crown	Mission!Realm!LionKing2!RLM_LionKing2IP_Simb_020_LostCrownFish
+31000136	4	Mango Wrasse	Expansion04!BeardedFish
+31000105	4	Measuring-Tape Snail	Expansion03!MeasuringTapeSnail
+31000117	4	Mini-Kraken	Expansion04!MiniKraken
+31000102	4	Mountain Whitefish	Expansion03!MountainWhitefish
+31000084	4	Mussel	Seafood!Expansion02!Mussel
+31000043	4	Nautilus	Mission!Village!VLG_Eric_010_Nautilus
+31000068	4	Octopus	Seafood!Expansion01!Octopus
+31000139	4	Oogie Boogie Tile	Mission!Secret!OogieBoogie!SEC_Oogi_050_Tile03Fish
+31000116	4	Ornery Crocodile	Mission!Village!Phil!VLG_Phil_020_fishingCrocodile
+31000018	4	Perch	Perch
+31000021	4	Pike	Pike
+31000065	4	Piranha	Expansion01!Piranha
+31000062	4	Pirarucu	Expansion01!Pirarucu
+31000100	4	Plush Bear Thread	Mission!Village!Joy!VLG_Joy_020_ShameBearBodyFish
+31000113	4	Plush Fish	Mini01!PlushFish
+31000074	4	Pretty Pink Starfish	Seafood!Expansion01!BrilliantStarFishPink
+31000070	4	Prisma Shrimp	Seafood!Expansion01!PrismaShrimp
+31000002	4	Rainbow Trout	RainbowTrout
+31000103	4	Red Alpine Bass	Expansion03!Oktoberbass
+31000096	4	Remnant of the First Wish	Mission!Realm!Aladdin!RLM_Jasm_020_WishRemnant
+31000063	4	Robot Fish	Expansion01!RobotFish
+31000000	4	Salmon	Salmon
+31000059	4	Sand Fish	Expansion01!SandFish
+31000072	4	Sand Worm	Protein!Expansion01!SandWorm
+31000106	4	Satin-Finned Betta	Expansion03!Satin-FinnedBetta
+31000071	4	Scorpion	Protein!Expansion01!Scorpion
+31000067	4	Sea Snail	Seafood!Expansion01!SeaSnail
+31000087	4	Sea Wolf	Expansion02!SeaWolf
+31000005	4	Seaweed	SeaWeed
+31000060	4	Shad	Expansion01!Shad
+31000007	4	Shrimp	Shrimp
+31000061	4	Skeleton Fish	Expansion01!SkeletonFish
+31000137	4	Skeleton Fish	Mission!Secret!OogieBoogie!SEC_Oogi_SkeletonFish
+31000048	4	Slimy Bug	Mission!Realm!RLM_LionKingIP_Nala_010_SlimyBug
+31000079	4	Snorkel	Mission!Realm!RLM_Mula_030_Snorkle
+31000011	4	Sole	Sole
+31000083	4	Sorcerer Hat Hermit Crab	Seafood!Expansion02!SorcererHatHermitCrab
+31000009	4	Squid	Squid
+31000089	4	Stygian Mudskipper	Seafood!Expansion02!StygianMudskipper
+31000114	4	Sweet Jelly	Product!Mini01!SweetJelly
+31000010	4	Swordfish	Swordfish
+31000108	4	Tigger Fish	Expansion03!TiggerFish
+31000003	4	Tilapia	Tilapia
+31000120	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Beach
+31000121	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Forest
+31000122	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Glade
+31000123	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Savannah
+31000124	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Frost
+31000125	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Forgotten
+31000126	4	Treasure Trove Clue	Event!TreasureHunt!Treasure_FishNote_Meadow
+31000004	4	Tuna	Tuna
+31000135	4	Unicorn Fish	Expansion04!UnicornFish
+31000017	4	Walleye	Walleye
+31000050	4	Weird Fish	Mission!Village!Nala!VLG_Nala_020_HereThereFish
+31000019	4	White Sturgeon	WhiteSturgeon
+31000131	4	{DoNotTranslate}Muse Light	Mission!Village!Hercules!VLG_Herc_020_FishMuseLight
+31100259	5	Aegean Sea Salt	Mission!Village!Phil!VLG_Phil_030_AegeanSalt
+31100100	5	Aged Venison	Mission!Story!Expansion01!MRQS_E01_160_AgedVenison
+31100119	5	Alchemical Iron Dust	Mission!Village!Jafar!VLG_Jafa_020_IronDust
+31100051	5	Anna's Hair	Mission!Village!VLG_Anna_030_AnnaHair
+31100275	5	Arcade Pixel	Mission!Village!Ralph!VLG_Ralp_030_SpecialPixel
+31100042	5	Ashes	Mission!Village!VLG_Kris_010_Ashes
+31100233	5	Astounding Asiago	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_Cheese05
+31100268	5	Basil	Mission!Story!Mini01!MRQS_M01_170!MRQS_M01_170_Basil
+31100226	5	Bland Spaghetti Tumbleweed	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_020_NoodleBall04
+31100101	5	Blank Paper	Mission!Village!VLG_Oswa_040_PaperIngredient
+31100155	5	Blue Marshmallow	Event!Summer!RPT_Summer_MarshmallowBlue
+31100198	5	Booyère Cheese	Mission!Realm!BeautyBeast2!RLM_BB2_Cogs_020_CheeseIngredient
+31100288	5	Burlap Sack of Peanuts	Mission!Secret!OogieBoogie!SEC_Oogi_020_PuzzlePeanut
+31100005	5	Butter	Product!Butter
+31100170	5	Butter	Mission!Realm!Alice!RLM_AliceIP_Ches_010_Butter
+31100086	5	Cactus Powder	Mission!Village!VLG_Eve_040_CactusPowder
+31100191	5	Cake Yeast	Mission!Village!VLG_Auro_010_CakeYeast
+31100193	5	Castle Canola	Mission!Realm!BeautyBeast2!RLM_BeautyBeast2_Lumi_010_FakecanolaIngredient
+31100007	5	Cheese	Product!Cheese
+31100179	5	Cheshire Catfish	Mission!Village!CheshireCat!VLG_Ches_040_CheshireCatFishING
+31100264	5	Chili Pepper	Mission!Story!Mini01!MRQS_M01_050!MRQS_M01_050_ChiliPepper
+31100199	5	Chilling Cucumber	Mission!Realm!BeautyBeast2!RLM_BB2_Cogs_020_CucumberIngredient
+31100030	5	Clam	Clam
+31100092	5	Coffee Bean	Mission!Realm!MonsterInc!RLM_MonsterIncIP_Sull_010_CoffeeBeans
+31100064	5	Colorful Bug	Mission!Realm!LionKing!RLM_LionKingIP_Nala_010_ColourfulBug
+31100192	5	Concentration of Black Ink	Mission!Village!SnowWhite!VLG_Snow_020_ConcentrateInk
+31100037	5	Craggy Rock	Mission!Realm!RLM_FrozenIP_Anna_010_RockIngredient
+31100208	5	Creepy Crawly Crab	Mission!Realm!BeautyBeast2!RLM_BB2_Cogs_020_Crab
+31100188	5	Cupcake Frosting	Mission!Realm!Alice!RLM_AliceIP_Alic_010_CupcakeCream
+31100060	5	Dandelion Syrup	Mission!Village!VLG_Elsa_020_SpiceMix
+31100079	5	Dark Castle Garlic	Mission!Story!MRQS133_GarlicDark
+31100076	5	Dark Castle Lettuce	Mission!Story!MRQS133_DarkLettuce
+31100145	5	Distilled Water	Mission!Story!Expansion02!MRQS_E02_031_DistilledWater
+31100238	5	Dog Kibble	Mission!Village!Lady!VLG_Lady_010_DoggyPebbles
+31100124	5	Dragon Candy	Mission!Village!Mushu!VLG_Mush_030_DragonCandies
+31100085	5	Dreamlight Cobra Lily Extract	Mission!Village!VLG_Eve_040_LilySalivaBottle
+31100140	5	Dreamlight Peppers	Mission!Secret!Remy!SEC_Remy_020_DreamlightPepper
+31100073	5	Dreamlight Salt	Mission!Story!MRQS133_DreamlightSalt
+31100061	5	Dried Ginger	Mission!Story!MRQS100_DriedGinger
+31100178	5	Dried Sprout	Mission!Village!CheshireCat!VLG_Ches_040_DriedSprouteING
+31100241	5	Edible Magic Meatball	Mission!Secret!Lady!SEC_Lady_030_MagicMeatballStack
+31100240	5	Edible Rolling Spaghetti	Mission!Secret!Lady!SEC_Lady_030_MagicNoodleStack
+31100000	5	Egg	Product!Egg
+31100295	5	Electric Eel Kelp	Expansion04!Underwater!ElectricEelKelp
+31100210	5	Empty Perfume Bottle	Mission!Village!Tigger!VLG_Tigg_010_EmptyPerfume
+31100180	5	Enchanted Barley	Mission!Story!Expansion02!MRQS_E02_132_Barley
+31100181	5	Enchanted Carrot	Mission!Story!Expansion02!MRQS_E02_132_Carrot
+31100185	5	Enchanted Cucumber	Mission!Story!Expansion02!MRQS_E02_132_Cucumber
+31100183	5	Enchanted Lettuce	Mission!Story!Expansion02!MRQS_E02_132_Lettuce
+31100182	5	Enchanted Onion	Mission!Story!Expansion02!MRQS_E02_132_Onion
+31100186	5	Enchanted Rice	Mission!Story!Expansion02!MRQS_E02_132_Rice
+31100187	5	Enchanted Tomato	Mission!Story!Expansion02!MRQS_E02_132_Tomatoe
+31100184	5	Enchanted Wheat	Mission!Story!Expansion02!MRQS_E02_132_Wheat
+31100114	5	Essence of Desire	Mission!Village!Jafar!VLG_Jafa_020_EssenceDesire
+31100115	5	Essence of Determination	Mission!Village!Jafar!VLG_Jafa_020_EssenceDetermination
+31100110	5	Essence of Excitement	Mission!Village!Jafar!VLG_Jafa_020_EssenceHolidayMagic
+31100113	5	Essence of Fantasy	Mission!Village!Jafar!VLG_Jafa_020_EssenceFantasy
+31100112	5	Essence of Hope	Mission!Village!Jafar!VLG_Jafa_020_EssenceHope
+31100116	5	Essence of Patience	Mission!Village!Jafar!VLG_Jafa_020_EssencePatience
+31100111	5	Essence of Sincerity	Mission!Village!Jafar!VLG_Jafa_020_EssenceSincerity
+31100126	5	Essence of Will	Mission!Village!Jafar!VLG_Jafa_020_WillEssenceFinal
+31100127	5	Essence of Wishes	Mission!Village!Jafar!VLG_Jafa_020_WishEssenceFinal
+31100128	5	Essence of Wonder	Mission!Village!Jafar!VLG_Jafa_020_WonderEssenceFinal
+31100189	5	Extra Salty Salt Crystal	Mission!Village!Maleficent!VLG_Male_030_ExtraSaltySaltCrystal
+31100232	5	Fabulous Fontina	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_Cheese04
+31100090	5	Final Clue	Mission!Village!VLG_Sull_040_ClueIngredient
+31100057	5	Fish Gut Oil	Mission!Village!VLG_Eric_020_FishOil
+31100245	5	Fishy Green Egg	Event!Spring!FishingEgg
+31100153	5	Flyleaf Feta	Product!Expansion02!FlyleafFeta
+31100252	5	Fog Dust	Mission!Story!Mini01!MRQS_M01_070_FogDust
+31100260	5	Fog Dust	Mission!Story!Mini01!MRQS_M01_030_FogDust
+31100088	5	Food Coloring	Mission!Village!VLG_Jack_030_FoodColouring
+31100161	5	Fountain Wish Water	Mission!Realm!Aladdin!RLM_Jasm_020_FountainWater
+31100217	5	Fresh Basil	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiBasil
+31100093	5	Fresh Compost	Mission!Village!VLG_Sull_021_Compost
+31100095	5	Gemstone Cheese	Mission!Story!Expansion01!MRQS_E01_160_GemCheese
+31100162	5	Genie's Joy	Mission!Realm!Aladdin!RLM_Jasm_020_GenieJoy
+31100257	5	Giant Lettuce	Mission!Realm!Hercules!RLM_Herc_010_GreekLettuce
+31100262	5	Ginger	Mission!Story!Mini01!MRQS_M01_050!MRQS_M01_050_Ginger
+31100285	5	Glowy Green Candy	Mission!Secret!OogieBoogie!SEC_Oogi_020_PuzzleCandy
+31100096	5	Golden Eggs	Mission!Story!Expansion01!MRQS_E01_160_GoldenEggs
+31100251	5	Golden Honey	Product!Mini01!GoldenHoney
+31100265	5	Golden Honey	Mission!Story!Mini01!MRQS_M01_050!MRQS_M01_050_Hunny
+31100099	5	Golden Milk	Mission!Story!Expansion01!MRQS_E01_160_PreservedMilk
+31100271	5	Golden Pattypan	Mission!Story!Mini01!MRQS_M01_170!MRQS_M01_170_GoldenPattypan
+31100097	5	Golden Pepper	Mission!Story!Expansion01!MRQS_E01_160_GoldenPepper
+31100291	5	Golden Starfish	Mission!Village!Wendy!VLG_Wend_030_GoldenStarfish
+31100230	5	Gorgeous Gorgonzola	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_Cheese02
+31100253	5	Greek Cheeses	Mission!Realm!Hercules!RLM_Herc_010_GreekDairies
+31100254	5	Greek Fruits and Veggies	Mission!Realm!Hercules!RLM_Herc_010_GreekFruits
+31100282	5	Green Ashes	Mission!Village!Milo!VLG_Milo_030_GreenAshes
+31100216	5	Hearty Meat	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiMeat
+31100044	5	Ice Chunk	Mission!Village!VLG_Elsa_030_IceChunk
+31100292	5	Icebound Flower	Mission!Village!Wendy!VLG_Wend_030_FrozenFlower
+31100045	5	Icy Bouquet	Mission!Village!VLG_Elsa_030_FlowerBundle
+31100243	5	Infused Rich Soil	Mission!Village!Tramp!VLG_Tram_020_SpecialRichSoil
+31100246	5	Jasmine Tea Leaves	Mission!Story!Mini01!MRQS_M01_050!MRQS_M01_050_Jasmin
+31100221	5	Jumbo Anchovy	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiExtra03
+31100267	5	Lettuce	Mission!Story!Mini01!MRQS_M01_170!MRQS_M01_170_Lettuce
+31100141	5	Magnolia and Orange Blossom Fragrance	Mission!Story!Expansion02!MRQS_E02_031_PerfumeBase
+31100229	5	Massive Mozzarella	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_Cheese01
+31100125	5	Maui's Frozen Flag	Mission!Village!VLG_Mula_060_MotherGothelFlag_Ice
+31100261	5	Medicinal Moss	Mission!Village!Hercules!VLG_Herc_030_SpecialMoss
+31100001	5	Milk	Product!Milk
+31100263	5	Mint	Mission!Story!Mini01!MRQS_M01_050!MRQS_M01_050_Mint
+31100174	5	More Wonderland Sugar	Mission!Realm!Alice!RLM_AliceIP_Ches_010_SugarB
+31100098	5	Mother Gothel's Herbs	Mission!Story!Expansion01!MRQS_E01_180_MgHerbs
+31100134	5	Mother Gothel's Herbs	Mission!Story!Expansion01!MRQS_E01_180_MgHerbs02
+31100284	5	Mushy Banana	Mission!Secret!OogieBoogie!SEC_Oogi_020_PuzzleBanana
+31100151	5	Night Mushroom	Mission!Village!Timon!VLG_Timo_040_CorruptedMushrooms
+31100147	5	Night Mushrooms	Mission!Village!Timon!VLG_Timo_030_GlowingMushroom
+31100148	5	Night Thorn Nuts	Mission!Village!Timon!VLG_Timo_030_NightThornsResidue
+31100091	5	Non-dairy Screamer	Mission!Realm!MonsterInc!RLM_MonsterIncIP_Sull_010_NonDairyScreamer
+31100144	5	Oil	Mission!Story!Expansion02!MRQS_E02_031_Oil
+31100286	5	Oogie Boogie's Eggs	Mission!Secret!OogieBoogie!SEC_Oogi_020_PuzzleEgg
+31100194	5	OooooOOOooyster	Mission!Realm!BeautyBeast2!RLM_BeautyBeast2_Cogs_020_Oyster
+31100031	5	Oyster	Oyster
+31100008	5	Peanut	Product!Peanut
+31100231	5	Perfect Parmesan	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_Cheese03
+31100204	5	Pickaxe Upgrade Potion	Mission!Story!Expansion03!MRQS_090_UpgradePotion
+31100152	5	Plain Yogurt	Product!Expansion02!Yogurt
+31100270	5	Plush Fish	Mission!Story!Mini01!MRQS_M01_170!MRQS_M01_170_PlushFish
+31100276	5	Pooh's Golden Honey	Mission!Village!Winnie!VLG_030_WInniesGoldenHoney
+31100082	5	Pork	Meat!Expansion01!Pork
+31100052	5	Potion Base	Mission!Village!VLG_Anna_030_PotionBase
+31100080	5	Poultry	Meat!Expansion01!Poultry
+31100059	5	Pure Ice	Mission!Village!VLG_Olaf_020_PureIce
+31100214	5	Purple Dye	Mission!Village!Cinderella!VLG_Cind_010_PurpleDyeIngedient
+31100237	5	Purple Fruit	Mission!Village!Lady!VLG_Lady_010_PurpleFruit
+31100212	5	Purple Pigment	Mission!Village!Cinderella!VLG_Cind_010_PurplePowder
+31100164	5	Purple Spring Egg	Event!Spring!PurpleEggs
+31100168	5	Raspberry Jam	Mission!Realm!Alice!RLM_AliceIP_Ches_010_Jam
+31100062	5	Red Bug	Mission!Realm!LionKing!RLM_LionKingIP_Nala_010_RedBug
+31100049	5	Red Mushroom	Mission!Village!VLG_Anna_030_Mushroom
+31100066	5	Red Potato	Mission!Secret!GoldenP!SEC_Ingredient_Remy
+31100190	5	Remy's Spice Blend	Mission!Village!Aurora!VLG_Auro_040_SpiceBlend
+31100220	5	Ripe Banana	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiExtra02
+31100103	5	Ripe Carrot	Mission!Story!Expansion01!MRQS_E01_244_PresCarrot
+31100104	5	Ripe Clam	Mission!Story!Expansion01!MRQS_E01_244_PresClam
+31100105	5	Ripe Fish	Mission!Story!Expansion01!MRQS_E01_244_PresFish
+31100102	5	Ripe Tomato	Mission!Story!Expansion01!MRQS_E01_244_PresTomato
+31100222	5	Roasted Mushrooms	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiTonySpice
+31100219	5	Roasted Peanuts	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiExtra01
+31100071	5	Rotten Carrot	Mission!Story!MRQS120_RottenCarrot
+31100107	5	Rotten Carrot	Mission!Story!Expansion01!MRQS_E01_244_FutCarrot
+31100068	5	Rotten Clam	Mission!Story!MRQS120_RottenClam
+31100108	5	Rotten Clam	Mission!Story!Expansion01!MRQS_E01_244_FutClam
+31100109	5	Rotten Fish	Mission!Story!Expansion01!MRQS_E01_244_FutFish
+31100069	5	Rotten Tomato	Mission!Story!MRQS120_RottenTomato
+31100106	5	Rotten Tomato	Mission!Story!Expansion01!MRQS_E01_244_FutTomato
+31100089	5	Royal Hairball	Mission!Village!VLG_Mike_020_FurBall
+31100274	5	SUPER Spicy Chili Pepper	Mission!Village!Ralph!VLG_Ralp_030_SpecialPepper
+31100228	5	Salty Spaghetti Tumbleweed	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_020_NoodleBall06
+31100223	5	Saucy Spaghetti Tumbleweed	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_020_NoodleBall01
+31100032	5	Scallop	Scallop
+31100200	5	Screamed Butter	Mission!Realm!BeautyBeast2!RLM_BB2_Cogs_020_ButterIngredient
+31100224	5	Seasoned Spaghetti Tumbleweed	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_020_NoodleBall02
+31100272	5	Seaweed Sachet	Mission!Village!Ralph!VLG_Ralp_010_HerbPouch
+31100242	5	Shiny Tomato Sauce	Mission!Secret!Lady!SEC_Lady_030_MagicTomatoSauce
+31100154	5	Shovel Bird Eggs	Product!Expansion02!ShovelBirdEggs
+31100053	5	Slush Ice	Product!SlushIce
+31100294	5	Snake and Spider Stew	Mission!Secret!OogieBoogie!SEC_Oogi_020_StaminaSnakeStew
+31100287	5	Sour Milk	Mission!Secret!OogieBoogie!SEC_Oogi_020_PuzzleMilk
+31100236	5	Spaghetti Sauce	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_ElligibleSauce
+31100293	5	Sparkly Dewdrop	Mission!Village!Wendy!VLG_Wend_040_SparklyDewdrop
+31100273	5	Special Honey	Mission!Story!Mini01!MRQS_M01_180!MRQS_M01_180_SpecialHoney
+31100173	5	Spicy Moment	Mission!Realm!Alice!RLM_AliceIP_Ches_010_SpicyMoment
+31100225	5	Spicy Spaghetti Tumbleweed	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_020_NoodleBall03
+31100177	5	Spoiled Milk	Mission!Village!CheshireCat!VLG_Ches_040_SpoiledMilkING
+31100094	5	Sugar	Mission!Realm!MonsterInc!RLM_MonsterIncIP_Sull_010_Sugar
+31100176	5	Sugar	Mission!Village!Alice!VLG_Alic_040_Sugar
+31100084	5	Sugar Rush Seat Fudge	Mission!Village!VLG_Vane_010_SeatFudge
+31100083	5	Sugar Rush Tail Fudge	Mission!Village!VLG_Vane_010_TailFudge
+31100067	5	Sugar Rush Wheel Fudge	Mission!Village!VLG_Vane_010_WheelFudge
+31100289	5	Super Salty Seaweed	Mission!Secret!OogieBoogie!SEC_Oogi_020_PuzzleSeaweed
+31100203	5	Suspicious Black Lily	Mission!Village!Cogsworth!VLG_Cogs_070_Scar_FlowerIng
+31100172	5	Sweet Moment	Mission!Realm!Alice!RLM_AliceIP_Ches_010_SweetMoment
+31100075	5	Thorn Sprout	Mission!Story!MRQS133_SproutThorns
+31100167	5	Timely Tea	Mission!Realm!Alice!RLM_AliceIP_Ches_010_Tea
+31100158	5	Toon Sauce	Mission!Story!Expansion01!MRQS_E01_232_ToonSauce
+31100218	5	Top-Quality Tomato	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiTomato
+31100215	5	Top-Quality Wheat	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpaghettiWheat
+31100250	5	Tree Resin	Product!Mini01!TreeResin
+31100269	5	Truffle	Mission!Story!Mini01!MRQS_M01_170!MRQS_M01_170_Truffle
+31100149	5	Unfortunate-Fish Bones	Mission!Village!Timon!VLG_Timo_030_UnfortunateFishbone
+31100081	5	Venison	Meat!Expansion01!Venison
+31100046	5	Vial of Freezing Water	Mission!Village!VLG_Elsa_030_FrostedHeightWater
+31100038	5	Vial of Ocean Water	Mission!Village!VLG_Elsa_010_BeachWater
+31100227	5	Western Spaghetti Tumbleweed	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_020_NoodleBall05
+31100244	5	Wet Dog Fur	Mission!Village!Tramp!VLG_Tram_020_WetFur
+31100209	5	Whimsical Berries	Mission!Village!Cinderella!VLG_Cind_020_WhimsicalBerries
+31100072	5	Wild Spring Egg	Event!Spring!WildEggs
+31100143	5	Wolf Drool	Mission!Story!Expansion02!MRQS_E02_031_WolfSaliva
+31100142	5	Wolf Fur	Mission!Story!Expansion02!MRQS_E02_031_FurExtract
+31100169	5	Wonderland Lemon	Mission!Realm!Alice!RLM_AliceIP_Ches_010_Lemon
+31100165	5	Wonderland Salt	Mission!Realm!Alice!RLM_AliceIP_Ches_010_Salt
+31100166	5	Wonderland Sugar	Mission!Realm!Alice!RLM_AliceIP_Ches_010_SugarA
+31100171	5	Wondrous Pocket Watch	Mission!Realm!Alice!RLM_AliceIP_Ches_010_PocketWatch
+31100146	5	Woodland Pine Fragrance	Mission!Story!Expansion02!MRQS_E02_031_Fragrance
+31100078	5	{Placeholder}Exquisite Shrimp	Mission!Story!MRQS122_Shrimp
+31100157	5	{Placeholder}Fake Ingredient do not name	Mission!Village!VLG_Tian_030_FakeIngredient
+31600017	6	Alexandrite	Expansion01!Alexandrite
+31600020	6	Amethyst	Amethyst
+31600022	6	Aquamarine	Aquamarine
+31600025	6	Blue Zircon	Expansion01!BlueZircon
+31600061	6	Bumblestone	Expansion01!Bumblestone
+31600027	6	Citrine	Citrine
+31600083	6	Crystalline Barnacle	Expansion04!CrystallineBarnacleStandard
+31600002	6	Diamond	Diamond
+31600009	6	Emerald	Emerald
+31600059	6	Evergem	Expansion01!Evergem
+31600010	6	Garnet	Garnet
+31600087	6	Geode	Expansion04!Geode
+31600082	6	Honey Agate	Mini01!HoneyAgate
+31600079	6	Honeycomb Stone	Expansion03!HoneycombStone
+31600053	6	Jade	Expansion01!Jade
+31600077	6	Jasper	Expansion03!Jasper
+31600069	6	Magma	Expansion02!Magma
+31600011	6	Onyx	Onyx
+31600066	6	Opal	Expansion02!Opal
+31600012	6	Peridot	Peridot
+31600068	6	Pure Ice	Expansion02!PureIce
+31600075	6	Pyrite	Expansion03!Pyrite
+31600085	6	Rock Candy	Expansion04!RockCandy
+31600013	6	Ruby	Ruby
+31600014	6	Sapphire	Saphire
+31600019	6	Shiny Alexandrite	Expansion01!Alexandrite_Shiny
+31600021	6	Shiny Amethyst	Amethyst_Shiny
+31600024	6	Shiny Aquamarine	Aquamarine_Shiny
+31600026	6	Shiny Blue Zircon	Expansion01!BlueZircon_Shiny
+31600062	6	Shiny Bumblestone	Expansion01!Bumblestone_Shiny
+31600008	6	Shiny Citrine	Citrine_Shiny
+31600084	6	Shiny Crystalline Barnacle	Expansion04!CrystallineBarnacleStandard_Shiny
+31600032	6	Shiny Diamond	Diamond_Shiny
+31600034	6	Shiny Emerald	Emerald_Shiny
+31600060	6	Shiny Evergem	Expansion01!Evergem_Shiny
+31600036	6	Shiny Garnet	Garnet_Shiny
+31600088	6	Shiny Geode	Expansion04!Geode_Shiny
+31600081	6	Shiny Honey Agate	Mini01!HoneyAgateShiny
+31600080	6	Shiny Honeycomb Stone	Expansion03!HoneycombStone_Shiny
+31600054	6	Shiny Jade	Expansion01!Jade_Shiny
+31600078	6	Shiny Jasper	Expansion03!Jasper_Shiny
+31600070	6	Shiny Magma	Expansion02!Magma_Shiny
+31600040	6	Shiny Onyx	Onyx_Shiny
+31600071	6	Shiny Opal	Expansion02!Opal_Shiny
+31600042	6	Shiny Peridot	Peridot_Shiny
+31600072	6	Shiny Pure Ice	Expansion02!PureIce_Shiny
+31600076	6	Shiny Pyrite	Expansion03!Pyrite_Shiny
+31600086	6	Shiny Rock Candy	Expansion04!RockCandy_Shiny
+31600044	6	Shiny Ruby	Ruby_Shiny
+31600046	6	Shiny Sapphire	Saphire_Shiny
+31600058	6	Shiny Spinel	Expansion01!Spinel_Shiny
+31600073	6	Shiny Star Sapphire	Expansion02!StarSapphire_Shiny
+31600048	6	Shiny Topaz	Topaze_Shiny
+31600050	6	Shiny Tourmaline	Tourmaline_Shiny
+31600057	6	Spinel	Expansion01!Spinel
+31600067	6	Star Sapphire	Expansion02!StarSapphire
+31600015	6	Topaz	Topaze
+31600016	6	Tourmaline	Tourmaline
+31600052	6	Vitalys Crystal	VitalityCrystal
+30300033	7	"My Hero" Cookie	CookieMedal
+30300674	7	101 Teeny Tiny Dalmatian Cupcakes	Expansion03!101TeenyTinyDalmationCupcakes
+30300535	7	A Very Unusual Tea Time	Expansion02!AliceTeaTime
+30300671	7	Afternoon Tea Set	Expansion03!ArtfulHighTeaTiffin
+30300354	7	Ajiaco	Expansion01!Ajiaco
+30300453	7	Alchemical Gold	Mission!Village!Jafar!VLG_Jafa_020_AlchemicGold
+30300633	7	Alpine Fishcakes	Expansion03!OktoberbassFishcakes
+30300552	7	Ambrosia Smoothie	Expansion02!AmbrosiaSmoothie
+30300496	7	Anna's Fish Creole	Mission!Village!VLG_Tian_030_AnnaFishCreole
+30300506	7	Aphrodite's Delight	Expansion02!AphroditeDelight
+30300001	7	Apple Pie	ApplePie
+30300427	7	Apple Sauce	Expansion01!AppleSauce
+30300083	7	Apple Sorbet	AppleSorbet
+30300191	7	Apple-Cider-Glazed Salmon	AppleCiderGlazedSalmon
+30300510	7	Aquatic Escargot	Expansion02!AquaticEscargot
+30300534	7	Arcane Garlic Crab	Expansion02!ArcaneGarlicWhelk
+30300207	7	Arendellian Fish Pie	Mission!Village!VLG_Elsa_020_ScandinavianFishPie
+30300142	7	Arendellian Pickled Herring	ArrendellePickledHerring
+30300399	7	Arepas Con Queso	Expansion01!ArepasConQueso
+30300553	7	Argossian Pizza	Expansion02!ArgossianPizza
+30300764	7	Atomically Spicy Joyful Meal	Mission!Village!Ralph!VLG_Ralp_030_SpecialJMeal
+30300057	7	Aurora's Cake	TallCake
+30300625	7	Aurora's Improved Cake	Mission!Village!Expansion02!VLG_Auro_010_AuroraImprovedCake
+30300737	7	Bagna Càuda	Expansion04!BagnaCauda
+30300359	7	Baked Beans	Expansion01!BakedBeans
+30300189	7	Baked Carp	BakedCarp
+30300505	7	Baked Feta & Olives	Expansion02!BakedFeta&Olives
+30300640	7	Baked Whitefish and Roasted Beets	Expansion03!BakedWhitefish&RoastedBeets
+30300614	7	Banana Cake Layer	Mission!Village!Alice!VLG_Alic_040_BananaCake_Meal
+30300084	7	Banana Ice Cream	BananaIceCream
+30300081	7	Banana Pie	BananaPie
+30300012	7	Banana Split	BananaSplit
+30300338	7	Baozi	Expansion01!Baozi
+30300315	7	Barbecued Brilliant Blue Starfish	Expansion01!BlueStarfishBbq
+30300316	7	Barbecued Pretty Pink Starfish	Expansion01!PinkStarfishBbq
+30300554	7	Barley Salad	Expansion02!BarleySalad
+30300619	7	Barley Salad	Mission!Secret!Expansion02!MRQS_E02_132_BarleySalad
+30300426	7	Basil Berry Salad	Expansion01!BasilBerrySalad
+30300174	7	Basil Omelet	BasilOmlet
+30300636	7	Beauty and the Beets Napoleon	Expansion03!BeautyandtheBeetsNapoleons
+30300643	7	Beet Brownie Stack	Expansion03!BeetBrownieStack
+30300641	7	Beet Sugar Sculpture	Expansion03!BeetSugarSculpture
+30300638	7	Beet-iful Spaetzle	Expansion03!Beet-ifulSpaetzle
+30300040	7	Beignets	Beignets
+30300091	7	Bell Pepper Puffs	BellPepperPuffs
+30300085	7	Berry Salad	BerrySalad
+30300436	7	Best Fish Forever	Expansion01!BestFishForever
+30300452	7	Bird Food	Expansion01!Secret!MRQS_E01_244_BirdMeal
+30300047	7	Birthday Cake	BirthdayCake
+30300333	7	Biryani	Expansion01!Biryani
+30300039	7	Biscuits	Biscuit
+30300307	7	Blend of the Bayou	Expansion01!BlendOfTheBayou
+30300612	7	Blueberry Cake Layer	Mission!Village!Alice!VLG_Alic_040_BlueberryCake_Meal
+30300014	7	Blueberry Pie	BlueberryPie
+30300721	7	Blustery Day Soup	Mini01!BlusteryDaySoup
+30300233	7	Boba Tea	BobaTea!Gold
+30300323	7	Bony Osso Buco	Expansion01!FishOssoBucco
+30300124	7	Bouillabaisse	Bouillabaisse
+30300310	7	Braised Abalone	Expansion01!BraisedAbalone
+30300395	7	Braised Bamboo Shoots	Expansion01!BraisedBambooShoots
+30300317	7	Brandade de Morue	MorueBrandade
+30300695	7	Bread Bowl Pumpkin Soup	Expansion03!BreadBowlPumpkinSoup
+30300720	7	Brunchfast	Mini01!Brunchfast
+30300214	7	Bug Platter	Mission!Realm!RLM_LionKingIP_Nala_10_BugPlatter
+30300361	7	Bulgur Salad	Expansion01!BulgurSalad
+30300348	7	Burrito	Expansion01!Burrito
+30300334	7	Butter Chicken	Expansion01!ButterChicken
+30300634	7	Buttermilk Borscht	Expansion03!ButtermilkBorscht
+30300664	7	Button Stew	Expansion03!EdibleButtonStew
+30300239	7	Buñuelos	Bunuelos
+30300555	7	Cacio e Pepe	Expansion02!CacioEPepe
+30300757	7	Candied Oyster	Expansion04!CandiedOyster
+30300138	7	Candy	Candy
+30300747	7	Candy Corn Tart	Expansion04!CandyCornTart
+30300435	7	Candy Skull	Mission!Village!VLG_Jack_030_SugarSkull
+30300364	7	Cannoli	Cannoli
+30300543	7	Cape Gooseberry Chia Pancakes	Expansion02!CapeGooseberryChiaPancakes
+30300556	7	Cape Gooseberry Smoothie	Expansion02!CapeGooseberrySmoothie
+30300557	7	Cape Gooseberry Sour Fondue	Expansion02!CapeGooseberrySourFondue
+30300558	7	Caprese Salad	Expansion02!CapreseSalad
+30300041	7	Caramel Apples	CaramelApples
+30300415	7	Caramel Macarons	Expansion01!Macaron_Caramel
+30300069	7	Carp Salad	CarpSalad
+30300154	7	Carrot Cake	CarrotCake
+30300620	7	Carrot Salad	Mission!Secret!Expansion02!MRQS_E02_132_CarrotSalad
+30300559	7	Cauliflower Steak	Expansion02!CauliflowerSteak
+30300657	7	Charcuterie Board	Mission!Realm!BeautyBeast2!RLM_BeautyBeast2_Cogs_020_CharcuterieBoard
+30300384	7	Charlotte Cake	Expansion01!CharlotteCake
+30300178	7	Cheese Platter	CheesePlatter
+30300347	7	Cheeseburger	Expansion01!CheeseBurger
+30300152	7	Cheesecake	CheeseCake
+30300111	7	Cheesy Crispy Baked Cod	CheesyCripsyBakedCod
+30300079	7	Cherry Pie	CherryPie
+30300617	7	Cheshire Cat Concoction	Mission!Village!CheshireCat!VLG_Ches_040_FishBait
+30300610	7	Cheshire Cat Tail	CheshireCatTail
+30300548	7	Chia Pudding	Expansion02!FlavoredChiaPudding
+30300560	7	Chia Seed Bread	Expansion02!ChiaSeedBread
+30300344	7	Chicken Souvlaki	Expansion01!SouvlakiChicken
+30300088	7	Chili Pepper Puffs	ChiliPepperPuffs
+30300546	7	Chimera Skewer	Expansion02!ChimeraSkewer
+30300011	7	Chocolate Chip Cookies	ChocolateChipCookies
+30300106	7	Chocolate Ice Cream	ChocolateIceCream
+30300413	7	Chocolate Macarons	Expansion01!Macaron_Chocolate
+30300104	7	Chocolate Waffles	ChocolateWaffles
+30300752	7	Chocolate-Covered Mapleberries	Expansion04!ChocolateCoveredMapleberries
+30300125	7	Chowder	Chowder
+30300472	7	Chrysanthemum Tea	ChrysantheTea
+30300755	7	Churros with Sweet Syrup	Expansion04!ChurrosWithSweetSyrup
+30300540	7	Cinnamon Cake	Expansion02!CinnamonCake
+30300530	7	Cinnamon Cookies	Expansion02!CinammonCookies
+30300367	7	Cinnamon Donut	Expansion01!CinnamonDonut
+30300313	7	Clam Juice	Expansion01!ClamJuice
+30300484	7	Classic Frankfurter	Expansion01!HotDogClassic
+30300387	7	Classic Mac & Cheese	Expansion01!Mac&Cheese
+30300340	7	Club Sandwich	Expansion01!ClubSandwich
+30300237	7	Coconut Boba Tea	BobaTea!White
+30300151	7	Coconut Cake	CoconutCake
+30300118	7	Coconut Ice Cream	CoconutIceCream
+30300217	7	Coffee	BlackCoffee
+30300405	7	Coleslaw	Expansion01!Coleslaw
+30300762	7	Community Brew	Mission!Village!Ralph!VLG_Ralp_010_UrsulaPotion
+30300331	7	Conch Ceviche	Expansion01!ConchCeviche
+30300446	7	Cooked-Up Plan	Mission!Village!VLG_Oswa_040_CookedPlan
+30300345	7	Coq en Barbouille	Expansion01!CoqEnBarbouille
+30300429	7	Cotton Candy	Expansion01!CottonCandy
+30300314	7	Crab Melts	Expansion01!CrabMelts
+30300131	7	Crackers	Crackers
+30300378	7	Cream Cheese Bagel	Expansion01!CreamcheeseBagle
+30300072	7	Creamy Garlic Scallops	CreamyGarlicScallop
+30300126	7	Creamy Soup	CreamySoup
+30300053	7	Crepe	Crepe
+30300746	7	Crepe Cone	Expansion04!Crepes
+30300376	7	Crimson Burger	Expansion01!CrimsonBurger
+30300213	7	Crispy Baked Cod	CrispyBakedCod
+30300386	7	Croissant	Expansion01!Croissant
+30300132	7	Crudités	Crudites
+30300368	7	Cupcakes	Expansion01!CupCake
+30300750	7	Cute Cake Pops	Expansion04!CuteCakePops
+30300749	7	Cute Sugar Cookies	Expansion04!CuteSugarCookie
+30300365	7	Danish	Expansion01!Danish
+30300252	7	Dark Castle Goo	Mission!Secret!Epilogue!MRQS133_2StarSlop
+30300431	7	Dark Castle Goo	Mission!Secret!Epilogue!MRQS133_3StarSlop
+30300432	7	Dark Castle Goo	Mission!Secret!Epilogue!MRQS133_4StarSlop
+30300439	7	Decoded Final Clue	Mission!Secret!SulleyVLG!VLG_Sull_040_LemonNote
+30300731	7	Divination Meal	Mission!Village!Hercules!VLG_Herc_020_CursedMeal
+30300701	7	Doggy Donut	Mission!Village!Lady!VLG_Lady_010_DogTreats
+30300322	7	Dragon Roll Maki	Expansion01!DragonrollMaki
+30300222	7	Dream Fizz	DreamFizz
+30300221	7	Dream Ice Cream	DreamIceCream
+30300411	7	Dreamango Boba Tea	Expansion01!BobaTea!Dreamango
+30300481	7	Dreamlight Boost Tonic	Mission!Village!VLG_Timo_040_NightMiteTonic
+30300358	7	Dumplings	Expansion01!Dumplings
+30300478	7	Eau de Wolf	Mission!Secret!Expansion02!MRQS_E02_031_Perfume
+30300705	7	Eau-de-Chien-Soggy	Mission!Village!Tramp!VLG_Tram_020_EaudeChien
+30300090	7	Eggplant Puffs	EggplantPuffs
+30300561	7	Electric Radicchio & Persimmon Salad	Expansion02!ElectricRadicchio&PersimmonSalad
+30300474	7	Enchanted Shrimp Étouffée	Mission!Secret!Remy!SEC_Remy_EnchantedShrimpMeal
+30300455	7	Essence of Will	Mission!Secret!Jafar!VLG_Jafa_020_EssenceWill
+30300456	7	Essence of Wishes	Mission!Secret!Jafar!VLG_Jafa_020_EssenceWish
+30300454	7	Essence of Wonder	Mission!Secret!Jafar!VLG_Jafa_020_EssenceWonder
+30300672	7	Eton Mess	Expansion03!EtonMess
+30300433	7	Experimental Fireworks	Mission!Village!VLG_Eve_040_CactusLemonade
+30300209	7	Extra Fizzy Root Beer	Mission!Story!MRQS100_SpecialRootBeer
+30300330	7	Fabulous Fajitas	Expansion01!Fajitas
+30300562	7	Faerie Rye Crackers	Expansion02!FaerieRyeCrackers
+30300690	7	Fairy Boot Cake	Expansion03!FairyBoot
+30300685	7	Fairy Bread	Expansion03!FairyBread
+30300687	7	Fairy Wands	Expansion03!FairyWands
+30300417	7	Falafel	Expansion01!Falafel
+30300623	7	Feather Balm	Mission!Village!Maleficent!VLG_Male_030_RavenConditioner
+30300665	7	Felted Breakfast Spread	Expansion03!FeltFoodSpread
+30300679	7	Festive Blueberry Hot Cocoa	Event!FloatingFestival!Winter2025!BlueberryHotCocoa
+30300678	7	Festive Cherry Hot Cocoa	Event!FloatingFestival!Winter2025!CherryHotCocoa
+30300677	7	Festive Mint Hot Cocoa	Event!FloatingFestival!Winter2025!MintHotCocoa
+30300632	7	Fireplace Fuel	Mission!Realm!BeautyBeast2!RLM_BeautyBeast2_Lumi_010_FireOil
+30300144	7	Fish 'n' Chips	FishNChips
+30300141	7	Fish Creole	FishCreole
+30300066	7	Fish Pasta	FishPasta
+30300064	7	Fish Pie	FishPie
+30300061	7	Fish Risotto	RisottoFish
+30300145	7	Fish Salad	FishSalad
+30300065	7	Fish Sandwich	FishSandwiches
+30300067	7	Fish Soup	FishSoup
+30300071	7	Fish Steak	FishSteak
+30300010	7	Fish Tacos	FishTaco
+30300668	7	Fishy Pineapple Jelly	Expansion03!FishyPineappleDinner
+30300688	7	Fizzy Nectar Soda	Expansion03!FizzyNectarSoda
+30300563	7	Flying Fish Quenelles	Expansion02!FlyingFishQuenelle
+30300726	7	Fog-Busting Potion	Mission!Story!Mini01!MRQS_M01_070_FogUgradeMeal
+30300719	7	Foresty Quiche	Mini01!ForestyQuiche
+30300744	7	Fox Medicine	Mission!Village!Hercules!VLG_Herc_030_CritterMedicineMeal
+30300162	7	French Fries	FrenchFries
+30300419	7	French Macarons	Expansion01!Macaron
+30300686	7	Friendly Bento	Expansion03!FriendlyBento
+30300776	7	Friendly Fish Crackers	Expansion04!ExoticFishCracker
+30300766	7	Frosting Pudding	Expansion04!FrostingMeal
+30300408	7	Fruit Milkshake	Expansion01!FruitMilkshake
+30300080	7	Fruit Pie	FruitPie
+30300086	7	Fruit Salad	FruitSalad
+30300202	7	Fruit Sorbet	FruitSorbet
+30300231	7	Fruitcake	FruitLoaf
+30300063	7	Fugu Sushi	FuguSushi
+30300021	7	Futomaki	Futomaki
+30300615	7	Garlic Chocolate Tart	QueenOfHeartsGarlicChocolateTart
+30300564	7	Garlic Steam Mussels	Expansion02!GarlicSteamMussels
+30300156	7	Gazpacho	Gazpacho
+30300241	7	Ghostly Fish Steak	HereAndThereFishSteak
+30300230	7	Gingerbread House	GingerbreadHouse
+30300382	7	Glazed Donut	Expansion01!Donut
+30300185	7	Gleaming Dawn Fragment	Mission!Village!VLG_Moth_040_ActivatedSunstoneDawn
+30300480	7	Glowing Purple Salad	Mission!Village!VLG_Timo_030_GlowingPurpleSalad
+30300520	7	Golden Apple Pie	Expansion02!GoldenApplePie
+30300565	7	Golden Apple Smoothie	Expansion02!GoldenAppleSmoothie
+30300443	7	Golden Omelet	Mission!Story!Expansion01!MRQS_E01_160_GoldenOmelet
+30300356	7	Good Ol' Fashioned Burger	Expansion01!Hamburger
+30300211	7	Gooey Paste	Mission!Village!VLG_Wood_010_GoeyPaste
+30300236	7	Gooseberry Boba Tea	BobaTea!Purple
+30300772	7	Gourd Luck Oysters	Expansion04!StuffedShell
+30300775	7	Gourd Time Salad	Expansion04!PickledGourdSalad
+30300773	7	Gourd-geous Casserole	Expansion04!ExoticCasserole
+30300311	7	Gourmet Grubs	Expansion01!Grubs
+30300438	7	Gourmet Rot Dog	Mission!Village!MonsterInc!Mike!VLG_Mike_020_GourmetRotDog
+30300051	7	Gray Stuff	GreyStuff
+30300566	7	Grecian Baked Fish	Expansion02!GrecianFishBake
+30300729	7	Greek Garum	Mission!Village!Phil!VLG_Phil_030_GreekGarum
+30300094	7	Greek Pizza	GreekPizza
+30300536	7	Greek Potatoes	Expansion02!GreekPotatoes
+30300567	7	Greek Salad	Expansion02!GreekSalad
+30300578	7	Green Bean Casserole	Expansion02!GreenBeanCasserole
+30300489	7	Green Bug Oil	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_GreenBugMixture
+30300227	7	Green Candy	Candy_Green
+30300767	7	Green Flame Compound	Mission!Village!Milo!VLG_Milo_030_GreenCompound
+30300159	7	Green Salad	GreenSalad
+30300112	7	Grilled Eel	GrilledEel
+30300130	7	Grilled Fish	GrilledFish
+30300149	7	Grilled Fish Entree	GrilledFishEntree
+30300537	7	Grilled Koi Gyro	Expansion02!GrilledKoiGyro
+30300109	7	Grilled Vegetables	GrilledVegetables
+30300134	7	Grilled Veggie Platter	GrilledVeggiesPlatter
+30300050	7	Gumbo	Gumbo
+30300602	7	Halloween Gingerbread Cookies	HalloweenGingerbreadCookie
+30300337	7	Hamburger Steak	Expansion01!HamburgerSteak
+30300177	7	Hard-Boiled Eggs	HardBoiledEggs
+30300328	7	Hawaiian Pizza	Expansion01!HawaiianPizza
+30300158	7	Hearty Salad	HeartySalad
+30300760	7	Hedgehog Treat	Mission!Story!Mini01!MRQS_M01_170_Dungeon04_HedgehogTreat
+30300579	7	Hermit Crab Pasta	Expansion02!HermitCrabPasta
+30300580	7	Hippocampus Cepelinai Dumplings	Expansion02!HippocampusCepelinaiDumplings
+30300442	7	Hodgepodge à la Monstropolis	Mission!Village!VLG_Sull_021_Hodgepodge
+30300763	7	Honey Hero Cake	Mission!Story!Mini01!MRSQ_M01_180_HoneyHeroCake
+30300716	7	Honey Macarons	Mini01!HoneyMacarons
+30300681	7	Honey Pancakes	Expansion03!HoneyPancakes
+30300675	7	Honey Perfume	Mission!Village!Tigger!VLG_Tigg_010_HoneyPerfume
+30300718	7	Honey Triffle	Mini01!HoneyTrifle
+30300684	7	Honey-Glazed Carrots	Expansion03!HoneyGlazedCarrots
+30300717	7	Honey-Glazed Plush Fish	Mini01!HoneyGlazedPlushFish
+30300709	7	Honeycrunch Bar	Mini01!HunnyCrunch
+30300582	7	Honeydew Smoothie	Expansion02!HoneydewSmoothie
+30300581	7	Honeydew Sour Fondue	Expansion02!HonedewSourFondue
+30300730	7	Honeyglow Elixir	Mission!Story!Mini01!MRQS_M01_030_HoneyglowLanternPotion
+30300667	7	Horace's Ham Sandwich	Expansion03!HoracesHamSandwich
+30300136	7	Hors d'Oeuvres	HorsDoeuvre
+30300238	7	Hot Cocoa	HotCocoa
+30300199	7	Ice Cream	IceCream
+30300751	7	Ice Cream Sandwich	Expansion04!IceCreamSandwich
+30300242	7	Icy-Red Stew... Yuck	Mission!Secret!GoldenP!Meal
+30300738	7	Inky Pasta	Expansion04!InkPasta
+30300416	7	Jam Macarons	Expansion01!Macaron_Jam
+30300103	7	Jam Waffles	JamWaffles
+30300470	7	Jasmine Tea	JasminTea
+30300670	7	Jellied Fish Terrine	Expansion03!JelliedFishTerrine
+30300666	7	Jellied Salad	Expansion03!JelliedSalad
+30300753	7	Jellyfish Salad	Expansion04!JellyfishSalad
+30300342	7	Jerk Chicken	Expansion01!JerkChicken
+30300626	7	Joyful Meal	JoyfulMeal
+30300369	7	Kanelbulle	Expansion01!Kanelbulle
+30300663	7	Kanine Krunchies Cereal	Expansion03!KanineKrunchiesCereal
+30300020	7	Kappa Maki	KappaMaki
+30300583	7	Koi Sashimi	Expansion02!KoiSashimi
+30300370	7	Kouign-Amann	Expansion01!KouignAmann
+30300735	7	Kraken Tart	Expansion04!KrakenTart
+30300734	7	Kraken's Catch	Expansion04!KrakensCatch
+30300498	7	Kristoff's Beignets	Mission!Village!VLG_Tian_030_KristoffBeignet
+30300054	7	Kronk's Spinach Puffs	SpinashPuff
+30300606	7	Lamp Enchantment	Mission!Realm!RLM_Jasm_020_LampEnchantement
+30300584	7	Lamprey Sashimi	Expansion02!LampreySashimi
+30300190	7	Lancetfish Paella	LancetFishPaella
+30300127	7	Large Seafood Platter	LargeSeafoodPlatter
+30300394	7	Latkes	Latkes
+30300225	7	Latte	Latte
+30300166	7	Leek Soup	LeekSoup
+30300727	7	Legendary Meal	Mission!Realm!Hercules!RLM_Herc_010_LegendaryMeal
+30300114	7	Lemon Garlic Swordfish	LemonGarlicSwordfish
+30300135	7	Lemon Sorbet	LemonSorbet
+30300585	7	Lightning Bolt	Expansion02!LightningBolt
+30300541	7	Lightning Cake	Expansion02!LightningCake
+30300531	7	Lightning Cookies	Expansion02!LightningCookies
+30300240	7	Lioness Feast	LionessFeast
+30300403	7	Lo-Fries	Expansion01!Lo-Fries
+30300586	7	Loaded Breakfast Yogurt	Expansion02!LoadedBreakfastYogurt
+30300525	7	Loaded Golden Apple Porridge	Expansion02!LoadedGoldenApplePorridge
+30300528	7	Loaded Honeydew Porridge	Expansion02!LoadedHoneydewPorridge
+30300529	7	Loaded Persimmon Porridge	Expansion02!LoadedPersimmonPorridge
+30300527	7	Loaded Rhubarb Porridge	Expansion02!LoadedRhubarbPorridge
+30300526	7	Loaded Sea Grape Porridge	Expansion02!LoadedSeaGrapePorridge
+30300075	7	Lobster Roll	LobsterRoll
+30300743	7	Luminous Hibiscus Tea	Expansion04!LuminousHibiscusTea
+30300587	7	Lupine Cullen Skink	Expansion02!LupineCullenSkink
+30300121	7	Lye	Mission!Village!VLG_Kris_010_Lye
+30300381	7	Maamouls	Expansion01!MaAmoul
+30300697	7	Magical Melted Cheese	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_MeltedCheeseMeal
+30300785	7	Magical Remedy	Mission!Village!Wendy!VLG_Wend_030_MagicPotion
+30300018	7	Maguro Sushi	MaguroSushi
+30300148	7	Maki	Maki
+30300372	7	Makrout	Expansion01!Makrout
+30300770	7	Mango Wrasse Curry Rice	Expansion04!SeaDragonCurryRice
+30300748	7	Mapleberry Mochi	Expansion04!MapleMochi
+30300013	7	Margherita Pizza	PizzaMargherita
+30300220	7	Marvelous Jam	MiracleJam
+30300466	7	Maui's Flag	Mission!Village!VLG_Mula_060_MotherGothelFlag
+30300357	7	Meat Pie	Expansion01!MeatPie
+30300329	7	Meaty Taco	Expansion01!MeatyTaco
+30300101	7	Mediterranean Salad	MediteraneenSalad
+30300412	7	Melon Boba Tea	Expansion01!BobaTea!Melon
+30300704	7	Memorable Spaghetti and Meatballs	Mission!Secret!Lady!SEC_Lady_030_MagicSpaghetti
+30300038	7	Meringue Pie	MeringuePie
+30300448	7	Mermaid Cupcake	Event!RPT_Park_MermaidCupcake01
+30300778	7	Mermaid Milkshake	Expansion04!MermaidDrink
+30300588	7	Merryweather's Gingersnaps	Expansion02!MerryweatherGingersnaps
+30300495	7	Mike's Okra Soup	Mission!Village!VLG_Tian_030_MikeOkraSoup
+30300319	7	Milky Way Stew	Expansion01!MilkyWayStew
+30300467	7	Miniature Leek Soup	Mission!Village!Mushu!VLG_Mush_040_TinySoup
+30300450	7	Minnie Cupcake	Event!RPT_Park_MinnieCupcake01
+30300229	7	Minnie's Gingerbread Cookies	GingerbreadCookies
+30300234	7	Mint Boba Tea	BobaTea!Green
+30300175	7	Mint Candy	MintCandy
+30300181	7	Mint Chocolate	MintChocolate
+30300044	7	Mint Sorbet	MintSorbet
+30300224	7	Mocha	Mocaccino
+30300371	7	Mooncake	Expansion01!MoonCake
+30300321	7	Moqueca de Pirarucu	Expansion01!PirarucuMoqueca
+30300609	7	More Time	Mission!Realm!AliceInWonderland!RLM_AliceIP_Ches_010_TimeMeal
+30300444	7	Mother Gothel's Soup	Mission!Story!Expansion01!MRQS_E01_180_MgSoup
+30300445	7	Mother Gothel's Tea	Mission!Story!Expansion01!MRQS_E01_180_MgTea
+30300096	7	Mushroom Pizza	MushroomPizza
+30300046	7	Mushu's Congee	Congee
+30300589	7	Mussel Risotto	Expansion02!MusselRisotto
+30300457	7	Mysterious Stone	Mission!Village!Jafar!VLG_Jafa_020_CreativityStoneMeal
+30300397	7	Nachos	Nachos
+30300246	7	Nasty Bouillabaisse	Mission!Story!MRQS120_SuspiciousBouillabaisse
+30300630	7	Natural Cloak Dye	Mission!Village!SnowWhite!VLG_Snow_020_SnowWhiteDye
+30300375	7	Nestling Crepe	Expansion01!NestlingCrepe
+30300250	7	Night Thorn Sprout Salad	Mission!Secret!Epilogue!MRQS133_SaladThorn
+30300539	7	Nutmeg Cake	Expansion02!NutmegCake
+30300532	7	Nutmeg Cookies	Expansion02!NutmegCookies
+30300326	7	Nuts & Bolts	Expansion01!Nuts&Bolts
+30300590	7	Oatmeal	Expansion02!Oatmeal
+30300167	7	Okra Soup	OkraSoup
+30300591	7	Olive Plate	Expansion02!OlivePlate
+30300547	7	Olympian Tapenade	Expansion02!OlympianTapenade
+30300184	7	Omelet	Omlet
+30300087	7	Onion Puffs	OnionPuffs
+30300471	7	Oolong Tea	OolongTea
+30300490	7	Orange Bug Oil	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_OrangeBugMixture
+30300128	7	Oyster Platter	OysterPlatter
+30300070	7	Pan-Fried Angler Fish	PanFriedAnglerFish
+30300068	7	Pan-Seared Bass & Vegetables	PanSearedBassVeggies
+30300115	7	Pan-Seared Tilapia & Vegetables	PanSearedTilapiaVeggies
+30300153	7	Pasta	Pasta
+30300385	7	Pasta with Herbs	Expansion01!HerbsPasta
+30300182	7	Pastry Cream and Fruits	PastryCreamAndFruits
+30300393	7	Pastéis de Nata	Natas
+30300052	7	Pawpsicle	Pawpsicle
+30300043	7	Peanut Butter Sandwich	PeanutButterSandwich
+30300105	7	Peanut Butter Waffles	PeanutButterWaffles
+30300377	7	Pear Upside-Down Cake	Expansion01!UpsideDownPearCake
+30300218	7	Peppermint Tea	PeppermintTea
+30300542	7	Persimmon Chia Pancakes	Expansion02!PersimmonChiaPancakes
+30300518	7	Persimmon Pie	Expansion02!PersimmonPie
+30300593	7	Persimmon Smoothie	Expansion02!PersimmonSmoothie
+30300592	7	Persimmon Sour Fondue	Expansion02!PersimmonSourFondue
+30300366	7	Pesto with Linguine	PestoLinguinis
+30300143	7	Pickled Herring	PickledHerring
+30300410	7	Pineapple Soft Serve	Expansion01!DoleWhip
+30300324	7	Piquant Piranha Soup	Expansion01!PirahnaBroth
+30300739	7	Pirate Ship Hot Dog	Expansion04!PirateShipHotdog
+30300683	7	Pixie Ice Cream Dome Cake	Expansion03!FairyIceCreamBombCake
+30300691	7	Pixie Pizza	Expansion03!FairyPizza
+30300150	7	Pizza	Pizza
+30300203	7	Plain Snow Cones	PlainSnowCones
+30300062	7	Poached Basil-Butter Sturgeon	PoachedBasilButterSturgeon
+30300774	7	Pomegranate Dumplings	Expansion04!Daifuku
+30300711	7	Pooh's Birthday Cake	Mini01!PoohsBirthdayCake
+30300765	7	Pooh's Honey Garden Pie	Mission!Village!Winnie!VLG_Winn_030_WinniePie
+30300404	7	Popcorn	Expansion01!Popcorn
+30300009	7	Potato Leek Soup	PotatoLeekSoup
+30300089	7	Potato Puffs	PotatoPuffs
+30300163	7	Pottage	Pottage
+30300398	7	Poutine	Poutine
+30300451	7	Princess Aurora Raspberry Cupcake	Event!RPT_Park_PrincessAuroraCupcake01
+30300339	7	Pulled Pork	Expansion01!PulledPork
+30300093	7	Pumpkin Puffs	PumpkinPuffs
+30300100	7	Pumpkin Soup	PumpkinSoup
+30300353	7	Pupusas Revueltas	Expansion01!PupusasRevueltas
+30300228	7	Purple Candy	Candy_Purple
+30300693	7	Purple Dye	Mission!Village!Cinderella!VLG_Cind_010_PurpleDye
+30300777	7	Purple Pastry	Expansion04!PurplePastry
+30300133	7	Purée	Puree
+30300712	7	Rabbit's Garden Pie	Mini01!RabbitsGardenPie
+30300595	7	Radicchio Slaw	Expansion02!RadicchioSlaw
+30300523	7	Radicchio-Stuffed Porcini	Expansion02!RadicchioStuffedPorcini
+30300308	7	Rainbouillabaisse	Expansion01!Rainbouillabaisse
+30300349	7	Ramen	Expansion01!Ramen
+30300102	7	Ranch Salad	RanchSalad
+30300235	7	Raspberry Boba Tea	BobaTea!Pink
+30300613	7	Raspberry Cake Layer	Mission!Village!Alice!VLG_Alic_040_RaspberryCake_Meal
+30300389	7	Raspberry Jam Sandwich	Expansion01!RaspberryJamSandwich
+30300056	7	Ratatouille	Ratatouille
+30300501	7	Reconciliation Cake	Mission!Story!Expansion02!MRQS_E02_110_ReconciliationCake
+30300226	7	Red Candy	Candy_Red
+30300644	7	Red Currant Linzer Cookies	Expansion03!RedCurrantLinzerCookies
+30300642	7	Red Currant Valley Cakes	Expansion03!RedCurrantValleyCakes
+30300082	7	Red Fruit Sorbet	RedFruitSorbet
+30300362	7	Red Velvet	RedVelvet
+30300374	7	Rhapsody Roll	Expansion01!RhapsodyRoll
+30300596	7	Rice Pudding	Expansion02!RicePudding
+30300360	7	Roast	Expansion01!Roast
+30300420	7	Roasted Almonds	Expansion01!RoastedAlmonds
+30300170	7	Roasted Asparagus	RoastedAsparagus
+30300597	7	Roasted Barley & Veggies	Expansion02!RoastedBarley&Veggies
+30300507	7	Roasted Brussels Sprouts	Expansion02!RoastedBrusselSprouts
+30300508	7	Roasted Green Beans	Expansion02!RoastedGreenBeans
+30300485	7	Roasted Jungle Fireflies	Mission!Realm!LionKing2!RLM_LionKingIP_Pumb_010_FireFliesMeal
+30300483	7	Roasted Marshmallows	Event!Summer!RPT_Summer_MarshmallowOnAStick
+30300210	7	Root Beer	RootBeer
+30300680	7	Rosehip Honey Tea	Expansion03!RoseHipHoneyTea
+30300327	7	Royal Burger	Expansion01!RoyalBurger
+30300786	7	Royal Herbicide	Mission!Village!Wendy!VLG_Wend_040_Herbicide
+30300409	7	Royal Ice Tea	Expansion01!RoyalIceTea
+30300418	7	Royal Latte	Expansion01!RoyalLatte
+30300428	7	Royal Tea	Expansion01!RoyalTea
+30300494	7	Rubbish	GenericSlop
+30300402	7	Ruby Masoor Dal	Expansion01!RubyMasoorDal
+30300482	7	S'mores	Event!Summer!RPT_Summer_Smores
+30300022	7	Sake Maki	SakeMaki
+30300019	7	Sake Sushi	SakeSushi
+30300160	7	Salad	Salad
+30300504	7	Salt-Baked Sea Wolf	Expansion02!SaltBakedSeaWolf
+30300517	7	Salt-Pickled Cauliflower	Expansion02!SaltPickledCauliflower
+30300514	7	Salt-Pickled Garlic	Expansion02!SaltPickledGarlic
+30300511	7	Salt-Pickled Green Beans	Expansion02!SaltPickledGreenBean
+30300512	7	Salt-Pickled Radicchio	Expansion02!SaltPickledRadicchio
+30300515	7	Salt-Pickled Radish	Expansion02!SaltPickledRadish
+30300513	7	Salt-Pickled Sea Grapes	Expansion02!SaltPickledSeaGrapes
+30300212	7	Salty Garlic Cheesecake	Mission!Village!VLG_Wood_010_SaltyCake
+30300318	7	Sand Stew	Expansion01!Sandstew
+30300422	7	Sand Worm Carpaccio Plate	Expansion01!SandwormCarpaccioPlate
+30300351	7	Sausage and Sauerkraut Platter	Expansion01!SausageAndSauerkrautPlatter
+30300171	7	Sautéed Mushrooms	SauteedMushrooms
+30300598	7	Sautéed Porcini	Expansion02!SauteedPorcinis
+30300147	7	Savory Fish	SavoryFish
+30300659	7	Scar's Winning Stew	Mission!Village!Cogsworth!VLG_Cogs_070_Scar_WinningStew
+30300639	7	Scarlet Bouquet Salad	Expansion03!ScarletBouquetSalad
+30300635	7	Scarlet Kale and Cheese Pinwheels	Expansion03!ScarletKaleandCheesePinwheels
+30300618	7	Scavenger Hunt Note	Mission!Village!CheshireCat!VLG_Ches_040_ScavengerListMeal
+30300355	7	Schnitzel	Expansion01!Schnitzel
+30300599	7	Scottish Porridge	Expansion02!ScottishPorridge
+30300200	7	Scrambled Egg	ScrambledEgg
+30300736	7	Sea Biscuit	Expansion04!EdibleSeaBiscuit
+30300544	7	Sea Grape Chia Pancakes	Expansion02!SeaGrapeChiaPancakes
+30300129	7	Seafood Appetizer	SeafoodAppetizer
+30300503	7	Seafood Boil	CrawfishBoil
+30300077	7	Seafood Pasta	SeafoodPasta
+30300074	7	Seafood Pie	SeafoodPie
+30300073	7	Seafood Platter	SeafoodPlatter
+30300076	7	Seafood Salad	SeafoodSalad
+30300016	7	Seafood Soup	SeafoodSoup
+30300015	7	Seared Rainbow Trout	SearedRainbowTrout
+30300769	7	Seashell Madeleines	Expansion04!ShellMadeleines
+30300600	7	Seaweed Salad	Expansion02!SeaweedSalad
+30300465	7	Sesame Balls	SesameBalls
+30300388	7	Sesame Seed Bagel	Expansion01!Bagel
+30300320	7	Shad Ceviche	Expansion01!ShadCeviche
+30300137	7	Shake	Shake
+30300335	7	Shawarma	Expansion01!Shawarma
+30300332	7	Shish Taouk	Expansion01!ShishTaouk
+30300601	7	Shovel Bird Eggs Benedict	Expansion02!ShoverbirdEggsBenedict
+30300568	7	Simple Chia Pudding	Expansion02!SimpleChiaPudding
+30300192	7	Simple Fried Perch	SimpleFriedPerch
+30300637	7	Smoked Fish Charcuterie Spread	Expansion03!SmokedFishCharcuterieSpread
+30300179	7	Smoked Peanuts and Anglerfish	SmokedPeanutsAnglerFish
+30300783	7	Snake and Spider Stew	Mission!Secret!OogieBoogie!SEC_Oogi_020_SnakeSpiderStewPuzzleMeal
+30300042	7	Snow White's Gooseberry Pie	GooseBerryPie
+30300569	7	Soda Bread & Feta	Expansion02!SodaBread&Feta
+30300193	7	Sole Meunière	SoleMeuniere
+30300031	7	Soufflé	Souffle
+30300570	7	Sour Berry Dessert	Expansion02!SourBerryDessert
+30300519	7	Sour Berry Pie	Expansion02!SourBerryPie
+30300045	7	Sour Snow Cones	SourSnowCones
+30300449	7	Spaceship Earth Cupcake	Event!RPT_Park_SpaceShipCupcake01
+30300037	7	Spaghetti Arrabbiata	SpaghettiArrabiata
+30300696	7	Spaghetti Especialle	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Tram_010_SpecialSpaghettiMeal
+30300571	7	Spanakopita	Expansion02!Spanakopita
+30300516	7	Sparkling Ambrosia	Expansion02!SparklingAmbrosia
+30300110	7	Spicy Baked Bream	SpicyBakedBream
+30300396	7	Spicy Macarons	Expansion01!Macaron_Spicy
+30300607	7	Spicy Moment	Mission!Realm!AliceInWonderland!RLM_AliceIP_Ches_010_SpicyMomentMeal
+30300421	7	Spicy Scorpion Skewer	Expansion01!SpicyScorpionSkewer
+30300572	7	Spicy Yogurt	Expansion02!SpicyYogurt
+30300363	7	Spiky Berry Pie	Expansion01!SpikyBerryPie
+30300545	7	Spiral Strawberry Chia Pancakes	Expansion02!SpiralStrawberryChiaPancakes
+30300521	7	Spiral Strawberry Pie	Expansion02!SpiralStrawberryPie
+30300603	7	Spiral Strawberry Smoothie	Expansion02!SpiralStrawberrySmoothie
+30300573	7	Spiral Strawberry Sour Fondue	Expansion02!SpiralStrawberrySourfondue
+30300247	7	Spring Chocolate	SpringChocolate
+30300248	7	Spring Egg Bowl	SpringMiniEggBowl
+30300249	7	Spring Mimosa Eggs	SpringMimosaEgg
+30300522	7	Sprout-Stuffed Porcini	Expansion02!SproutsStuffedPorcini
+30300524	7	Squash-Stuffed Porcini	Expansion02!SquashStuffedPorcini
+30300574	7	Squid Sashimi	Expansion02!SquidSashimi
+30300669	7	Stargazy Pie	Expansion03!StargazyPie
+30300188	7	Steamed Fugu	SteamedFugu
+30300605	7	Steamed Mussels	Expansion02!SteamedMussels
+30300407	7	Stellar Milkshake	Expansion01!StellarMilkshake
+30300447	7	Stitch Cupcake	Event!RPT_Park_StitchCupcake01
+30300119	7	Stone Soup	Mission!Realm!RLM_FrozenIP_Anna_010_RockSoup
+30300702	7	Strange Purple Donut	Mission!Village!Lady!VLG_Lady_010_PurpleDonut
+30300379	7	Strawberry Pie	Expansion01!StrawberryPie
+30300533	7	Strawberry Rhubarb Pie	Expansion02!StrawberryRhubarbPie
+30300380	7	Strawberry Shortcake	Expansion01!StrawberryShortcake
+30300423	7	Stuffed Dates	Expansion01!FilledDates
+30300742	7	Stuffed Lychees	Expansion04!StuffedLychee
+30300604	7	Stuffed Ring Squash	Expansion02!StuffedRingSquash
+30300706	7	Succotash	Mission!Village!Pocahontas!VLG_Poca_010_Succotash
+30300243	7	Sugar Kart Seat	Mission!Village!VLG_Vane_010_Seat
+30300245	7	Sugar Kart Tail	Mission!Village!VLG_Vane_010_CarTail
+30300244	7	Sugar Kart Wheel	Mission!Village!VLG_Vane_010_Wheels
+30300391	7	Sugar-Free Banana Muffin	Expansion01!SugarfreeBananaMuffin
+30300390	7	Sugar-Free Blueberry Muffin	Expansion01!SugarfreeBlueberryMuffin
+30300373	7	Sugar-Free Fruit Explosion Muffin	Expansion01!SugarfreeFruitExplosionMuffin
+30300392	7	Sugar-Free Fruit Muffin	Expansion01!SugarfreeFruitMuffin
+30300440	7	Sulley's Coffee	Mission!Secret!Sulley!RLM_MonsterIncIP_Sull_010_SullyCoffee
+30300491	7	Super Slippery Bug Oil	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_BugOil
+30300146	7	Sushi	Sushi
+30300732	7	Sushi Ship Platter	Expansion04!SushiShipPlatter
+30300113	7	Sweet & Sour Kingfish Steak	SweetSourKingfishSteak
+30300710	7	Sweet Acorn Porridge	Mini01!SweetAcornPorridge
+30300206	7	Sweet Frost Popcorn	Mission!Village!VLG_Olaf_020_SweetFrostPopcorn
+30300756	7	Sweet Frozen Crab	Expansion04!SweetFrozenCrab
+30300740	7	Sweet Heart of Palm Ceviche	Expansion04!SweetHeartofPalmCeviche
+30300754	7	Sweet Hearty Soup	Expansion04!SweetHeartySoup
+30300180	7	Sweet Herring	MarinatedHerring
+30300608	7	Sweet Moment	Mission!Realm!AliceInWonderland!RLM_AliceIP_Ches_010_SweetMomentMeal
+30300400	7	Sweet Popcorn	Expansion01!SweetPopcorn
+30300204	7	Sweet Slush	SweetSlush
+30300424	7	Sweet Tofu	Expansion01!SweetTofu
+30300223	7	Sweet Udon	SweetUdon
+30300336	7	Sweet and Sour Stir-Fry	Expansion01!SweetAndSourStirFry
+30300741	7	Sweetheart Salad	Expansion04!SweetheartSalad
+30300325	7	Taiyaki	Expansion01!Taiyaki
+30300309	7	Takoyaki Stick	Expansion01!TakoyakiStick
+30300017	7	Tamagoyaki	Tamagoyaki
+30300341	7	Tandoori Chicken	Expansion01!TandoriChicken
+30300779	7	Taro Fritters	Expansion04!TaroFritters
+30300771	7	Taro Turtle Bread	Expansion04!TaroTurtleBread
+30300157	7	Tasty Salad	TastySalad
+30300172	7	Tasty Veggies	TastyVeggies
+30300616	7	Tea Sandwiches	PlayingCardsTeaSandwiches
+30300023	7	Tekka Maki	TekkaMaki
+30300055	7	Teriyaki Salmon	TeriyakiSalmon
+30300441	7	The Wazowski Special	Mission!Secret!Sulley!RLM_MonsterIncIP_Sull_010_MikeCoffee
+30300312	7	Thousand Needles	Expansion01!ThousandNeedles
+30300682	7	Tigger Tails	Expansion03!TiggerSweets
+30300713	7	Toasted Picnic Sandwich	Mini01!ToastedPicnicSandwich
+30300425	7	Tofu	Expansion01!Tofu
+30300406	7	Tomato Basil Soup	Expansion01!TomatoBasilSoup
+30300165	7	Tomato Soup	TomatoSoup
+30300499	7	Toon Dog	Mission!Story!Expansion01!MRQS_E01_232_ToonDog
+30300430	7	Tourtière	Expansion01!Tourtiere
+30300733	7	Treasure Map Pizza	Expansion04!TreasureMapPizza
+30300173	7	Tropical Pop	TropicalPop
+30300707	7	Tummy Tonic	Mission!Story!Mini01!MRQS_M01_050_Dungeon01_HoneyMealQuest
+30300186	7	Tuna Burger	TunaBurger
+30300575	7	Tuna Sashimi	Expansion02!TunaSashimi
+30300343	7	Turkey Leg	Expansion01!TurkeyLeg
+30300352	7	Turnip Tartiflette	Expansion01!TurnipTartiflette
+30300576	7	Tzatziki	Expansion02!Tzatziki
+30300538	7	Underworld Cake	Expansion02!UnbirthdayCake
+30300479	7	Unfortunate-Fish Soup	Mission!Village!VLG_Timo_030_UnfortunateFishSoup
+30300768	7	Unicorn Fish Tartare	Expansion04!UnicornFishTartare
+30300005	7	Vanilla Ice Cream	VanillaIceCream
+30300414	7	Vanilla Macarons	Expansion01!Macaron_Vanilla
+30300577	7	Vanilla Yogurt	Expansion02!VanillaYogurt
+30300164	7	Vegetable Soup	VeggieSoup
+30300383	7	Vegetarian Dumplings	Expansion01!VegetarianDumpling
+30300095	7	Vegetarian Pizza	VegetarianPizza
+30300161	7	Vegetarian Stew	VegetarianStew
+30300183	7	Vegetarian Taco	VegetarianTaco
+30300401	7	Vegetarian Turnip Tartiflette	Expansion01!VegetarianTurnipTartiflette
+30300169	7	Veggie Casserole	VeggieCasserole
+30300099	7	Veggie Pasta	VeggiePasta
+30300098	7	Veggie Pie	VeggiePie
+30300168	7	Veggie Skewers	VeggieSkewers
+30300673	7	Vintage Peach Trifle	Expansion03!VintagePeachTrifle
+30300032	7	Waffles	Waffles
+30300187	7	Walleye en Papillote	WallEyeEnPapillote
+30300714	7	Warm Milk & Honey	Mini01!WarmMilkHoney
+30300627	7	Warm Spiced Milk	Mission!Village!Expansion02!VLG_Auro_040_WarmMilk
+30300108	7	Wedding Cake	WeddingCake
+30300034	7	Wheat Porridge	Porridge
+30300155	7	Wheat Porridge with Fruit	PorridgeFruits
+30300219	7	Whimsical Pie	FunzyPie
+30300662	7	Whimsical Pie	Mission!Village!Cinderella!VLG_Cind_020_WhimsicalPie
+30300048	7	Wonderland Cookies	WonderlandCookies
+30300463	7	Wonton Soup	WonTonSoup
+30300350	7	Yakisoba	Expansion01!Yakisoba
+30300232	7	Yule Log	YuleLog
+30300092	7	Zucchini Puffs	ZucciniPuffs
+31500232	8	A Musical Memory	Mission!Story!Expansion01!MRQS_E01_190_SheetMemory
+31500409	8	Afternoon Tea Recipe	Mission!Story!Expansion03!MRQS_E03_050_HighTeaRecipe
+31500459	8	Alpine Fishcakes Recipe	Mission!Village!SnowWhite!VLG_Snow_050_OktoberBassFishcakesRecipe
+31500524	8	Amber Brushwoods Upgrade	Mission!Story!Mini01!MRQS_M01_080!MRQS_M01_080_TreeResinUpgradeConsummable
+31500020	8	Another Memory Recovered by the F02937 M3 N07	MemoryShard!VLG_Wall_070
+31500392	8	Apple Pie Recipe.	Mission!Village!PeterPan!VLG_Pete_030_ApplePieRecipe
+31500111	8	Arendellian Fish Pie Recipe	Mission!Village!VLG_Elsa_020_FishPieRecipe
+31500104	8	Arendellian Pickled Herring Recipe	Mission!Village!VLG_Elsa_020_ArrendellePickledHerringRecipe
+31500342	8	Artisans' Alloy Pickaxe Upgrade	Mission!Realm!Aladdin!RLM_Jasm_010_UpgradePickaxe
+31500368	8	Aurora's Diary	Mission!Story!Expansion02!MRQS_E02_125_Journal01
+31500369	8	Aurora's Diary	Mission!Story!Expansion02!MRQS_E02_125_Journal02
+31500370	8	Aurora's Diary	Mission!Story!Expansion02!MRQS_E02_125_Journal03
+31500296	8	Aurora's Diary Page	MemoryShard!Expansion02!DiaryAurora
+31500383	8	Aurora's Improved Cake Recipe	Mission!Village!Aurora!VLG_Auro_010_AuroraImprovedCakeRecipe
+31500317	8	Aurora's Note to Flynn	Mission!Village!Flynn!VLG_Flyn_030_AuroraJournal02
+31500316	8	Aurora's Proposal to Flynn	Mission!Village!Flynn!VLG_Flyn_030_AuroraJournal01
+31500213	8	Basil Berry Salad Recipe	Mission!Expansion01!MRQS_E01_020_Recipe02
+31500500	8	Bee Box Memory	MemoryShard!Mini01!MRQS_M01_020!MRQS_M01_020_BeeboxMemory
+31500577	8	Bee-Shaped Honey Macarons Recipe	Mission!Story!Mini01!MRQS_M01_000_MacaronsRecipe
+31500461	8	Beet Sugar Sculpture Recipe	Mission!Village!SnowWhite!VLG_Snow_010_BeetSculptureRecipe
+31500110	8	Berry Salad Recipe	Mission!Village!VLG_Eric_010_Recipe03
+31500201	8	Best Fish Forever	Mission!Expansion01!MRQS_E01_060_FishRecipe
+31500494	8	Big Red Monster Clothing Bag	Mission!Story!Mini01!MRQS_M01_070!MRQS_M01_070_ClothingPouchMonster
+31500322	8	Bind Slow Trap Recipe	Mission!Village!Merida!VLG_Meri_010_ChillerTrapRecipe
+31500427	8	Bird Feeder Crafting Recipe	Mission!Premium!BeautyBeast!Beast!PRM_Beas_010_FeederRecipe
+31500289	8	Biscuit Recipe	Mission!Village!Mulan!VLG_Mula_010_BiscuitsRecipe
+31500253	8	Blueberry Pie Recipe	Mission!Village!Oswald!VLG_Oswa_030_BluePieRecipe
+31500081	8	Book Hint List	Mission!Village!VLG_Remy_020
+31500079	8	Bouillabaisse Recipe	Mission!Village!VLG_Goof_040_BouillabaisseRecipe
+31500446	8	Bread Bowl Pumpkin Soup Recipe	Mission!Village!Tigger!VLG_Tigg_040_TiggerRecipe03
+31500556	8	Bright Imagination Potion	Mission!Story!Mini01!MRQS_M01_140_Adventure!MRQS_M01_140_PickaxeUpgrade
+31500017	8	Broken Memory	MemoryShard!VLG_Wall_030
+31500097	8	Buzz's Ranger Badge	Mission!Village!VLG_Buzz_030_Memory02
+31500328	8	Caramel Apple Recipe	Mission!Village!Sally!VLG_Sall_010_CaramelApplesRecipe
+31500119	8	Cheesecake Recipe Book	Mission!Village!VLG_Wood_010_CheeseCakeRecipe
+31500353	8	Cheshire Cat Concoction	Mission!Village!CheshireCat!VLG_Ches_040_FishBaitConsummable
+31500362	8	Cheshire Cat Memory	MemoryShard!CheshireMemoryOrb01
+31500346	8	Cheshire Cat Tail Recipe Book	Mission!Secret!Remy!SEC_Remy_030_CheshireRecipeBook
+31500497	8	Childhood Treasure Box	Mission!Story!Mini01!MRQS_M01_010_BoxOfChildhoodItems
+31500099	8	Chocolate Birthday Cake Recipe	Mission!Village!VLG_Anna_040_CakeRecipe
+31500143	8	Chocolate Chip Cookie Recipe	Mission!Village!VLG_Mira_040_ChocoChipRecipe
+31500204	8	Chocolate Ice Cream Recipe	Mission!Village!VLG_Jack_010_ChocolateIceCreamRecipe
+31500275	8	Chrysanthemum Tea Recipe	Mission!Village!Mulan!VLG_Mula_010_ChrysanthemumTeaRecipe
+31500006	8	Clothing Bag	Clothing
+31500385	8	Clothing Bag	Mission!Realm!InsideOut!Joy!RLM_Joy_010_ClothingBag
+31500675	8	Clothing Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage01
+31500676	8	Clothing Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage02
+31500677	8	Clothing Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage03
+31500678	8	Clothing Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage04
+31500679	8	Clothing Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage05
+31500691	8	Clothing Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage07
+31500152	8	Coconut Boba Tea Recipe	Mission!Village!Vanellope!VLG_Vane_030_WhiteBobaRecipe
+31500189	8	Coconut Cake Recipe	Mission!Village!Gaston!VLG_Gast_040_Recipe02
+31500212	8	Conch Ceviche Recipe	Mission!Expansion01!MRQS_E01_020_Recipe01
+31500633	8	Confectioner's Wardrobe Pouch	Mission!Expansion04!MRQS_E04_060_MascPouch
+31500095	8	Crafting Recipe	CraftingRecipe
+31500426	8	Creamy Garlic Scallop Recipe	Mission!Premium!BeautyBeast!Beast!PRM_Beas_020_CreamyGarlicScallopRecipe
+31500432	8	Crepe Recipe	Mission!Village!Lumiere!VLG_Lumi_010_CrepeRecipe
+31500382	8	Cruella's Diary Page	MemoryShard!Expansion03!DiaryCruella
+31500410	8	Cruella's Journal Fragment	Mission!Story!Expansion03!MRQS_E03_060_CruellasJournal01
+31500411	8	Cruella's Journal Fragment	Mission!Story!Expansion03!MRQS_E03_060_CruellasJournal02
+31500412	8	Cruella's Journal Fragment	Mission!Story!Expansion03!MRQS_E03_060_CruellasJournal03
+31500389	8	Crying Cloud Watering Can Upgrade	Mission!Village!Sadness!VLG_Sadn_010_CryingCloudUpgrade
+31500629	8	Cute Sugar Cookie Recipe	Mission!Village!Megara!VLG_Mega_040_CookieRecipe
+31500295	8	Dark Pickaxe Upgrade	Mission!Village!Timon!VLG_Timo_040_PickaxeUpgrade
+31500519	8	Dazzle Beach Aquarium Prize	Mission!GrandExhibition!Beach!LootBag_Aquarium
+31500547	8	Dazzle Beach Exhibition Reward	Mission!GrandExhibition!Beach!LootBag_Final
+31500520	8	Dazzle Beach Habitat Prize	Mission!GrandExhibition!Beach!LootBag_CompanionHouse
+31500196	8	Detailed Statue-Repair Instructions	Mission!Expansion01!MRQS_E01_070_ArmRecipe
+31500040	8	Diary Page	Mission!Story!MRQS080_DarkForestDiary
+31500518	8	Diggy-Wiggy Potion	Mission!Story!Mini01!MRQS_M01_020_ShovelUpgradeForStumpRemoval
+31500517	8	Diggy-Wiggy Potion Recipe	MemoryShard!Mini01!MRQS_M01_020!MRQS_M01_020_ShovelUpgradeRecipe
+31500523	8	Divination Meal	Mission!Village!Hercules!VLG_Herc_020_CursedMealMemoryOrb
+31500492	8	Dog Dream Bone	Mission!Village!Lady!VLG_Lady_010_BoneConsumable
+31500294	8	Donald's Map	Mission!Village!Timon!VLG_Timo_030_TreasureMapMemory
+31500290	8	Dream Ice Cream Recipe	Mission!Village!Timon!VLG_Timo_010_RecipeDreamIceCream
+31500209	8	Dreamango Boba Tea Recipe	Mission!Expansion01!Secret!Merlin!SEC_E01_Merl_010_DreamangoRecipe
+31500202	8	Dreamlight Stabilizer Potion	Mission!Village!VLG_Jack_020_DreamlightStabilizaterConsumable
+31500122	8	Dreamlight Tree Fertilizer	Mission!Village!VLG_Simb_040_WateringCanUpgrade
+31500223	8	EVE's Treasure Bag	Mission!Expansion01!MRQS_E01_060_EveTreasure
+31500246	8	EVE's Treasure Map	Mission!Story!Expansion01!MRQS_E01_170_SecretAreas
+31500437	8	Elegant Butler Shoes	Mission!Realm!BeautyBeast2!Sec_cogs_010_PrizeShoes
+31500165	8	Emerald Bottle	Mission!Secret!Green_Bottle01
+31500166	8	Emerald Bottle	Mission!Secret!Green_Bottle02
+31500167	8	Emerald Bottle	Mission!Secret!Green_Bottle03
+31500168	8	Emerald Bottle	Mission!Secret!Green_Bottle04
+31500169	8	Emerald Bottle	Mission!Secret!Green_Bottle05
+31500170	8	Emerald Bottle	Mission!Secret!Green_Bottle06
+31500171	8	Emerald Bottle	Mission!Secret!Green_Bottle07
+31500172	8	Emerald Bottle	Mission!Secret!Green_Bottle08
+31500173	8	Emerald Bottle	Mission!Secret!Green_Bottle09
+31500174	8	Emerald Bottle	Mission!Secret!Green_Bottle10
+31500175	8	Emerald Bottle	Mission!Secret!Green_Bottle11
+31500176	8	Emerald Bottle	Mission!Secret!Green_Bottle12
+31500177	8	Emerald Bottle	Mission!Secret!Green_Bottle13
+31500178	8	Emerald Bottle	Mission!Secret!Green_Bottle14
+31500179	8	Emerald Bottle	Mission!Secret!Green_Bottle15
+31500180	8	Emerald Bottle	Mission!Secret!Green_Bottle16
+31500134	8	Enchanted Lens	Mission!Village!FairyGodMother!VLG_Fair_030_MagicLens
+31500198	8	Experimental Fireworks	Mission!Village!EVE!VLG_Eve_040_ExplosiveCactusRecipe
+31500456	8	Fairy Boot Cake Recipe	Mission!Village!TinkerBell!VLG_Tink_020_FairyBootRecipe
+31500440	8	Fairy Bread Recipe	Mission!Village!Tigger!VLG_Tigg_020_FairyBreadRecipe
+31500451	8	Fairy Pizza Recipe	Mission!Village!Tigger!VLG_Tigg_020_FairyPizzaRecipe
+31500450	8	Fairy Wand Recipe	Mission!Village!Tigger!VLG_Tigg_020_FairyWandRecipe
+31500280	8	Falafel Recipe	Mission!Village!Jafar!VLG_Jafa_040_RecipeFalafel
+31500475	8	Fancy Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift05
+31500481	8	Festive Blueberry Hot Cocoa Recipe	Event!FloatingFestival!Winter2025!BlueberryHotCocoaRecipe
+31500480	8	Festive Cherry Hot Cocoa Recipe	Event!FloatingFestival!Winter2025!CherryHotCocoaRecipe
+31500479	8	Festive Mint Hot Cocoa Recipe	Event!FloatingFestival!Winter2025!MintHotCocoaRecipe
+31500395	8	First Fox Memory	Mission!Village!Lumiere!VLG_Lumi_040_CritterMemory01
+31500115	8	Fish Soup Recipe	Mission!Village!VLG_Buzz_030_FishSoup
+31500150	8	Fishing Hat	Mission!Village!Belle!VLG_Bell_030_Mem02
+31500572	8	Fix-It Pickaxe Enchantment	Mission!Village!Ralph!VLG_Ralp_040_EnchantPickaxe
+31500313	8	Flower Extract	Mission!Village!Flynn!VLG_Flyn_030_WateringCanUpgrade
+31500310	8	Flynn's Drawing of Armor	Mission!Story!Expansion02!MRQS_E02_050_KnightArmor
+31500311	8	Flynn's Memory Shard	Mission!Village!Flynn!VLG_Flyn_020_FlynnMemories
+31500493	8	Fog-Busting Potion	Mission!Story!Mini01!MRQS_M01_070!MRQS_M01_070_FogUpgradeConsummable
+31500553	8	Forest of Valor Aquarium Prize	Mission!GrandExhibition!Forest!LootBag_Aquarium
+31500555	8	Forest of Valor Exhibition Reward	Mission!GrandExhibition!Forest!LootBag_Final
+31500554	8	Forest of Valor Habitat Prize	Mission!GrandExhibition!Forest!LootBag_CompanionHouse
+31500576	8	Foresty Quiche Recipe	Mission!Story!Mini01!MRQS_M01_000_QuisheRecipe
+31500634	8	Forgotten Lands Aquarium Prize	Mission!GrandExhibition!DarkMountains!LootBag_Aquarium
+31500636	8	Forgotten Lands Exhibition Reward	Mission!GrandExhibition!DarkMountains!LootBag_Final
+31500635	8	Forgotten Lands Habitat Prize	Mission!GrandExhibition!DarkMountains!LootBag_CompanionHouse
+31500218	8	Freezer of Infinite Meat Schematics	Mission!Village!Gaston!VLG_Gast_010_FreezerBlueprint
+31500398	8	French Fries Recipe.	Mission!Village!PeterPan!VLG_Pete_020_FrenchFriesRecipe
+31500445	8	Friendly Bento Recipe	Mission!Village!Tigger!VLG_Tigg_040_TiggerRecipe02
+31500595	8	Frosted Heights Aquarium Prize	Mission!GrandExhibition!Cliff!LootBag_Aquarium
+31500597	8	Frosted Heights Exhibition Reward	Mission!GrandExhibition!Cliff!LootBag_Final
+31500596	8	Frosted Heights Habitat Prize	Mission!GrandExhibition!Cliff!LootBag_CompanionHouse
+31500013	8	Fruit Salad Recipe	Mission!Story!MRQS_Mick_050_FruitSaladRecipe
+31500000	8	Furniture Pouch	Furniture
+31500371	8	Furniture Pouch	Mission!Realm!AliceInWonderland!RLM_AliceIP_ForestSignBagReward
+31500350	8	Garlic Chocolate Tart Recipe	Mission!Village!CheshireCat!VLG_Ches_020_GarlicChocolateTart_Recipe
+31500206	8	Gaston's Journal	MemoryShard!Expansion01!DiaryGaston
+31500184	8	Gaston's Repaired Compass	Mission!Village!Gaston!VLG_Gast_020_Compass
+31500106	8	Gazpacho Recipe	Mission!Village!VLG_Eric_010_Recipe01
+31500649	8	Ghostly Paint Thinner	Mission!Secret!OogieBoogie!SEC_Oogi_030_ZeroGhostPaintThinner
+31500303	8	Gingerbread Cookies Recipe	Mission!Village!Pumbaa!VLG_Pumb_010_GingerBreadCookieRecipe
+31500557	8	Glade of Trust Aquarium Prize	Mission!GrandExhibition!Wetland!LootBag_Aquarium
+31500559	8	Glade of Trust Exhibition Reward	Mission!GrandExhibition!Wetland!LootBag_Final
+31500558	8	Glade of Trust Habitat Prize	Mission!GrandExhibition!Wetland!LootBag_CompanionHouse
+31500612	8	Glider Bag	SprintEffect
+31500680	8	Glider Bag	Mission!Expansion04!MermaidClothing_Consumable_Salvage06
+31500237	8	Golden Omelet Recipe	Mission!Story!Expansion01!MRQS_E01_160_GoldenOmeletRecipe
+31500415	8	Gooseberry Boba Tea Recipe	Mission!Village!Sadness!VLG_Sadn_030_BobaRecipe
+31500091	8	Gooseberry Pie Recipe	Mission!Village!VLG_Scar_040_PieRecipe
+31500646	8	Gourd-geous Casserole Recipe	Mission!Expansion04!MRQS_E04_090_Recipe01
+31500197	8	Gourmet Grubs: The Recipe Book	Mission!Village!EVE!VLG_Eve_030_GrubsRecipeItem
+31500138	8	Gray Stuff Recipe	Mission!Village!Beast!VLG_Beas_010_Recipe03
+31500326	8	Grecian Baked Fish Recipe.	Mission!Village!Hades!VLG_Hade_020_FishBakeRecipe
+31500514	8	Greek Garum	Mission!Village!Phil!VLG_Phil_030_ConsumeGreekGarum
+31500347	8	Gumbo Recipe	Mission!Story!ORQS_Tian_010_GumboRecipe
+31500327	8	Halloween Gingerbread Cookie Recipe	Mission!Village!Sally!VLG_Sall_010_HalloweenGingerBreadCookieRecipe
+31500669	8	Halloween Town Fence Corner Recipe	Event!Halloween!HalloweenTownFencesCornerRecipe
+31500622	8	Halloween Town Fence Recipe	Event!Halloween!HalloweenTownFencesRecipeBook
+31500625	8	Halloween Town Gravestone Recipe	Event!Halloween!HalloweenTownGravestoneRecipeBook
+31500624	8	Halloween Town Graveyard Statue Recipe	Event!Halloween!HalloweenTownStatueRecipeBook
+31500623	8	Halloween Town Mausoleum Recipe	Event!Halloween!HalloweenTownMausoleumRecipeBook
+31500668	8	Halloween Town Small Fence Recipe	Event!Halloween!HalloweenTownFencesSmallRecipe
+31500430	8	Haunted Floating Festival Memory	MemoryShard!HalloweenFloatingEventMemoryOrb
+31500421	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!SpookyTreeReward
+31500422	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!BlackCauldronReward
+31500434	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!HauntedArmorReward
+31500438	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!CombinationPuzzleReward
+31500449	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!FoxCritterReward
+31500654	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!MagicSealReward
+31500658	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!GhostReward
+31500661	8	Haunted Floating Festival Pouch	Event!FloatingFestival!Halloween2025!BasementDoorReward
+31500581	8	Honey Macarons Recipe	Mission!Village!Eeyore!VLG_Eeyo_030_MacaronsRecipe
+31500454	8	Honey Pancakes Recipe	Mission!Village!TinkerBell!VLG_Tink_020_HoneyPancakesRecipe
+31500448	8	Honey Perfume	Mission!Village!Tigger!VLG_Tigg_010_HoneyPerfumeConsumable
+31500447	8	Honey Remover	Mission!Village!Tigger!VLG_Tigg_010_HoneyRemover
+31500580	8	Honey Triffle Recipe	Mission!Village!Eeyore!VLG_Eeyo_030_HoneyTriffleRecipe
+31500455	8	Honey-Glazed Carrots Recipe	Mission!Village!TinkerBell!VLG_Tink_020_HoneyGlazedCarrotsRecipe
+31500586	8	Honey-Glazed Plush Fish Recipe	Mission!Village!Eeyore!VLG_Eeyo_010_HoneyPlushFishRecipe
+31500499	8	Honeyglow Elixir	Mission!Story!Mini01!MRQS_M01_030_HoneyglowLanternPotion_Consumable
+31500541	8	Honeyglow Tales	MemoryShard!Mini01!HoneyGlowTales
+31500610	8	Hook's Note	Mission!Village!CaptJackSparrow!VLG_Capt_030_HookNote
+31500464	8	Horse Tack Bag	MountGear
+31500129	8	Icy Enchantment	Mission!Village!FairyGodMother!VLG_Fair_010_FireRemover
+31500270	8	Ink Blot Test	Mission!Village!Mushu!VLG_Mush_020_RorschachTestPlayerConsumable
+31500274	8	Jasmine Tea Recipe	Mission!Village!Mulan!VLG_Mula_010_JasmineTeaRecipe
+31500457	8	Jellied Salad Recipe	Mission!Village!Cruella!VLG_Crue_020_JelliedRecipe
+31500458	8	Jellied Salad Recipe	Mission!Village!SnowWhite!VLG_Snow_050_JelliedSaladRecipe
+31500386	8	Joyful Meal	Mission!Village!Joy!VLG_Joy_020_JoyfulMealRecipe
+31500651	8	Kraken Tart Recipe	Mission!Village!Wendy!VLG_Wend_010_KrakenTartRecipe
+31500592	8	Kraken's Catch Recipe	Mission!Expansion04!MRQS_E04_030_Recipe01
+31500485	8	Lady's Photo Frame	Mission!Village!Lady!VLG_Lady_040_FrameBag
+31500602	8	Lake Dock Boat Port Recipe	Event!SummerSizzle!BaseGame!LakeBoatPortRecipe
+31500603	8	Lake Dock Boat Port Recipe	Event!SummerSizzle!BaseGame!LakeDockBoatRecipe
+31500601	8	Lake Dock Recipe	Event!SummerSizzle!BaseGame!LakeDockRecipe
+31500471	8	Large Round Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift01
+31500144	8	Large Seafood Platter Recipe	Mission!Village!VLG_Mira_040_LargeSeafoodRecipe
+31500125	8	Large Seafood Platter Recipe Book	Mission!Village!VLG_Simb_020_SeaFoodRecipe
+31500472	8	Large Square Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift02
+31500539	8	Light of the Muses	Mission!Village!Hercules!VLG_Herc_020_ConsummableMuseLight
+31500084	8	Lion's Claw Shovel Head	Mission!Village!VLG_Scar_020_GazelUpgrade
+31500128	8	Lioness Feast Recipe	Mission!Village!VLG_Nala_040_NewFishRecipeBook
+31500538	8	Lobster Roll Recipe	Mission!Village!Hercules!VLG_Herc_040_LobsterRollRecipe
+31500390	8	Lost Diary Page	Mission!Village!Sadness!VLG_Sadn_040_ShameBearDiary
+31500482	8	Lucky Clover Archway Crafting Recipe	Event!StPatrick!StPatrickArchway_Recipe
+31500483	8	Lucky Shamrock Banner Recipe	Event!StPatrick!StPatrickBanner_Recipe
+31500522	8	MRQS_M01_030_HoneyAndLightMemory	MemoryShard!Mini01!MRQS_M01_030!MRQS_M01_030_HoneyAndLightMemory
+31500105	8	Magical Chest	Mission!Village!VLG_Mick_50_MagicalChest
+31500279	8	Makrout Recipe	Mission!Village!Jafar!VLG_Jafa_040_RecipeMakrout
+31500379	8	Map Memory	MemoryShard!TreasureHuntMemoryOrb01
+31500491	8	Map Memory	MemoryShard!FishTreasureHuntMemoryOrb01
+31500414	8	Margherita Pizza Recipe	Mission!Village!Sadness!VLG_Sadn_030_PizzaRecipe
+31500424	8	Masquerade Mask	Mission!Realm!BeautyBeast2!RLM_BB2_Lumi_020_MasqueradeMask
+31500182	8	Meat Pie Recipe	Mission!Village!Gaston!VLG_Gast_010_Recipe
+31500378	8	Memo from Hades	Mission!Village!Maleficent!VLG_Male_040_TypewriterMemo03
+31500377	8	Memo from Maleficent	Mission!Village!Maleficent!VLG_Male_040_TypewriterMemo02
+31500376	8	Memo from W	Mission!Village!Maleficent!VLG_Male_040_TypewriterMemo01
+31500587	8	Memory Mania Clue	MemoryShard!Joy_MemoryMania_010_Orb
+31500588	8	Memory Mania Clue	MemoryShard!Joy_MemoryMania_020_Orb
+31500589	8	Memory Mania Clue	MemoryShard!Joy_MemoryMania_030_Orb
+31500001	8	Memory Piece	MemoryShard_yellow
+31500002	8	Memory Piece	MemoryShard_blue
+31500003	8	Memory Piece	MemoryShard_purple
+31500004	8	Memory Piece	MemoryShard_green
+31500005	8	Memory Piece	MemoryShard_red
+31500083	8	Memory Piece	MemoryShard_DreamlightValley
+31500605	8	Memory Piece	Mission!Expansion04!MRQS_E04_070_DonutMemoryShard
+31500019	8	Memory Recovered by the F02937 M3 N07	MemoryShard!VLG_Wall_060
+31500016	8	Memory of a Long-Lost Treasure	Mission!Village!VLG_Scro_050_ScroogeCoin
+31500266	8	Merida's Snippet Trap Schematics	Mission!Expansion02!MRQS_E02_020_SnippetLure01Recipe
+31500391	8	Meringue Pie Recipe.	Mission!Village!PeterPan!VLG_Pete_030_MerringuePieRecipe
+31500009	8	Merlin's Lost Memory	Mission!Story!MRQS_Merl_010_MerlinMemory
+31500256	8	Mermaid Cupcake Recipe	Mission!Village!ParkRecipes!RPT_Park_Recipe_MermaidCupcake01
+31500648	8	Mermaid Milkshake Recipe	Mission!Expansion04!MRQS_E04_090_Recipe03
+31500324	8	Mickey's Halloween Candy Bowl Recipe	Event!Halloween!RPT_Halloween_Recipe_HalloweenBowl
+31500011	8	Mickey's Lost Memory	Mission!Story!MRQS_Mick_050_MickeyMemory
+31500015	8	Mickey's Memory	MemoryShard!VLG_Mick_050_CastleSecretRoomMemory
+31500257	8	Minnie Cupcake Recipe	Mission!Village!ParkRecipes!RPT_Park_Recipe_MinnieCupcake01
+31500038	8	Minnie's Crackers Recipe	Mission!Story!MRQS_Mick_050_CrackersRecipes
+31500153	8	Mint Boba Tea	Mission!Village!Vanellope!VLG_Vane_030_GreenBobaRecipe
+31500187	8	Mint Chocolate Recipe	Mission!Village!FairyGodMother!VLG_Fair_040_MintChocoRecipe
+31500108	8	Miracle Growth Elixir	Mission!Story!MRQS100_MiracleGrowthElixir
+31500024	8	Moana's Lost Memory	Mission!Village!VLG_Moan_030_MemoryShard
+31500224	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt01
+31500225	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt02
+31500226	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt05
+31500238	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt03
+31500239	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt06
+31500240	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt04
+31500241	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt07
+31500242	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt08
+31500243	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt09
+31500244	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt10
+31500245	8	Monsters, Inc. Sticky Note	MemoryShard!Mission!MonsterInc!RLM_MonsterIncIP_Mike_010_PostIt11
+31500215	8	Monstrous De-Pollinator Solution	Mission!Village!Mike!VLG_Mike_010_WateringCanUpgrade
+31500291	8	Mother Gothel's Note	Mission!Village!Timon!VLG_Timo_020_DiaryMG
+31500235	8	Mother Gothel's Recipes	Mission!Story!Expansion01!MRQS_E01_180_MgRecipes
+31500007	8	Motif Bag	Decal
+31500271	8	Mushu's Congee Recipe Book	Mission!Realm!Mulan!Mushu!RLM_Mush_010_CongeeRecipe
+31500630	8	Mysterious Confectioner's Pouch	Mission!Expansion04!MRQS_E04_060_HatPouch
+31500632	8	Mysterious Confectioner's Pouch	Mission!Expansion04!MRQS_E04_060_FemPouch
+31500452	8	Mysterious Crystal Pickaxe Upgrade	Mission!Story!Expansion03!MRQS_E03_020_DecayCrystalEnchantment
+31500537	8	Mysterious Note Memory	MemoryShard!Mini01!MRQS_M01_110!MRQS_M01_110_MysteriousNoteMemory
+31500287	8	Mysterious Pouch	Mission!Expansion02!MRQS_E02_031_LootBag
+31500542	8	Mysterious Treasure Map	Mission!Expansion04!MRQS_E04_010_TreasureMap
+31500127	8	Nala's Memory	Mission!Village!VLG_Nala_030_MemoryShard
+31500078	8	Nautilus Bait	Mission!Village!VLG_Eric_020_BaitNautilus
+31500315	8	Neverafter Council Invitation Design	Mission!Story!Expansion02!MRQS_E02_110_PartyInviteDesign
+31500560	8	Notebook Memory	MemoryShard!Mini01!MRQS_M01_160!MRQS_M01_160_NotebookMemory
+31500151	8	Notes	Mission!Village!Belle!VLG_Bell_030_Mem03
+31500098	8	Old Fishing Rod	Mission!Village!VLG_Buzz_030_Memory03
+31500200	8	Old Isle Map	Mission!Village!Rapunzel!VLG_Rapu_030_OldMap
+31500551	8	Old Map	Mission!Story!Mini01!MRQS_M01_140_Adventure!MRQS_M01_140_OldMap
+31500012	8	Old Ruler's Lost Diary Page	MemoryShard!DiaryMemory
+31500332	8	Olympian Tapenade Recipe	Mission!Village!Hades!VLG_Hade_030_TapenadeRecipe
+31500183	8	Omelet Recipe	Mission!Village!Gaston!VLG_Gast_040_Recipe03
+31500304	8	Onion Puffs Recipe	Mission!Village!Pumbaa!VLG_Pumb_010_OnionPuff
+31500273	8	Oolong Tea Recipe	Mission!Village!Mulan!VLG_Mula_010_OolongTeaRecipe
+31500250	8	Oswald's Plan Recipe	Mission!Village!VLG_Oswa_040_PlanRecipe
+31500149	8	Page from the Journal	Mission!Village!Belle!VLG_Bell_030_Mem01
+31500565	8	Parks Floating Festival Pouch	Event!FloatingFestival!Parks!EFI_Parks_Puzzle1RewardBag
+31500568	8	Parks Floating Festival Pouch	Event!FloatingFestival!Parks!EFI_Parks_Puzzle2RewardBag
+31500578	8	Parks Floating Festival Pouch	Event!FloatingFestival!Parks!EFI_Parks_Puzzle4RewardBag
+31500584	8	Parks Floating Festival Pouch	Event!FloatingFestival!Parks!EFI_Parks_Puzzle5RewardBag
+31500585	8	Parks Floating Festival Pouch	Event!FloatingFestival!Parks!EFI_Parks_Puzzle6RewardBag
+31500431	8	Pastry Cream Fruit Recipe	Mission!Village!Lumiere!VLG_Lumi_010_PastryCreamRecipe
+31500501	8	Peaceful Meadow Aquarium Prize	Mission!GrandExhibition!Meadow!LootBag_Aquarium
+31500546	8	Peaceful Meadow Exhibition Reward	Mission!GrandExhibition!Meadow!LootBag_Final
+31500502	8	Peaceful Meadow Habitat Prize	Mission!GrandExhibition!Meadow!LootBag_CompanionHouse
+31500123	8	Peanut Butter Sandwich Recipe	Mission!Village!VLG_Remy_020_PeanutSandwichRecipe
+31500394	8	Peanut Butter Sandwich Recipe	Mission!Village!PeterPan!VLG_Pete_020_PeanutButterSandwich_Recipe
+31500124	8	Peanut Butter Waffle Recipe	Mission!Village!VLG_Remy_020_PeanutWaffleRecipe
+31500208	8	Pear Upside-Down Cake Recipe	Mission!Expansion01!Secret!Merlin!SEC_E01_Merl_010_UpsideDownPearCakeRecipe
+31500133	8	Peppermint Tea Recipe	Mission!Village!FairyGodMother!VLG_Fair_030_MintTeaRecipe
+31500561	8	Perfect Gift Memory	MemoryShard!Mini01!MRQS_M01_160!MRQS_M01_160_PerfectGiftMemory
+31500329	8	Persimmon Sour Fondue Recipe	Mission!Village!Merida!VLG_Meri_020_PersimmonSFRecipe
+31500365	8	Peter Pan's Memory	Mission!Village!VLG_Pete_020_MissingFurnitureMemories
+31500300	8	Pickaxe Potion	Mission!Story!Expansion02!MRQS_E02_010_PetrifiedWoodEnchantment
+31500248	8	Pink Starfish BBQ Recipe	Mission!Village!Oswald!VLG_Oswa_030_PinkStarBBQ
+31500593	8	Pirate Ship Hot Dog Recipe	Mission!Expansion04!MRQS_E04_030_Recipe02
+31500566	8	Plant-A-Way Potion	Event!FloatingFestival!Parks!EFI_Parks_Puzzle2_WateringCanUpgrade
+31500567	8	Plant-A-Way Potion Recipe	Event!FloatingFestival!Parks!EFI_Parks_Puzzle2_UpgradeRecipe
+31500640	8	Plaza Exhibition Reward	Mission!GrandExhibition!Urban!LootBag_Final
+31500639	8	Plaza Habitat Prize	Mission!GrandExhibition!Urban!LootBag_CompanionHouse
+31500429	8	Porridge with Fruits Recipe	Mission!Premium!BeautyBeast!Beast!PRM_Beas_010_PorridgeFruits
+31500349	8	Pot of Red Paint	Mission!Realm!AliceInWonderland!RLM_AliceIP_Alic_020_RedPaintConsummable
+31500272	8	Poutine Recipe	Mission!Village!Jafar!VLG_Jafa_030_PoutineRecipe
+31500521	8	Prickle-Popper Potion	Mission!Story!Mini01!MRQS_M01_110_BigForest!MRQS_M01_110_ShovelUpgradePotion
+31500536	8	Prickle-Popper Potion Recipe	MemoryShard!Mini01!MRQS_M01_110!MRQS_M01_110_ShovelUpgradeMemory
+31500515	8	Primary Colors Potion	Mission!Story!Mini01!MRQS_M01_090!MRQS_M01_090_PrimaryColorsPotion
+31500255	8	Princess Aurora Raspberry Cupcake Recipe	Mission!Village!ParkRecipes!RPT_Park_Recipe_PrincessAuroraCupcake01
+31500132	8	Pumpkin Soup Recipe	Mission!Village!FairyGodMother!VLG_Fair_020_PumpkinSoupRecipe
+31500416	8	Pumpkin Soup Recipe	Mission!Village!Lumiere!VLG_Lumi_020_PumpkinSoupRecipe
+31500205	8	Rapunzel's Lyrics	MemoryShard!Expansion01!DiaryRapunzel
+31500194	8	Rapunzel's Tower Painting	Mission!Village!Rapunzel!VLG_Rapu_010_RapunzelPainting
+31500146	8	Raspberry Boba Tea Recipe	Mission!Village!Vanellope!VLG_Vane_030_RedBobaRecipe
+31500650	8	Real Ghostly Paint Thinner	Mission!Secret!OogieBoogie!SEC_Oogi_030_RealZeroGhostPaintThinner
+31500010	8	Recipe Book	Recipe
+31500373	8	Recipe for Aphrodite's Delight	Mission!Village!Aurora!VLG_Auro_030_Recipe
+31500314	8	Reconciliation Cake Recipe	Mission!Story!Expansion02!MRQS_E02_110_ReconciliationCakeRecipe
+31500142	8	Red Fruit Pie Recipe	Mission!Village!VLG_Mira_040_FruitPieRecipe
+31500284	8	Remy's Mysterious Menu	Mission!Village!VLG_Remy_050_MemoryShard
+31500087	8	Roaring Shovel Head	Mission!Village!VLG_Scar_030_BigGazel
+31500305	8	Roasted Asparagus Recipe	Mission!Village!Pumbaa!VLG_Pumb_010_RoastedAsparagus
+31500301	8	Roasted Marshmallows Recipe	Mission!Village!SummerRecipes!RPT_Summer_Recipe_MarshmallowOnAStick
+31500116	8	Root Beer Recipe	Mission!Story!MRQS100_RootBeerRecipe
+31500436	8	Rose Fertilizer	Mission!Realm!BeautyBeast2!RLM_BeautyBeast2_Cogs_010_FertilzerRose
+31500344	8	Rose Water	Mission!Realm!Aladdin!RLM_Alad_030_RottenFruitUpgrade
+31500473	8	Round Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift03
+31500653	8	Royal Herbicide	Mission!Village!Wendy!VLG_Wend_040_HerbicideConsummable
+31500203	8	Ruby Masoor Dal Recipe	Mission!Village!Rapunzel!VLG_Rapu_020_RubyRecipe
+31500302	8	S'mores Recipe	Mission!Village!SummerRecipes!RPT_Summer_Recipe_Smores
+31500090	8	Sake Maki Recipe	Mission!Village!VLG_Scar_010_SakemakiRecipe
+31500323	8	Salt-Baked Sea Wolf Recipe	Mission!Village!Merida!VLG_Meri_040_SaltBakedWolffishRecipe
+31500292	8	Scar's Note	Mission!Village!Timon!VLG_Timo_020_DiaryScar
+31500435	8	Scarlet Bouquet Salad Recipe	Mission!Story!Expansion03!MRQS_E03_032_HorseMealRecipe
+31500352	8	Scavenger Memory	Mission!Village!CheshireCat!VLG_Ches_040_ScavengerMemory
+31500181	8	Scrambled Eggs Recipe	Mission!Village!Gaston!VLG_Gast_040_Recipe01
+31500594	8	Sea Biscuit Recipe	Mission!Expansion04!MRQS_E04_030_Recipe03
+31500137	8	Seafood Pasta Recipe	Mission!Village!Beast!VLG_Beas_010_Recipe02
+31500396	8	Second Fox Memory	Mission!Village!Lumiere!VLG_Lumi_040_CritterMemory02
+31500516	8	Secondary Colors Potion	Mission!Story!Mini01!MRQS_M01_090!MRQS_M01_090_SecondaryColorsPotion
+31500465	8	Secret Memory	Mission!Village!Lady!SEC_Lady_010_InsigniaMemory01
+31500466	8	Secret Memory	Mission!Village!Lady!SEC_Lady_020_InsigniaMemory02
+31500467	8	Secret Memory	Mission!Village!Lady!SEC_Lady_030_InsigniaMemory03
+31500267	8	Sesame Ball Recipe	Mission!Village!Mushu!VLG_Mush_030_SesameBallRecipe
+31500096	8	Sharp Claws	Mission!Village!VLG_Buzz_030_Memory01
+31500281	8	Shish Taouk Recipe	Mission!Village!Jafar!VLG_Jafa_040_RecipeShishTaouk
+31500573	8	Shopping List	Mission!Story!Mini01!MRQS_M01_012_ShoppingListConsumable
+31500101	8	Shovel Blade	Mission!Village!VLG_Anna_010_StumpUpgrade
+31500320	8	Shovel Potion	Mission!Village!Merida!VLG_Meri_010_BindShovelBlockerEnchantment
+31500387	8	Sizzling BBQ Cooking Station Recipe	Mission!Village!SummerRecipes!RPT_Summer_BarbecueCookingStation
+31500361	8	Skull Rock Treasure Map	Mission!Story!SkullRock!MRQS144_TreasureMap
+31500550	8	Slinky Dog Popcorn Bucket Crafting Recipe	Event!Parks!BaseGame!RPT_Park_PopcornBucketSlink_Recipe
+31500425	8	Soufflé Recipe	Mission!Premium!BeautyBeast!Beast!PRM_Beas_020_SouffleRecipe
+31500433	8	Soufflé Recipe	Mission!Village!Lumiere!VLG_Lumi_010_SouffleRecipe
+31500258	8	Spaceship Earth Cupcake Recipe	Mission!Village!ParkRecipes!RPT_Park_Recipe_SpaceShipCupcake01
+31500330	8	Spanakopita Recipe	Mission!Village!Hades!VLG_Hade_020_SpanakopitaRecipe
+31500210	8	Spiky Berry Pie Recipe	Mission!Expansion01!Secret!Merlin!SEC_E01_Merl_010_SpikeyBerryPieRecipe
+31500495	8	Springtime Floating Festival Green Memory	MemoryShard!SpringFloatingFestivalMemoryOrb
+31500496	8	Springtime Floating Festival Memory	MemoryShard!SpringFloatingEventMemoryOrb02
+31500486	8	Springtime Floating Festival Pouch	Event!FloatingFestival!Spring2026!EFI_Spring_Puzzle1RewardBag
+31500527	8	Springtime Floating Festival Pouch	Event!FloatingFestival!Spring2026!EFI_Spring_Puzzle2RewardBag
+31500528	8	Springtime Floating Festival Pouch	Event!FloatingFestival!Spring2026!EFI_Spring_Puzzle3RewardBag
+31500529	8	Springtime Floating Festival Pouch	Event!FloatingFestival!Spring2026!EFI_Spring_Puzzle4RewardBag
+31500530	8	Springtime Floating Festival Pouch	Event!FloatingFestival!Spring2026!EFI_Spring_Puzzle5RewardBag
+31500531	8	Springtime Floating Festival Pouch	Event!FloatingFestival!Spring2026!EFI_Spring_Puzzle6RewardBag
+31500474	8	Square Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift04
+31500259	8	Stitch Cupcake Recipe	Mission!Village!ParkRecipes!RPT_Park_Recipe_StitchCupcake01
+31500027	8	Strange Map Memory	Mission!Realm!RLM_MoanaIP_Moan_020_MapMemory
+31500660	8	Strange Note	Mission!Village!Wendy!VLG_Wend_030_HookNote
+31500190	8	Strange Piece of Paper	Mission!Expansion01!MRQS_E01_060_PartyEVE
+31500388	8	Summer Crafting Station Recipe	Mission!Village!SummerRecipes!RPT_Summer_SummerCraftingStation
+31500022	8	Sunken Memory	MemoryShard!VLG_Maui_030
+31500598	8	Sunlit Plateau Aquarium Prize	Mission!GrandExhibition!Savannah!LootBag_Aquarium
+31500600	8	Sunlit Plateau Exhibition Reward	Mission!GrandExhibition!Savannah!LootBag_Final
+31500599	8	Sunlit Plateau Habitat Prize	Mission!GrandExhibition!Savannah!LootBag_CompanionHouse
+31500306	8	Super Slippery Bug Oil Upgrade	Mission!Realm!LionKing2!RLM_LionKingIP_Timo_010_OiledWateringCanUpgrade
+31500147	8	Sweet Loot	Mission!Village!Vanellope!VLG_Vane_030_FakeMemory
+31500126	8	Tall Cake Recipe Book	Mission!Village!VLG_Simb_020_CakeRecipe
+31500476	8	Tall Round Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift06
+31500477	8	Tall Square Gift Box Recipe	Event!Christmas!RPT_Christmas_Recipe_ToMGift07
+31500247	8	Tandoori Chicken Recipe	Mission!Village!Oswald!VLG_Oswa_030_BaoziRecipe
+31500647	8	Taro Turtle Bread Recipe	Mission!Expansion04!MRQS_E04_090_Recipe02
+31500351	8	Tea Sandwiches Recipe	Mission!Village!CheshireCat!VLG_Ches_020_TeaSandwichesRecipe
+31500309	8	Teacup Shovel Potion	Mission!Story!Expansion02!MRQS_E02_040_EverafterShovelBlockerEnchantment
+31500089	8	Tekka Maki Recipe	Mission!Village!VLG_Scar_010_TekkaMakiRecipe
+31500092	8	Teriyaki Salmon Recipe	Mission!Village!VLG_Scar_040_SalmonRecipe
+31500484	8	The Realmweaver's Note	Mission!Village!Pocahontas!VLG_Poca_040_WeaverNote
+31500397	8	Third Fox Memory	Mission!Village!Lumiere!VLG_Lumi_040_CritterMemory03
+31500444	8	Tigger Tails Recipe	Mission!Village!Tigger!VLG_Tigg_040_TiggerRecipe01
+31500031	8	Time Capsule	Mission!Village!VLG_Dona_010_TimeCapsule01
+31500036	8	Time Capsule	Mission!Village!VLG_Dona_020_TimeCapsule01
+31500037	8	Time Capsule	Mission!Village!VLG_Dona_030_TimeCapsule01
+31500188	8	Timebending Blueprints	TimeBendingRecipe
+31500575	8	Toasted Sandwich Recipe	Mission!Story!Mini01!MRQS_M01_000_ToastedSandvichRecipe
+31500140	8	Torn Cloth	Mission!Village!VLG_Mira_040_TornCloth
+31500590	8	Torn Label	Mission!Expansion04!MRQS_E04_000_TornShippingLabel
+31500034	8	Treasure Map Memory	Mission!Village!VLG_Scro_060_Map
+31500399	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum01
+31500400	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum02
+31500401	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum03
+31500402	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum04
+31500403	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum05
+31500404	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum06
+31500405	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum07
+31500406	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum08
+31500407	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum09
+31500408	8	TripleDent Gum Wrapper	Mission!Realm!InsideOut!Joy!RLM_Joy_010_TripleDentGum010
+31500114	8	Tuna Burger Recipe	Mission!Village!VLG_Buzz_030_TunaBurger
+31500375	8	Typewriter Memo	MemoryShard!Expansion02!TypewriterMemo
+31500035	8	Unlocked Scrooge's Chest	Mission!Village!VLG_Moth_010_UnlockedChest
+31500582	8	Ursula's Flower Potion	Mission!Village!Piglet!VLG_Pigl_010_UrsulasPotion
+31500293	8	Ursula's Note	Mission!Village!Timon!VLG_Timo_020_DiaryUrsula
+31500641	8	Valley Diorama 1 Prize	Mission!GrandExhibition!Lobby!LootBag_ValleyDioramasCompleted_01
+31500643	8	Valley Diorama 3 Reward	Mission!GrandExhibition!Lobby!LootBag_ValleyDioramasCompleted_03
+31500112	8	Vanilla Ice Cream Recipe	Mission!Village!VLG_Remy_040_IceCreamRecipe
+31500136	8	Vegetable Soup Recipe	Mission!Village!Beast!VLG_Beas_010_Recipe01
+31500288	8	Vegetarian Pizza Recipe	Mission!Village!Mulan!VLG_Mula_010_VegetarianPizzaRecipe
+31500118	8	Vegetarian Pizza Recipe Book	Mission!Village!VLG_Wood_010_VegPizzaRecipe
+31500107	8	Vegetarian Stew Recipe	Mission!Village!VLG_Eric_010_Recipe02
+31500249	8	Vintage Trolley Conductor Hat	Mission!Village!VLG_Oswa_040_ChooChooHatContainer
+31500018	8	WALL·E's Memory	MemoryShard!VLG_Wall_050
+31500312	8	Watering Can Potion	Mission!Story!Expansion02!MRQS_E02_080_MythopiaWateringCanBlockerEnchantment
+31500393	8	Whimsical Pie Recipe.	Mission!Village!PeterPan!VLG_Pete_030_WhimsicalPieRecipe
+31500442	8	Winter Floating Festival Memory	MemoryShard!WinterFloatingEventMemoryOrb
+31500441	8	Winter Floating Festival Pouch	Event!FloatingFestival!Winter2025!ChocoFountainReward
+31500443	8	Winter Floating Festival Pouch	Event!FloatingFestival!Winter2025!SnowmanReward
+31500462	8	Winter Floating Festival Pouch	Event!FloatingFestival!Winter2025!SnowmanQuizzReward
+31500463	8	Winter Floating Festival Pouch	Event!FloatingFestival!Winter2025!LampostReward
+31500478	8	Winter Floating Festival Pouch	Event!FloatingFestival!Winter2025!RabbitCritterReward
+31500439	8	Wish Enchantment	Mission!Village!Cinderella!SEC_Fair_010_PumpkinellaEnchantment
+31500227	8	Wonderland Amplification Elixir	Mission!Secret!Mickey!SEC_Mick_010_BoutiqueElixir
+31500264	8	Wonton Soup Recipe	Mission!Village!Mushu!VLG_Mush_020_SoupRecipe
+31500656	8	{DoNotTranslate} Lucky Wheel prize	Mission!Secret!OogieBoogie!SEC_Oogi_010_MaskReward
+31500460	8	{DoNotTranslate}GoldenBoneNote	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_GoldenBoneMemoryConsummable
+31500469	8	{DoNotTranslate}LadyFinalMemory	Mission!Realm!LadyAndTramp!RLM_LadyTrampIP_Lady_020_FinalMemoryConsummable
+31500354	8	{DoNotTranslate}MRQS142_PeterPanMemory01	Mission!Story!SkullRock!MRQS142_PeterPanMemory01
+31500355	8	{DoNotTranslate}MRQS142_PeterPanMemory02	Mission!Story!SkullRock!MRQS142_PeterPanMemory02
+31500364	8	{DoNotTranslate}MRQS142_PeterPanMemory03	Mission!Story!SkullRock!MRQS142_PeterPanMemory03
+31500488	8	{DoNotTranslate}Memory 01	MemoryShard!Mini01!MRQS_M01_050!MRQS_M01_050_Dungeon01_Memory01
+31500545	8	{DoNotTranslate}Memory 01.	MemoryShard!Mini01!MRQS_M01_090!MRQS_M01_090_MemoryTree
+31500548	8	{DoNotTranslate}Memory 01.	MemoryShard!Mini01!MRQS_M01_050!MRQS_M01_050_MemoryTree
+31500489	8	{DoNotTranslate}Memory 02	MemoryShard!Mini01!MRQS_M01_050!MRQS_M01_050_Dungeon01_Memory02
+31500490	8	{DoNotTranslate}Memory 03	MemoryShard!Mini01!MRQS_M01_050!MRQS_M01_050_Dungeon01_Memory03
+31500574	8	{DoNotTranslate}Memory 03.	MemoryShard!Mini01!MRQS_M01_130!MRQS_M01_130_MemoryTree
+31500579	8	{DoNotTranslate}Memory 04	MemoryShard!Mini01!MRQS_M01_170!MRQS_M01_170_MemoryTree
+31500693	8	{DoNotTranslate}Memory Map.	Mission!Village!CaptJackSparrow!VLG_Capt_030_MapMemory
+31500618	8	{DoNotTranslate}Question 02	Mission!Secret!OogieBoogie!SEC_Oogi_060_Q02_Consummable
+31500619	8	{DoNotTranslate}Question 08	Mission!Secret!OogieBoogie!SEC_Oogi_060_Q08_Consummable
+31500620	8	{DoNotTranslate}Question 12	Mission!Secret!OogieBoogie!SEC_Oogi_060_Q12_Consummable
+31500186	8	{Placeholder} Ancient Scroll	Mission!Village!Belle!VLG_Bell_040_ChestScroll
+31500185	8	{Placeholder} Extract from the old's ruler diary.	Mission!Village!Belle!VLG_Bell_040_Mem01
+31500214	8	{Placeholder} Jafar's Journals	MemoryShard!Expansion01!DiaryJafar
+31500148	8	{Placeholder} Machine recipe	Mission!Village!Belle!VLG_Bell_020_MachineCraft
+31500120	8	{Placeholder}Carousel Diary	Mission!Village!Woody!VLG_Wood_040_CarouselDiary
+31500117	8	{Placeholder}Carousel Mermory Shard	Mission!Village!VLG_Wood_010_CarouselMemoryShard
+31500032	8	{Placeholder}Eric fate	Mission!Village!VLG_Arie_020_EricAndUrsulla
+31500207	8	{Placeholder}Eve's Logs	MemoryShard!Expansion01!DiaryEve
+31500160	8	{Placeholder}Forgotten's Courage Memory Shard.	Mission!Story!MRQS120_CourageMemory
+31500158	8	{Placeholder}Forgotten's Friendship Memory Shard.	Mission!Story!MRQS120_FriendshipMemory
+31500163	8	{Placeholder}Forgotten's Love Memory Shard.	Mission!Story!MRQS120_LoveMemory
+31500162	8	{Placeholder}Forgotten's Nurturing Memory Shard.	Mission!Story!MRQS120_NurturingMemory
+31500159	8	{Placeholder}Forgotten's Power Memory Shard.	Mission!Story!MRQS120_PowerMemory
+31500161	8	{Placeholder}Forgotten's Trust Memory Shard.	Mission!Story!MRQS120_TrustMemory
+31500199	8	{Placeholder}GothelStolenStone	Mission!Expansion01!MRQS_E01_120_StolenStone
+31500217	8	{Placeholder}Gourmet rotten hot dog recipe.	Mission!Village!Mike!VLG_Mike_020_RottenRecipe
+31500308	8	{Placeholder}Hot dog recipe	Mission!Expansion01!MRQS_E01_232_HotDogRecipe
+31500285	8	{Placeholder}Memory	MemoryShard!Mission!Secret!Remy!SEC_Remy_020_TianaMemoryConsu
+31500341	8	{Placeholder}RLM_Alad_030_MerchantNoteStall	Mission!Realm!Aladdin!RLM_Alad_030_MerchantNoteStall
+31500333	8	{Placeholder}RLM_Jasm_010_MerchantNote01	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote01
+31500334	8	{Placeholder}RLM_Jasm_010_MerchantNote02	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote02
+31500335	8	{Placeholder}RLM_Jasm_010_MerchantNote03	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote03
+31500336	8	{Placeholder}RLM_Jasm_010_MerchantNote04	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote04
+31500337	8	{Placeholder}RLM_Jasm_010_MerchantNote05	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote05
+31500338	8	{Placeholder}RLM_Jasm_010_MerchantNote06	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote06
+31500339	8	{Placeholder}RLM_Jasm_010_MerchantNote07	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote07
+31500345	8	{Placeholder}RLM_Jasm_010_MerchantNote08	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNote08
+31500340	8	{Placeholder}RLM_Jasm_010_MerchantNoteBarrel	Mission!Realm!Aladdin!RLM_Jasm_010_MerchantNoteBarrel
+31500216	8	{Placeholder}Roz's mask	Mission!Village!Mike!VLG_Mike_010_MaskContainer
+31500211	8	{Placeholder}Scarab Piece Restoration Instructions	Mission!Expansion01!MRQS_E01_090_JungleScarabRecipe
+31500262	8	{Placeholder}VLG_Jafa_MemoryMerlin	Mission!Village!Jafar!VLG_Jafa_040_MemoryMerlin
+31500263	8	{Placeholder}VLG_Jafa_MemoryScrooge	Mission!Village!Jafar!VLG_Jafa_040_MemoryScrooge
+31500261	8	{Placeholder}VLG_Jafa_MemoryStitch	Mission!Village!Jafar!VLG_Jafa_040_MemoryStitch
+31800005	9	Even More Miraculous Fishing Bait	MiracleFishingBait_Big
+31800001	9	Even More Miraculous Growth Elixir	MiracleGrowthElixir_Big
+31800003	9	Even More Miraculous Pickaxe Polish	MiraclePickaxePolish_Big
+31800007	9	Even More Miraculous Shovel Varnish	MiracleShovelCoating_Big
+31800010	9	Honeyglow Flower Elixir	Mini01!HoneyglowElixirForFlowers
+31800004	9	Miracle Fishing Bait	MiracleFishingBait
+31800000	9	Miracle Growth Elixir	MiracleGrowthElixir
+31800002	9	Miracle Pickaxe Polish	MiraclePickaxePolish
+31800006	9	Miracle Shovel Varnish	MiracleShovelCoating
+31800008	9	Pixelized Cooking Flame	MultiplayerCookingElixir
+31800009	9	Superior Pixelized Cooking Flame	MultiplayerCookingElixir_Big
+31300211	10	Big Honey Swirl	Generic!Mini01!HoneyGeyser2x4
+31300006	10	Big Night Thorn	Generic!NightThorn_Big1
+31300182	10	Book Pile	Mission!Realm!BeautyBeast2!RLM_BB2_Lumi_020_BookPile
+31300149	10	Broken Merchandise	Mission!Village!Alice!VLG_Alic_030_ScroogeStoreTrash
+31300025	10	Compressed Garbage	Mission!Village!VLG_Wall_030_WallEBox
+31300042	10	Compressed Garbage	Mission!Village!VLG_Wall_030_WallEBoxStrangeMachine
+31300213	10	Crayon Honey Weeds	Mission!Story!Mini01!MRQS_M01_040_CrayonHoneyWeeds
+31300217	10	Dark Thorns	Mission!Realm!Hercules!RLM_Phil_010_CourseThorns_Large
+31300198	10	Fallen Beehive	Mission!Village!Tigger!VLG_Tigg_010_BrokenHiveJump
+31300030	10	Fishing Rod Memory	Mission!Village!VLG_Minn_020_FishingRodMemory
+31300172	10	Flashy Diamond	Mission!Realm!InsideOut!Sadness!RLM_Sadn_030_DiamondGlitteringOBJ
+31300144	10	Genie Sparkles	Mission!Realm!Aladdin!RLM_Jasm_030_GenieSparkles
+31300012	10	Glittering Object	Mission!Generic!GlitteringObject_2m
+31300013	10	Glittering Object	Mission!Generic!GlitteringObject_1m
+31300048	10	Glittering Object	Mission!Generic!GlitteringObject_Ground
+31300049	10	Glittering Object	Mission!Generic!GlitteringObject_Water
+31300051	10	Glittering Object	Mission!Generic!GlitteringObject_Water_1m
+31300043	10	Glittering Object in Shallow Water	Mission!Generic!GlitteringObject_Ground_ShallowWater
+31300212	10	Honey Swirl	Mission!Story!Mini01!MRQS_M01_020_HoneyWeeds
+31300117	10	Inky	Generic!Expansion02!InkBlocker_Library_2x2
+31300118	10	Inky	Generic!Expansion02!InkBlocker_Library_2x4
+31300127	10	Inky	Generic!Expansion02!InkBlocker_Library_2x8
+31300128	10	Inky	Generic!Expansion02!InkBlocker_FairyTales_2x2
+31300129	10	Inky	Generic!Expansion02!InkBlocker_FairyTales_2x4
+31300130	10	Inky	Generic!Expansion02!InkBlocker_FairyTales_2x8
+31300131	10	Inky	Generic!Expansion02!InkBlocker_Mythology_2x2
+31300132	10	Inky	Generic!Expansion02!InkBlocker_Mythology_2x4
+31300133	10	Inky	Generic!Expansion02!InkBlocker_Mythology_2x8
+31300011	10	Memory from the Night Thorn	Mission!Story!MRQS_Merl_010_NightThorn2_MemoryPlayerHouse
+31300169	10	Merlin's Beard Hair	Mission!Village!VLG_Joy_020_MerlinHair
+31300026	10	Moana's House Night Thorn	Mission!Village!MoanaHouseNightThorn
+31300094	10	Mother Gothel's Recipes	Mission!Story!Expansion01!MRQS_E01_180_Recipes
+31300225	10	Mysterious Note	Mission!Story!Mini01!MRQS_M01_110_MysteriousNote
+31300121	10	Night Mite Castle Nest	Mission!Village!VLG_Timo_040_CastleNest
+31300120	10	Night Mite Nest	Mission!Village!VLG_Timo_040_FirstNestReady
+31300112	10	Night Mite Queen's Nest	Mission!Village!VLG_Timo_040_NightMiteQueenNest
+31300110	10	Night Mite-Covered Nest	Mission!Village!VLG_Pumb_040_NightMiteNestCovered
+31300077	10	Night Thorn Seeds	Mission!Story!MRQS133_EvilWeedSproutSeed
+31300021	10	Night Thorn Trapping Pua	Mission!Village!PuaNightThorn
+31300033	10	Night Thorn from Mickey's House	Mission!Story!MRQS_Mick_050_NightThorn
+31300076	10	Normal Time Rift	TimeBending!NormalRift
+31300223	10	Note with Very Important Instructions.	Mission!Story!Mini01!MRQS_M01_110_ImportantInstructions
+31300038	10	Old Ruler's Lost Diary	Mission!Story!PageOfDiary
+31300202	10	Old Ruler's Lost Diary	Mission!Story!Expansion03!MRQS_E03_010_FakePageOfDiary
+31300206	10	Old Ruler's Lost Diary	Mission!Story!Expansion03!MRQS_E03_010_FakePageOfDiary02
+31300050	10	Package Memory	Mission!Village!VLG_Minn_020_PackageMemory
+31300099	10	Pile of Socks	Mission!Realm!MonsterInc!RLM_MonsterIncIP_Mike_010_PileOfSocks
+31300100	10	Pile of Socks	Mission!Realm!MonsterInc!RLM_MonsterIncIP_Mike_010_PileOfSocksFartCushion
+31300105	10	Riley's Birthday Cake	Mission!Event!InsideOut!RileyBirthdayCake01
+31300107	10	Riley's Hockey Gear	Mission!Event!InsideOut!RileyHockeyGear01
+31300106	10	Riley's Hockey Trophy	Mission!Event!InsideOut!RileyHockeyTrophy01
+31300175	10	Riley's Phone	Mission!Event!InsideOut!RileyPhone
+31300031	10	Sailor Hat Memory	Mission!Village!VLG_Minn_020_SailorHatMemory
+31300036	10	Secret Curtain	Mission!Village!VLG_Mick_050_SecretCurtain
+31300210	10	Small Honey Swirl	Generic!Mini01!HoneyGeyser2x2
+31300003	10	Small Night Thorn	Generic!NightThorn_Small1
+31300004	10	Small Night Thorn	Generic!NightThorn_Small2
+31300005	10	Small Night Thorn	Generic!NightThorn_Small3
+31300083	10	Splinter of Fate	Generic!Expansion01!DreamlightCrack01
+31300084	10	Splinter of Fate	Generic!Expansion01!DreamlightCrack02
+31300092	10	Trash	Mission!Realm!MonsterInc!RLM_MonsterIncIP_Sull_010_Trash
+31300007	10	Trash Pile	Mission!Realm!RLM_Wall_010_TrashPile01
+31300008	10	Trash Pile	Mission!Realm!RLM_Wall_010_TrashPile02
+31300040	10	Trash Pile	Generic!TrashPile01_Generic
+31300041	10	Trash Pile	Generic!TrashPile02_Generic
+31300122	10	Trash Pile 01	Mission!Village!Flynn!VLG_Flyn_010_TrashPile01_Generic
+31300089	10	VLG_Jack_040_VegetableAntelopeEphemeral	Mission!Village!VLG_Jack_040_VegetableAntelopeEphemeral
+31300228	10	Worn Scout's Journal	Mission!Story!Mini01!MRQS_M01_160_Notebook
+31300214	10	{DoNotTranslate} CursedCoral_2x2	Generic!Expansion04!CursedCoral_2x2
+31300215	10	{DoNotTranslate} CursedCoral_2x4	Generic!Expansion04!CursedCoral_2x4
+31300273	10	{DoNotTranslate} UnderwaterBubbleEmpty_8x8	Generic!Expansion04!UnderwaterBubbleEmpty_2x2
+31300276	10	{DoNotTranslate} UnderwaterBubbleEmpty_8x8	Generic!Expansion04!UnderwaterBubbleEmpty_4x4
+31300240	10	{DoNotTranslate} UnderwaterBubble_4x4	Generic!Expansion04!UnderwaterBubble_4x4
+31300244	10	{DoNotTranslate} UnderwaterBubble_8x8	Generic!Expansion04!UnderwaterBubble_8x8
+31300241	10	{DoNotTranslate} sbBlocker01 despawn	Mission!Village!Winnie!VLG_Winn_000_SbBlocker01Despawn
+31300242	10	{DoNotTranslate} sbBlocker02 despawn	Mission!Village!Winnie!VLG_Winn_000_SbBlocker02Despawn
+31300266	10	{DoNotTranslate}Beach Junk	Mission!Village!Wendy!VLG_Wend_020_BeachJunk
+31300263	10	{DoNotTranslate}Box in a Rock	Mission!Village!Megara!VLG_Mega_010_BoxInRock
+31300162	10	{DoNotTranslate}CatSmile	Mission!Realm!Alice!RLM_AliceIP_Alic_010_CatSmile01
+31300163	10	{DoNotTranslate}CatSmile	Mission!Realm!Alice!RLM_AliceIP_Alic_010_CatSmile02
+31300164	10	{DoNotTranslate}CatSmile	Mission!Realm!Alice!RLM_AliceIP_Alic_010_CatSmile03
+31300245	10	{DoNotTranslate}DarkKelpEphemeral	Mission!Village!CaptJackSparrow!VLG_Capt_040_DarkKelp
+31300218	10	{DoNotTranslate}DarkThorns	Mission!Realm!Hercules!RLM_Phil_010_CrouseThorns_Small
+31300239	10	{DoNotTranslate}Fiber Cable	Mission!Village!Ralph!Sec_Forg_050_FiberCable
+31300216	10	{DoNotTranslate}Fog glittering object	Mission!Story!Mini01!MRQS_M01_070_FogGlitteringObject
+31300222	10	{DoNotTranslate}Fog glittering object.	Mission!Story!Mini01!MRQS_M01_030_FogGlitteringObject
+31300229	10	{DoNotTranslate}Honey Weeds	Mission!Story!Mini01!MRQS_M01_130_HoneypotHoneySwirl
+31300209	10	{DoNotTranslate}Honey glittering object	Mission!Story!Mini01!MRQS_M01_050_HoneyGlitteringObject
+31300226	10	{DoNotTranslate}Junkpile01	Mission!Village!Eeyore!VLG_Eeyo_020_Junkpile01
+31300268	10	{DoNotTranslate}MRQS_E04_100_PicturePieceBubble	Mission!Story!Expansion04!MRQS_E04_100_PicturePieceBubble
+31300151	10	{DoNotTranslate}Mannequing Prank	Mission!Secret!Scrooge!SEC_Scro_020_MannequinPrank
+31300152	10	{DoNotTranslate}Mannequing Prank No Coupon	Mission!Secret!Scrooge!SCE_Scro_020_MannequinPrank02
+31300180	10	{DoNotTranslate}Merlin SpiderWeb	Mission!Village!VLG_Joy_020_MerlinSpiderWeb
+31300189	10	{DoNotTranslate}Music Orb 2 Glittering Objects	Mission!Realm!InsideOut!Sadness!RLM_Sadn_020_MusicOrbGlitteringObject
+31300188	10	{DoNotTranslate}Music Orb Glittering Objects	Mission!Realm!InsideOut!Sadness!VLG_Sadn_010_MusicOrbGlitteringObject
+31300154	10	{DoNotTranslate}Outside Restaurant Anomaly	Mission!Secret!Remy!SEC_Remy_030_OutsideAnomaly
+31300150	10	{DoNotTranslate}Pile of plates	Mission!Realm!Alice!RLM_AliceIP_Alic_020_PIleOfPlates
+31300165	10	{DoNotTranslate}PirateLoot	Mission!Story!MRQS144_PirateLootEphemeral
+31300166	10	{DoNotTranslate}PirateLoot	Mission!Story!MRQS144_PirateLootEphemeralFlute
+31300168	10	{DoNotTranslate}PixieCluster_2x2	Generic!Expansion03!PixieCluster_2x2
+31300199	10	{DoNotTranslate}PixieCluster_2x2	Generic!Expansion03!PixieCluster_Variant01_2x2
+31300178	10	{DoNotTranslate}PixieCluster_2x3	Generic!Expansion03!PixieCluster_2x4
+31300200	10	{DoNotTranslate}PixieCluster_2x3	Generic!Expansion03!PixieCluster_Variant01_2x4
+31300157	10	{DoNotTranslate}PixieDustTrail	Mission!Story!MRQS144_PeterTrail
+31300219	10	{DoNotTranslate}RLM_Phil_010_DarkThorns_Large	Mission!Realm!Hercules!RLM_Phil_010_DarkThorns_Large
+31300220	10	{DoNotTranslate}RLM_Phil_010_DarkThorns_Small	Mission!Realm!Hercules!RLM_Phil_010_DarkThorns_Small
+31300247	10	{DoNotTranslate}SEC_Oogi_010_EphemeralBugs	Mission!Secret!OogieBoogie!SEC_Oogi_010_EphemeralBugs_V2
+31300250	10	{DoNotTranslate}SEC_Oogi_010_EphemeralBugsGoofy	Mission!Secret!OogieBoogie!SEC_Oogi_010_EphemeralBugs_V1
+31300251	10	{DoNotTranslate}SEC_Oogi_010_EphemeralBugsMerlin	Mission!Secret!OogieBoogie!SEC_Oogi_010_EphemeralBugs_V3
+31300252	10	{DoNotTranslate}SEC_Oogi_040_Ghosties01	Mission!Secret!OogieBoogie!SEC_Oogi_040_GhostiesW4_01
+31300254	10	{DoNotTranslate}SEC_Oogi_040_Ghosties02	Mission!Secret!OogieBoogie!SEC_Oogi_040_GhostiesW4_02
+31300255	10	{DoNotTranslate}SEC_Oogi_040_Ghosties03	Mission!Secret!OogieBoogie!SEC_Oogi_040_GhostiesW4_03
+31300256	10	{DoNotTranslate}SEC_Oogi_040_Ghosties04	Mission!Secret!OogieBoogie!SEC_Oogi_040_GhostiesW4_04
+31300257	10	{DoNotTranslate}SEC_Oogi_040_Ghosties05	Mission!Secret!OogieBoogie!SEC_Oogi_040_GhostiesW4_05
+31300253	10	{DoNotTranslate}SEC_Oogi_050_Ghosties01	Mission!Secret!OogieBoogie!SEC_Oogi_050_GhostiesW5_01
+31300258	10	{DoNotTranslate}SEC_Oogi_050_Ghosties02	Mission!Secret!OogieBoogie!SEC_Oogi_050_GhostiesW5_02
+31300259	10	{DoNotTranslate}SEC_Oogi_050_Ghosties03	Mission!Secret!OogieBoogie!SEC_Oogi_050_GhostiesW5_03
+31300260	10	{DoNotTranslate}SEC_Oogi_050_Ghosties04	Mission!Secret!OogieBoogie!SEC_Oogi_050_GhostiesW5_04
+31300261	10	{DoNotTranslate}SEC_Oogi_050_Ghosties05	Mission!Secret!OogieBoogie!SEC_Oogi_050_GhostiesW5_05
+31300146	10	{DoNotTranslate}SEC_Remy_030_CheshireHead	Mission!Secret!Remy!SEC_Remy_030_PawsTable
+31300148	10	{DoNotTranslate}SEC_Remy_030_CheshirePainting	Mission!Secret!Remy!SEC_Remy_030_CheshirePainting
+31300147	10	{DoNotTranslate}SEC_Remy_030_CheshireTail	Mission!Secret!Remy!SEC_Remy_030_TiltedShelf
+31300238	10	{DoNotTranslate}Savannah Water Blocker	Mission!Story!Mini01!MRQS_M01_060_WaterBlocker
+31300167	10	{DoNotTranslate}ShipMap	Mission!Story!MRQS144_CabinMapEphemeral
+31300236	10	{DoNotTranslate}Shovel Upgrade Notes	Mission!Story!Mini01!MRQS_M01_020_ShovelUpgradeRecipe
+31300191	10	{DoNotTranslate}TiggerDebris01	Mission!Village!Tigger!VLG_Tigg_020_TiggerDebris01
+31300192	10	{DoNotTranslate}TiggerDebris02	Mission!Village!Tigger!VLG_Tigg_020_TiggerDebris02
+31300193	10	{DoNotTranslate}TiggertDebris03	Mission!Village!Tigger!VLG_Tigg_020_TiggerDebris03
+31300156	10	{DoNotTranslate}ToppledVase	Mission!Secret!Remy!SEC_Remy_030_ToppledVase
+31300155	10	{DoNotTranslate}Trash from Cheshire.	Mission!Secret!Scrooge!SEC_Scro_020_TrashPiles
+31300158	10	{DoNotTranslate}TrashPiles01	Generic!VLG_Pete_020_trashPile01
+31300262	10	{DoNotTranslate}UnderwaterBubble_2x2	Generic!Expansion04!UnderwaterBubble_2x2
+31300174	10	{DoNotTranslate}VLG_Lumi_010_BrokenDishes01	Mission!Village!Lumiere!VLG_Lumi_010_BrokenDishes
+31300173	10	{DoNotTranslate}VLG_Lumi_010_BrokenDishes02	Mission!Village!Lumiere!VLG_Lumi_010_BrokenDishes02
+31300184	10	{DoNotTranslate}VLG_Lumi_010_BrokenDishes03	Mission!Village!Lumiere!VLG_Lumi_010_BrokenDishes03
+31300170	10	{DoNotTranslate}VLG_Lumi_010_HereThereThorns	Mission!Village!Lumiere!VLG_Lumi_020_HereThereThorns
+31300176	10	{DoNotTranslate}VLG_Lumi_020_FoxHoleEphemeral	Mission!Village!Lumiere!VLG_Lumi_020_FoxHoleEphemeral
+31300171	10	{DoNotTranslate}VLG_Lumi_020_HereTherePaws	Mission!Village!Lumiere!VLG_Lumi_020_HereTherePaws
+31300185	10	{DoNotTranslate}VLG_Lumi_020_HereThereThornClue01	Mission!Village!Lumiere!VLG_Lumi_020_HereThereThornClue01
+31300186	10	{DoNotTranslate}VLG_Lumi_020_HereThereThornClue02	Mission!Village!Lumiere!VLG_Lumi_020_HereThereThornClue02
+31300187	10	{DoNotTranslate}VLG_Lumi_020_HereThereThornClue03	Mission!Village!Lumiere!VLG_Lumi_020_HereThereThornClue03
+31300264	10	{DoNotTranslate}VLG_Milo_010_Questbubble_DisplayName	Mission!Village!Milo!VLG_Milo_010_QuestBubble
+31300274	10	{DoNotTranslate}VLG_Milo_010_Questbubble_DisplayName	Mission!Village!Milo!VLG_Milo_010_QuestBubbleHigh
+31300201	10	{DoNotTranslate}VLG_Tigg_030_ClusterTreasure01	Mission!Village!Tigger!VLG_Tigg_030_ClusterTreasure
+31300205	10	{DoNotTranslate}VLG_Tigg_030_DebrisHeart	Mission!Village!Tigger!VLG_Tigg_030_DebrisHeart
+31300270	10	{DoNotTranslate}VLG_Wend_020_AlgeaBubble	Mission!Village!Wendy!VLG_Wend_020_AlgaeBubble
+31300272	10	{DoNotTranslate}VLG_Wend_020_EmptyBubble	Mission!Village!Wendy!VLG_Wend_020_EmptyBubble
+31300271	10	{DoNotTranslate}VLG_Wend_030_StarfishBubble	Mission!Village!Wendy!VLG_Wend_030_StarfishBubble
+31300231	10	{DoNotTranslate}VLG_Winn_010_BeachToysHoneyBlocker	Mission!Village!Winnie!VLG_Winn_010_BeachToysHoneyBlocker
+31300232	10	{DoNotTranslate}VLG_Winn_010_ToyBlockHoneyBlocker	Mission!Village!Winnie!VLG_Winn_010_ToyBlockHoneyBlocker
+31300233	10	{DoNotTranslate}VLG_Winn_010_ToyCarHoneyBlocker	Mission!Village!Winnie!VLG_Winn_010_ToyCarHoneyBlocker
+31300056	10	{Placeholder}Bassins Limbo	Mission!Village!VLG_Dona_030_Bassins_Limbo
+31300058	10	{Placeholder}Big Night Thorn No Reward	Mission!Generic!NightThorn_Big1_NoReward
+31300095	10	{Placeholder}Black Hole	Mission!Village!Oswald!VLG_Oswa_030_BlackHole
+31300104	10	{Placeholder}Blue Trash Pile	Mission!Village!VLG_Jafa_010_EveCablesTrashPile
+31300085	10	{Placeholder}Box to Destroy	Mission!Premium!LilMermaid!Ursula!PRM_Ursu_060_StompObject
+31300067	10	{Placeholder}Carousel Trash	Mission!Village!VLG_Wood_010_Trash
+31300068	10	{Placeholder}Carousel Trash	Mission!Village!VLG_Wood_010_Trash02
+31300091	10	{Placeholder}Chicken Pile	Mission!Village!VLG_Mike_040_ChickenPile
+31300101	10	{Placeholder}Cobra Figurine	Mission!Village!VLG_Jafa_030_CobraFigurine
+31300064	10	{Placeholder}DecoyTrash	Mission!Village!VLG_Wall_040_DecoyTrash
+31300075	10	{Placeholder}Flowers	Mission!Story!MRQS120_StompableFlower
+31300027	10	{Placeholder}Friendship Token Tangled in Night Thorns	Mission!Story!FriendshipTokenThorn
+31300153	10	{Placeholder}Generator Junk	Mission!Village!Hades!VLG_Hades_010_GeneratorJunk
+31300142	10	{Placeholder}Glittering For Hot coals	Mission!Realm!Aladdin!RLM_Jasm_020_HotCoalsEphemeral
+31300062	10	{Placeholder}Glittering Object with Sound Emitter	Mission!Village!VLG_Elsa_040_GlitteringEmitter
+31300143	10	{Placeholder}Glittering OilBottleEphemeral	Mission!Realm!Aladdin!RLM_Jasm_020_OilBottleEphemeral
+31300080	10	{Placeholder}Glittering Seed	Mission!Secret!GoldenP!GlitteringSeed
+31300063	10	{Placeholder}GlitteringForBuzzCard	Mission!Village!VLG_Buzz_020_PlayingCardGlittering
+31300082	10	{Placeholder}Glittering_DonaldItem	Mission!Premium!LilMermaid!Ursula!PRM_Ursu_060_GlitterQuestItem
+31300081	10	{Placeholder}Glittering_MotherGothelItem	Mission!Premium!LilMermaid!Ursula!PRM_Ursu_020_MotherGItem
+31300079	10	{Placeholder}Golden Potato	Mission!Secret!GoldenP!GlitteringGoldenPotato
+31300073	10	{Placeholder}Ingredient Remy	Mission!Secret!GoldenP!IngredientRemy
+31300102	10	{Placeholder}MRQS_E01_240_DreamlightCrack01	Mission!Story!Expansion01!MRQS_E01_240_DreamlightCrack01
+31300103	10	{Placeholder}MRQS_E01_240_DreamlightCrack02	Mission!Story!Expansion01!MRQS_E01_240_DreamlightCrack02
+31300109	10	{Placeholder}Night Mite Nest	Mission!Village!VLG_Pumb_040_NightMiteNest
+31300061	10	{Placeholder}Night Thorn No Reward	Mission!Generic!NightThorn_Small3_NoReward
+31300096	10	{Placeholder}Oswald's drawn fire	Mission!Village!Oswald!VLG_Oswa_030_OswaldDrawnFire
+31300078	10	{Placeholder}Page in Night Thorns.	Mission!Premium!WallE!WallE!PRM_040_PageInThorn
+31300066	10	{Placeholder}Savannah Water Blocker	Mission!Story!MRQS100_SavannahWaterBlocker01
+31300145	10	{Placeholder}Seeds Glittering Object	Mission!Village!Jasmine!VLG_Jasm_010_SeedsGlittering
+31300059	10	{Placeholder}Small Night Thorn No Reward	Mission!Generic!NightThorn_Small1_NoReward
+31300060	10	{Placeholder}Small Night Thorn No Reward	Mission!Generic!NightThorn_Small2_NoReward
+31300124	10	{Placeholder}Spider Web Blockers	Mission!Secret!JackSkellington!SEC_Jack_010_SpiderWebBlockers
+31300125	10	{Placeholder}Spider Web Blockers	Mission!Secret!JackSkellington!SEC_Jack_010_SpiderWeb_Houses
+31300069	10	{Placeholder}Tablet Investigation	Mission!Village!VLG_Nala_030_InvestigateTablet
+31300065	10	{Placeholder}Toy Box Treasure	Mission!Village!VLG_Wood_040_ToyBox
+31300070	10	{Placeholder}Trash pile	Mission!Secret!SEC_Dona_010_TrashPile
+31300071	10	{Placeholder}Trash pile	Mission!Secret!SEC_Dona_020_TrashPile
+31300072	10	{Placeholder}Trash pile	Mission!Secret!SEC_Dona_030_TrashPile
+31300090	10	{Placeholder}Trash pile	Mission!Story!Expansion01!MRQS_E01_060_TrashPile
+31300055	10	{Placeholder}Turbines and Distributor	Mission!Village!VLG_Dona_030_TurbinsDistributor_Limbo
+31300054	10	{Placeholder}Water Pump Limbo	Mission!Village!VLG_Dona_030_WaterPump_Limbo
+31400209	11	ActivityItem.LootPresent!Mini01!Winn_010_ChestSwapped	LootPresent!Mini01!Winn_010_ChestSwapped
+31400132	11	Bonus Clothing Reward	WeeklyGiftClothing
+31400133	11	Bonus Furniture Reward	WeeklyGiftFurniture
+31400138	11	Capture the Sun Winnings	Mission!Village!Joy!VLG_Joy_010_GameRewardLoot
+31400125	11	Cheshire Chest	Mission!Village!VLG_Ches_040_Rewards
+31400195	11	Chest from Behind the Wardrobe	Mission!Village!Winnie!VLG_Winn_010_HiddenChest
+31400182	11	Childhood Time Capsule	Mission!Mini01!Story!MRQS_M01_140_TimeCapsule
+31400131	11	Companion Decor Reward	PetRewardFurniture
+31400076	11	Crate Full o' Fish	Mission!Secret!Goofy!SEC_E01_Goof_010_BoxIngredients
+31400039	11	Daily Reward	LootPresentForagingOnline
+31400180	11	Dazzle Beach Diorama Prize	Mission!GrandExhibition!Beach!LootBag_StoryBeats
+31400165	11	Displaced Meatballs	Mission!Secret!Lady!SEC_Lady_MeatballsFallback
+31400007	11	Donald Bag	Mission!Story!DonaldBag
+31400069	11	DreamSnaps Decor Reward	DCRewardFurniture
+31400070	11	DreamSnaps Outfit Reward	DCRewardClothing
+31400040	11	Elsa's Secret Chest	Mission!Village!VLG_Elsa_020_PickledHerringLootPresent
+31400183	11	Forest of Valor Diorama Prize	Mission!GrandExhibition!Forest!LootBag_StoryBeats
+31400216	11	Forgotten Lands Diorama Prize	Mission!GrandExhibition!DarkMountains!LootBag_StoryBeats
+31400198	11	Frosted Heights Diorama Prize	Mission!GrandExhibition!Cliff!LootBag_StoryBeats
+31400188	11	Glade of Trust Diorama Prize	Mission!GrandExhibition!Wetland!LootBag_StoryBeats
+31400048	11	Green Candy Bowl	Halloween!CandyBowl_Green
+31400000	11	Hidden Reward	LootPresentForaging
+31400011	11	Hidden Reward	Mission!Story!UrsulaCaveChest
+31400107	11	Hidden Reward	Mission!Expansion!Story!LootPresentForagingTrials
+31400129	11	Hidden Reward	Mission!Realm!Alice!RLM_AliceIP_SecFinalReward
+31400130	11	Hidden Reward	Mission!Realm!Alice!RLM_AliceIP_ForestSignLootBag
+31400194	11	Honeyglow Woods Chest	LootPresent!Mini01!HoneyglowWoodChest01
+31400211	11	Honeyglow Woods Chest	LootPresent!Mini01!HoneyglowWoodChest02
+31400212	11	Honeyglow Woods Chest	LootPresent!Mini01!HoneyglowWoodChest03
+31400213	11	Honeyglow Woods Chest	LootPresent!Mini01!HoneyglowWoodChest04
+31400214	11	Honeyglow Woods Chest	LootPresent!Mini01!HoneyglowWoodChest05
+31400038	11	Icy Chest	Mission!Village!VLG_Elsa_040_IceLootBox
+31400246	11	Lady's Photo Frame	Mission!Village!Lady!VLG_Lady_040_FrameDecalBag
+31400086	11	Lost and Found Monster Wear	Mission!Realm!RLM_MonsterIncIP_Sull_010_ClothingBag
+31400215	11	Lucky Wheel Chest	Mission!Secret!OogieBoogie!SEC_Oogi_010_LuckyWheel_ClothingChest
+31400236	11	Lucky Wheel Prize	Mission!Secret!OogieBoogie!SEC_Oogi_010_LuckyWheel_ClothingReward
+31400110	11	Magically Reinforced Ice Chest	Mission!Village!Jasmine!VLG_Jasm_030_IceChest
+31400105	11	Market Repair Resources	LootPresent!Mission!Aladdin!RLM_Alad_020_LootBag
+31400009	11	Merlin's Welcome Package	Mission!Story!MerlinCarePackage
+31400083	11	Minnie's Bag of Tricks and Motifs	Mission!Village!VLG_Jack_040_DecalBag
+31400096	11	Mulan's Surprise	Mission!Realm!Mulan!Mushu!RLM_Mush_030_MulanSwordPouch
+31400075	11	Painting Class Goodies	Mission!Village!VLG_Rapu_040_ArtClassRewards
+31400175	11	Peaceful Meadow Diorama Prize	Mission!GrandExhibition!Meadow!LootBag_StoryBeats
+31400230	11	Pirate Loot	Mission!Village!CaptJack!VLG_Capt_020_LootChest
+31400231	11	Pirate's Basics	Mission!Village!CaptJack!VLG_Capt_010_PirateBasics
+31400222	11	Plaza Diorama 1 Prize	Mission!GrandExhibition!Urban!LootBag_SecondStoryBeats
+31400221	11	Plaza Diorama 2 Prize	Mission!GrandExhibition!Urban!LootBag_FirstStoryBeats
+31400049	11	Purple Candy Bowl	Halloween!CandyBowl_Purple
+31400047	11	Red Candy Bowl	Halloween!CandyBowl_Red
+31400093	11	Red Pouch	Mission!Village!Mushu!VLG_Mush_030_EnveloppeLootbox
+31400002	11	Reward	LootPresentRequests
+31400242	11	Secret Pirate Cache Chest	Mission!Village!Milo!VLG_Milo_020_CacheChest
+31400057	11	Space Ranger Supply Kit	Mission!Secret!Buzz!SEC_Buzz_010_Reward
+31400058	11	Space Ranger Supply Kit	Mission!Secret!Buzz!SEC_Buzz_020_Reward
+31400059	11	Space Ranger Supply Kit	Mission!Secret!Buzz!SEC_Buzz_030_Reward
+31400060	11	Space Ranger Supply Kit	Mission!Secret!Buzz!SEC_Buzz_040_Reward
+31400001	11	Star Reward	LootPresentWeedMinigame
+31400055	11	Stitch's Sock Stash	Mission!Secret!Donald!SEC_Dona_030_StitchChest
+31400203	11	Sunlit Plateau Diorama Prize	Mission!GrandExhibition!Savannah!LootBag_StoryBeats
+31400044	11	Theatrical Supplies	Mission!Village!VLG_Olaf_040_RewardBundle
+31400008	11	Treasure Chest	Mission!Story!BeachCaveChest
+31400141	11	Treasure Chest.	Mission!Village!PeterPan!VLG_Pete_040_Treasure
+31400014	11	Treasure Map	Mission!Village!VLG_Scro_060_TreasureMapLootPresent
+31400243	11	Valley Diorama 2 Prize	Mission!GrandExhibition!Lobby!LootBag_ValleyDioramasCompleted_02
+31400061	11	Vanellope's Adventure Chest	Mission!Village!VLG_Vane_040_EndLoot
+31400173	11	Vault Clothing Reward	VaultRewardClothing
+31400174	11	Vault Furniture Reward	VaultRewardFurniture
+31400068	11	WALL·E's Scavenged Items	Mission!Premium!WallE!WallE!PRM_Wall_040_RewardBundle
+31400147	11	{DoNotTranslate}	Mission!Realm!RLM_LadyTrampIP_Chest01
+31400148	11	{DoNotTranslate}	Mission!Realm!RLM_LadyTrampIP_Chest02
+31400149	11	{DoNotTranslate}	Mission!Realm!RLM_LadyTrampIP_Chest03
+31400160	11	{DoNotTranslate}	Mission!Realm!RLM_LadyTrampIP_SecChest01
+31400143	11	{DoNotTranslate} HauntingWell chest spawn	Halloween!HalloweenEventChest01
+31400162	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!Meadow!LootPresent_Aquarium
+31400176	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!Beach!LootPresent_Aquarium
+31400184	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!Forest!LootPresent_Aquarium
+31400189	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!Wetland!LootPresent_Aquarium
+31400199	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!Cliff!LootPresent_Aquarium
+31400204	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!Savannah!LootPresent_Aquarium
+31400217	11	{DoNotTranslate} LootPresent_Aquarium	Mission!GrandExhibition!DarkMountains!LootPresent_Aquarium
+31400170	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Meadow!LootPresent_Companions
+31400177	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Beach!LootPresent_Companions
+31400185	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Forest!LootPresent_Companions
+31400190	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Wetland!LootPresent_Companions
+31400200	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Cliff!LootPresent_Companions
+31400205	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Savannah!LootPresent_Companions
+31400218	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!DarkMountains!LootPresent_Companions
+31400225	11	{DoNotTranslate} LootPresent_Companions	Mission!GrandExhibition!Urban!LootPresent_Companions
+31400171	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Meadow!LootPresent_Final
+31400178	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Beach!LootPresent_Final
+31400186	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Forest!LootPresent_Final
+31400191	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Wetland!LootPresent_Final
+31400201	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Cliff!LootPresent_Final
+31400206	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Savannah!LootPresent_Final
+31400219	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!DarkMountains!LootPresent_Final
+31400226	11	{DoNotTranslate} LootPresent_Final	Mission!GrandExhibition!Urban!LootPresent_Final
+31400223	11	{DoNotTranslate} LootPresent_FirstStoryBeats	Mission!GrandExhibition!Urban!LootPresent_FirstStoryBeats
+31400224	11	{DoNotTranslate} LootPresent_SecondStoryBeats	Mission!GrandExhibition!Urban!LootPresent_SecondStoryBeats
+31400169	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!Meadow!LootPresent_StoryBeats
+31400179	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!Beach!LootPresent_StoryBeats
+31400187	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!Forest!LootPresent_StoryBeats
+31400192	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!Wetland!LootPresent_StoryBeats
+31400202	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!Cliff!LootPresent_StoryBeats
+31400207	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!Savannah!LootPresent_StoryBeats
+31400220	11	{DoNotTranslate} LootPresent_StoryBeats	Mission!GrandExhibition!DarkMountains!LootPresent_StoryBeats
+31400227	11	{DoNotTranslate} LootPresent_ValleyDioramasCompleted_01	Mission!GrandExhibition!Lobby!LootPresent_ValleyDioramasCompleted_01
+31400228	11	{DoNotTranslate} LootPresent_ValleyDioramasCompleted_02	Mission!GrandExhibition!Lobby!LootPresent_ValleyDioramasCompleted_02
+31400229	11	{DoNotTranslate} LootPresent_ValleyDioramasCompleted_03	Mission!GrandExhibition!Lobby!LootPresent_ValleyDioramasCompleted_03
+31400237	11	{DoNotTranslate} SEC_Oogi_050_LuckyWheel_Reward01	Mission!Secret!OogieBoogie!SEC_Oogi_050_LuckyWheel_Reward01
+31400238	11	{DoNotTranslate} SEC_Oogi_050_LuckyWheel_Reward02	Mission!Secret!OogieBoogie!SEC_Oogi_050_LuckyWheel_Reward02
+31400239	11	{DoNotTranslate} SEC_Oogi_050_LuckyWheel_Reward03	Mission!Secret!OogieBoogie!SEC_Oogi_050_LuckyWheel_Reward03
+31400240	11	{DoNotTranslate} SEC_Oogi_050_LuckyWheel_Reward04	Mission!Secret!OogieBoogie!SEC_Oogi_050_LuckyWheel_Reward04
+31400241	11	{DoNotTranslate} SEC_Oogi_050_LuckyWheel_Reward05	Mission!Secret!OogieBoogie!SEC_Oogi_050_LuckyWheel_Reward05
+31400139	11	{DoNotTranslate} UnwrittenRealmChest	Mission!Village!Maleficient!VLG_Male_010_UnwrittenRealmChest
+31400164	11	{DoNotTranslate}Fishing Treasure Hunt Chest	FishTreasureHunt_Chest
+31400157	11	{DoNotTranslate}Floating Festival Recipe Reward	FloatingFestival!Winter2025!WinterEventChest01
+31400158	11	{DoNotTranslate}Floating Festival Recipe Reward	FloatingFestival!Winter2025!WinterEventChest02
+31400159	11	{DoNotTranslate}Floating Festival Recipe Reward	FloatingFestival!Winter2025!WinterEventChest03
+31400150	11	{DoNotTranslate}Gift_ToMGift01	Christmas!Gift_ToMGift01
+31400151	11	{DoNotTranslate}Gift_ToMGift02	Christmas!Gift_ToMGift02
+31400152	11	{DoNotTranslate}Gift_ToMGift03	Christmas!Gift_ToMGift03
+31400153	11	{DoNotTranslate}Gift_ToMGift04	Christmas!Gift_ToMGift04
+31400154	11	{DoNotTranslate}Gift_ToMGift05	Christmas!Gift_ToMGift05
+31400155	11	{DoNotTranslate}Gift_ToMGift06	Christmas!Gift_ToMGift06
+31400156	11	{DoNotTranslate}Gift_ToMGift07	Christmas!Gift_ToMGift07
+31400234	11	{DoNotTranslate}Halloween Floating Festival Basement Door Reward Chest	FloatingFestival!Halloween!EFI_Halloween_HHBasementDoorChest
+31400233	11	{DoNotTranslate}Halloween Floating Festival Candle Chest	FloatingFestival!Halloween!EFI_Halloween_HHCandleChest
+31400126	11	{DoNotTranslate}MRQS144_PirateTreasure	Mission!Story!MRQS144_PirateTreasure
+31400121	11	{DoNotTranslate}Main Vault Chest	Mission!Realm!Aladdin!RLM_Alad_040_VaultReward
+31400112	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest01
+31400113	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest02
+31400114	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest03
+31400115	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest04
+31400116	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest05
+31400117	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest06
+31400118	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest07
+31400119	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest08
+31400120	11	{DoNotTranslate}Mimic Chest	Mission!Realm!Alice!RLM_AliceIP_MimicChest09
+31400193	11	{DoNotTranslate}Parks Floating Festival Recipe Chest	FloatingFestival!Parks!EFI_Parks_Puzzle2_RecipeChest
+31400167	11	{DoNotTranslate}Spring Floating Festival Maze1 Chest	FloatingFestival!Spring2026!SpringFFMaze1Chest
+31400168	11	{DoNotTranslate}Spring Floating Festival Maze2 Chest.	FloatingFestival!Spring2026!SpringFFMaze2Chest
+31400166	11	{DoNotTranslate}Spring Floating Festival Memory Chest	FloatingFestival!Spring2026!SpringFFMemoryChest01
+31400136	11	{DoNotTranslate}Treasure Hunt Chest	TreasureHunt_Chest
+31400072	11	{Placeholder}Ancient Chest	Mission!Village!VLG_Bell_040_AncientChestHouse
+31400041	11	{Placeholder}Chest	Mission!Realm!RLM_FrozenIP_Anna_010_Chest01
+31400043	11	{Placeholder}Chest	Mission!Realm!RLM_FrozenIP_Anna_010_Chest02
+31400063	11	{Placeholder}Chest	Mission!Realm!RLM_LionKingIP_Nala_010_Chest01
+31400067	11	{Placeholder}Chest	Mission!Realm!RLM_LionKingIP_Nala_010_Chest02
+31400088	11	{Placeholder}Chest	Mission!Realm!RLM_MonsterIncIP_Mike_010_HiddenChest
+31400102	11	{Placeholder}Chest	Mission!Realm!LionKing2!RLM_LionKing2IP_GreenChest
+31400064	11	{Placeholder}Chest 01	Mission!Story!MRQS133_Chest01
+31400065	11	{Placeholder}Chest 02	Mission!Story!MRQS133_Chest02
+31400104	11	{Placeholder}Christmas 2024 Snowman Hatter chest	Christmas!ChristmasEventChest01
+31400078	11	{Placeholder}Crate containing Recipes.	Mission!Expansion01!Secret!Merlin!SEC_E01_Merl_010_BoxRecipes
+31400050	11	{Placeholder}Gift 2022	Christmas!Gift_2022
+31400051	11	{Placeholder}Gift Generic	Christmas!Gift_Generic1
+31400052	11	{Placeholder}Gift Generic	Christmas!Gift_Generic2
+31400053	11	{Placeholder}Gift Generic	Christmas!Gift_Generic3
+31400054	11	{Placeholder}Gift Generic	Christmas!Gift_Generic4
+31400082	11	{Placeholder}Gold Reward.	Mission!Expansion01!Story!MRQS_E01_100_Chest04
+31400081	11	{Placeholder}Large Gold Pile Reward	Mission!Expansion01!Story!MRQS_E01_100_Chest03
+31400080	11	{Placeholder}Medium Gold Pile Reward	Mission!Expansion01!Story!MRQS_E01_100_Chest02
+31400079	11	{Placeholder}Small Gold Pile Reward	Mission!Expansion01!Story!MRQS_E01_100_Chest01
+31400016	11	{Placeholder}Unlocked Time Capsule	Mission!Village!VLG_Dona_020_UnlockedTimeCapsule
+31400017	11	{Placeholder}Unlocked Time Capsule	Mission!Village!VLG_Dona_030_UnlockedTimeCapsule
+31400098	11	{Placeholder}Valley Treasure Chest	Mission!Village!VLG_Timo_030_Treasure01
+31400099	11	{Placeholder}Valley Treasure Chest	Mission!Village!VLG_Timo_030_Treasure02
+31400100	11	{Placeholder}Valley Treasure Chest	Mission!Village!VLG_Timo_030_Treasure03
