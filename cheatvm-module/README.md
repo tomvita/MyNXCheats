@@ -1,7 +1,7 @@
 # Cheat VM module for emulators
 
 Run this repo's cheats in Eden, Lichii and other yuzu-family emulators, with an in-game
-cheat menu. **Version 1.0.**
+cheat menu. **Version 1.2.**
 
 ## Install in three steps
 
@@ -66,6 +66,12 @@ The version is shown on the first line of `cheatvm_log.txt`, at the top of
 `cheatvm_status.txt` and in the menu under the build ID. Give it when you report a
 problem.
 
+- **1.2** (November 22 2026): a cheat's writes into the game's code are made once a
+  pass, with the value the pass ends with. Two cheats that write the same instruction (one
+  changing the other's code cave) no longer rewrite it twice a pass, which on an emulator
+  stopped the game for a moment each time.
+- **1.1** (November 22 2026): code-patch cheats behind a C4 key (the kind Breeze's Make cheat
+  writes) put the game's code back when turned off too.
 - **1.0** (November 2026): the first numbered version. Code-patch cheats made by Breeze
   beta129.02 put the game's code back when turned off, also in games whose code is in
   a loaded module.
