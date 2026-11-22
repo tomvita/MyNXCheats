@@ -66,6 +66,9 @@ The version is shown on the first line of `cheatvm_log.txt`, at the top of
 `cheatvm_status.txt` and in the menu under the build ID. Give it when you report a
 problem.
 
+Every version is also a [release named cheatvm <version>](https://github.com/tomvita/MyNXCheats/releases?q=cheatvm&expanded=true)
+with both zips and its source: if a new version gives you trouble, take the previous one there.
+
 - **1.2** (November 22 2026): a cheat's writes into the game's code are made once a
   pass, with the value the pass ends with. Two cheats that write the same instruction (one
   changing the other's code cave) no longer rewrite it twice a pass, which on an emulator
